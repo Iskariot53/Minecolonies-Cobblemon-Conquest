@@ -1,0 +1,19 @@
+*
+!/.gitignore
+!/.gitattributes
+!/config
+!/defaultconfigs
+!/scripts
+!/README.md
+*.bak
+
+#specifics to ignore
+**config/jecalculation/record.json
+**config/xaerominimap_entities.json
+**/config/fancymenu
+**/config/NoChatReports
+**/config/jei/world
+config/fml.toml
+config/embeddium-options.json
+config/embeddium-fingerprint.json
+config/jei/ingredient-list-mod-sort-order.ini
