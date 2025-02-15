@@ -19,3 +19,4 @@ config/iris.properties
 config/fabric/indigo-renderer.properties
 config/libraryferret_1.properties
 config/bettervillage_1.properties
+config/xaerominimap_entities.json
