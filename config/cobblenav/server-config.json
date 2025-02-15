@@ -1,0 +1,22 @@
+{
+  "hideUnknownPokemon": false,
+  "showPokemonTooltips": true,
+  "showUnknownPokemonTooltips": true,
+  "checkSpawnWidth": 8,
+  "checkSpawnHeight": 16,
+  "searchAreaWidth": 200.0,
+  "searchAreaHeight": 200.0,
+  "pokemonFeatureWeights": {
+    "shiny": 10.0,
+    "perfectIvsRates": {
+      "1": 1.0,
+      "2": 2.0,
+      "3": 3.0,
+      "4": 4.0,
+      "5": 5.0,
+      "6": 6.0
+    },
+    "hiddenAbility": 1.0,
+    "eggMove": 1.0
+  }
+}
