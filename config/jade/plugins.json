@@ -1,7 +1,4 @@
 {
-  "replication": {
-    "matter_tank": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -100,12 +97,12 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
-  "modularrouters": {
-    "router": true
-  },
   "toms_storage": {
     "inventory_config": true,
     "inventory_connector": true
+  },
+  "pipez": {
+    "pipe": true
   },
   "waystones": {
     "waystone": true
@@ -117,6 +114,13 @@
   },
   "corpse": {
     "corpse": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "securitycraft": {
     "showowner": true,

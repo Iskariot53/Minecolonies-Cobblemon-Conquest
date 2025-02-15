@@ -15,3 +15,7 @@
 **/config/jei/world
 config/fml.toml
 config/jei/ingredient-list-mod-sort-order.ini
+config/iris.properties
+config/fabric/indigo-renderer.properties
+config/libraryferret_1.properties
+config/bettervillage_1.properties
