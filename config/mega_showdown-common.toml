@@ -1,0 +1,8 @@
+#Enable multiple megas at one time
+multipleMegas = false
+#Enable mega evolution only for battles
+battleMode = false
+#Makes it so that evolving during battle consumes one turn (Only works if battleMode is enabled)
+megaTurns = false
+#Makes it so you can devolve and evolve the pokemon with mega bracelet in the same hand
+braceletHandSensitive = false
