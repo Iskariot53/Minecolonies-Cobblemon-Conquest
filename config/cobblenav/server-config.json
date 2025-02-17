@@ -1,8 +1,8 @@
 {
-  "hideUnknownPokemon": false,
+  "hideUnknownPokemon": true,
   "showPokemonTooltips": true,
-  "showUnknownPokemonTooltips": true,
-  "checkSpawnWidth": 8,
+  "showUnknownPokemonTooltips": false,
+  "checkSpawnWidth": 14,
   "checkSpawnHeight": 16,
   "searchAreaWidth": 200.0,
   "searchAreaHeight": 200.0,

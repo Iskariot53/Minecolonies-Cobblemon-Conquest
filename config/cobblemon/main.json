@@ -14,7 +14,7 @@
   "maxVerticalCorrectionBlocks": 64,
   "minimumLevelRangeMax": 10,
   "enableSpawning": true,
-  "minimumDistanceBetweenEntities": 8.0,
+  "minimumDistanceBetweenEntities": 14.0,
   "maxNearbyBlocksHorizontalRange": 4,
   "maxNearbyBlocksVerticalRange": 2,
   "maxVerticalSpace": 8,

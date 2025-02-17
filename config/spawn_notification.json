@@ -3,7 +3,7 @@
   "broadcastCoords": true,
   "broadcastBiome": false,
   "playShinySound": true,
-  "playShinySoundPlayer": false,
+  "playShinySoundPlayer": true,
   "announceCrossDimensions": false,
   "broadcastDespawns": false,
   "broadcastVolatileDespawns": false,

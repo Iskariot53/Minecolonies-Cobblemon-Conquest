@@ -15,8 +15,8 @@ caveZoom:1
 showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
-deathpoints:true
-oldDeathpoints:true
+deathpoints:false
+oldDeathpoints:false
 distance:1
 lockNorth:true
 zoom:1
@@ -35,12 +35,12 @@ lighting:true
 dotsStyle:0
 dotNameScale:1.0
 compassOverEverything:true
-showFlowers:true
+showFlowers:false
 keepWaypointNames:true
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
-defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
-defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
+defaultWaypointTPCommandFormat:
+defaultWaypointTPCommandRotationFormat:
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
@@ -55,7 +55,7 @@ hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
 renderLayerIndex:1
-crossDimensionalTp:true
+crossDimensionalTp:false
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180

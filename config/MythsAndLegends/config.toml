@@ -38,9 +38,9 @@ broadcast_settings = [
   { settingName = "DisplayName", settingValue = true },  # If enabled, displays the name of the Pokemon in the broadcast message. Possible values: true, false. Default: true.
   { settingName = "Legendarys", settingValue = true }, # If enabled, broadcasts a message when a legendary Pokemon spawns.  Possible values: true, false. Default: true.
   { settingName = "Mythicals", settingValue = true} , # If enabled, broadcasts a message when a mythical Pokemon spawns.  Possible values: true, false. Default: true.
-  { settingName = "UltraBeasts", settingValue = false }, # If enabled, broadcasts a message when an Ultra Beast spawns.  Possible values: true, false. Default: false.
+  { settingName = "UltraBeasts", settingValue = true }, # If enabled, broadcasts a message when an Ultra Beast spawns.  Possible values: true, false. Default: false.
   { settingName = "Location", settingValue = true }, # If true, includes the location in broadcast messages. Possible values: true, false. Default: true.
-  { settingName = "Shiny", settingValue = false }, # Enables broadcasts about Shiny Status of the Pokemon. Possible values: true, false. Default: false.
+  { settingName = "Shiny", settingValue = true }, # Enables broadcasts about Shiny Status of the Pokemon. Possible values: true, false. Default: false.
   { settingName = "Level", settingValue = true } # When enabled, the level of Pokemon is included in the broadcast. Possible values: true, false. Default: true.
 ]
 

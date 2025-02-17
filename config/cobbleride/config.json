@@ -11,7 +11,7 @@
     "isWaterBreathingShared": true
   },
   "client": {
-    "canDismountInMidair": false,
+    "canDismountInMidair": true,
     "useCameraNavigation": false
   },
   "restrictions": {

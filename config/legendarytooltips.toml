@@ -52,8 +52,8 @@
 	#    Combining selectors - Any number of selectors can be combined by separating them with a plus sign.  Examples: "minecraft:diamond_sword+&enchantments", "minecraft:stick+~!common+&damage>100"
 	[client.definitions]
 		level0_entries = ["!epic", "!rare"]
-		level1_entries = []
-		level2_entries = []
+		level1_entries = ["&enchantments"]
+		level2_entries = ["*"]
 		level3_entries = []
 		level4_entries = []
 		level5_entries = []
