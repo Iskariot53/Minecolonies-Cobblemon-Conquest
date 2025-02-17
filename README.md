@@ -1,6 +1,6 @@
-Cobblemon Colonies
+Minecolonies - Cobblemon Conquest
 ======
-This is the official repository and issue-tracker for Cobblemon Colonies 1.21
+This is the official repository and issue-tracker for Minecolonies - Cobblemon Conquest for Neoforge 1.21
 
 
 Need Help?
