@@ -97,9 +97,21 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
   "toms_storage": {
     "inventory_config": true,
     "inventory_connector": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
   },
   "pipez": {
     "pipe": true
