@@ -4,35 +4,35 @@
       "Poké Balls": [
         {
           "item": "cobblemon:poke_ball",
-          "price": 2000
+          "price": 1000
         },
         {
           "item": "cobblemon:citrine_ball",
-          "price": 2000
+          "price": 1500
         },
         {
           "item": "cobblemon:verdant_ball",
-          "price": 2000
+          "price": 1500
         },
         {
           "item": "cobblemon:azure_ball",
-          "price": 2000
+          "price": 1500
         },
         {
           "item": "cobblemon:roseate_ball",
-          "price": 2000
+          "price": 1500
         },
         {
           "item": "cobblemon:slate_ball",
-          "price": 2000
+          "price": 1500
         },
         {
           "item": "cobblemon:premier_ball",
-          "price": 2000
+          "price": 15000
         },
         {
           "item": "cobblemon:great_ball",
-          "price": 6000
+          "price": 4000
         },
         {
           "item": "cobblemon:ultra_ball",
