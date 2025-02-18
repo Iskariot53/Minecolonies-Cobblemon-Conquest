@@ -176,7 +176,7 @@
 "cobblemon:tinkatuff",
 "cobblemon:tinkaton",
 "cobblemon:palafin",
-"cobblemon:cetitan",
+"cobblemon:cetitan"
 
 
 
