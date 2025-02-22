@@ -1,6 +1,10 @@
 minecraft:creeper
+minecraft:skeleton
+minecraft:wither_skeleton
 minecraft:phantom
 minecraft:zombie
+minecraft:zombie_villager
+minecraft:drowned
 minecraft:spider
 minecraft:enderman
 minecraft:blaze
@@ -12,6 +16,7 @@ minecraft:zoglin
 minecraft:witch
 minecraft:shulker
 minecraft:ghast
+minecraft:stray
 cobblemon:ivysaur
 cobblemon:venusaur
 cobblemon:charmeleon

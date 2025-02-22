@@ -24,7 +24,7 @@
   "maximumSliceDistanceFromPlayer": 64.0,
   "exportSpawnConfig": false,
   "savePokemonToWorld": true,
-  "exportStarterConfig": false,
+  "exportStarterConfig": true,
   "autoUpdateShowdown": true,
   "defaultFleeDistance": 32.0,
   "allowExperienceFromPvP": true,
