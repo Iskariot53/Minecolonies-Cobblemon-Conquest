@@ -1,0 +1,892 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "minecolonies:adventure_token"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:amazonchiefegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:amazonegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:amazonspearmanegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:ancienttome"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:apple_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:baked_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:banner_rally_guards"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:barbarcheregg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:barbarianegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:barbchiefegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:barrel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:bell_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockconstructiontape"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutalchemist"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutarchery"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutbaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutbarracks"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutbarrackstower"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutbeekeeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutblacksmith"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutbuilder"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutchickenherder"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcitizen"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcombatacademy"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcomposter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutconcretemixer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcook"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcowboy"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutcrusher"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutdeliveryman"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutdyer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutenchanter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutfarmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutfield"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutfisherman"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutfletcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutflorist"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutglassblower"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutgraveyard"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutguardtower"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhuthospital"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutkitchen"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutlibrary"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutlumberjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutmechanic"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutminer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutmysticalsite"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutnetherworker"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutplantation"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutplantationfield"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutrabbithutch"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutsawmill"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutschool"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutshepherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutsifter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutsmeltery"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutstonemason"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutstonesmeltery"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutswineherder"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhuttavern"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhuttownhall"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutuniversity"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockhutwarehouse"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockminecoloniesgrave"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockminecoloniesnamedgrave"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockminecoloniesrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockpostbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockstash"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:blockwaypoint"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:borscht"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:bread_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:build_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:butternut_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cabbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cabochis"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cake_batter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cheddar_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cheese_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cheese_ravioli"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:chicken_broth"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:chickpea"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:chiefsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:chorus_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:clipboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:colony_banner"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:compost"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:composted_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:congee"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cooked_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cookie_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:corn_chowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:cornmeal"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:creamcheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:decorationcontroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:drownedpiratearcheregg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:drownedpiratecaptainegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:drownedpirateegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:durum"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:eggdrop_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:eggplant_dolma"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:feta_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:firearrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:fish_dinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:fish_n_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:flatbread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:floodedfarmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:gate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:gate_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:golden_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:hand_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:iron_scimitar"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:kebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:kimchi"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:lamb_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:large_empty_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:large_milk_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:large_soy_milk_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:large_water_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:lembas_scone"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:magicpotion"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:manchet_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:manchet_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:meat_ravioli"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mediumquarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:milky_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mint_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mint_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mintchoco_cheesecake"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mistletoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:muffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:muffin_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mummyarcheregg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mummyegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mushroom_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:mutton_dinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:nether_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:norsemenarcheregg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:norsemenchiefegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:onion"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pasta_plain"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pasta_tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pea_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:peas"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pepper_hummus"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pharaoegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pharaoscepter"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pierogi"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_leggins"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirate_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:piratearcheregg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:piratecaptainegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pirateegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pita_hummus"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:plain_cheesecake"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:plate_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:plate_armor_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:plate_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:plate_armor_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:polenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:potato_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:pottage"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:questlog"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:ramen"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:raw_noodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:raw_pumpkin_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:resourcescroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:rice_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:santa_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scan_analyzer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scepterbeekeeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scepterguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scepterlumberjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scepterpermission"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:schnitzel"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scroll_area_tp"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scroll_buff"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scroll_guard_help"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scroll_highlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:scroll_tp"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:shieldmaidenegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sifter_mesh_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sifter_mesh_flint"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sifter_mesh_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sifter_mesh_string"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:simplequarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:soybean"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:soysauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:spicy_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:spicy_grilled_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:squash_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:steak_dinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:stew_trencher"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:stuffed_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:stuffed_pita"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sugary_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:supplycampdeployer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:supplychestdeployer"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:sushi_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:tacos"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:tofu"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:tortillas"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:veggie_quiche"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:veggie_ravioli"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:veggie_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:yogurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecolonies:yogurt_with_berries"
+		}
+	]
+}

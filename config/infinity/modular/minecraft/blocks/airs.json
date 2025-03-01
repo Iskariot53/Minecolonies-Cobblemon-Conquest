@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "minecraft:cave_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:void_air"
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:dangerousblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:decoblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:freeclimbblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:fungi"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:indestructible"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:mangrove_tree"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:mushrooms_huge"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:orechanceblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:pathblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:protectionexception"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier1blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier2blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier3blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier4blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier5blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tier6blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:tree"
+		},
+		{
+			"weight": 1.0,
+			"key": "#minecolonies:validspawnblocks"
+		}
+	]
+}
