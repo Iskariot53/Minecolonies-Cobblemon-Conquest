@@ -1,0 +1,11 @@
+{
+	"biomes": [
+		"nullscape:crystal_peaks"
+	],
+	"rule": {
+		"result_state": {
+			"Name": "minecraft:blackstone"
+		},
+		"type": "minecraft:block"
+	}
+}

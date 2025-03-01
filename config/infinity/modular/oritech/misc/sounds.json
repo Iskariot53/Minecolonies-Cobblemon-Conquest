@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oritech:cable_moving"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:dynamo"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:furnace_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:grinder_working"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:lava_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:liquid_flow"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:mechanical_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:nuke_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:particle_moving"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:press"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:quadcopter_flying"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:quadcopter_takeoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:reactor_loading"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:reactor_warning"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:saw_working"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:servo_noises"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:short_servo"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:sizzling_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:squish"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:welding1"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:welding2"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:wrench_turn"
+		}
+	]
+}

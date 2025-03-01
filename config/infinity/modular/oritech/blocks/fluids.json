@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "oritech:still_fuel",
+				"Name": "oritech:still_fuel_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "oritech:still_oil",
+				"Name": "oritech:still_oil_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "oritech:still_steam",
+				"Name": "oritech:still_steam_block"
+			}
+		}
+	]
+}

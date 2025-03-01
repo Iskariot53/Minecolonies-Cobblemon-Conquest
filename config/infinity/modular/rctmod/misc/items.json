@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rctmod:trainer_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "rctmod:trainer_spawner"
+		}
+	]
+}

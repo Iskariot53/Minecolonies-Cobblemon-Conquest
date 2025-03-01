@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tmtceic:aluminum_pokeball_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "tmtceic:mold_pokeball_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "tmtceic:netherite_pokeball_frame"
+		}
+	]
+}

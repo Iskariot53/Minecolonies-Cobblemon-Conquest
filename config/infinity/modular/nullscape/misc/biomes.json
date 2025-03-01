@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nullscape:crystal_peaks"
+		},
+		{
+			"weight": 1.0,
+			"key": "nullscape:shadowlands"
+		},
+		{
+			"weight": 1.0,
+			"key": "nullscape:void_barrens"
+		}
+	]
+}

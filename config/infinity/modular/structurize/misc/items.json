@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structurize:blockfluidsubstitution"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:blocksolidsubstitution"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:blocksubstitution"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:blocktagsubstitution"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:caliper"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:sceptergold"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:sceptersteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:sceptertag"
+		},
+		{
+			"weight": 1.0,
+			"key": "structurize:shapetool"
+		}
+	]
+}

@@ -1,0 +1,6788 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_accelerock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_acidarmor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_acidspray"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_acrobatics"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_acupressure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aerialace"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aeroblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_afteryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_agility"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aircutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_airslash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_alluringvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_allyswitch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_amnesia"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_anchorshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ancientpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_appleacid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aquacutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aquajet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aquaring"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aquastep"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aquatail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_armorcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_armthrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aromatherapy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aromaticmist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_assist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_assurance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_astonish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_astralbarrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_attackorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_attract"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aurasphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aurawheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_aurorabeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_auroraveil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_autotomize"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_avalanche"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_axekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_babydolleyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_baddybad"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_banefulbunker"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_barbbarrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_barrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_batonpass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_beakblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_beatup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_behemothbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_behemothblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_belch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bellydrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bestow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bitterblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bittermalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blastburn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blazekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blazingtorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bleakwindstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bloodmoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_blueflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bodypress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bodyslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_boltbeak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_boltstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_boneclub"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bonemerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bonerush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_boomburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bouncybubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_branchpoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bravebird"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_breakingswipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_brickbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_brine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_brutalswing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bubblebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bugbite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bugbuzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bulkup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bulldoze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bulletpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_bulletseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_burningbulwark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_burningjealousy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_burnup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_buzzybuzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_calmmind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_camouflage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_captivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ceaselessedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chargebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chillingwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chillyreception"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chipaway"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_chloroblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_circlethrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_clamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_clangingscales"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_clangoroussoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_clearsmog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_closecombat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_coaching"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_collisioncourse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_combattorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_cometpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_comeuppance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_confide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_confuseray"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_confusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_constrict"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_conversion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_conversion2"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_copycat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_coreenforcer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_corrosivegas"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_cosmicpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_cottonguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_cottonspore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_courtchange"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_covet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crabhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_craftyshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crosschop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crosspoison"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crushclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_crushgrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_curse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_cut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_darkestlariat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_darkpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_darkvoid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dazzlinggleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_decorate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_defendorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_defensecurl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_defog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_destinybond"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_detect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_diamondstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_direclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_disable"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_disarmingvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_discharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dizzypunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doomdesire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doubleedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doublehit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doubleironbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doublekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doubleshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doubleslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_doubleteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dracometeor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonascent"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonbreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragoncheer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragondance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragondarts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonenergy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragonrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dragontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_drainingkiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_drainpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dreameater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_drillpeck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_drillrun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_drumbeating"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dualchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dualwingbeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dynamaxcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_dynamicpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_earthpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_earthquake"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_echoedvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_eerieimpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_eeriespell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_eggbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electricterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electrify"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electrodrift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electroshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_electroweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_embargo"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_encore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_endeavor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_endure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_energyball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_entrainment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_eruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_esperwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_eternabeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_expandingforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_extrasensory"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_extremespeed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_facade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fairylock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fairywind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fakeout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_faketears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_falsesurrender"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_falseswipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_featherdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_feint"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_feintattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fellstinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ficklebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fierydance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fierywrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_filletaway"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_finalgambit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fireblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firefang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firelash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firepledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firepunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firespin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_firstimpression"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fishiousrend"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fissure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flameburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flamecharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flamethrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flamewheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flareblitz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flashcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fleurcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fling"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flipturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_floatyfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_floralhealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flowershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flowertrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_flyingpress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_focusblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_focusenergy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_focuspunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_followme"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_forcepalm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_foresight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_forestscurse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_foulplay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_freezedry"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_freezeshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_freezingglare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_freezyfrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_frenzyplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_frostbreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_frustration"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_furyattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_furycutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_furyswipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fusionbolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_fusionflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_futuresight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gastroacid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_geargrind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gearup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_geomancy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gigadrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gigaimpact"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gigatonhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_glaciallance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_glaciate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_glaiverush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_glare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_glitzyglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grassknot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grasspledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grasswhistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grassyglide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grassyterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gravapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gravity"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_grudge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_guardsplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_guardswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_guillotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gunkshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_gyroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hammerarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_happyhour"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_harden"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hardpress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_haze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_headbutt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_headcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_headlongrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_headsmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_healbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_healblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_healingwish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_healorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_healpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_heartstamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_heartswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_heatcrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_heatwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_heavyslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_helpinghand"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hex"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hiddenpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_highhorsepower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_highjumpkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_holdback"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_holdhands"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_honeclaws"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hornattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_horndrill"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hornleech"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hurricane"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hydrocannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hydropump"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hydrosteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hyperbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hyperdrill"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hyperfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hyperspacefury"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hyperspacehole"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hypervoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_hypnosis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iceball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iceburn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icefang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icehammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icepunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iceshard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icespinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iciclecrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iciclespear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_icywind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_imprison"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_incinerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_infernalparade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_inferno"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_infestation"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ingrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_instruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_iondeluge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_irondefense"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ironhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_irontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ivycudgel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_jawlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_jetpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_judgment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_jumpkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_junglehealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_karatechop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_kinesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_kingsshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_knockoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_kowtowcleave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_landswrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_laserfocus"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lashout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lastresort"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lastrespects"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lavaplume"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leafage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leafblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leafstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leaftornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leechlife"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leechseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_leer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lifedew"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lightofruin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lightscreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_liquidation"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lockon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lovelykiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lowkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lowsweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_luckychant"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_luminacrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lunarblessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lunardance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_lusterpurge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_machpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magicalleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magicaltorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magiccoat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magicpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magicroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magmastorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magnetbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magneticflux"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magnetrise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_magnitude"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_makeitrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_malignantchain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_matblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_matchagotcha"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_meanlook"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_meditate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mefirst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_megadrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_megahorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_megakick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_megapunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_memento"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_metalburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_metalclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_metalsound"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_meteorassault"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_meteorbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_meteormash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_metronome"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mightycleave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_milkdrink"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mimic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mindblown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mindreader"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_minimize"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_miracleeye"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mirrorcoat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mirrormove"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mirrorshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mistball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mistyexplosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mistyterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_moonblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_moongeistbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_moonlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_morningsun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mortalspin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mountaingale"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mudbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_muddywater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mudshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mudslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mudsport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_multiattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mysticalfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_mysticalpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nastyplot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_naturalgift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_naturepower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_naturesmadness"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_needlearm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nightdaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nightmare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nightshade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nightslash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nobleroar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_noretreat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_noxioustorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_nuzzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_oblivionwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_obstruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_octazooka"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_octolock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_odorsleuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ominouswind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_orderup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_originpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_outrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_overdrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_overheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_painsplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_paraboliccharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_partingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_payback"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_payday"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_peck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_perishsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_petalblizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_petaldance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_phantomforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_photongeyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pikapapow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pinmissile"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_plasmafists"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_playnice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_playrough"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pluck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisonfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisongas"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisonjab"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisonpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisonsting"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poisontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pollenpuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poltergeist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_populationbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pound"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powdersnow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powergem"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powershift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powersplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powerswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powertrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powertrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_poweruppunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_powerwhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_precipiceblades"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_present"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_prismaticlaser"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_protect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psybeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psyblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychicfangs"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychicnoise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychicterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychoboost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychocut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychoshift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psychup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psyshieldbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psyshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psystrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_psywave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_punishment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_purify"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pursuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_pyroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_quash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_quickattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_quickguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_quiverdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ragefist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ragepowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ragingbull"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ragingfury"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_raindance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rapidspin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_razorleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_razorshell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_razorwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_recover"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_recycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_reflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_reflecttype"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_refresh"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_relicsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rest"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_retaliate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_return"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_revelationdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_revenge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_reversal"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_revivalblessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_risingvoltage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_roaroftime"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockclimb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockpolish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockslide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rocksmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rocktomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rockwrecker"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_roleplay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rollingkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rollout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_roost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_rototiller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_ruination"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sacredfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sacredsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_safeguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_saltcure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sandattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sandsearstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sandstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sandtomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sappyseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_scald"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_scaleshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_scaryface"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_scorchingsands"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_scratch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_screech"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_searingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_secretpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_secretsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_seedbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_seedflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_seismictoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_selfdestruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowbone"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shadowsneak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sharpen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shedtail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sheercold"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shellsidearm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shellsmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shelltrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shelter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shiftgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_shoreup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_signalbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_silktrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_silverwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_simplebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sizzlyslide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sketch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skillswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skittersmack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skullbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skyattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skydrop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_skyuppercut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_slackoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sleeppowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sleeptalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sludgebomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sludgewave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_smackdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_smartstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_smellingsalts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_smog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_smokescreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snaptrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snarl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snipeshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_snowscape"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_soak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_softboiled"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_solarbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_solarblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sonicboom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spacialrend"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sparklingaria"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sparklyswirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spectralthief"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_speedswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spicyextract"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spiderweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spikecannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spikyshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spinout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spiritbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spiritshackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spitup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_splishysplash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_spotlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_springtidestorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stealthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_steameruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_steamroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_steelbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_steelroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_steelwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stickyweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stockpile"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stompingtantrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stoneaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stoneedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_storedpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stormthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_strangesteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_strengthsap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stringshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_struggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_strugglebug"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stuffcheeks"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_stunspore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_submission"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_substitute"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_suckerpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sunnyday"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sunsteelstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_supercellslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_superfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_superpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_supersonic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_surf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_surgingstrikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_swagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_swallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sweetkiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_sweetscent"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_swift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_switcheroo"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_swordsdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_synchronoise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_synthesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_syrupbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tachyoncutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tailglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tailslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tailwhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tailwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_takedown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_takeheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tarshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_taunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tearfullook"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_teatime"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_technoblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_teeterdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_telekinesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_temperflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_terablast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_terastarstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_terrainpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thief"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thousandarrows"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thousandwaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_throatchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderbolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thundercage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderclap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderouskick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thundershock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_thunderwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tidyup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_topsyturvy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_torchsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_torment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_toxic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_toxicspikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_toxicthread"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_trailblaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_triattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_trick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_trickortreat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_trickroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_triplearrows"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tripleaxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tripledive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_triplekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_tropkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_trumpcard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_twinbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_twineedle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_twister"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_upperhand"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_uproar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_uturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_vacuumwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_vcreate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_veeveevolley"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_venomdrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_venoshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_victorydance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_vinewhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_visegrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_vitalthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_voltswitch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_volttackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wakeupslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_waterfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_watergun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_waterpledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_waterpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_watershuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_watersport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_waterspout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wavecrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_weatherball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_whirlpool"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_whirlwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wickedblow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wickedtorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wideguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wildboltstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wildcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_willowisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wingattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_withdraw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wonderroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_woodhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_workup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_worryseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_wringout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_xscissor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_yawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_zapcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_zenheadbutt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_zingzap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tm_zippyzap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_accelerock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_acidarmor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_acidspray"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_acrobatics"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_acupressure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aerialace"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aeroblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_afteryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_agility"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aircutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_airslash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_alluringvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_allyswitch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_amnesia"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_anchorshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ancientpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_appleacid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aquacutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aquajet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aquaring"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aquastep"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aquatail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_armorcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_armthrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aromatherapy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aromaticmist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_assist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_assurance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_astonish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_astralbarrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_attackorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_attract"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aurasphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aurawheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_aurorabeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_auroraveil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_autotomize"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_avalanche"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_axekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_babydolleyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_baddybad"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_banefulbunker"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_barbbarrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_barrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_batonpass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_beakblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_beatup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_behemothbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_behemothblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_belch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bellydrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bestow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bitterblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bittermalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blastburn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blazekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blazingtorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bleakwindstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bloodmoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_blueflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bodypress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bodyslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_boltbeak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_boltstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_boneclub"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bonemerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bonerush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_boomburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bouncybubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_branchpoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bravebird"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_breakingswipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_brickbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_brine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_brutalswing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bubblebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bugbite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bugbuzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bulkup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bulldoze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bulletpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_bulletseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_burningbulwark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_burningjealousy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_burnup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_buzzybuzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_calmmind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_camouflage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_captivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ceaselessedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chargebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chillingwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chillyreception"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chipaway"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_chloroblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_circlethrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_clamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_clangingscales"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_clangoroussoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_clearsmog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_closecombat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_coaching"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_collisioncourse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_combattorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_cometpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_comeuppance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_confide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_confuseray"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_confusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_constrict"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_conversion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_conversion2"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_copycat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_coreenforcer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_corrosivegas"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_cosmicpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_cottonguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_cottonspore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_courtchange"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_covet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crabhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_craftyshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crosschop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crosspoison"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crushclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_crushgrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_curse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_cut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_darkestlariat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_darkpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_darkvoid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dazzlinggleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_decorate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_defendorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_defensecurl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_defog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_destinybond"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_detect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_diamondstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_direclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_disable"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_disarmingvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_discharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dizzypunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doomdesire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doubleedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doublehit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doubleironbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doublekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doubleshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doubleslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_doubleteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dracometeor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonascent"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonbreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragoncheer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragondance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragondarts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonenergy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragonrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dragontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_drainingkiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_drainpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dreameater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_drillpeck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_drillrun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_drumbeating"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dualchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dualwingbeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dynamaxcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_dynamicpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_earthpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_earthquake"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_echoedvoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_eerieimpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_eeriespell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_eggbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electricterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electrify"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electrodrift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electroshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_electroweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_embargo"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_encore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_endeavor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_endure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_energyball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_entrainment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_eruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_esperwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_eternabeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_expandingforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_extrasensory"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_extremespeed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_facade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fairylock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fairywind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fakeout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_faketears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_falsesurrender"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_falseswipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_featherdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_feint"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_feintattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fellstinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ficklebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fierydance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fierywrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_filletaway"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_finalgambit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fireblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firefang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firelash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firepledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firepunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firespin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_firstimpression"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fishiousrend"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fissure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flameburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flamecharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flamethrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flamewheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flareblitz"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flashcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fleurcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fling"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flipturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_floatyfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_floralhealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flowershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flowertrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_flyingpress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_focusblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_focusenergy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_focuspunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_followme"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_forcepalm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_foresight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_forestscurse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_foulplay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_freezedry"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_freezeshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_freezingglare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_freezyfrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_frenzyplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_frostbreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_frustration"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_furyattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_furycutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_furyswipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fusionbolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_fusionflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_futuresight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gastroacid"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_geargrind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gearup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_geomancy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gigadrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gigaimpact"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gigatonhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_glaciallance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_glaciate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_glaiverush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_glare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_glitzyglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grassknot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grasspledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grasswhistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grassyglide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grassyterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gravapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gravity"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_grudge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_guardsplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_guardswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_guillotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gunkshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_gyroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hammerarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_happyhour"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_harden"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hardpress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_haze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_headbutt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_headcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_headlongrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_headsmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_healbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_healblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_healingwish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_healorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_healpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_heartstamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_heartswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_heatcrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_heatwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_heavyslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_helpinghand"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hex"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hiddenpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_highhorsepower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_highjumpkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_holdback"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_holdhands"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_honeclaws"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hornattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_horndrill"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hornleech"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hurricane"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hydrocannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hydropump"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hydrosteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hyperbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hyperdrill"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hyperfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hyperspacefury"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hyperspacehole"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hypervoice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_hypnosis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iceball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iceburn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icefang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icehammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icepunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iceshard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icespinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iciclecrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iciclespear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_icywind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_imprison"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_incinerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_infernalparade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_inferno"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_infestation"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ingrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_instruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_iondeluge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_irondefense"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ironhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_irontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ivycudgel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_jawlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_jetpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_judgment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_jumpkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_junglehealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_karatechop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_kinesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_kingsshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_knockoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_kowtowcleave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_landswrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_laserfocus"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lashout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lastresort"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lastrespects"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lavaplume"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leafage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leafblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leafstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leaftornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leechlife"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leechseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_leer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lifedew"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lightofruin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lightscreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_liquidation"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lockon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lovelykiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lowkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lowsweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_luckychant"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_luminacrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lunarblessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lunardance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_lusterpurge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_machpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magicalleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magicaltorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magiccoat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magicpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magicroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magmastorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magnetbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magneticflux"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magnetrise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_magnitude"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_makeitrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_malignantchain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_matblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_matchagotcha"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_meanlook"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_meditate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mefirst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_megadrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_megahorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_megakick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_megapunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_memento"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_metalburst"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_metalclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_metalsound"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_meteorassault"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_meteorbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_meteormash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_metronome"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mightycleave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_milkdrink"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mimic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mindblown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mindreader"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_minimize"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_miracleeye"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mirrorcoat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mirrormove"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mirrorshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mistball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mistyexplosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mistyterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_moonblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_moongeistbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_moonlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_morningsun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mortalspin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mountaingale"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mudbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_muddywater"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mudshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mudslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mudsport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_multiattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mysticalfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_mysticalpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nastyplot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_naturalgift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_naturepower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_naturesmadness"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_needlearm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nightdaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nightmare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nightshade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nightslash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nobleroar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_noretreat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_noxioustorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_nuzzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_oblivionwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_obstruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_octazooka"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_octolock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_odorsleuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ominouswind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_orderup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_originpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_outrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_overdrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_overheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_painsplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_paraboliccharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_partingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_payback"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_payday"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_peck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_perishsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_petalblizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_petaldance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_phantomforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_photongeyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pikapapow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pinmissile"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_plasmafists"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_playnice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_playrough"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pluck"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisonfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisongas"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisonjab"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisonpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisonsting"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poisontail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pollenpuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poltergeist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_populationbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pound"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powdersnow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powergem"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powershift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powersplit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powerswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powertrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powertrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_poweruppunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_powerwhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_precipiceblades"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_present"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_prismaticlaser"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_protect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psybeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psyblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychicfangs"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychicnoise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychicterrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychoboost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychocut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychoshift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psychup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psyshieldbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psyshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psystrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_psywave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_punishment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_purify"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pursuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_pyroball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_quash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_quickattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_quickguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_quiverdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ragefist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ragepowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ragingbull"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ragingfury"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_raindance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rapidspin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_razorleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_razorshell"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_razorwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_recover"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_recycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_reflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_reflecttype"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_refresh"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_relicsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rest"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_retaliate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_return"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_revelationdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_revenge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_reversal"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_revivalblessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_risingvoltage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_roaroftime"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockclimb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockpolish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockslide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rocksmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rocktomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rockwrecker"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_roleplay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rollingkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rollout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_roost"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_rototiller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_ruination"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sacredfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sacredsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_safeguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_saltcure"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sandattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sandsearstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sandstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sandtomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sappyseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_scald"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_scaleshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_scaryface"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_scorchingsands"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_scratch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_screech"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_searingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_secretpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_secretsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_seedbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_seedflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_seismictoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_selfdestruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowbone"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowforce"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shadowsneak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sharpen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shedtail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sheercold"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shellsidearm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shellsmash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shelltrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shelter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shiftgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_shoreup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_signalbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_silktrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_silverwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_simplebeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sizzlyslide"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sketch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skillswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skittersmack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skullbash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skyattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skydrop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_skyuppercut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_slackoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sleeppowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sleeptalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sludgebomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sludgewave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_smackdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_smartstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_smellingsalts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_smog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_smokescreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snaptrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snarl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snipeshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_snowscape"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_soak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_softboiled"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_solarbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_solarblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sonicboom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spacialrend"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sparklingaria"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sparklyswirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spectralthief"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_speedswap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spicyextract"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spiderweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spikecannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spikyshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spinout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spiritbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spiritshackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spitup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_splishysplash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_spotlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_springtidestorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stealthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_steameruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_steamroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_steelbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_steelroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_steelwing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stickyweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stockpile"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stompingtantrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stoneaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stoneedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_storedpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stormthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_strangesteam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_strengthsap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stringshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_struggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_strugglebug"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stuffcheeks"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_stunspore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_submission"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_substitute"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_suckerpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sunnyday"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sunsteelstrike"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_supercellslam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_superfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_superpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_supersonic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_surf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_surgingstrikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_swagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_swallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sweetkiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_sweetscent"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_swift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_switcheroo"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_swordsdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_synchronoise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_synthesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_syrupbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tachyoncutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tailglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tailslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tailwhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tailwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_takedown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_takeheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tarshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_taunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tearfullook"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_teatime"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_technoblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_teeterdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_telekinesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_temperflare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_terablast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_terastarstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_terrainpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thief"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thousandarrows"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thousandwaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_throatchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderbolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thundercage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderclap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderouskick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderpunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thundershock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_thunderwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tidyup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_topsyturvy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_torchsong"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_torment"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_toxic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_toxicspikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_toxicthread"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_trailblaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_triattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_trick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_trickortreat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_trickroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_triplearrows"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tripleaxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tripledive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_triplekick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_tropkick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_trumpcard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_twinbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_twineedle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_twister"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_upperhand"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_uproar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_uturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_vacuumwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_vcreate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_veeveevolley"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_venomdrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_venoshock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_victorydance"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_vinewhip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_visegrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_vitalthrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_voltswitch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_volttackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wakeupslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_waterfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_watergun"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_waterpledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_waterpulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_watershuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_watersport"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_waterspout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wavecrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_weatherball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_whirlpool"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_whirlwind"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wickedblow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wickedtorque"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wideguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wildboltstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wildcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_willowisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wingattack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_withdraw"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wonderroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_woodhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_workup"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_worryseed"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_wringout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_xscissor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_yawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_zapcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_zenheadbutt"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_zingzap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:tr_zippyzap"
+		}
+	]
+}

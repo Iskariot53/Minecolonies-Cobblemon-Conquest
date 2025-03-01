@@ -1,0 +1,2676 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "securitycraft:acacia_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:admin_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:alarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:ancient_debris_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:bamboo_security_sea_raft"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:birch_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:blacklist_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:blast_furnace_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:block_change_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:block_pocket_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:block_pocket_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:bouncing_betty"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:briefcase"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:bucket_f_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:bucket_f_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:cage_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:camera_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:cherry_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:chiseled_crystal_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:coal_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:cobbled_deepslate_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:cobblestone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:codebreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:copper_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:dark_oak_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_coal_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_copper_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_diamond_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_emerald_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_gold_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_iron_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_lapis_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_redstone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:diamond_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:dirt_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:disguise_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:display_case"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:door_indestructible_iron_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:electrified_iron_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:emerald_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:end_stone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:floor_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:furnace_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:gilded_blackstone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:glow_display_case"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:gold_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:gravel_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:harming_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:ims"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:inventory_scanner"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:iron_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:jungle_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_holder"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lv1"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lv2"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lv3"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lv4"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lv5"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keycard_reader"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_blast_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_smoker"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:keypad_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:lapis_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:laser_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:limited_use_keycard"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:mangrove_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:motion_activated_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:nether_gold_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:netherrack_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:oak_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:panic_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:portable_radar"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:portable_tune_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:protecto"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:quartz_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:redstone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:redstone_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_crystal_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_polished_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_deepslate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_polished_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crying_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dripstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_grass_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_hardened_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lectern"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mycelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_wart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_netherite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_normal_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ochre_froglight"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_packed_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_packed_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pearlescent_froglight"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_rooted_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_scaffolding"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sea_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_shroomlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_snow_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sticky_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_acacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_acacia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_bamboo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_birch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_cherry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_cherry_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_crimson_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_crimson_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_dark_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_dark_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_jungle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_jungle_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_mangrove_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_spruce_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_spruce_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_warped_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_warped_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tinted_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_verdant_froglight"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_wart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:remote_access_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:remote_access_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:retinal_scanner"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:rift_stabilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:sand_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:sc_manual"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:scanner_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:scanner_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_oak_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_sign_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:secure_redstone_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:security_camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:smart_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:smoker_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:sonic_security_system"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:speed_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:spruce_security_sea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:stone_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:storage_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:suspicious_gravel_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:suspicious_sand_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:taser"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:taser_powered"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:track_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:trophy_system"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_block_modifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_block_reinforcer_lvl1"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_block_reinforcer_lvl2"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_block_reinforcer_lvl3"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_block_remover"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_key_changer"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:universal_owner_changer"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:username_logger"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:whitelist_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:wire_cutters"
+		}
+	]
+}

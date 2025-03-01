@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "securitycraft:alarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:camerasnap"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:camerazoomin"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:display_case_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:display_case_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:electrified"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:get_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:ping"
+		},
+		{
+			"weight": 1.0,
+			"key": "securitycraft:taserfire"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "sophisticatedcore:xp_still",
+				"Name": "minecraft:air"
+			}
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "productivebees:white_petrified_honey"
+				},
+				{
+					"Name": "productivebees:light_gray_petrified_honey"
+				},
+				{
+					"Name": "productivebees:gray_petrified_honey"
+				},
+				{
+					"Name": "productivebees:black_petrified_honey"
+				},
+				{
+					"Name": "productivebees:brown_petrified_honey"
+				},
+				{
+					"Name": "productivebees:red_petrified_honey"
+				},
+				{
+					"Name": "productivebees:orange_petrified_honey"
+				},
+				{
+					"Name": "productivebees:yellow_petrified_honey"
+				},
+				{
+					"Name": "productivebees:lime_petrified_honey"
+				},
+				{
+					"Name": "productivebees:green_petrified_honey"
+				},
+				{
+					"Name": "productivebees:light_blue_petrified_honey"
+				},
+				{
+					"Name": "productivebees:blue_petrified_honey"
+				},
+				{
+					"Name": "productivebees:cyan_petrified_honey"
+				},
+				{
+					"Name": "productivebees:purple_petrified_honey"
+				},
+				{
+					"Name": "productivebees:magenta_petrified_honey"
+				},
+				{
+					"Name": "productivebees:pink_petrified_honey"
+				}
+			]
+		}
+	]
+}

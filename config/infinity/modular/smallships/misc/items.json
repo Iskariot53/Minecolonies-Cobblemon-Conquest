@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "smallships:acacia_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:acacia_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:acacia_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:acacia_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:aether_skyroot_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:aether_skyroot_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:aether_skyroot_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:aether_skyroot_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:bamboo_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:bamboo_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:bamboo_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:bamboo_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:birch_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:birch_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:birch_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:birch_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cannon_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cherry_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cherry_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cherry_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:cherry_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:dark_oak_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:dark_oak_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:dark_oak_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:dark_oak_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:jungle_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:jungle_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:jungle_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:jungle_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:mangrove_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:mangrove_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:mangrove_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:mangrove_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:oak_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:oak_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:oak_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:oak_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:spruce_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:spruce_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:spruce_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:spruce_galley"
+		}
+	]
+}

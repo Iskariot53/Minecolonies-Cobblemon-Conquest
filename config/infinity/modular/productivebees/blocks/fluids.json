@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "productivebees:honey",
+				"Name": "productivebees:honey"
+			}
+		}
+	]
+}
