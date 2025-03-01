@@ -168,9 +168,9 @@
 	#The last position the Side Config window was in when it was closed, and whether it was pinned.
 	[window.side_config]
 		#The x component of this window's last position.
-		x = -186
+		x = -240
 		#The y component of this window's last position.
-		y = 18
+		y = -36
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = true
 
@@ -186,8 +186,8 @@
 	#The last position the Upgrade window was in when it was closed, and whether it was pinned.
 	[window.upgrade]
 		#The x component of this window's last position.
-		x = -11
+		x = -260
 		#The y component of this window's last position.
-		y = 15
+		y = 102
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
-		pinned = false
+		pinned = true

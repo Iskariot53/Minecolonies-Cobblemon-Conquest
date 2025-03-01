@@ -1,8 +1,10 @@
 #Enable multiple megas at one time
 multipleMegas = false
+#Allows you to have outside megas but they devolve on battle and then you can have battle mode style theme
+battleMode = true
 #Enable mega evolution only for battles
-battleMode = false
-#Makes it so that evolving during battle consumes one turn (Only works if battleMode is enabled)
-megaTurns = false
-#Makes it so you can devolve and evolve the pokemon with mega bracelet in the same hand
-braceletHandSensitive = false
+battleModeOnly = false
+#Allows you to have multiple primals in your team
+multiplePrimals = true
+#Allows you to have both the mega btn and allows u to carry your mega's into the battle, battleMode should be false for this
+scuffedMode = false

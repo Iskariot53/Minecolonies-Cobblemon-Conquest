@@ -200,11 +200,11 @@
       "Exp": [
         {
           "item": "cobblemon:exp_candy_xs",
-          "price": 500
+          "price": 2500
         },
         {
           "item": "cobblemon:exp_candy_s",
-          "price": 4000
+          "price": 6000
         },
         {
           "item": "cobblemon:exp_candy_m",
@@ -225,6 +225,30 @@
         {
           "item": "cobblemon:exp_share",
           "price": 250000
+        },
+        {
+          "item": "cobblemon:health_feather",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:muscle_feather",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:resist_feather",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:genius_feather",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:clever_feather",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:swift_feather",
+          "price": 2000
         }
       ]
     }

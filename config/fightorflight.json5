@@ -2,7 +2,7 @@
 	// Do more aggressive Pokemon fight back when provoked?
 	"do_pokemon_attack": true,
 	// Do especially aggressive Pokemon attack unprovoked?
-	"do_pokemon_attack_unprovoked": false,
+	"do_pokemon_attack_unprovoked": true,
 	// Do aggro Pokemon attack their targets even if they're in the middle of a battles?
 	"do_pokemon_attack_in_battle": false,
 	// The minimum level a Pokemon needs to be to fight back when provoked.
@@ -10,7 +10,7 @@
 	// The minimum level a Pokemon needs to be to attack unprovoked.
 	"minimum_attack_unprovoked_level": 10,
 	// The multiplier used to calculate the wild Pokemon's aggression,lower value can make the high level Pokemon less aggressive.
-	"aggression_level_multiplier": 1.0,
+	"aggression_level_multiplier": 0.20000000298023224,
 	// Are Dark types more aggressive at or below light level 7 and less aggressive at or above light level 12?
 	"dark_light_level_aggro": true,
 	// Are Ghost types more aggressive at or below light level 7 and less aggressive at or above light level 12?
@@ -124,7 +124,7 @@
 	// The minimum damage wild pokemon could do on hit
 	"minimum_attack_damage": 1.0,
 	// The maximum damage wild pokemon could do on hit
-	"maximum_attack_damage": 50.0,
+	"maximum_attack_damage": 35.0,
 	// Minimum damage multiplier player-owned pokemon would do
 	"minimum_attack_damage_player": 1.2000000476837158,
 	// Damage multiplier player-owned pokemon would do

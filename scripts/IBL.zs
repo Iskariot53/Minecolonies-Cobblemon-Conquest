@@ -1,7 +1,7 @@
-craftingTable.remove(<item:brendonbottlecaps:atksilvercap>);
-craftingTable.remove(<item:brendonbottlecaps:spatksilvercap>);
-craftingTable.remove(<item:brendonbottlecaps:spdefsilvercap>);
-craftingTable.remove(<item:brendonbottlecaps:speedsilvercap>);
-craftingTable.remove(<item:brendonbottlecaps:defsilvercap>);
-craftingTable.remove(<item:brendonbottlecaps:hpsilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:atksilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:spatksilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:spdefsilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:speedsilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:defsilvercap>);
+craftingTable.remove(<item:brendons_bottlecaps:hpsilvercap>);
 craftingTable.remove(<item:cobblemon:exp_share>);

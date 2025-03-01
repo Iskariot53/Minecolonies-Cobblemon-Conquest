@@ -1,3 +1,13 @@
+minecraft:horse
+minecraft:cow
+minecraft:pig
+minecraft:sheep
+minecraft:cod
+minecraft:salmon
+minecraft:chicken
+minecraft:fox
+minecraft:tropical_fish
+minecraft:axolotl
 minecraft:creeper
 minecraft:skeleton
 minecraft:wither_skeleton
@@ -6,6 +16,7 @@ minecraft:zombie
 minecraft:zombie_villager
 minecraft:drowned
 minecraft:spider
+minecraft:cave_spider
 minecraft:enderman
 minecraft:blaze
 minecraft:piglin

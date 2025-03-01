@@ -1,6 +1,6 @@
 [villager]
 	#If villagers should be able to be picked up by sneaking and right-clicking
-	sneak_pick_up = true
+	sneak_pick_up = false
 	#The volume of every villager related sound in this mod
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
