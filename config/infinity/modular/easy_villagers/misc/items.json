@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:auto_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:breeder"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:converter"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:farmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:incubator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:inventory_viewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:iron_farm"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_villagers:villager"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "fightorflight:oran_lucky_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fightorflight:pokestaff"
+		}
+	]
+}

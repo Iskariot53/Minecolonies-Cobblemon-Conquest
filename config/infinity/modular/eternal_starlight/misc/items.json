@@ -1,0 +1,3028 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_magma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_bottoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_cape"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aetherstrike_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:air_sac_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:air_sac_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:air_sac_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:alchemist_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:alchemist_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_grass_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amethysia_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ashen_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ashen_snowball"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:astral_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:atalphaite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:atalphaite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:atalphaite_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aureate_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aurora_deer_antler"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aurora_deer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aurora_deer_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:black_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:black_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blaze_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blazing_atalphaite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_blue_starlight_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_red_starlight_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_shadegrieve"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blossom_of_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystalfleur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystalfleur_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystallized_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:boarwarf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bonemore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:book"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bow_of_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:broken_doomeden_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brown_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brown_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:budding_thioquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:carved_lunaris_cactus_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chain_of_souls"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:charged_chiseled_polished_doomeden_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_flare_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_golem_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_nebulaite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_abysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_cryobysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_doomeden_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_thermabysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_radianite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_springstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_tooth_of_hunger_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_twilight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:circulush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:conebloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_aurora_deer_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_luminaris"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_luminofish"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_ratlin_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_shadow_snail_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cooked_tower_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crescent_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crescent_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crest_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:creteor_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:creteor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobyssal_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobyssal_magma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystal_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_lunar_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_moth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cyan_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cyan_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dagger_of_hunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_lunar_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:desert_amethysia"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomed_redstone_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomed_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_carrion"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_keyhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_rag"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eclipse_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:enchanted_grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:energy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:energy_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_atalphaite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_saltpeter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ether_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eye_of_doom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantabud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantafern"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantagrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantasy_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantasy_grass_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flesh_grinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:forge_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:freeze_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:frozen_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:frozen_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gladespike"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gleech_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gleech_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glimmerfly_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gloreed"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_crescent_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_lunar_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_lunar_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mossy_dusted_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_night_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_nightfall_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_parasol_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowlis"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_jet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gray_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gray_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantabud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantafern"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantagrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_atalphaite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_saltpeter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_fantagrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_atalphaite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_saltpeter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_chest_raft"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_raft"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jingling_pickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:keeper_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_blue_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_blue_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_gray_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_gray_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lime_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lime_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:living_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lonestar_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:loot_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lumenstem"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminaris"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminaris_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminaris_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminis"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminofish"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminofish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminofish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_monstrosity_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_reed"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_fruit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_gel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:magenta_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:magenta_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mana_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mana_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:marimold"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mauve_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mechanical_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_duckweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonring_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonring_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mossy_dusted_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:muddy_starlight_mangrove_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_atlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_brisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_dusk_o_ereyesterday"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_posterity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_profundity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_sacred_desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_the_thorny_reign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_tranquility"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc_whisper_of_the_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:night_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_dirt_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_spider_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfan_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_scarlet_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orb_of_prophecy"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbflora"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbflora_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_chiseled_golem_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_jet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:packed_nightfall_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:parasol_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:petal_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_rose_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_scarlet_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:rage_of_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ratlin_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ratlin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_aethersent"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_aethersent_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_amaramber"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_amaramber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystalfleur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystalfleur_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystallized_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_scarlet_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss_villi"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:redstone_doomeden_keyhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:rotten_ham"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:saltpeter_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:saltpeter_matchbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:saltpeter_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_leaves_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sea_rosa"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:seeking_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadegrieve"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadow_snail_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadow_snail_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadow_snail_shell_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadow_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shattered_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shattered_sword_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shimmer_lacewing_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shivering_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:small_glowing_night_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:small_night_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sonar_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:soulit_spectator"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spiral_kelp"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfall_longbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_golem_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_mangrove_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_seagrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_silver_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_torchflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_painting"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellafly_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellar_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stonett"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_jinglestem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_jinglestem_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_lunar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_northland_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_northland_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_scarlet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_scarlet_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_starlight_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_starlight_mangrove_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_torreya_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_torreya_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sunset_thornbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_silver_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_crescent_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_gladespike"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_glowing_crescent_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_hatred_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_hatred_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_skull_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tenacious_nightfall_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tenacious_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tenacious_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:terra_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_gatekeeper_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabyssal_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabyssal_magma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabysslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thioquartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thioquartz_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thioquartz_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thirst_walker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tiny_creteor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_campfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tower_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tower_squid_air_sac"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tower_squid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tower_squid_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tower_squid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:trapped_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_gaze_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilvewyrm_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twining_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:velvetumoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:velvetumoss_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:velvetumoss_villi"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:vividstalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_atalphaite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_saltpeter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voracious_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wand_of_teleportation"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:water_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:whisperbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:white_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:white_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wick_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wilted_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wind_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:withered_desert_amethysia"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:withered_starlight_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yellow_yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yellow_yeti_fur_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yeti_spawn_egg"
+		}
+	]
+}

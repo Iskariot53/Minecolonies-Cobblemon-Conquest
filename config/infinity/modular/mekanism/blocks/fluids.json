@@ -1,0 +1,130 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:brine",
+				"Name": "mekanism:brine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:chlorine",
+				"Name": "mekanism:chlorine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:ethene",
+				"Name": "mekanism:ethene"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:heavy_water",
+				"Name": "mekanism:heavy_water"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:hydrofluoric_acid",
+				"Name": "mekanism:hydrofluoric_acid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:hydrogen",
+				"Name": "mekanism:hydrogen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:hydrogen_chloride",
+				"Name": "mekanism:hydrogen_chloride"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:lithium",
+				"Name": "mekanism:lithium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:nutritional_paste",
+				"Name": "mekanism:nutritional_paste"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:oxygen",
+				"Name": "mekanism:oxygen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:sodium",
+				"Name": "mekanism:sodium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:steam",
+				"Name": "mekanism:steam"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:sulfur_dioxide",
+				"Name": "mekanism:sulfur_dioxide"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:sulfur_trioxide",
+				"Name": "mekanism:sulfur_trioxide"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:sulfuric_acid",
+				"Name": "mekanism:sulfuric_acid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:superheated_sodium",
+				"Name": "mekanism:superheated_sodium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:uranium_hexafluoride",
+				"Name": "mekanism:uranium_hexafluoride"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "mekanism:uranium_oxide",
+				"Name": "mekanism:uranium_oxide"
+			}
+		}
+	]
+}

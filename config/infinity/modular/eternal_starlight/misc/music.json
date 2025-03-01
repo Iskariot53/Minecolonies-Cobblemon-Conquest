@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.crystallized_desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.dark_swamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.scarlet_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.starlight_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.starlight_permafrost_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.starlit_sea"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.the_abyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.biome.torreya_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.boss.common"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.boss.gatekeeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.boss.lunar_monstrosity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.boss.starlight_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music.dimension"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.atlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.brisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.dusk_o_ereyesterday"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.posterity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.profundity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.sacred_desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.the_thorny_reign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.tranquility"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:music_disc.whisper_of_the_stars"
+		}
+	]
+}

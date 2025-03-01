@@ -1,0 +1,284 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "glassential:black_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:black_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:blue_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:blue_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:brown_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:brown_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:cyan_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:cyan_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:dark_ethereal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:dark_ethereal_reverse_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:dark_ethereal_reverse_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:dark_ethereal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ethereal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ethereal_reverse_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ethereal_reverse_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ethereal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ghostly_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:ghostly_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_dark_ethereal"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_dark_ethereal_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_dark_ethereal_reverse"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_dark_ethereal_reverse_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ethereal"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ethereal_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ethereal_reverse"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ethereal_reverse_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ghostly"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_ghostly_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_light_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_redstone_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:gray_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:gray_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:green_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:green_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_blue_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_blue_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_gray_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_gray_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:light_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:lime_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:lime_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:magenta_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:magenta_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:obsidian_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:obsidian_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:obsidian_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:orange_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:orange_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:pink_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:pink_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:purple_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:purple_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:red_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:red_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:redstone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:redstone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:sandstone_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:stone_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:tinted_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:tinted_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:white_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:white_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:yellow_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "glassential:yellow_glass_trapdoor"
+		}
+	]
+}

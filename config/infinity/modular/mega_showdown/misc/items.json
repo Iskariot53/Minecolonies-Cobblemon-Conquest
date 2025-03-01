@@ -1,0 +1,524 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:abomasite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:abomasite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:absolite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:absolite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:aerodactylite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:aerodactylite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:aggronite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:aggronite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:alakazite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:alakazite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:altarianite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:altarianite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:ampharosite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:ampharosite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:archie_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:audinite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:audinite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:banettite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:banettite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:beedrillite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:beedrillite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:blastoisinite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:blastoisinite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:blazikenite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:blazikenite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:blueorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:brendan_mega_cuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:cameruptite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:cameruptite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:charizardite_x"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:charizardite_x_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:charizardite_y"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:charizardite_y_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:chiseled_mega_evo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:chiseled_mega_evo_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:diancite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:diancite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:galladite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:galladite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:garchompite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:garchompite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gardevoirite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gardevoirite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gengarite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gengarite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:glalitite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:glalitite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gyaradosite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:gyaradosite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:heracronite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:heracronite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:houndoominite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:houndoominite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:kangaskhanite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:kangaskhanite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:keystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:keystone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:keystone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:korrina_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:latiasite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:latiasite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:latiosite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:latiosite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lopunnite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lopunnite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lucarionite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lucarionite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lysandre_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:manectite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:manectite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mawilite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mawilite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:maxie_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:medichamite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:medichamite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_evo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_evo_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_dawn_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_dusk_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_fire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_ice_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_leaf_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_moon_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_shiny_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_sun_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_thunder_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_meteorid_water_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mega_stone_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megabracelet_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:megaring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:metagrossite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:metagrossite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mewtwonite_x"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mewtwonite_x_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mewtwonite_y"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:mewtwonite_y_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pidgeotite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pidgeotite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pinsirite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pinsirite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:polished_mega_evo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:redorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sablenite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sablenite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:salamencite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:salamencite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sceptilite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sceptilite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:scizorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:scizorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sharpedonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:sharpedonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:slowbronite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:slowbronite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:steelixite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:steelixite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:swampertite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:swampertite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:tyranitarite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:tyranitarite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:venusaurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:venusaurite_ore"
+		}
+	]
+}

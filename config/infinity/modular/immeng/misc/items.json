@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immeng:connector_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "immeng:connector_me_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "immeng:wirecoil_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "immeng:wirecoil_me_dense"
+		}
+	]
+}
