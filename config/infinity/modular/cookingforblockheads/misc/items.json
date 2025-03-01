@@ -1,0 +1,588 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:black_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:blue_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:brown_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cow_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:crafting_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:cyan_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:fruit_basket"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:gray_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:green_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:heating_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:ice_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_blue_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:light_gray_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:lime_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:magenta_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:milk_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:no_filter_edition"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:orange_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:pink_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:preservation_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:purple_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:recipe_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:red_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:spice_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:toaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:white_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_cooking_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_kitchen_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:yellow_sink"
+		}
+	]
+}

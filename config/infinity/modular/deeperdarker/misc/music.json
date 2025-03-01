@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:music.otherside.deeplands"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:music.otherside.echoing_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:music.otherside.overcast_columns"
+		}
+	]
+}

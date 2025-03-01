@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cobblenav:fishingnav_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokefinder_item_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_gholdengo"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_old"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblenav:pokenav_item_yellow"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:fridge_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:fridge_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:oven_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:oven_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:toaster_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "cookingforblockheads:toaster_stop"
+		}
+	]
+}

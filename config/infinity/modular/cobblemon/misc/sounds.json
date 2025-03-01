@@ -1,0 +1,504 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cobblemon:battle.pvn.default"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:battle.pvp.default"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:battle.pvw.default"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.berry_bush.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.berry_bush.harvest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.berry_bush.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.big_root.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.add_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.remove_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.display_case.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.energy_root.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.evolution_stone_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.evolution_stone_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.evolution_stone_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.evolution_stone_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.active_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.assemble"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.dna_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.finished"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.insert_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.insert_dna_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.insert_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.retrieve_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.retrieve_pokemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.fossil_machine.unprotected"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.gilded_chest.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.healing_machine.active"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.medicinal_leek.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.medicinal_leek.plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.mint.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.mint.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.mulch.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.mulch.remove"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_pouch.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_pouch.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_sack.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_sack.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_sack.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.relic_coin_sack.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.revival_herb.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.revival_herb.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.tumblestone.block_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.tumblestone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.tumblestone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.tumblestone.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.tumblestone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.vivichoke.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:block.vivichoke.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:entity.villager.work_nurse"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:evolution.full"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:evolution.notification"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:evolution.ui"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.bait_attach"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.bait_detach"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.bobber_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.notification"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.rod_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.rod_reel_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.splash_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fishing.splash_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gui.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gui.trade"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.bug"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.electric"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.fairy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.fighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.flying"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.psychic"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impact.water"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.berry.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.candy.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.feather.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.herb.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.liquid.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.pills.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.medicine.spray.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.click_short"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_detail"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_register_aspect"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_register_pokemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.pokedex.scan_zoom_increment"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:item.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:move.psychic.target"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:move.pursuit.target"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:move.quickattack.target"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.off"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.on"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc.release"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.recall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.send_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.shiny_send_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball.trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokemon.gimmighoul.give_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokemon.gimmighoul.reveal"
+		}
+	]
+}

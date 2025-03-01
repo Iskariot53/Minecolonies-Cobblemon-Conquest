@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clover"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clover_lucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clover_unlucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clover_very_lucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:eots_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:eots_pre_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:flowering_roseroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mythical_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:poison_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_leaves"
+		}
+	]
+}

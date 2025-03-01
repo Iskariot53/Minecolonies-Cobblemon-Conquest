@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "cookingforblockheads:white_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:light_gray_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:gray_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:black_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:brown_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:red_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:orange_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:yellow_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:lime_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:green_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:light_blue_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:blue_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:cyan_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:purple_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:magenta_kitchen_floor"
+				},
+				{
+					"Name": "cookingforblockheads:pink_kitchen_floor"
+				}
+			]
+		}
+	]
+}

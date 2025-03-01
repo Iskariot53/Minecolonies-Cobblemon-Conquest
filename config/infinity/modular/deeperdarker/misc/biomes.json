@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_caverns"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:deeplands"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echoing_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:overcast_columns"
+		}
+	]
+}

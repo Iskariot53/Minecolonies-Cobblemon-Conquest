@@ -1,0 +1,700 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:ancient_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:angler_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:chiseled_gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:chiseled_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:crystallized_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:grime_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:grime_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:heart_of_the_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:ice_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:infested_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:lily_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:reinforced_echo_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:resonarium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_centipede_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_jaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_leech_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_snapper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_tendrils"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:shattered_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:shriek_worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sludge_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sonorous_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:soul_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:soul_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:soul_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:soundproof_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:stripped_blooming_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:stripped_echo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:stripped_echo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_carapace"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:warden_upgrade_smithing_template"
+		}
+	]
+}

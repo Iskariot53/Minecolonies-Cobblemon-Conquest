@@ -1,0 +1,4774 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:arched_white_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_light_gray_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_gray_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_black_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_brown_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_red_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_orange_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_yellow_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_lime_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_green_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_light_blue_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_blue_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_cyan_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_purple_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_magenta_stained_glass_pane_pillar"
+				},
+				{
+					"Name": "chipped:arched_pink_stained_glass_pane_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:arched_white_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_light_gray_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_gray_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_black_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_brown_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_red_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_orange_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_yellow_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_lime_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_green_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_light_blue_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_blue_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_cyan_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_purple_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_magenta_stained_glass_pillar"
+				},
+				{
+					"Name": "chipped:arched_pink_stained_glass_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:barky_white_wool"
+				},
+				{
+					"Name": "chipped:barky_light_gray_wool"
+				},
+				{
+					"Name": "chipped:barky_gray_wool"
+				},
+				{
+					"Name": "chipped:barky_black_wool"
+				},
+				{
+					"Name": "chipped:barky_brown_wool"
+				},
+				{
+					"Name": "chipped:barky_red_wool"
+				},
+				{
+					"Name": "chipped:barky_orange_wool"
+				},
+				{
+					"Name": "chipped:barky_yellow_wool"
+				},
+				{
+					"Name": "chipped:barky_lime_wool"
+				},
+				{
+					"Name": "chipped:barky_green_wool"
+				},
+				{
+					"Name": "chipped:barky_light_blue_wool"
+				},
+				{
+					"Name": "chipped:barky_blue_wool"
+				},
+				{
+					"Name": "chipped:barky_cyan_wool"
+				},
+				{
+					"Name": "chipped:barky_purple_wool"
+				},
+				{
+					"Name": "chipped:barky_magenta_wool"
+				},
+				{
+					"Name": "chipped:barky_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:blocky_white_wool"
+				},
+				{
+					"Name": "chipped:blocky_light_gray_wool"
+				},
+				{
+					"Name": "chipped:blocky_gray_wool"
+				},
+				{
+					"Name": "chipped:blocky_black_wool"
+				},
+				{
+					"Name": "chipped:blocky_brown_wool"
+				},
+				{
+					"Name": "chipped:blocky_red_wool"
+				},
+				{
+					"Name": "chipped:blocky_orange_wool"
+				},
+				{
+					"Name": "chipped:blocky_yellow_wool"
+				},
+				{
+					"Name": "chipped:blocky_lime_wool"
+				},
+				{
+					"Name": "chipped:blocky_green_wool"
+				},
+				{
+					"Name": "chipped:blocky_light_blue_wool"
+				},
+				{
+					"Name": "chipped:blocky_blue_wool"
+				},
+				{
+					"Name": "chipped:blocky_cyan_wool"
+				},
+				{
+					"Name": "chipped:blocky_purple_wool"
+				},
+				{
+					"Name": "chipped:blocky_magenta_wool"
+				},
+				{
+					"Name": "chipped:blocky_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:bolted_white_concrete"
+				},
+				{
+					"Name": "chipped:bolted_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:bolted_gray_concrete"
+				},
+				{
+					"Name": "chipped:bolted_black_concrete"
+				},
+				{
+					"Name": "chipped:bolted_brown_concrete"
+				},
+				{
+					"Name": "chipped:bolted_red_concrete"
+				},
+				{
+					"Name": "chipped:bolted_orange_concrete"
+				},
+				{
+					"Name": "chipped:bolted_yellow_concrete"
+				},
+				{
+					"Name": "chipped:bolted_lime_concrete"
+				},
+				{
+					"Name": "chipped:bolted_green_concrete"
+				},
+				{
+					"Name": "chipped:bolted_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:bolted_blue_concrete"
+				},
+				{
+					"Name": "chipped:bolted_cyan_concrete"
+				},
+				{
+					"Name": "chipped:bolted_purple_concrete"
+				},
+				{
+					"Name": "chipped:bolted_magenta_concrete"
+				},
+				{
+					"Name": "chipped:bolted_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:bundled_white_wool"
+				},
+				{
+					"Name": "chipped:bundled_light_gray_wool"
+				},
+				{
+					"Name": "chipped:bundled_gray_wool"
+				},
+				{
+					"Name": "chipped:bundled_black_wool"
+				},
+				{
+					"Name": "chipped:bundled_brown_wool"
+				},
+				{
+					"Name": "chipped:bundled_red_wool"
+				},
+				{
+					"Name": "chipped:bundled_orange_wool"
+				},
+				{
+					"Name": "chipped:bundled_yellow_wool"
+				},
+				{
+					"Name": "chipped:bundled_lime_wool"
+				},
+				{
+					"Name": "chipped:bundled_green_wool"
+				},
+				{
+					"Name": "chipped:bundled_light_blue_wool"
+				},
+				{
+					"Name": "chipped:bundled_blue_wool"
+				},
+				{
+					"Name": "chipped:bundled_cyan_wool"
+				},
+				{
+					"Name": "chipped:bundled_purple_wool"
+				},
+				{
+					"Name": "chipped:bundled_magenta_wool"
+				},
+				{
+					"Name": "chipped:bundled_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:chiseled_white_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_gray_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_black_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_brown_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_red_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_orange_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_lime_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_green_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_blue_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_purple_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:chiseled_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:circular_white_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_black_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_red_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_green_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:circular_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:circular_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:circular_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:circular_white_terracotta"
+				},
+				{
+					"Name": "chipped:circular_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:circular_gray_terracotta"
+				},
+				{
+					"Name": "chipped:circular_black_terracotta"
+				},
+				{
+					"Name": "chipped:circular_brown_terracotta"
+				},
+				{
+					"Name": "chipped:circular_red_terracotta"
+				},
+				{
+					"Name": "chipped:circular_orange_terracotta"
+				},
+				{
+					"Name": "chipped:circular_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:circular_lime_terracotta"
+				},
+				{
+					"Name": "chipped:circular_green_terracotta"
+				},
+				{
+					"Name": "chipped:circular_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:circular_blue_terracotta"
+				},
+				{
+					"Name": "chipped:circular_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:circular_purple_terracotta"
+				},
+				{
+					"Name": "chipped:circular_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:circular_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:cornered_white_wool"
+				},
+				{
+					"Name": "chipped:cornered_light_gray_wool"
+				},
+				{
+					"Name": "chipped:cornered_gray_wool"
+				},
+				{
+					"Name": "chipped:cornered_black_wool"
+				},
+				{
+					"Name": "chipped:cornered_brown_wool"
+				},
+				{
+					"Name": "chipped:cornered_red_wool"
+				},
+				{
+					"Name": "chipped:cornered_orange_wool"
+				},
+				{
+					"Name": "chipped:cornered_yellow_wool"
+				},
+				{
+					"Name": "chipped:cornered_lime_wool"
+				},
+				{
+					"Name": "chipped:cornered_green_wool"
+				},
+				{
+					"Name": "chipped:cornered_light_blue_wool"
+				},
+				{
+					"Name": "chipped:cornered_blue_wool"
+				},
+				{
+					"Name": "chipped:cornered_cyan_wool"
+				},
+				{
+					"Name": "chipped:cornered_purple_wool"
+				},
+				{
+					"Name": "chipped:cornered_magenta_wool"
+				},
+				{
+					"Name": "chipped:cornered_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:crafted_white_wool"
+				},
+				{
+					"Name": "chipped:crafted_light_gray_wool"
+				},
+				{
+					"Name": "chipped:crafted_gray_wool"
+				},
+				{
+					"Name": "chipped:crafted_black_wool"
+				},
+				{
+					"Name": "chipped:crafted_brown_wool"
+				},
+				{
+					"Name": "chipped:crafted_red_wool"
+				},
+				{
+					"Name": "chipped:crafted_orange_wool"
+				},
+				{
+					"Name": "chipped:crafted_yellow_wool"
+				},
+				{
+					"Name": "chipped:crafted_lime_wool"
+				},
+				{
+					"Name": "chipped:crafted_green_wool"
+				},
+				{
+					"Name": "chipped:crafted_light_blue_wool"
+				},
+				{
+					"Name": "chipped:crafted_blue_wool"
+				},
+				{
+					"Name": "chipped:crafted_cyan_wool"
+				},
+				{
+					"Name": "chipped:crafted_purple_wool"
+				},
+				{
+					"Name": "chipped:crafted_magenta_wool"
+				},
+				{
+					"Name": "chipped:crafted_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:creeper_white_concrete"
+				},
+				{
+					"Name": "chipped:creeper_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:creeper_gray_concrete"
+				},
+				{
+					"Name": "chipped:creeper_black_concrete"
+				},
+				{
+					"Name": "chipped:creeper_brown_concrete"
+				},
+				{
+					"Name": "chipped:creeper_red_concrete"
+				},
+				{
+					"Name": "chipped:creeper_orange_concrete"
+				},
+				{
+					"Name": "chipped:creeper_yellow_concrete"
+				},
+				{
+					"Name": "chipped:creeper_lime_concrete"
+				},
+				{
+					"Name": "chipped:creeper_green_concrete"
+				},
+				{
+					"Name": "chipped:creeper_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:creeper_blue_concrete"
+				},
+				{
+					"Name": "chipped:creeper_cyan_concrete"
+				},
+				{
+					"Name": "chipped:creeper_purple_concrete"
+				},
+				{
+					"Name": "chipped:creeper_magenta_concrete"
+				},
+				{
+					"Name": "chipped:creeper_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:cross_haired_white_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_light_gray_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_gray_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_black_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_brown_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_red_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_orange_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_yellow_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_lime_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_green_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_light_blue_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_blue_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_cyan_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_purple_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_magenta_wool"
+				},
+				{
+					"Name": "chipped:cross_haired_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:crossed_white_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_gray_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_black_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_brown_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_red_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_orange_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_lime_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_green_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_blue_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_purple_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:crossed_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:cubed_white_wool"
+				},
+				{
+					"Name": "chipped:cubed_light_gray_wool"
+				},
+				{
+					"Name": "chipped:cubed_gray_wool"
+				},
+				{
+					"Name": "chipped:cubed_black_wool"
+				},
+				{
+					"Name": "chipped:cubed_brown_wool"
+				},
+				{
+					"Name": "chipped:cubed_red_wool"
+				},
+				{
+					"Name": "chipped:cubed_orange_wool"
+				},
+				{
+					"Name": "chipped:cubed_yellow_wool"
+				},
+				{
+					"Name": "chipped:cubed_lime_wool"
+				},
+				{
+					"Name": "chipped:cubed_green_wool"
+				},
+				{
+					"Name": "chipped:cubed_light_blue_wool"
+				},
+				{
+					"Name": "chipped:cubed_blue_wool"
+				},
+				{
+					"Name": "chipped:cubed_cyan_wool"
+				},
+				{
+					"Name": "chipped:cubed_purple_wool"
+				},
+				{
+					"Name": "chipped:cubed_magenta_wool"
+				},
+				{
+					"Name": "chipped:cubed_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:curled_white_terracotta"
+				},
+				{
+					"Name": "chipped:curled_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:curled_gray_terracotta"
+				},
+				{
+					"Name": "chipped:curled_black_terracotta"
+				},
+				{
+					"Name": "chipped:curled_brown_terracotta"
+				},
+				{
+					"Name": "chipped:curled_red_terracotta"
+				},
+				{
+					"Name": "chipped:curled_orange_terracotta"
+				},
+				{
+					"Name": "chipped:curled_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:curled_lime_terracotta"
+				},
+				{
+					"Name": "chipped:curled_green_terracotta"
+				},
+				{
+					"Name": "chipped:curled_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:curled_blue_terracotta"
+				},
+				{
+					"Name": "chipped:curled_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:curled_purple_terracotta"
+				},
+				{
+					"Name": "chipped:curled_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:curled_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:cut_white_terracotta"
+				},
+				{
+					"Name": "chipped:cut_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:cut_gray_terracotta"
+				},
+				{
+					"Name": "chipped:cut_black_terracotta"
+				},
+				{
+					"Name": "chipped:cut_brown_terracotta"
+				},
+				{
+					"Name": "chipped:cut_red_terracotta"
+				},
+				{
+					"Name": "chipped:cut_orange_terracotta"
+				},
+				{
+					"Name": "chipped:cut_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:cut_lime_terracotta"
+				},
+				{
+					"Name": "chipped:cut_green_terracotta"
+				},
+				{
+					"Name": "chipped:cut_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:cut_blue_terracotta"
+				},
+				{
+					"Name": "chipped:cut_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:cut_purple_terracotta"
+				},
+				{
+					"Name": "chipped:cut_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:cut_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:decorated_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:decorated_white_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_gray_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_black_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_brown_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_red_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_orange_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_lime_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_green_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_blue_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_purple_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:decorated_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:fancy_white_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_black_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_red_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_green_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:fancy_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:fancy_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:fancy_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:grid_white_concrete"
+				},
+				{
+					"Name": "chipped:grid_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:grid_gray_concrete"
+				},
+				{
+					"Name": "chipped:grid_black_concrete"
+				},
+				{
+					"Name": "chipped:grid_brown_concrete"
+				},
+				{
+					"Name": "chipped:grid_red_concrete"
+				},
+				{
+					"Name": "chipped:grid_orange_concrete"
+				},
+				{
+					"Name": "chipped:grid_yellow_concrete"
+				},
+				{
+					"Name": "chipped:grid_lime_concrete"
+				},
+				{
+					"Name": "chipped:grid_green_concrete"
+				},
+				{
+					"Name": "chipped:grid_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:grid_blue_concrete"
+				},
+				{
+					"Name": "chipped:grid_cyan_concrete"
+				},
+				{
+					"Name": "chipped:grid_purple_concrete"
+				},
+				{
+					"Name": "chipped:grid_magenta_concrete"
+				},
+				{
+					"Name": "chipped:grid_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:grill_white_concrete"
+				},
+				{
+					"Name": "chipped:grill_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:grill_gray_concrete"
+				},
+				{
+					"Name": "chipped:grill_black_concrete"
+				},
+				{
+					"Name": "chipped:grill_brown_concrete"
+				},
+				{
+					"Name": "chipped:grill_red_concrete"
+				},
+				{
+					"Name": "chipped:grill_orange_concrete"
+				},
+				{
+					"Name": "chipped:grill_yellow_concrete"
+				},
+				{
+					"Name": "chipped:grill_lime_concrete"
+				},
+				{
+					"Name": "chipped:grill_green_concrete"
+				},
+				{
+					"Name": "chipped:grill_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:grill_blue_concrete"
+				},
+				{
+					"Name": "chipped:grill_cyan_concrete"
+				},
+				{
+					"Name": "chipped:grill_purple_concrete"
+				},
+				{
+					"Name": "chipped:grill_magenta_concrete"
+				},
+				{
+					"Name": "chipped:grill_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:harsh_quilted_white_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_light_gray_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_gray_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_black_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_brown_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_red_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_orange_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_yellow_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_lime_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_green_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_light_blue_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_blue_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_cyan_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_purple_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_magenta_wool"
+				},
+				{
+					"Name": "chipped:harsh_quilted_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:hazard_white_concrete"
+				},
+				{
+					"Name": "chipped:hazard_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:hazard_gray_concrete"
+				},
+				{
+					"Name": "chipped:hazard_black_concrete"
+				},
+				{
+					"Name": "chipped:hazard_brown_concrete"
+				},
+				{
+					"Name": "chipped:hazard_red_concrete"
+				},
+				{
+					"Name": "chipped:hazard_orange_concrete"
+				},
+				{
+					"Name": "chipped:hazard_yellow_concrete"
+				},
+				{
+					"Name": "chipped:hazard_lime_concrete"
+				},
+				{
+					"Name": "chipped:hazard_green_concrete"
+				},
+				{
+					"Name": "chipped:hazard_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:hazard_blue_concrete"
+				},
+				{
+					"Name": "chipped:hazard_cyan_concrete"
+				},
+				{
+					"Name": "chipped:hazard_purple_concrete"
+				},
+				{
+					"Name": "chipped:hazard_magenta_concrete"
+				},
+				{
+					"Name": "chipped:hazard_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:hexagonical_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:hexagonical_white_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_gray_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_black_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_brown_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_red_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_orange_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_lime_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_green_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_blue_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_purple_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:hexagonical_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:inscribed_white_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_gray_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_black_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_brown_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_red_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_orange_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_lime_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_green_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_blue_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_purple_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:inscribed_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:knitted_white_wool"
+				},
+				{
+					"Name": "chipped:knitted_light_gray_wool"
+				},
+				{
+					"Name": "chipped:knitted_gray_wool"
+				},
+				{
+					"Name": "chipped:knitted_black_wool"
+				},
+				{
+					"Name": "chipped:knitted_brown_wool"
+				},
+				{
+					"Name": "chipped:knitted_red_wool"
+				},
+				{
+					"Name": "chipped:knitted_orange_wool"
+				},
+				{
+					"Name": "chipped:knitted_yellow_wool"
+				},
+				{
+					"Name": "chipped:knitted_lime_wool"
+				},
+				{
+					"Name": "chipped:knitted_green_wool"
+				},
+				{
+					"Name": "chipped:knitted_light_blue_wool"
+				},
+				{
+					"Name": "chipped:knitted_blue_wool"
+				},
+				{
+					"Name": "chipped:knitted_cyan_wool"
+				},
+				{
+					"Name": "chipped:knitted_purple_wool"
+				},
+				{
+					"Name": "chipped:knitted_magenta_wool"
+				},
+				{
+					"Name": "chipped:knitted_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:large_diamond_white_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_black_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_red_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_green_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:large_diamond_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:large_diamond_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:large_diamond_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:layered_white_terracotta"
+				},
+				{
+					"Name": "chipped:layered_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:layered_gray_terracotta"
+				},
+				{
+					"Name": "chipped:layered_black_terracotta"
+				},
+				{
+					"Name": "chipped:layered_brown_terracotta"
+				},
+				{
+					"Name": "chipped:layered_red_terracotta"
+				},
+				{
+					"Name": "chipped:layered_orange_terracotta"
+				},
+				{
+					"Name": "chipped:layered_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:layered_lime_terracotta"
+				},
+				{
+					"Name": "chipped:layered_green_terracotta"
+				},
+				{
+					"Name": "chipped:layered_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:layered_blue_terracotta"
+				},
+				{
+					"Name": "chipped:layered_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:layered_purple_terracotta"
+				},
+				{
+					"Name": "chipped:layered_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:layered_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:minimized_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:minimized_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:mosaic_white_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_gray_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_black_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_brown_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_red_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_orange_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_yellow_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_lime_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_green_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_blue_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_cyan_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_purple_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_magenta_concrete"
+				},
+				{
+					"Name": "chipped:mosaic_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:ornate_white_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_black_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_red_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_green_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:ornate_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:ornate_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:ornate_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:patched_white_wool"
+				},
+				{
+					"Name": "chipped:patched_light_gray_wool"
+				},
+				{
+					"Name": "chipped:patched_gray_wool"
+				},
+				{
+					"Name": "chipped:patched_black_wool"
+				},
+				{
+					"Name": "chipped:patched_brown_wool"
+				},
+				{
+					"Name": "chipped:patched_red_wool"
+				},
+				{
+					"Name": "chipped:patched_orange_wool"
+				},
+				{
+					"Name": "chipped:patched_yellow_wool"
+				},
+				{
+					"Name": "chipped:patched_lime_wool"
+				},
+				{
+					"Name": "chipped:patched_green_wool"
+				},
+				{
+					"Name": "chipped:patched_light_blue_wool"
+				},
+				{
+					"Name": "chipped:patched_blue_wool"
+				},
+				{
+					"Name": "chipped:patched_cyan_wool"
+				},
+				{
+					"Name": "chipped:patched_purple_wool"
+				},
+				{
+					"Name": "chipped:patched_magenta_wool"
+				},
+				{
+					"Name": "chipped:patched_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:paved_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:paved_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:pegged_white_concrete"
+				},
+				{
+					"Name": "chipped:pegged_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:pegged_gray_concrete"
+				},
+				{
+					"Name": "chipped:pegged_black_concrete"
+				},
+				{
+					"Name": "chipped:pegged_brown_concrete"
+				},
+				{
+					"Name": "chipped:pegged_red_concrete"
+				},
+				{
+					"Name": "chipped:pegged_orange_concrete"
+				},
+				{
+					"Name": "chipped:pegged_yellow_concrete"
+				},
+				{
+					"Name": "chipped:pegged_lime_concrete"
+				},
+				{
+					"Name": "chipped:pegged_green_concrete"
+				},
+				{
+					"Name": "chipped:pegged_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:pegged_blue_concrete"
+				},
+				{
+					"Name": "chipped:pegged_cyan_concrete"
+				},
+				{
+					"Name": "chipped:pegged_purple_concrete"
+				},
+				{
+					"Name": "chipped:pegged_magenta_concrete"
+				},
+				{
+					"Name": "chipped:pegged_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:railed_white_concrete"
+				},
+				{
+					"Name": "chipped:railed_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:railed_gray_concrete"
+				},
+				{
+					"Name": "chipped:railed_black_concrete"
+				},
+				{
+					"Name": "chipped:railed_brown_concrete"
+				},
+				{
+					"Name": "chipped:railed_red_concrete"
+				},
+				{
+					"Name": "chipped:railed_orange_concrete"
+				},
+				{
+					"Name": "chipped:railed_yellow_concrete"
+				},
+				{
+					"Name": "chipped:railed_lime_concrete"
+				},
+				{
+					"Name": "chipped:railed_green_concrete"
+				},
+				{
+					"Name": "chipped:railed_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:railed_blue_concrete"
+				},
+				{
+					"Name": "chipped:railed_cyan_concrete"
+				},
+				{
+					"Name": "chipped:railed_purple_concrete"
+				},
+				{
+					"Name": "chipped:railed_magenta_concrete"
+				},
+				{
+					"Name": "chipped:railed_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:raster_white_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_black_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_red_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_green_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:raster_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:raster_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:raster_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:rectangle_white_wool"
+				},
+				{
+					"Name": "chipped:rectangle_light_gray_wool"
+				},
+				{
+					"Name": "chipped:rectangle_gray_wool"
+				},
+				{
+					"Name": "chipped:rectangle_black_wool"
+				},
+				{
+					"Name": "chipped:rectangle_brown_wool"
+				},
+				{
+					"Name": "chipped:rectangle_red_wool"
+				},
+				{
+					"Name": "chipped:rectangle_orange_wool"
+				},
+				{
+					"Name": "chipped:rectangle_yellow_wool"
+				},
+				{
+					"Name": "chipped:rectangle_lime_wool"
+				},
+				{
+					"Name": "chipped:rectangle_green_wool"
+				},
+				{
+					"Name": "chipped:rectangle_light_blue_wool"
+				},
+				{
+					"Name": "chipped:rectangle_blue_wool"
+				},
+				{
+					"Name": "chipped:rectangle_cyan_wool"
+				},
+				{
+					"Name": "chipped:rectangle_purple_wool"
+				},
+				{
+					"Name": "chipped:rectangle_magenta_wool"
+				},
+				{
+					"Name": "chipped:rectangle_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:reinforced_white_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_gray_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_black_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_brown_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_red_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_orange_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_yellow_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_lime_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_green_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_blue_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_cyan_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_purple_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_magenta_concrete"
+				},
+				{
+					"Name": "chipped:reinforced_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:ribbled_white_wool"
+				},
+				{
+					"Name": "chipped:ribbled_light_gray_wool"
+				},
+				{
+					"Name": "chipped:ribbled_gray_wool"
+				},
+				{
+					"Name": "chipped:ribbled_black_wool"
+				},
+				{
+					"Name": "chipped:ribbled_brown_wool"
+				},
+				{
+					"Name": "chipped:ribbled_red_wool"
+				},
+				{
+					"Name": "chipped:ribbled_orange_wool"
+				},
+				{
+					"Name": "chipped:ribbled_yellow_wool"
+				},
+				{
+					"Name": "chipped:ribbled_lime_wool"
+				},
+				{
+					"Name": "chipped:ribbled_green_wool"
+				},
+				{
+					"Name": "chipped:ribbled_light_blue_wool"
+				},
+				{
+					"Name": "chipped:ribbled_blue_wool"
+				},
+				{
+					"Name": "chipped:ribbled_cyan_wool"
+				},
+				{
+					"Name": "chipped:ribbled_purple_wool"
+				},
+				{
+					"Name": "chipped:ribbled_magenta_wool"
+				},
+				{
+					"Name": "chipped:ribbled_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:rusted_white_concrete"
+				},
+				{
+					"Name": "chipped:rusted_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:rusted_gray_concrete"
+				},
+				{
+					"Name": "chipped:rusted_black_concrete"
+				},
+				{
+					"Name": "chipped:rusted_brown_concrete"
+				},
+				{
+					"Name": "chipped:rusted_red_concrete"
+				},
+				{
+					"Name": "chipped:rusted_orange_concrete"
+				},
+				{
+					"Name": "chipped:rusted_yellow_concrete"
+				},
+				{
+					"Name": "chipped:rusted_lime_concrete"
+				},
+				{
+					"Name": "chipped:rusted_green_concrete"
+				},
+				{
+					"Name": "chipped:rusted_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:rusted_blue_concrete"
+				},
+				{
+					"Name": "chipped:rusted_cyan_concrete"
+				},
+				{
+					"Name": "chipped:rusted_purple_concrete"
+				},
+				{
+					"Name": "chipped:rusted_magenta_concrete"
+				},
+				{
+					"Name": "chipped:rusted_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:scaled_white_wool"
+				},
+				{
+					"Name": "chipped:scaled_light_gray_wool"
+				},
+				{
+					"Name": "chipped:scaled_gray_wool"
+				},
+				{
+					"Name": "chipped:scaled_black_wool"
+				},
+				{
+					"Name": "chipped:scaled_brown_wool"
+				},
+				{
+					"Name": "chipped:scaled_red_wool"
+				},
+				{
+					"Name": "chipped:scaled_orange_wool"
+				},
+				{
+					"Name": "chipped:scaled_yellow_wool"
+				},
+				{
+					"Name": "chipped:scaled_lime_wool"
+				},
+				{
+					"Name": "chipped:scaled_green_wool"
+				},
+				{
+					"Name": "chipped:scaled_light_blue_wool"
+				},
+				{
+					"Name": "chipped:scaled_blue_wool"
+				},
+				{
+					"Name": "chipped:scaled_cyan_wool"
+				},
+				{
+					"Name": "chipped:scaled_purple_wool"
+				},
+				{
+					"Name": "chipped:scaled_magenta_wool"
+				},
+				{
+					"Name": "chipped:scaled_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:shrunken_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:shrunken_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:small_white_stained_glass"
+				},
+				{
+					"Name": "chipped:small_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:small_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:small_black_stained_glass"
+				},
+				{
+					"Name": "chipped:small_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:small_red_stained_glass"
+				},
+				{
+					"Name": "chipped:small_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:small_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:small_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:small_green_stained_glass"
+				},
+				{
+					"Name": "chipped:small_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:small_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:small_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:small_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:small_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:small_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:small_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:small_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:small_white_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_light_gray_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_gray_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_black_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_brown_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_red_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_orange_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_yellow_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_lime_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_green_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_light_blue_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_blue_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_cyan_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_purple_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_magenta_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:small_pink_terracotta_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:smooth_white_concrete"
+				},
+				{
+					"Name": "chipped:smooth_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:smooth_gray_concrete"
+				},
+				{
+					"Name": "chipped:smooth_black_concrete"
+				},
+				{
+					"Name": "chipped:smooth_brown_concrete"
+				},
+				{
+					"Name": "chipped:smooth_red_concrete"
+				},
+				{
+					"Name": "chipped:smooth_orange_concrete"
+				},
+				{
+					"Name": "chipped:smooth_yellow_concrete"
+				},
+				{
+					"Name": "chipped:smooth_lime_concrete"
+				},
+				{
+					"Name": "chipped:smooth_green_concrete"
+				},
+				{
+					"Name": "chipped:smooth_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:smooth_blue_concrete"
+				},
+				{
+					"Name": "chipped:smooth_cyan_concrete"
+				},
+				{
+					"Name": "chipped:smooth_purple_concrete"
+				},
+				{
+					"Name": "chipped:smooth_magenta_concrete"
+				},
+				{
+					"Name": "chipped:smooth_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:soft_white_wool"
+				},
+				{
+					"Name": "chipped:soft_light_gray_wool"
+				},
+				{
+					"Name": "chipped:soft_gray_wool"
+				},
+				{
+					"Name": "chipped:soft_black_wool"
+				},
+				{
+					"Name": "chipped:soft_brown_wool"
+				},
+				{
+					"Name": "chipped:soft_red_wool"
+				},
+				{
+					"Name": "chipped:soft_orange_wool"
+				},
+				{
+					"Name": "chipped:soft_yellow_wool"
+				},
+				{
+					"Name": "chipped:soft_lime_wool"
+				},
+				{
+					"Name": "chipped:soft_green_wool"
+				},
+				{
+					"Name": "chipped:soft_light_blue_wool"
+				},
+				{
+					"Name": "chipped:soft_blue_wool"
+				},
+				{
+					"Name": "chipped:soft_cyan_wool"
+				},
+				{
+					"Name": "chipped:soft_purple_wool"
+				},
+				{
+					"Name": "chipped:soft_magenta_wool"
+				},
+				{
+					"Name": "chipped:soft_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:square_white_stained_glass"
+				},
+				{
+					"Name": "chipped:square_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:square_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:square_black_stained_glass"
+				},
+				{
+					"Name": "chipped:square_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:square_red_stained_glass"
+				},
+				{
+					"Name": "chipped:square_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:square_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:square_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:square_green_stained_glass"
+				},
+				{
+					"Name": "chipped:square_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:square_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:square_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:square_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:square_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:square_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:square_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:square_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:stacked_white_concrete"
+				},
+				{
+					"Name": "chipped:stacked_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:stacked_gray_concrete"
+				},
+				{
+					"Name": "chipped:stacked_black_concrete"
+				},
+				{
+					"Name": "chipped:stacked_brown_concrete"
+				},
+				{
+					"Name": "chipped:stacked_red_concrete"
+				},
+				{
+					"Name": "chipped:stacked_orange_concrete"
+				},
+				{
+					"Name": "chipped:stacked_yellow_concrete"
+				},
+				{
+					"Name": "chipped:stacked_lime_concrete"
+				},
+				{
+					"Name": "chipped:stacked_green_concrete"
+				},
+				{
+					"Name": "chipped:stacked_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:stacked_blue_concrete"
+				},
+				{
+					"Name": "chipped:stacked_cyan_concrete"
+				},
+				{
+					"Name": "chipped:stacked_purple_concrete"
+				},
+				{
+					"Name": "chipped:stacked_magenta_concrete"
+				},
+				{
+					"Name": "chipped:stacked_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:starry_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:starry_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:starry_white_terracotta"
+				},
+				{
+					"Name": "chipped:starry_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:starry_gray_terracotta"
+				},
+				{
+					"Name": "chipped:starry_black_terracotta"
+				},
+				{
+					"Name": "chipped:starry_brown_terracotta"
+				},
+				{
+					"Name": "chipped:starry_red_terracotta"
+				},
+				{
+					"Name": "chipped:starry_orange_terracotta"
+				},
+				{
+					"Name": "chipped:starry_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:starry_lime_terracotta"
+				},
+				{
+					"Name": "chipped:starry_green_terracotta"
+				},
+				{
+					"Name": "chipped:starry_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:starry_blue_terracotta"
+				},
+				{
+					"Name": "chipped:starry_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:starry_purple_terracotta"
+				},
+				{
+					"Name": "chipped:starry_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:starry_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:stop_white_concrete"
+				},
+				{
+					"Name": "chipped:stop_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:stop_gray_concrete"
+				},
+				{
+					"Name": "chipped:stop_black_concrete"
+				},
+				{
+					"Name": "chipped:stop_brown_concrete"
+				},
+				{
+					"Name": "chipped:stop_red_concrete"
+				},
+				{
+					"Name": "chipped:stop_orange_concrete"
+				},
+				{
+					"Name": "chipped:stop_yellow_concrete"
+				},
+				{
+					"Name": "chipped:stop_lime_concrete"
+				},
+				{
+					"Name": "chipped:stop_green_concrete"
+				},
+				{
+					"Name": "chipped:stop_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:stop_blue_concrete"
+				},
+				{
+					"Name": "chipped:stop_cyan_concrete"
+				},
+				{
+					"Name": "chipped:stop_purple_concrete"
+				},
+				{
+					"Name": "chipped:stop_magenta_concrete"
+				},
+				{
+					"Name": "chipped:stop_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:stringed_white_wool"
+				},
+				{
+					"Name": "chipped:stringed_light_gray_wool"
+				},
+				{
+					"Name": "chipped:stringed_gray_wool"
+				},
+				{
+					"Name": "chipped:stringed_black_wool"
+				},
+				{
+					"Name": "chipped:stringed_brown_wool"
+				},
+				{
+					"Name": "chipped:stringed_red_wool"
+				},
+				{
+					"Name": "chipped:stringed_orange_wool"
+				},
+				{
+					"Name": "chipped:stringed_yellow_wool"
+				},
+				{
+					"Name": "chipped:stringed_lime_wool"
+				},
+				{
+					"Name": "chipped:stringed_green_wool"
+				},
+				{
+					"Name": "chipped:stringed_light_blue_wool"
+				},
+				{
+					"Name": "chipped:stringed_blue_wool"
+				},
+				{
+					"Name": "chipped:stringed_cyan_wool"
+				},
+				{
+					"Name": "chipped:stringed_purple_wool"
+				},
+				{
+					"Name": "chipped:stringed_magenta_wool"
+				},
+				{
+					"Name": "chipped:stringed_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:striped_white_concrete"
+				},
+				{
+					"Name": "chipped:striped_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:striped_gray_concrete"
+				},
+				{
+					"Name": "chipped:striped_black_concrete"
+				},
+				{
+					"Name": "chipped:striped_brown_concrete"
+				},
+				{
+					"Name": "chipped:striped_red_concrete"
+				},
+				{
+					"Name": "chipped:striped_orange_concrete"
+				},
+				{
+					"Name": "chipped:striped_yellow_concrete"
+				},
+				{
+					"Name": "chipped:striped_lime_concrete"
+				},
+				{
+					"Name": "chipped:striped_green_concrete"
+				},
+				{
+					"Name": "chipped:striped_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:striped_blue_concrete"
+				},
+				{
+					"Name": "chipped:striped_cyan_concrete"
+				},
+				{
+					"Name": "chipped:striped_purple_concrete"
+				},
+				{
+					"Name": "chipped:striped_magenta_concrete"
+				},
+				{
+					"Name": "chipped:striped_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:tiled_white_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_black_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_red_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_green_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:tiled_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:tiled_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:tiled_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:tiled_white_wool"
+				},
+				{
+					"Name": "chipped:tiled_light_gray_wool"
+				},
+				{
+					"Name": "chipped:tiled_gray_wool"
+				},
+				{
+					"Name": "chipped:tiled_black_wool"
+				},
+				{
+					"Name": "chipped:tiled_brown_wool"
+				},
+				{
+					"Name": "chipped:tiled_red_wool"
+				},
+				{
+					"Name": "chipped:tiled_orange_wool"
+				},
+				{
+					"Name": "chipped:tiled_yellow_wool"
+				},
+				{
+					"Name": "chipped:tiled_lime_wool"
+				},
+				{
+					"Name": "chipped:tiled_green_wool"
+				},
+				{
+					"Name": "chipped:tiled_light_blue_wool"
+				},
+				{
+					"Name": "chipped:tiled_blue_wool"
+				},
+				{
+					"Name": "chipped:tiled_cyan_wool"
+				},
+				{
+					"Name": "chipped:tiled_purple_wool"
+				},
+				{
+					"Name": "chipped:tiled_magenta_wool"
+				},
+				{
+					"Name": "chipped:tiled_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:triangular_white_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_light_gray_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_gray_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_black_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_brown_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_red_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_orange_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_yellow_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_lime_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_green_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_light_blue_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_blue_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_cyan_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_purple_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_magenta_terracotta"
+				},
+				{
+					"Name": "chipped:triangular_pink_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:tripped_white_wool"
+				},
+				{
+					"Name": "chipped:tripped_light_gray_wool"
+				},
+				{
+					"Name": "chipped:tripped_gray_wool"
+				},
+				{
+					"Name": "chipped:tripped_black_wool"
+				},
+				{
+					"Name": "chipped:tripped_brown_wool"
+				},
+				{
+					"Name": "chipped:tripped_red_wool"
+				},
+				{
+					"Name": "chipped:tripped_orange_wool"
+				},
+				{
+					"Name": "chipped:tripped_yellow_wool"
+				},
+				{
+					"Name": "chipped:tripped_lime_wool"
+				},
+				{
+					"Name": "chipped:tripped_green_wool"
+				},
+				{
+					"Name": "chipped:tripped_light_blue_wool"
+				},
+				{
+					"Name": "chipped:tripped_blue_wool"
+				},
+				{
+					"Name": "chipped:tripped_cyan_wool"
+				},
+				{
+					"Name": "chipped:tripped_purple_wool"
+				},
+				{
+					"Name": "chipped:tripped_magenta_wool"
+				},
+				{
+					"Name": "chipped:tripped_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:vertical_stiped_white_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_black_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_red_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_green_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:vertical_stiped_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:vertical_stiped_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:vertical_stiped_pink_stained_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:warning_white_concrete"
+				},
+				{
+					"Name": "chipped:warning_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:warning_gray_concrete"
+				},
+				{
+					"Name": "chipped:warning_black_concrete"
+				},
+				{
+					"Name": "chipped:warning_brown_concrete"
+				},
+				{
+					"Name": "chipped:warning_red_concrete"
+				},
+				{
+					"Name": "chipped:warning_orange_concrete"
+				},
+				{
+					"Name": "chipped:warning_yellow_concrete"
+				},
+				{
+					"Name": "chipped:warning_lime_concrete"
+				},
+				{
+					"Name": "chipped:warning_green_concrete"
+				},
+				{
+					"Name": "chipped:warning_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:warning_blue_concrete"
+				},
+				{
+					"Name": "chipped:warning_cyan_concrete"
+				},
+				{
+					"Name": "chipped:warning_purple_concrete"
+				},
+				{
+					"Name": "chipped:warning_magenta_concrete"
+				},
+				{
+					"Name": "chipped:warning_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:waved_white_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_light_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_gray_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_black_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_brown_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_red_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_orange_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_yellow_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_lime_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_green_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_light_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_blue_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_cyan_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_purple_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_magenta_glazed_terracotta"
+				},
+				{
+					"Name": "chipped:waved_pink_glazed_terracotta"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_concrete_bricks"
+				},
+				{
+					"Name": "chipped:light_gray_concrete_bricks"
+				},
+				{
+					"Name": "chipped:gray_concrete_bricks"
+				},
+				{
+					"Name": "chipped:black_concrete_bricks"
+				},
+				{
+					"Name": "chipped:brown_concrete_bricks"
+				},
+				{
+					"Name": "chipped:red_concrete_bricks"
+				},
+				{
+					"Name": "chipped:orange_concrete_bricks"
+				},
+				{
+					"Name": "chipped:yellow_concrete_bricks"
+				},
+				{
+					"Name": "chipped:lime_concrete_bricks"
+				},
+				{
+					"Name": "chipped:green_concrete_bricks"
+				},
+				{
+					"Name": "chipped:light_blue_concrete_bricks"
+				},
+				{
+					"Name": "chipped:blue_concrete_bricks"
+				},
+				{
+					"Name": "chipped:cyan_concrete_bricks"
+				},
+				{
+					"Name": "chipped:purple_concrete_bricks"
+				},
+				{
+					"Name": "chipped:magenta_concrete_bricks"
+				},
+				{
+					"Name": "chipped:pink_concrete_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_concrete_panel"
+				},
+				{
+					"Name": "chipped:light_gray_concrete_panel"
+				},
+				{
+					"Name": "chipped:gray_concrete_panel"
+				},
+				{
+					"Name": "chipped:black_concrete_panel"
+				},
+				{
+					"Name": "chipped:brown_concrete_panel"
+				},
+				{
+					"Name": "chipped:red_concrete_panel"
+				},
+				{
+					"Name": "chipped:orange_concrete_panel"
+				},
+				{
+					"Name": "chipped:yellow_concrete_panel"
+				},
+				{
+					"Name": "chipped:lime_concrete_panel"
+				},
+				{
+					"Name": "chipped:green_concrete_panel"
+				},
+				{
+					"Name": "chipped:light_blue_concrete_panel"
+				},
+				{
+					"Name": "chipped:blue_concrete_panel"
+				},
+				{
+					"Name": "chipped:cyan_concrete_panel"
+				},
+				{
+					"Name": "chipped:purple_concrete_panel"
+				},
+				{
+					"Name": "chipped:magenta_concrete_panel"
+				},
+				{
+					"Name": "chipped:pink_concrete_panel"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_concrete_pillar"
+				},
+				{
+					"Name": "chipped:light_gray_concrete_pillar"
+				},
+				{
+					"Name": "chipped:gray_concrete_pillar"
+				},
+				{
+					"Name": "chipped:black_concrete_pillar"
+				},
+				{
+					"Name": "chipped:brown_concrete_pillar"
+				},
+				{
+					"Name": "chipped:red_concrete_pillar"
+				},
+				{
+					"Name": "chipped:orange_concrete_pillar"
+				},
+				{
+					"Name": "chipped:yellow_concrete_pillar"
+				},
+				{
+					"Name": "chipped:lime_concrete_pillar"
+				},
+				{
+					"Name": "chipped:green_concrete_pillar"
+				},
+				{
+					"Name": "chipped:light_blue_concrete_pillar"
+				},
+				{
+					"Name": "chipped:blue_concrete_pillar"
+				},
+				{
+					"Name": "chipped:cyan_concrete_pillar"
+				},
+				{
+					"Name": "chipped:purple_concrete_pillar"
+				},
+				{
+					"Name": "chipped:magenta_concrete_pillar"
+				},
+				{
+					"Name": "chipped:pink_concrete_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_concrete_tiles"
+				},
+				{
+					"Name": "chipped:light_gray_concrete_tiles"
+				},
+				{
+					"Name": "chipped:gray_concrete_tiles"
+				},
+				{
+					"Name": "chipped:black_concrete_tiles"
+				},
+				{
+					"Name": "chipped:brown_concrete_tiles"
+				},
+				{
+					"Name": "chipped:red_concrete_tiles"
+				},
+				{
+					"Name": "chipped:orange_concrete_tiles"
+				},
+				{
+					"Name": "chipped:yellow_concrete_tiles"
+				},
+				{
+					"Name": "chipped:lime_concrete_tiles"
+				},
+				{
+					"Name": "chipped:green_concrete_tiles"
+				},
+				{
+					"Name": "chipped:light_blue_concrete_tiles"
+				},
+				{
+					"Name": "chipped:blue_concrete_tiles"
+				},
+				{
+					"Name": "chipped:cyan_concrete_tiles"
+				},
+				{
+					"Name": "chipped:purple_concrete_tiles"
+				},
+				{
+					"Name": "chipped:magenta_concrete_tiles"
+				},
+				{
+					"Name": "chipped:pink_concrete_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:light_gray_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:gray_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:black_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:brown_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:red_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:orange_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:yellow_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:lime_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:green_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:light_blue_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:blue_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:cyan_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:purple_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:magenta_glazed_terracotta_pillar_sides"
+				},
+				{
+					"Name": "chipped:pink_glazed_terracotta_pillar_sides"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:light_gray_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:gray_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:black_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:brown_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:red_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:orange_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:yellow_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:lime_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:green_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:light_blue_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:blue_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:cyan_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:purple_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:magenta_glazed_terracotta_pillar_top"
+				},
+				{
+					"Name": "chipped:pink_glazed_terracotta_pillar_top"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:light_gray_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:gray_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:black_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:brown_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:red_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:orange_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:yellow_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:lime_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:green_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:light_blue_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:blue_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:cyan_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:purple_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:magenta_glazed_terracotta_smooth_tiles"
+				},
+				{
+					"Name": "chipped:pink_glazed_terracotta_smooth_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:light_gray_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:gray_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:black_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:brown_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:red_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:orange_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:yellow_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:lime_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:green_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:light_blue_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:blue_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:cyan_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:purple_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:magenta_glazed_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:pink_glazed_terracotta_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:light_gray_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:gray_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:black_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:brown_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:red_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:orange_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:yellow_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:lime_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:green_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:light_blue_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:blue_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:cyan_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:purple_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:magenta_terracotta_bricks"
+				},
+				{
+					"Name": "chipped:pink_terracotta_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_terracotta_column"
+				},
+				{
+					"Name": "chipped:light_gray_terracotta_column"
+				},
+				{
+					"Name": "chipped:gray_terracotta_column"
+				},
+				{
+					"Name": "chipped:black_terracotta_column"
+				},
+				{
+					"Name": "chipped:brown_terracotta_column"
+				},
+				{
+					"Name": "chipped:red_terracotta_column"
+				},
+				{
+					"Name": "chipped:orange_terracotta_column"
+				},
+				{
+					"Name": "chipped:yellow_terracotta_column"
+				},
+				{
+					"Name": "chipped:lime_terracotta_column"
+				},
+				{
+					"Name": "chipped:green_terracotta_column"
+				},
+				{
+					"Name": "chipped:light_blue_terracotta_column"
+				},
+				{
+					"Name": "chipped:blue_terracotta_column"
+				},
+				{
+					"Name": "chipped:cyan_terracotta_column"
+				},
+				{
+					"Name": "chipped:purple_terracotta_column"
+				},
+				{
+					"Name": "chipped:magenta_terracotta_column"
+				},
+				{
+					"Name": "chipped:pink_terracotta_column"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:light_gray_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:gray_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:black_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:brown_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:red_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:orange_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:yellow_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:lime_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:green_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:light_blue_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:blue_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:cyan_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:purple_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:magenta_terracotta_pillar"
+				},
+				{
+					"Name": "chipped:pink_terracotta_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_terracotta_tile"
+				},
+				{
+					"Name": "chipped:light_gray_terracotta_tile"
+				},
+				{
+					"Name": "chipped:gray_terracotta_tile"
+				},
+				{
+					"Name": "chipped:black_terracotta_tile"
+				},
+				{
+					"Name": "chipped:brown_terracotta_tile"
+				},
+				{
+					"Name": "chipped:red_terracotta_tile"
+				},
+				{
+					"Name": "chipped:orange_terracotta_tile"
+				},
+				{
+					"Name": "chipped:yellow_terracotta_tile"
+				},
+				{
+					"Name": "chipped:lime_terracotta_tile"
+				},
+				{
+					"Name": "chipped:green_terracotta_tile"
+				},
+				{
+					"Name": "chipped:light_blue_terracotta_tile"
+				},
+				{
+					"Name": "chipped:blue_terracotta_tile"
+				},
+				{
+					"Name": "chipped:cyan_terracotta_tile"
+				},
+				{
+					"Name": "chipped:purple_terracotta_tile"
+				},
+				{
+					"Name": "chipped:magenta_terracotta_tile"
+				},
+				{
+					"Name": "chipped:pink_terracotta_tile"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:white_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:light_gray_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:gray_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:black_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:brown_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:red_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:orange_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:yellow_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:lime_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:green_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:light_blue_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:blue_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:cyan_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:purple_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:magenta_terracotta_tiles"
+				},
+				{
+					"Name": "chipped:pink_terracotta_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:wickered_white_wool"
+				},
+				{
+					"Name": "chipped:wickered_light_gray_wool"
+				},
+				{
+					"Name": "chipped:wickered_gray_wool"
+				},
+				{
+					"Name": "chipped:wickered_black_wool"
+				},
+				{
+					"Name": "chipped:wickered_brown_wool"
+				},
+				{
+					"Name": "chipped:wickered_red_wool"
+				},
+				{
+					"Name": "chipped:wickered_orange_wool"
+				},
+				{
+					"Name": "chipped:wickered_yellow_wool"
+				},
+				{
+					"Name": "chipped:wickered_lime_wool"
+				},
+				{
+					"Name": "chipped:wickered_green_wool"
+				},
+				{
+					"Name": "chipped:wickered_light_blue_wool"
+				},
+				{
+					"Name": "chipped:wickered_blue_wool"
+				},
+				{
+					"Name": "chipped:wickered_cyan_wool"
+				},
+				{
+					"Name": "chipped:wickered_purple_wool"
+				},
+				{
+					"Name": "chipped:wickered_magenta_wool"
+				},
+				{
+					"Name": "chipped:wickered_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:windmill_white_wool"
+				},
+				{
+					"Name": "chipped:windmill_light_gray_wool"
+				},
+				{
+					"Name": "chipped:windmill_gray_wool"
+				},
+				{
+					"Name": "chipped:windmill_black_wool"
+				},
+				{
+					"Name": "chipped:windmill_brown_wool"
+				},
+				{
+					"Name": "chipped:windmill_red_wool"
+				},
+				{
+					"Name": "chipped:windmill_orange_wool"
+				},
+				{
+					"Name": "chipped:windmill_yellow_wool"
+				},
+				{
+					"Name": "chipped:windmill_lime_wool"
+				},
+				{
+					"Name": "chipped:windmill_green_wool"
+				},
+				{
+					"Name": "chipped:windmill_light_blue_wool"
+				},
+				{
+					"Name": "chipped:windmill_blue_wool"
+				},
+				{
+					"Name": "chipped:windmill_cyan_wool"
+				},
+				{
+					"Name": "chipped:windmill_purple_wool"
+				},
+				{
+					"Name": "chipped:windmill_magenta_wool"
+				},
+				{
+					"Name": "chipped:windmill_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:wired_white_concrete"
+				},
+				{
+					"Name": "chipped:wired_light_gray_concrete"
+				},
+				{
+					"Name": "chipped:wired_gray_concrete"
+				},
+				{
+					"Name": "chipped:wired_black_concrete"
+				},
+				{
+					"Name": "chipped:wired_brown_concrete"
+				},
+				{
+					"Name": "chipped:wired_red_concrete"
+				},
+				{
+					"Name": "chipped:wired_orange_concrete"
+				},
+				{
+					"Name": "chipped:wired_yellow_concrete"
+				},
+				{
+					"Name": "chipped:wired_lime_concrete"
+				},
+				{
+					"Name": "chipped:wired_green_concrete"
+				},
+				{
+					"Name": "chipped:wired_light_blue_concrete"
+				},
+				{
+					"Name": "chipped:wired_blue_concrete"
+				},
+				{
+					"Name": "chipped:wired_cyan_concrete"
+				},
+				{
+					"Name": "chipped:wired_purple_concrete"
+				},
+				{
+					"Name": "chipped:wired_magenta_concrete"
+				},
+				{
+					"Name": "chipped:wired_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:woved_white_wool"
+				},
+				{
+					"Name": "chipped:woved_light_gray_wool"
+				},
+				{
+					"Name": "chipped:woved_gray_wool"
+				},
+				{
+					"Name": "chipped:woved_black_wool"
+				},
+				{
+					"Name": "chipped:woved_brown_wool"
+				},
+				{
+					"Name": "chipped:woved_red_wool"
+				},
+				{
+					"Name": "chipped:woved_orange_wool"
+				},
+				{
+					"Name": "chipped:woved_yellow_wool"
+				},
+				{
+					"Name": "chipped:woved_lime_wool"
+				},
+				{
+					"Name": "chipped:woved_green_wool"
+				},
+				{
+					"Name": "chipped:woved_light_blue_wool"
+				},
+				{
+					"Name": "chipped:woved_blue_wool"
+				},
+				{
+					"Name": "chipped:woved_cyan_wool"
+				},
+				{
+					"Name": "chipped:woved_purple_wool"
+				},
+				{
+					"Name": "chipped:woved_magenta_wool"
+				},
+				{
+					"Name": "chipped:woved_pink_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:woven_white_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_light_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_gray_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_black_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_brown_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_red_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_orange_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_yellow_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_lime_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_green_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_light_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_blue_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_cyan_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_purple_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_magenta_stained_glass"
+				},
+				{
+					"Name": "chipped:woven_pink_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "chipped:woven_white_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_light_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_gray_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_black_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_brown_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_red_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_orange_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_yellow_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_lime_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_green_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_light_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_blue_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_cyan_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_purple_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_magenta_stained_glass_pane"
+				},
+				{
+					"Name": "chipped:woven_pink_stained_glass_pane"
+				}
+			]
+		}
+	]
+}

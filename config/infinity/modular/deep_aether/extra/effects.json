@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Name": "deep_aether:moa_bonus_jumps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Name": "deep_aether:valkyrie_valor"
+			}
+		}
+	]
+}

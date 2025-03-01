@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#create:brittle"
+		},
+		{
+			"weight": 1.0,
+			"key": "#create:passive_boiler_heaters"
+		},
+		{
+			"weight": 1.0,
+			"key": "#create:safe_nbt"
+		},
+		{
+			"weight": 1.0,
+			"key": "#create:tree_attachments"
+		}
+	]
+}

@@ -1,0 +1,844 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#c:barrels"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:barrels/personal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:barrels/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:bookshelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:budding_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chains"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests/electric"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests/ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests/personal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests/trapped"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:chests/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:clusters"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:cobblestones"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:cobblestones/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:cobblestones/infested"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:cobblestones/mossy"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:cobblestones/normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:concretes"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dirts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:dyed/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:end_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fence_gates/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences/steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_blocks/cheap"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_blocks/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_blocks/tinted"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glass_panes/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:glazed_terracottas"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:gravels"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:hidden_from_recipe_viewers"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:mineable/knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:mineable/paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:netherracks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:obsidians"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:obsidians/crying"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:obsidians/normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_bearing_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_bearing_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_bearing_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_rates/dense"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_rates/singular"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_rates/sparse"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/atalphaite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/dawn_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/fluorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/netherite_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/saltpeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/swamp_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores/uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/eternal_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/haze_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/nightfall_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ores_in_ground/voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:player_workstations/crafting_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:player_workstations/furnaces"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:relocation_not_supported"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ropes"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sands"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sands/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sands/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/red_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/red_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/red_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/uncolored_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/uncolored_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sandstone/uncolored_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetal_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/constantan"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/electrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:sheetmetals/uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:skulls"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/aethersent"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/atalphaite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/beetroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/blutonium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/bronze"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/cabbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/certus_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/charcoal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/chromium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/coal_coke"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/constantan"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/dried_kelp"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/electrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/enderium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/fluorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/glacite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/golem_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/honeycombs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/onion"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/oxidized_golem_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_aethersent"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_amaramber"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/raw_uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/refined_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/refined_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/rice_panicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/saltpeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/sky_bronze"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/sky_osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/sky_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/straw"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/swamp_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:storage_blocks/wheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:stripped_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:stripped_woods"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:villager_job_sites"
+		}
+	]
+}

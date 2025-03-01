@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.a_morning_wish"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.above_the_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.atta"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.cyclone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.faent"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.himininn"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.locus_for_winds"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:item.music_disc.nabooru"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music.boss.eots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music.deep_aether"
+		}
+	]
+}

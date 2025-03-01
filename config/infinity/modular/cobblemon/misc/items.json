@@ -1,0 +1,2424 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ability_capsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ability_patch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ability_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:absorb_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:adamant_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:aguav_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:air_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_azure_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_azure_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_citrine_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_citrine_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_feather_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_feather_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_gigaton_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_gigaton_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_great_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_great_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_heavy_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_heavy_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_ivory_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_ivory_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_jet_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_jet_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_leaden_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_leaden_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_origin_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_origin_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_poke_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_poke_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_roseate_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_roseate_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_slate_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_slate_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_ultra_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_ultra_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_verdant_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_verdant_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_wing_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ancient_wing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:antidote"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apicot_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:apricorn_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:armor_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:aspear_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:assault_vest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:auspicious_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:automaton_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:awakening"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:azure_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:azure_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:babiri_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:beast_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:beast_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:belue_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:berry_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:berry_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:big_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:binding_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_augurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_tumblestone_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:bluk_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blunder_policy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:bold_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:braised_vivichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:brave_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:bright_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:bug_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:burn_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:bygone_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:calcium"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:calm_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:capture_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:carbos"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:careful_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cell_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:charcoal_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:charti_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cheri_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cherish_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cherish_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chesto_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chilan_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chipped_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_black_tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_polished_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_polished_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_polished_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_sky_tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chiseled_tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:choice_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:choice_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:choice_specs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:chople_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:citrine_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:citrine_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:claw_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cleanse_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:clever_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:clover_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:coarse_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:coba_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:colbur_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cornn_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cover_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:covert_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cracked_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:custap_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cyan_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:cyan_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:damp_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dark_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dawn_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dawn_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dawn_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deep_sea_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deep_sea_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_dawn_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_dusk_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_fire_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_ice_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_leaf_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_moon_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_shiny_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_sun_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_thunder_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:deepslate_water_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:destiny_knot"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dire_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:display_case"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dive_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dive_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dome_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dome_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dragon_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dragon_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dream_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dream_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dripstone_moon_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dubious_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:durin_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dusk_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dusk_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dusk_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dusk_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:dusk_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:eject_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:eject_pack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:electirizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:electric_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:electric_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:energy_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:enigma_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ether"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:everstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:eviolite"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_candy_l"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_candy_m"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_candy_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_candy_xl"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_candy_xs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:exp_share"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:expert_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fairy_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fairy_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fast_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fast_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fighting_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:figy_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fine_remedy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fire_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fire_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fire_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fire_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:flame_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:float_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:flower_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:flying_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:focus_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:focus_sash"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fossil_analyzer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fossilized_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fossilized_dino"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fossilized_drake"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:fossilized_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:friend_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:friend_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:full_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:full_restore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:galarica_cuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:galarica_nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:galarica_wreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ganlon_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:genius_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gentle_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ghost_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gimmighoul_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:grass_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:grassy_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:great_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:great_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:grepa_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ground_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:growth_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:guard_spec"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:haban_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hard_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hasty_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heal_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heal_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heal_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:healing_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:health_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heat_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heavy_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heavy_duty_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:heavy_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:helix_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:helix_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hondew_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hopo_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hp_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:humid_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:hyper_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:iapapa_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ice_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ice_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ice_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ice_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ice_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:icy_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:impish_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:iron_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:jaboca_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:jaw_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:jolly_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:kasib_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:kebia_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:kee_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:kelpsy_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:kings_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lansat_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:large_budding_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:large_budding_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:large_budding_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lax_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leaf_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leaf_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leaf_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lectern"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leek_and_potato_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leftovers"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:leppa_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:level_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:level_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:liechi_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:life_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:light_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:light_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:link_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:loaded_dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:loamy_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lonely_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:love_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:love_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:love_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lucky_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lum_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lure_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:lure_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:luxury_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:luxury_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:magmarizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mago_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:magost_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:malicious_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:maranga_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:master_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:master_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:masterpiece_teacup"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:max_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:max_ether"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:max_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:max_revive"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:medicinal_brew"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:medicinal_leek"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:medium_budding_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:medium_budding_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:medium_budding_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mental_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:metal_coat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:metal_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:metronome"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:micle_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mild_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:miracle_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mirror_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:misty_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:modest_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:moon_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:moon_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:moon_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:moon_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mulch_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:muscle_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:muscle_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:mystic_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:naive_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nanab_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:naughty_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nest_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nest_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:net_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:net_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nether_fire_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:never_melt_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nomel_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:normal_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:nostalgic_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:npc_editor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:occa_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:old_amber_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:oran_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:oval_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pamtre_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:paralyze_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:park_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:park_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:passho_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pasture"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:payapa_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pc"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:peat_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:peat_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pecha_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pep_up_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:persim_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:petaya_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pinap_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:plume_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poison_barb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poison_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:poke_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokedex_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokemon_model"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokerod_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_black_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_black_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_black_tumblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_sky_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_sky_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_sky_tumblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:polished_tumblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pomeg_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_anklet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_bracer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:power_weight"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pp_max"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pp_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:premier_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:premier_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:prism_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:protective_pads"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:protector"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:protein"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:psychic_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:psychic_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:punching_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:qualot_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:quick_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:quick_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:quick_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:quick_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:quiet_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rabuta_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rare_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rash_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rawst_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:razor_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:razor_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:razz_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:reaper_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:red_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:red_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:red_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:red_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:red_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:relaxed_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:relic_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:relic_coin_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:relic_coin_sack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:remedy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:repeat_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:repeat_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:resist_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:restoration_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:revival_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:revive"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ribbon_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rich_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rindo_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ring_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:roasted_leek"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rock_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rocky_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:room_service"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:root_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:roseate_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:roseate_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:roseli_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:rowap_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sachet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:safari_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:safari_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:safety_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sail_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:salac_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sandy_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sassy_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:scope_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:serious_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sharp_beak"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shed_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shell_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shell_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shiny_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shiny_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shiny_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:shuca_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:silk_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:silver_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sitrus_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:skull_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sky_tumblestone_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:slate_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:slate_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:small_budding_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:small_budding_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:small_budding_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smoke_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_black_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_black_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_black_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_sky_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_sky_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_sky_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_tumblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:smooth_tumblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:soft_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:soothe_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:spell_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:spelon_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sport_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sport_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:star_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:starf_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:steel_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sticky_barb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:strawberry_sweet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:stripped_apricorn_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:stripped_apricorn_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sun_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sun_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sun_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:super_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:superb_remedy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:surprise_mulch"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:suspicious_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:sweet_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:swift_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tamato_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tanga_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tart_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:terracotta_sun_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:terrain_extender"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:throat_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:thunder_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:thunder_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:thunder_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:timer_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:timer_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:timid_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:touga_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:toxic_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:tumblestone_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:twisted_spoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ultra_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:ultra_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:unremarkable_teacup"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:utility_umbrella"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:verdant_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:verdant_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:vivichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:vivichoke_dip"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:vivichoke_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:wacan_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:water_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:water_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:water_stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:water_stone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:watmel_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:weakness_policy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:wepear_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:whipped_dream"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_mint_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_mint_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:wide_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:wiki_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:wise_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_accuracy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_defence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_special_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_special_defence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:x_speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:yache_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:yellow_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:yellow_apricorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:yellow_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:zoom_lens"
+		}
+	]
+}

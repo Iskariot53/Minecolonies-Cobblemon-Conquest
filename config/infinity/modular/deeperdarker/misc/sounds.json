@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:ambient.otherside.additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:ambient.portal.groan"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.sculk_stone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.sculk_stone.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.sculk_stone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.sculk_stone.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.sculk_stone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.vase.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.vase.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.vase.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.vase.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:block.vase.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.angler_fish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.angler_fish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.angler_fish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.leech.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shattered.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shattered.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shattered.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shattered.notice"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shriek_worm.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shriek_worm.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.shriek_worm.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.snapper.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.snapper.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.snapper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.snapper.sniff"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.stalker.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.stalker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.stalker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:entity.stalker.notice"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:item.transmitter.error"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:item.transmitter.link"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:item.transmitter.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:item.transmitter.unlink"
+		}
+	]
+}

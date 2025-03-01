@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Name": "deeperdarker:sculk_affinity"
+			}
+		}
+	]
+}

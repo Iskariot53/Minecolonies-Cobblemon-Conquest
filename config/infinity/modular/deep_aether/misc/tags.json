@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:can_golden_vines_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:conberry_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:cruderoot_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:has_glowing_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:nimbus_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:rose_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:roseroot_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:sterling_aercloud_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:sunroot_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:totems"
+		},
+		{
+			"weight": 1.0,
+			"key": "#deep_aether:yagroot_logs"
+		}
+	]
+}

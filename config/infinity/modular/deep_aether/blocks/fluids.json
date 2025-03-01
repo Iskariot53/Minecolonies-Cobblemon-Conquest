@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "deep_aether:poison_fluid",
+				"Name": "deep_aether:poison"
+			}
+		}
+	]
+}

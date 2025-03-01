@@ -1,0 +1,1440 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aercloud_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aercloud_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aercloud_root_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aercloud_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerglow_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerglow_blossom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerglow_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerlavender"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aersmog"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerwhale_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aerwhale_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_mud_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_mud_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aether_mud_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:afterburner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:antidote"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:aseterite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:baby_zephyr_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:big_holystone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:big_holystone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:big_holystone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:big_holystone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:bio_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blade_of_luck"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blightmoss_holystone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_aercloud_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_aercloud_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_roseroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_roseroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:blue_squash_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:boss_doorway_light_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:boss_doorway_light_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:boss_doorway_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:boss_doorway_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:brass_dungeon_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:bronze_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:chaos_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:chiseled_holystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:chromatic_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:clorite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cloud_cape"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cloudbloom_bouquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cloudbloom_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cobbled_aseterite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cobbled_aseterite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cobbled_aseterite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cobbled_aseterite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:combiner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:conberry_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cooked_aerglow_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cooked_quail"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:cruderoot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:echaisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:enchanted_antidote"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:enchanted_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:feather_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:floaty_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:flowering_blue_roseroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:flowering_roseroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:frozen_goldenleaf_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gentle_wind_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gilded_holystone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:glowing_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gold_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_aspess"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_grass_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_heights_dirt_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_heights_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:golden_swet_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:goldenleaf_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:gravitite_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:green_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:green_squash_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:highstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_pillar_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_pillar_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:holystone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:iaspove"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:light_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:light_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:lightcap_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:lightcap_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:locked_light_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:locked_light_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:locked_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:locked_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:locked_skyroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:medal_of_honor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:medium_golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mini_golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:moa_fodder"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:moa_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:mossy_holystone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:muddy_yagroot_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_a_morning_wish"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_above_the_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_atta"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_cyclone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_faent"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_himininn"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:music_disc_nabooru"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:nimbus_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:nimbus_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:nimbus_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:packed_aether_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:pink_aercloud_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:pink_aercloud_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:poison_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_aseterite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_aseterite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_aseterite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_clorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_clorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:polished_clorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:purple_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:purple_squash_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:quail_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:quail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:radiant_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:rain_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_aerglow_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_clorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_clorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_clorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_clorite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:raw_quail"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:roseroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:rotten_roseroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:short_golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:silver_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sky_tulips"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_gloves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_moa_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyjade_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyroot_aerglow_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:skyroot_virulent_quicksand_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:slider_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:spooky_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:squash_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sterling_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:storm_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:storm_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stormforged_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stormforged_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stormforged_gloves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stormforged_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stormforged_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_gloves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stratus_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_conberry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_conberry_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_conberry_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_conberry_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_cruderoot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_cruderoot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_cruderoot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_cruderoot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_roseroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_roseroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_roseroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_roseroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_sunroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_sunroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_sunroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_sunroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_yagroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_yagroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_yagroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:stripped_yagroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sun_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sun_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_hanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:sunroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:tall_aerlavender"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:tall_aether_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:tall_alien_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:tall_feather_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:tall_golden_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:trapped_light_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:trapped_light_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:trapped_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:trapped_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:trapped_skyroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:treasure_doorway_light_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:treasure_doorway_light_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:treasure_doorway_nimbus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:treasure_doorway_nimbus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:venomite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:virulent_quicksand_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:wind_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:windfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:yagroot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_aether:zephyr_totem"
+		}
+	]
+}
