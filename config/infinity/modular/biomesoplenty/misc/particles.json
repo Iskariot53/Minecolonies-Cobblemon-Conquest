@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:binary"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dripping_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:end_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:falling_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowworm"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:landing_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:null"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pus"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowblossom_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:steam"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wisp_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:yellow_maple_leaves"
+		}
+	]
+}

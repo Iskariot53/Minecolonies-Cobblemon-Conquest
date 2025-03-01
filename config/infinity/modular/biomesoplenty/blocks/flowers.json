@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:burning_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:endbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lavender"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_cosmos"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pink_daffodil"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pink_hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:violet"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:waterlily"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_lavender"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wilted_lily"
+		}
+	]
+}

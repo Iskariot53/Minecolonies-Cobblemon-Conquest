@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:block.blood.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:block.flesh_tendon.drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:block.pus_bubble.pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:block.spider_egg.break"
+		}
+	]
+}

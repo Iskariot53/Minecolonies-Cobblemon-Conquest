@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "biomesoplenty:blood",
+				"Name": "biomesoplenty:blood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "biomesoplenty:liquid_null",
+				"Name": "biomesoplenty:liquid_null"
+			}
+		}
+	]
+}

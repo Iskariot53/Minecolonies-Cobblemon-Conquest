@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:blackstone_decoration_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:brimstone_decoration_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:dead_coral_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:dead_coral_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:dead_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:dead_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:dead_wall_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:empyreal_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:fir_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:flesh_decoration_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:hellbark_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:jacaranda_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:magic_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:mahogany_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:maple_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:null_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:null_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:palm_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:pine_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:redwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:tidepool_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:umbran_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#biomesoplenty:willow_logs"
+		}
+	]
+}

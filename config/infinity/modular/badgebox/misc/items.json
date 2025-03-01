@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "badgebox:badgesbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:badgesbox_ribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:fairy_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:ghost_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:grass_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:ice_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:mountain_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:poison_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:steel_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:thunder_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:wave_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "badgebox:wyvern_badge"
+		}
+	]
+}
