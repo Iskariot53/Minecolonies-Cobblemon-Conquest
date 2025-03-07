@@ -1,0 +1,406 @@
+{
+	autofocus_id: "0DFEC0DF582D9988"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mekanism"
+	group: "7C5E8979F01FD474"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "mekanism:quantum_entangloporter"
+	}
+	id: "0D98B33203B576DF"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mekanism:ingot_osmium"
+			}
+			id: "71070D1348F6EBF2"
+			size: 1.5d
+			tasks: [{
+				count: 6L
+				id: "5CF85FD278F2DA6D"
+				item: { count: 1, id: "mekanism:ingot_osmium" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["71070D1348F6EBF2"]
+			id: "744BF2D2E55A1511"
+			tasks: [{
+				id: "48BA68D98D82DF8C"
+				item: { count: 1, id: "mekanism:metallurgic_infuser" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A54CB7CC678C553"]
+			id: "0DFEC0DF582D9988"
+			tasks: [{
+				id: "27C16BAB6900FC12"
+				item: { count: 1, id: "mekanism:enrichment_chamber" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.285714285714292d
+		}
+		{
+			dependencies: ["744BF2D2E55A1511"]
+			id: "63440E310364A62A"
+			tasks: [
+				{
+					id: "245D6E717FCFB082"
+					item: { count: 1, id: "mekanism:enriched_iron" }
+					type: "item"
+				}
+				{
+					id: "301ED8DE75926FE6"
+					item: { count: 1, id: "mekanism:dust_steel" }
+					type: "item"
+				}
+				{
+					id: "00AD1133B558E012"
+					item: { count: 1, id: "mekanism:ingot_steel" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["63440E310364A62A"]
+			id: "1A54CB7CC678C553"
+			size: 1.5d
+			tasks: [{
+				id: "63BE4571A3BA22D2"
+				item: { count: 1, id: "mekanism:steel_casing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0DFEC0DF582D9988"]
+			id: "64C7CCAD15697CAF"
+			tasks: [{
+				id: "4447476B165D6E0D"
+				item: { count: 1, id: "mekanism:enriched_carbon" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0DFEC0DF582D9988"]
+			id: "5157EFB7AFF4E525"
+			tasks: [{
+				id: "32CA5817D6E18026"
+				item: { count: 1, id: "mekanism:enriched_redstone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0DFEC0DF582D9988"]
+			id: "72DCC1B8F79DDF5D"
+			tasks: [{
+				id: "1B6353D975F4B399"
+				item: { count: 1, id: "mekanism:enriched_diamond" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0DFEC0DF582D9988"]
+			id: "4C4BC66202FE4CEA"
+			tasks: [{
+				id: "27FCC9D87E7F48A5"
+				item: { count: 1, id: "mekanism:enriched_refined_obsidian" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B014E76BB899429"]
+			id: "4D97B36C553829F3"
+			tasks: [{
+				id: "0E097C48250DB1D4"
+				item: { count: 1, id: "mekanism:chemical_oxidizer" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["38FEAC55F958F1AF"]
+			id: "45C5145795B1BD29"
+			tasks: [{
+				id: "3906B4DFC98B94DD"
+				item: { count: 1, id: "mekanism:isotopic_centrifuge" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["3529BF2321A4EC4E"]
+			id: "0BC1B7B07FC3E8F1"
+			tasks: [{
+				id: "7EC13BD9798B8ED6"
+				item: { count: 1, id: "mekanism:solar_neutron_activator" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 16.0d
+		}
+		{
+			dependencies: [
+				"45C5145795B1BD29"
+				"3529BF2321A4EC4E"
+			]
+			id: "5E2E8F6B86F18A15"
+			tasks: [{
+				id: "625E65011AE5DC72"
+				item: { count: 1, id: "mekanism:pellet_plutonium" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"0BC1B7B07FC3E8F1"
+				"3529BF2321A4EC4E"
+			]
+			id: "73EFA418A2DD6732"
+			tasks: [{
+				id: "6CEBCCBDFC6D6CBB"
+				item: { count: 1, id: "mekanism:pellet_polonium" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["4B014E76BB899429"]
+			id: "3529BF2321A4EC4E"
+			tasks: [{
+				id: "41409EAD79291502"
+				item: { count: 1, id: "mekanism:pressurized_reaction_chamber" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["744BF2D2E55A1511"]
+			hide_dependency_lines: true
+			id: "68B188F4166F5D7F"
+			tasks: [{
+				id: "7207C39E254E0BFB"
+				item: { count: 1, id: "mekanism:alloy_infused" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["68B188F4166F5D7F"]
+			id: "0DD4E9D455135EA9"
+			tasks: [{
+				id: "1C7510B119A3EA8B"
+				item: { count: 1, id: "mekanism:alloy_reinforced" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0DD4E9D455135EA9"]
+			id: "2ABD0207F3170B90"
+			tasks: [{
+				id: "799D302F88171EEC"
+				item: { count: 1, id: "mekanism:alloy_atomic" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["744BF2D2E55A1511"]
+			hide_dependency_lines: true
+			id: "4B014E76BB899429"
+			tasks: [{
+				id: "215A91C5B777C1E4"
+				item: { count: 1, id: "mekanism:basic_control_circuit" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4B014E76BB899429"]
+			id: "0653F1F63884FF23"
+			tasks: [{
+				id: "21359DE4FA38C427"
+				item: { count: 1, id: "mekanism:advanced_control_circuit" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0653F1F63884FF23"]
+			id: "1FD8BF9F8FD76037"
+			tasks: [{
+				id: "048DCDD1C5202C24"
+				item: { count: 1, id: "mekanism:elite_control_circuit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["1FD8BF9F8FD76037"]
+			id: "38FEAC55F958F1AF"
+			tasks: [{
+				id: "2E62D2E8B04C4014"
+				item: { count: 1, id: "mekanism:ultimate_control_circuit" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4B014E76BB899429"]
+			id: "4FA8A47B669B78FE"
+			tasks: [{
+				id: "431C4F61DD71A6F4"
+				item: { count: 1, id: "mekanism:electrolytic_separator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"5E2E8F6B86F18A15"
+				"73EFA418A2DD6732"
+			]
+			id: "62135299C53DAEC4"
+			tasks: [{
+				id: "7655D66335781688"
+				item: { count: 1, id: "mekanism:sps_casing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: [
+				"62135299C53DAEC4"
+				"6B78992C7D17BD78"
+			]
+			id: "0AA9DD3766093E67"
+			size: 1.5d
+			tasks: [{
+				id: "403456746519EE4E"
+				item: { count: 1, id: "mekanism:pellet_antimatter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: [
+				"118623DACF6DC891"
+				"38FEAC55F958F1AF"
+			]
+			id: "6B78992C7D17BD78"
+			tasks: [{
+				id: "3FD225D4E0A2CD7F"
+				item: { count: 1, id: "mekanism:chemical_crystallizer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0653F1F63884FF23"]
+			hide_dependency_lines: true
+			id: "118623DACF6DC891"
+			tasks: [{
+				id: "39E7AE37355B9A1B"
+				item: { count: 1, id: "mekanism:osmium_compressor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["4D97B36C553829F3"]
+			hide_dependency_lines: true
+			id: "794D846686D3A832"
+			tasks: [{
+				id: "273CB2B798BDED16"
+				item: { count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "architects_palette:hazard_sign"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 2.0d
+			id: "04DDEFA8BA558E67"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "6EF9ECA8985AD2C4"
+					type: "checkmark"
+				}
+				{
+					id: "0EE70517609488D2"
+					type: "checkmark"
+				}
+				{
+					id: "76EFE8361A1414B6"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["3529BF2321A4EC4E"]
+			id: "4B1FE35ACC2A0E2A"
+			tasks: [{
+				id: "1BD80E90D4E997B0"
+				item: { count: 1, id: "mekanism:hdpe_pellet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+	]
+}

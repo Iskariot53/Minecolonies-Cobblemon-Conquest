@@ -1,0 +1,478 @@
+{
+	autofocus_id: "3BA6F9CD59088C7D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "4F7311E6BA484B49"
+	hide_quest_until_deps_complete: true
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "3ADA6E43741748B5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			id: "47AE4FC2CC059CEE"
+			tasks: [
+				{
+					id: "6C76E1B4F4B226F0"
+					item: { count: 1, id: "immersiveengineering:hammer" }
+					type: "item"
+				}
+				{
+					id: "192549952FA73033"
+					item: { count: 1, id: "immersiveengineering:wirecutter" }
+					type: "item"
+				}
+				{
+					id: "309BE4C5E969E2D2"
+					item: { count: 1, id: "immersiveengineering:screwdriver" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["704FD1152464AD1B"]
+			id: "78DB561AC5365AAC"
+			tasks: [{
+				id: "0D2F1A2F57D13ADC"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			id: "5BF30AA21250A283"
+			tasks: [{
+				id: "043DB124C8E1E489"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -9.5d
+		}
+		{
+			id: "704FD1152464AD1B"
+			size: 2.0d
+			tasks: [{
+				id: "5D6D55068AB77D99"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			id: "1DFF87F008F7D95A"
+			size: 1.5d
+			tasks: [{
+				id: "7A6FA88D4C684C57"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: -6.0d
+		}
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			id: "21D8191BE6CC46B7"
+			size: 1.5d
+			tasks: [{
+				id: "748813491C9B2742"
+				item: { count: 1, id: "rctmod:trainer_spawner" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"47AE4FC2CC059CEE"
+				"34295F4932C40D1D"
+			]
+			id: "3BA6F9CD59088C7D"
+			size: 1.25d
+			tasks: [{
+				id: "1221485F41EEAB13"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			id: "34295F4932C40D1D"
+			size: 1.25d
+			tasks: [{
+				id: "3FD6475E1B452475"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["704FD1152464AD1B"]
+			id: "6D2638F72AEDA63E"
+			tasks: [{
+				id: "17C76AE741FEB6BB"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["704FD1152464AD1B"]
+			id: "07642BFD8BE9A0E5"
+			tasks: [
+				{
+					id: "3AE31216E6167104"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "7042A68E1CA4DE74"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorn_sprouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"47AE4FC2CC059CEE"
+				"3036F5CAE085055D"
+			]
+			dependency_requirement: "one_completed"
+			id: "40A6F8988EEF04A1"
+			min_required_dependencies: 2
+			size: 1.5d
+			tasks: [{
+				id: "44542901125563EC"
+				item: { count: 1, id: "immersiveengineering:cloche" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4B39B274E4AC881D"]
+			id: "718CFC6D4D3C7824"
+			tasks: [{
+				id: "45FB2F4443CBFC58"
+				item: { count: 1, id: "tmtceic:mold_pokeball_frame" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["546060A7E7AA9A09"]
+			hide_dependent_lines: true
+			id: "5168C52323A809E0"
+			tasks: [{
+				id: "25D28BDE07E73E29"
+				item: { count: 1, id: "tmtceic:aluminum_pokeball_frame" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5BF30AA21250A283"]
+			id: "16C59B6311832A6D"
+			tasks: [{
+				id: "54FBB6D18E87EAB1"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"16C59B6311832A6D"
+				"718CFC6D4D3C7824"
+			]
+			id: "46028668D25936A3"
+			tasks: [{
+				id: "0300CDFD8FB336AE"
+				item: { count: 1, id: "tmtceic:netherite_pokeball_frame" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47AE4FC2CC059CEE"]
+			id: "27566499D60DF15E"
+			tasks: [{
+				id: "27073AA9DB89776D"
+				item: { count: 1, id: "immersiveengineering:craftingtable" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["27566499D60DF15E"]
+			id: "4B39B274E4AC881D"
+			tasks: [{
+				id: "234FD876A9EA2BB4"
+				item: { count: 1, id: "immersiveengineering:workbench" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["46028668D25936A3"]
+			id: "5DDCDC6AA7C673EE"
+			tasks: [{
+				id: "27DBD0542FFF0C0D"
+				item: { count: 1, id: "cobblemon:master_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "63A903AE420482B8"
+			tasks: [{
+				id: "65134B9936891652"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "54C397636A7BE97F"
+			tasks: [{
+				id: "18B6D1A921260C56"
+				item: { count: 1, id: "cobblemon:citrine_ball" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "191299BE6CF98EBE"
+			tasks: [{
+				id: "602AA95969B3D5C2"
+				item: { count: 1, id: "cobblemon:verdant_ball" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "3190E98596E385A4"
+			tasks: [{
+				id: "48C85FAA4CB5E1B5"
+				item: { count: 1, id: "cobblemon:azure_ball" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "525A1E65E686A172"
+			tasks: [{
+				id: "3FBF96C98F8FE0AA"
+				item: { count: 1, id: "cobblemon:roseate_ball" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "1D66C07A85CA61AB"
+			tasks: [{
+				id: "24630E924B1D5263"
+				item: { count: 1, id: "cobblemon:premier_ball" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "725855014BA78449"
+			tasks: [{
+				id: "459F756584430E4F"
+				item: { count: 1, id: "cobblemon:great_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "762A1DFE1B379C05"
+			tasks: [{
+				id: "7F545C12BFC6206F"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5168C52323A809E0"]
+			id: "7F3E313BAAF44EB5"
+			tasks: [{
+				id: "347FD27488883602"
+				item: { count: 1, id: "cobblemon:cherish_ball" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			id: "6BBE6B0C7DA24F2F"
+			tasks: [{
+				id: "15E15643DEF05A7A"
+				item: { count: 1, id: "cobblemon:display_case" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "7C355D692616D027"
+			tasks: [{
+				id: "31ABFD5C225E388D"
+				item: { count: 1, id: "brendons_bottlecaps:atksilvercap" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "64A188BE19792FD3"
+			tasks: [{
+				id: "31994454A6D2A4FC"
+				item: { count: 1, id: "brendons_bottlecaps:spatksilvercap" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "17216E843CA17E2A"
+			tasks: [{
+				id: "3D14DF39BF54D2FA"
+				item: { count: 1, id: "brendons_bottlecaps:spdefsilvercap" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "34AACB0D767A0C31"
+			tasks: [{
+				id: "2DF62FE36E1ED038"
+				item: { count: 1, id: "brendons_bottlecaps:speedsilvercap" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "69E5C38523545A37"
+			tasks: [{
+				id: "7660B6CB948CD0EE"
+				item: { count: 1, id: "brendons_bottlecaps:defsilvercap" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["6D2638F72AEDA63E"]
+			hide_dependency_lines: true
+			id: "1EE81976D5F49F60"
+			tasks: [{
+				id: "5CECF77878FC8016"
+				item: { count: 1, id: "brendons_bottlecaps:hpsilvercap" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"6BBE6B0C7DA24F2F"
+				"5BF30AA21250A283"
+			]
+			id: "6933F31C26EB3393"
+			size: 1.5d
+			tasks: [{
+				id: "059D49D3886269F5"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["718CFC6D4D3C7824"]
+			id: "546060A7E7AA9A09"
+			tasks: [{
+				id: "2997015B3A46C06F"
+				item: { count: 1, id: "immersiveengineering:metal_press" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["07642BFD8BE9A0E5"]
+			id: "6298076755AB1708"
+			tasks: [{
+				id: "7C757E6102D1C95E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:berries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6298076755AB1708"]
+			id: "3036F5CAE085055D"
+			tasks: [{
+				id: "55143C17D399E5D3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -8.0d
+		}
+	]
+}

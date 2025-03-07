@@ -1,0 +1,696 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon"
+	group: "4F7311E6BA484B49"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "cobblemon:ultra_ball"
+	}
+	id: "1900D81E9D2138D9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			id: "222C9B14E10E8E98"
+			tasks: [{
+				id: "50ED1A4988106180"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			id: "657BF3CA6C6AE395"
+			tasks: [{
+				id: "20BB49FE65333616"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["657BF3CA6C6AE395"]
+			id: "3B0D000773C23181"
+			tasks: [{
+				id: "32B4A22EF36E233D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:pokedex)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			id: "65BDC745BA8DBD4D"
+			tasks: [{
+				id: "60299BAECD763ACC"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			id: "0A1CA85957B045FC"
+			tasks: [{
+				id: "616F9E31F8E17F36"
+				item: { count: 1, id: "rctmod:trainer_spawner" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "02C28EADBE69CA9A"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_any"
+				criterion: ""
+				id: "43724AD6D8CE6777"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["02C28EADBE69CA9A"]
+			id: "483B482CC112C494"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				id: "492DAEFF6BEDD746"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["483B482CC112C494"]
+			id: "0BC132C441FC7598"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_1"
+				criterion: ""
+				id: "6440CB0B56CD9136"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0BC132C441FC7598"]
+			id: "2241A9BBD6153119"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_1"
+				criterion: ""
+				id: "3D0E9BC7AC0550C1"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2241A9BBD6153119"]
+			id: "499B398F25A88F68"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				id: "305C4C598A2BFC9C"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["499B398F25A88F68"]
+			id: "7425ABFB2D688DB8"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_1"
+				criterion: ""
+				id: "7FC12351C60934EA"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "39DAC28F62C0107F"
+			tasks: [{
+				id: "606D8421688F694F"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2A3FEE4FB40227DD"
+			tasks: [{
+				id: "7B5D5B251386980D"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5862BF0408DBDFEA"]
+			id: "127A9CE351F8E89A"
+			tasks: [{
+				id: "4EDB1EB9FC2BB782"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mints)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.5d
+		}
+		{
+			id: "28467C18C3459289"
+			tasks: [{
+				id: "4362569E21D6B35E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["28467C18C3459289"]
+			id: "5862BF0408DBDFEA"
+			tasks: [{
+				id: "508B5822C2DFE033"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_leaf)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 2.0d
+		}
+		{
+			id: "7078E004A4888746"
+			tasks: [{
+				id: "66AAFECE9D90B08C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:berries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"7078E004A4888746"
+				"1AD71F6AED87A500"
+			]
+			id: "6496A7D271CED34A"
+			tasks: [{
+				id: "76743D5A09000B46"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:vitamins)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			id: "0F6F23ECCD9BEC3F"
+			tasks: [{
+				id: "09DCBA0E7A17487B"
+				item: { count: 1, id: "cobblemon:medicinal_leek" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0F6F23ECCD9BEC3F"]
+			id: "1AD71F6AED87A500"
+			tasks: [{
+				id: "3D3E4DAEF526B89A"
+				item: { count: 1, id: "cobblemon:medicinal_brew" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "brendons_bottlecaps:goldencap"
+			}
+			id: "0D02A273BDFC0880"
+			tasks: [{
+				id: "63E97663311EB81B"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"222C9B14E10E8E98"
+				"657BF3CA6C6AE395"
+			]
+			id: "5CD9F6B3696657B7"
+			tasks: [{
+				id: "15A0FEECE4178A9A"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"5CD9F6B3696657B7"
+				"657BF3CA6C6AE395"
+			]
+			id: "5A0C1BEAEAA73654"
+			tasks: [{
+				id: "7ECEFD3BC8E8058F"
+				item: { count: 1, id: "cobblemon:great_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"5A0C1BEAEAA73654"
+				"657BF3CA6C6AE395"
+			]
+			id: "4D923C6A898E849A"
+			tasks: [{
+				id: "02386A49DFD6B9DD"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["657BF3CA6C6AE395"]
+			id: "3EA4F9F9E66E884C"
+			tasks: [{
+				id: "6EF8F36F34603FCA"
+				item: { count: 1, id: "cobblemon:quick_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["657BF3CA6C6AE395"]
+			id: "204CFC5D7297B511"
+			tasks: [{
+				id: "339492D30FF42129"
+				item: { count: 1, id: "cobblemon:timer_ball" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["657BF3CA6C6AE395"]
+			id: "364913280A3CA451"
+			tasks: [{
+				id: "767AE2B958DFA87E"
+				item: { count: 1, id: "cobblemon:safari_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "34CD25F44A1D9879"
+			tasks: [{
+				id: "7D6DDCE011313689"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "00561B81705B3506"
+			tasks: [{
+				id: "0D8AAC2AA202DD24"
+				item: { count: 1, id: "cobblemon:fast_ball" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			id: "1942BEDE7ADF7123"
+			tasks: [{
+				id: "55DB7482B353534E"
+				item: { count: 1, id: "cobblemon:level_ball" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			id: "18379C88D93F18F6"
+			tasks: [{
+				id: "0C9CCB03BC8E697A"
+				item: { count: 1, id: "cobblemon:lure_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			id: "736A1870C544012D"
+			tasks: [{
+				id: "39032835EC70CD5D"
+				item: { count: 1, id: "cobblemon:heavy_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			id: "36D3DAC16DEB5AD6"
+			tasks: [{
+				id: "21AB47053F5F3F46"
+				item: { count: 1, id: "cobblemon:love_ball" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			id: "77A2104354AFC6BF"
+			tasks: [{
+				id: "163DD1545D5475B0"
+				item: { count: 1, id: "cobblemon:friend_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			id: "6E83DF1E8C3419F8"
+			tasks: [{
+				id: "04A801465B17DA56"
+				item: { count: 1, id: "cobblemon:moon_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			id: "75F67AE518C2DA9B"
+			tasks: [{
+				id: "66CFB363099D992B"
+				item: { count: 1, id: "cobblemon:sport_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			id: "097D9D942864EA04"
+			tasks: [{
+				id: "2FE327A1072CC682"
+				item: { count: 1, id: "cobblemon:park_ball" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			id: "119B4B3AFE7945FF"
+			tasks: [{
+				id: "7D24FD4A5227DC93"
+				item: { count: 1, id: "cobblemon:net_ball" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.5d
+		}
+		{
+			id: "3673C1903B0CE671"
+			tasks: [{
+				id: "22FB2717BB4883DA"
+				item: { count: 1, id: "cobblemon:dive_ball" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			id: "17016A1F9EE209F8"
+			tasks: [{
+				id: "04E200A6B98204AE"
+				item: { count: 1, id: "cobblemon:nest_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			id: "68F15E8270BCA001"
+			tasks: [{
+				id: "71BCB126D343F3A7"
+				item: { count: 1, id: "cobblemon:repeat_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			id: "090637FD2F27EF38"
+			tasks: [{
+				id: "578FA05B273FF8E2"
+				item: { count: 1, id: "cobblemon:luxury_ball" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			id: "6E40224494C4BA3B"
+			tasks: [{
+				id: "024697CD9F7E87C1"
+				item: { count: 1, id: "cobblemon:dusk_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			id: "3154C557DCBBED72"
+			tasks: [{
+				id: "6EAC3EDCFF0C6E1A"
+				item: { count: 1, id: "cobblemon:heal_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			id: "14E08AC6E6BD7900"
+			tasks: [{
+				id: "734F8354AB2C35A3"
+				item: { count: 1, id: "cobblemon:dream_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			id: "33DBC8506A6C8C05"
+			tasks: [{
+				id: "1CC1903461B163AC"
+				item: { count: 1, id: "cobblemon:beast_ball" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			id: "7AC247633CD97DF3"
+			tasks: [{
+				id: "006778971AE841F2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tumblestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			id: "5C2DB8593D1CC71E"
+			tasks: [{
+				id: "084DE124034FB2B9"
+				item: { count: 1, id: "cobblemon:ancient_poke_ball" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 12.0d
+		}
+		{
+			id: "2DD5628BA71289FB"
+			tasks: [{
+				id: "6A4E48F34EB5406A"
+				item: { count: 1, id: "cobblemon:ancient_citrine_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 11.0d
+		}
+		{
+			id: "7F5F699B2D362D62"
+			tasks: [{
+				id: "2EAFE98F2B538D58"
+				item: { count: 1, id: "cobblemon:ancient_verdant_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 11.0d
+		}
+		{
+			id: "135D4ED2385076F3"
+			tasks: [{
+				id: "71930E85A87DE0A0"
+				item: { count: 1, id: "cobblemon:ancient_azure_ball" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			id: "11EDF87A42BEF706"
+			tasks: [{
+				id: "3A0799FA1A4494A5"
+				item: { count: 1, id: "cobblemon:ancient_roseate_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.0d
+		}
+		{
+			id: "3256D2B1A3443339"
+			tasks: [{
+				id: "461B7D139B4594FB"
+				item: { count: 1, id: "cobblemon:ancient_slate_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 11.0d
+		}
+		{
+			id: "71AEEAE69486D4B7"
+			tasks: [{
+				id: "30A7E58373F6A5F2"
+				item: { count: 1, id: "cobblemon:ancient_ivory_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			id: "44DC61C79AB908AA"
+			tasks: [{
+				id: "4C17F28203E69936"
+				item: { count: 1, id: "cobblemon:ancient_great_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			id: "0BC4C12CC74F0A09"
+			tasks: [{
+				id: "3452E4CA1BF5419B"
+				item: { count: 1, id: "cobblemon:ancient_ultra_ball" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			id: "3BFEF224932A283F"
+			tasks: [{
+				id: "07C6E8A5EFE5B71E"
+				item: { count: 1, id: "cobblemon:ancient_feather_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 13.0d
+		}
+		{
+			id: "2E55EFC259702CE6"
+			tasks: [{
+				id: "1A04D1E363264118"
+				item: { count: 1, id: "cobblemon:ancient_wing_ball" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 13.0d
+		}
+		{
+			id: "71C7AD0347F0F209"
+			tasks: [{
+				id: "33C90F4A34C5C5E1"
+				item: { count: 1, id: "cobblemon:ancient_jet_ball" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.0d
+		}
+		{
+			id: "27F847C4D972FA86"
+			tasks: [{
+				id: "0C76655714522008"
+				item: { count: 1, id: "cobblemon:ancient_heavy_ball" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			id: "5DDF026229B0862F"
+			tasks: [{
+				id: "6B8A39A519C4EEED"
+				item: { count: 1, id: "cobblemon:ancient_leaden_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.0d
+		}
+		{
+			id: "40924A4D8EC9FA22"
+			tasks: [{
+				id: "3D9DAF2E10B69027"
+				item: { count: 1, id: "cobblemon:ancient_gigaton_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"39DAC28F62C0107F"
+				"2A3FEE4FB40227DD"
+			]
+			icon: {
+				id: "cobblemon_smartphone:red_smartphone"
+			}
+			id: "5B698AB7FE032025"
+			tasks: [{
+				id: "2C2A9B9BCAD65D65"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+	]
+}

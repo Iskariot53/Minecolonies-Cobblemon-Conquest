@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_usuals_vanilla"
+	group: "2D51A79A011E57C1"
+	id: "5A044D3EF83367C3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

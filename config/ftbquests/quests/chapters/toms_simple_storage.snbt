@@ -1,0 +1,278 @@
+{
+	autofocus_id: "5EDA313229862382"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "toms_simple_storage"
+	group: "6D629D6C6B01FD7C"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
+	id: "5E8B386358D2260F"
+	images: [{
+		dependency: "06F6FB4557C2EFCB"
+		height: 4.0d
+		image: "ccextras:textures/toms_auto_sorting.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 13.0d
+		y: 5.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:chest"
+			}
+			icon_scale: 1.3d
+			id: "5975E292A7528076"
+			size: 2.0d
+			tasks: [{
+				id: "26C6F3673D29AE2F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5975E292A7528076"]
+			id: "03C85DC2F154684B"
+			size: 1.5d
+			tasks: [{
+				id: "66273EA29B8AF47A"
+				item: { count: 1, id: "toms_storage:storage_terminal" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03C85DC2F154684B"]
+			icon_scale: 1.5d
+			id: "78DC4A5D9E49BE0E"
+			size: 1.0d
+			tasks: [{
+				id: "746C9088644E33AD"
+				item: { count: 1, id: "toms_storage:crafting_terminal" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03C85DC2F154684B"]
+			id: "6CE068D4A1B95EB9"
+			size: 1.5d
+			tasks: [{
+				id: "71E7BF671080B400"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6CE068D4A1B95EB9"]
+			id: "06F6FB4557C2EFCB"
+			size: 1.5d
+			tasks: [
+				{
+					count: 6L
+					id: "74C22635ECAB0A7D"
+					item: { count: 1, id: "toms_storage:inventory_cable" }
+					type: "item"
+				}
+				{
+					id: "6A9D8AD6F9ECEF6D"
+					item: { count: 1, id: "toms_storage:inventory_cable_connector" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6CE068D4A1B95EB9"]
+			id: "43763E012BBF5951"
+			size: 1.0d
+			tasks: [{
+				count: 2L
+				id: "1E5829CCB1E9E1C8"
+				item: { count: 1, id: "toms_storage:trim" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["06F6FB4557C2EFCB"]
+			id: "483153D5181940D0"
+			size: 1.5d
+			tasks: [
+				{
+					id: "5973DB2AB29FF5F9"
+					item: { count: 1, id: "toms_storage:basic_inventory_hopper" }
+					type: "item"
+				}
+				{
+					id: "349E8A1D91149A7D"
+					item: { count: 1, id: "toms_storage:item_filter" }
+					type: "item"
+				}
+				{
+					id: "0715D1171B16D70A"
+					item: { count: 1, id: "toms_storage:open_crate" }
+					type: "item"
+				}
+			]
+			x: 9.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["483153D5181940D0"]
+			id: "480754D635A66A50"
+			size: 1.0d
+			tasks: [
+				{
+					id: "5A9CABFE8443C973"
+					item: { count: 1, id: "toms_storage:item_filter" }
+					type: "item"
+				}
+				{
+					id: "3E8B4299F8E2437D"
+					item: { count: 1, id: "toms_storage:tag_item_filter" }
+					type: "item"
+				}
+				{
+					id: "1AAFBFA3EB59EDFF"
+					item: { count: 1, id: "toms_storage:polymorphic_item_filter" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["03C85DC2F154684B"]
+			id: "43313C5DC0B1A869"
+			size: 1.0d
+			tasks: [{
+				id: "2A969C4B834CD4F9"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["43313C5DC0B1A869"]
+			id: "7AF413345F4556FF"
+			size: 1.0d
+			tasks: [{
+				id: "56AA4292D2C98B68"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["06F6FB4557C2EFCB"]
+			id: "5071993FEB516DF2"
+			tasks: [{
+				id: "53814FB193B84505"
+				item: { count: 1, id: "toms_storage:level_emitter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06F6FB4557C2EFCB"]
+			id: "67A58B04577F0602"
+			tasks: [
+				{
+					id: "0F510E97E92FDCA1"
+					item: { count: 1, id: "toms_storage:inventory_cable_framed" }
+					type: "item"
+				}
+				{
+					id: "44EF491F95593351"
+					item: { count: 1, id: "toms_storage:inventory_cable_connector_framed" }
+					type: "item"
+				}
+				{
+					id: "1B66527B36A3D455"
+					item: { count: 1, id: "toms_storage:paint_kit" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5975E292A7528076"]
+			id: "7C8E2FFA1BD65AE6"
+			tasks: [{
+				id: "4DD9FEB722CABFCB"
+				item: { count: 1, id: "toms_storage:inventory_proxy" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_visible: true
+			id: "5EDA313229862382"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				count: 999L
+				id: "67CA9A067CA67384"
+				item: { }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "architects_palette:hazard_sign"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 2.0d
+			id: "6C7C99CA68DE0223"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "7FB9C78D0420BE9B"
+					type: "checkmark"
+				}
+				{
+					id: "17CEA0136E403707"
+					type: "checkmark"
+				}
+				{
+					id: "644AE0D933A004E5"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
+		}
+	]
+}
