@@ -18,100 +18,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "minecolonies:caledonia_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:medieval_spruce_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
 				"id": "minecolonies:desertoasis_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:ship"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:desert_camp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:amazon_camp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:medieval_dark_oak_colony"
 			}
 		},
 		{
@@ -153,70 +60,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "minecolonies:medieval_oak_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:medieval_birch_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:shire_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 100,
-								"minCount": 1,
-								"type": "minecraft:cat",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:lostmesacity_colony"
+				"id": "minecolonies:medieval_dark_oak_colony"
 			}
 		},
 		{
@@ -258,7 +102,173 @@
 					}
 				},
 				"step": "surface_structures",
+				"id": "minecolonies:medieval_birch_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:caledonia_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:lostmesacity_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
 				"id": "minecolonies:colonial_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:barbarian_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:shire_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:amazon_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:medieval_spruce_colony"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:desert_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 100,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecolonies:medieval_oak_colony"
 			}
 		},
 		{
@@ -280,16 +290,6 @@
 				},
 				"step": "surface_structures",
 				"id": "minecolonies:warpednetherlands_colony"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecolonies:barbarian_camp"
 			}
 		}
 	]

@@ -2,111 +2,111 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#terralith:alt_stones"
+			"key": "terralith:alt_stones"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:calcite"
+			"key": "terralith:calcite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:calcite_moss"
+			"key": "terralith:calcite_moss"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:cobbled_deepslate"
+			"key": "terralith:cobbled_deepslate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:cobblestone_snow"
+			"key": "terralith:cobblestone_snow"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:deepslate"
+			"key": "terralith:deepslate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:dirt_and_stone"
+			"key": "terralith:dirt_and_stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:grass_block"
+			"key": "terralith:grass_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:gravel_stone"
+			"key": "terralith:gravel_stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:island_ban"
+			"key": "terralith:island_ban"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:island_ban_winter"
+			"key": "terralith:island_ban_winter"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:island_blocks"
+			"key": "terralith:island_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:mud"
+			"key": "terralith:mud"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:sandstones"
+			"key": "terralith:sandstones"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:sandy_blocks"
+			"key": "terralith:sandy_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:savanna_granite"
+			"key": "terralith:savanna_granite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:savanna_terracotta"
+			"key": "terralith:savanna_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:soil"
+			"key": "terralith:soil"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:soil_and_gravel"
+			"key": "terralith:soil_and_gravel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:soil_stone"
+			"key": "terralith:soil_stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:stone"
+			"key": "terralith:stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:stone_diorite"
+			"key": "terralith:stone_diorite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:stop_emerald_geode"
+			"key": "terralith:stop_emerald_geode"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:tuff"
+			"key": "terralith:tuff"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:underground_jungle_replaceable"
+			"key": "terralith:underground_jungle_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:volcano_barrier"
+			"key": "terralith:volcano_barrier"
 		},
 		{
 			"weight": 1.0,
-			"key": "#terralith:volcano_blocks"
+			"key": "terralith:volcano_blocks"
 		}
 	]
 }

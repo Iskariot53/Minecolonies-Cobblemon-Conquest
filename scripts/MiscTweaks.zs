@@ -11,7 +11,7 @@ craftingTable.addJsonRecipe("cobblemon.healing_machine",
             "item": "mekanism:ingot_osmium"
         },
         "B": {
-            "item": "minecraft:iron_ingot"
+            "item": "create:brass_ingot"
         },
 		"C": {
             "item": "mekanism:alloy_infused"
@@ -22,3 +22,4 @@ craftingTable.addJsonRecipe("cobblemon.healing_machine",
         "id": "cobblemon:healing_machine"
     }
 });
+craftingTable.remove(<item:tiab:time_in_a_bottle>);

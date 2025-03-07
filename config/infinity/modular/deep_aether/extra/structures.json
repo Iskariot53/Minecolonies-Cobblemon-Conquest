@@ -7,26 +7,6 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "deep_aether:altar_camp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "deep_aether:combiner_corridor"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "deep_aether:campfire"
 			}
 		},
@@ -40,12 +20,12 @@
 						"spawns": [
 						]
 					},
-					"aether_aether_sky_monster": {
+					"underground_water_creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"underground_water_creature": {
+					"aether_aether_sky_monster": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -65,7 +45,12 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_aether_aerwhale": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -75,12 +60,7 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_aether_aerwhale": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -98,6 +78,26 @@
 				},
 				"step": "surface_structures",
 				"id": "deep_aether:brass_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "deep_aether:altar_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "deep_aether:combiner_corridor"
 			}
 		}
 	]

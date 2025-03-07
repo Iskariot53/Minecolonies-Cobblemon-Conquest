@@ -4,6 +4,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 6441624,
+				"Instant": false,
 				"Name": "immersiveengineering:concrete_feet"
 			}
 		},
@@ -11,6 +13,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 6881280,
+				"Instant": false,
 				"Name": "immersiveengineering:conductive"
 			}
 		},
@@ -18,6 +22,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 9387807,
+				"Instant": false,
 				"Name": "immersiveengineering:flammable"
 			}
 		},
@@ -25,6 +31,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 6441624,
+				"Instant": false,
 				"Name": "immersiveengineering:flashed"
 			}
 		},
@@ -32,6 +40,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 1511427,
+				"Instant": false,
 				"Name": "immersiveengineering:slippery"
 			}
 		},
@@ -39,6 +49,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 10250240,
+				"Instant": false,
 				"Name": "immersiveengineering:sticky"
 			}
 		},
@@ -46,6 +58,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 6441624,
+				"Instant": false,
 				"Name": "immersiveengineering:stunned"
 			}
 		}

@@ -2,11 +2,11 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#toughasnails:cooling_blocks"
+			"key": "toughasnails:cooling_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#toughasnails:heating_blocks"
+			"key": "toughasnails:heating_blocks"
 		}
 	]
 }

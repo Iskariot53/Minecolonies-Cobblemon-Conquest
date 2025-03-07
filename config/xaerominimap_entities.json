@@ -1,6 +1,8 @@
 {
-  "hardInclude": "anything",
-  "includeList": [],
+  "hardInclude": "nothing",
+  "includeList": [
+    "cobblemon:pokemon"
+  ],
   "includeListInSuperCategory": true,
   "excludeMode": "ONLY",
   "excludeList": [
@@ -23,8 +25,8 @@
     "renderOverMinimapFrame": 1.0,
     "icons": 2.0,
     "heightLimit": 20.0,
-    "names": 0.0,
-    "iconScale": 1.3
+    "names": 1.0,
+    "iconScale": 1.1500000000000001
   },
   "subCategories": [
     {
@@ -41,9 +43,9 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 2.0,
-        "names": 0.0,
         "color": 14.0,
-        "icons": 2.0
+        "icons": 2.0,
+        "names": 0.0
       },
       "subCategories": [
         {
@@ -56,8 +58,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {

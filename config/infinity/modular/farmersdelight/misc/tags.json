@@ -2,55 +2,55 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:campfire_signal_smoke"
+			"key": "farmersdelight:campfire_signal_smoke"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:compost_activators"
+			"key": "farmersdelight:compost_activators"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:drops_cake_slice"
+			"key": "farmersdelight:drops_cake_slice"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:heat_conductors"
+			"key": "farmersdelight:heat_conductors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:heat_sources"
+			"key": "farmersdelight:heat_sources"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:mineable/knife"
+			"key": "farmersdelight:mineable/knife"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:mushroom_colony_growable_on"
+			"key": "farmersdelight:mushroom_colony_growable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:ropes"
+			"key": "farmersdelight:ropes"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:straw_blocks"
+			"key": "farmersdelight:straw_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:terrain"
+			"key": "farmersdelight:terrain"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:tray_heat_sources"
+			"key": "farmersdelight:tray_heat_sources"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:unaffected_by_rich_soil"
+			"key": "farmersdelight:unaffected_by_rich_soil"
 		},
 		{
 			"weight": 1.0,
-			"key": "#farmersdelight:wild_crops"
+			"key": "farmersdelight:wild_crops"
 		}
 	]
 }

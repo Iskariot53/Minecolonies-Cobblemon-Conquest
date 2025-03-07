@@ -2,51 +2,51 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:bloom_stems"
+			"key": "deeperdarker:bloom_stems"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:blooming_pool_replaceable"
+			"key": "deeperdarker:blooming_pool_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:echo_logs"
+			"key": "deeperdarker:echo_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:gloomslate_replaceable"
+			"key": "deeperdarker:gloomslate_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:gloomy_sculk_replaceable"
+			"key": "deeperdarker:gloomy_sculk_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:glowing_vine_placeable"
+			"key": "deeperdarker:glowing_vine_placeable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:infiniburn_otherside"
+			"key": "deeperdarker:infiniburn_otherside"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:otherside_carver_replaceables"
+			"key": "deeperdarker:otherside_carver_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:sculk_replaceables"
+			"key": "deeperdarker:sculk_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:sculk_stone_replaceables"
+			"key": "deeperdarker:sculk_stone_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:sculk_vine_placeable"
+			"key": "deeperdarker:sculk_vine_placeable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#deeperdarker:transmittable"
+			"key": "deeperdarker:transmittable"
 		}
 	]
 }

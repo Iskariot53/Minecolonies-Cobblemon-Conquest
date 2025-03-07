@@ -42,6 +42,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:aloraichium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:altarianite"
 		},
 		{
@@ -86,6 +90,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:blank-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:blastoisinite"
 		},
 		{
@@ -107,6 +115,10 @@
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:brendan_mega_cuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:buginium-z"
 		},
 		{
 			"weight": 1.0,
@@ -142,11 +154,47 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:darkinium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:decidium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:diancite"
 		},
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:diancite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:dragonium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:eevium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:electrium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:fairium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:fightinium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:firium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:flyinium-z"
 		},
 		{
 			"weight": 1.0,
@@ -182,11 +230,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:ghostium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:glalitite"
 		},
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:glalitite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:grassium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:groundium-z"
 		},
 		{
 			"weight": 1.0,
@@ -214,6 +274,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:icium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:incinium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:kangaskhanite"
 		},
 		{
@@ -231,6 +299,10 @@
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:keystone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:kommonium-z"
 		},
 		{
 			"weight": 1.0,
@@ -270,6 +342,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:lunalium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:lycanium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:lysandre_ring"
 		},
 		{
@@ -279,6 +359,10 @@
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:manectite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:marshadium-z"
 		},
 		{
 			"weight": 1.0,
@@ -402,6 +486,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:mewnium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:mewtwonite_x"
 		},
 		{
@@ -418,11 +506,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:mimikium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:normalium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:pidgeotite"
 		},
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:pidgeotite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pikanium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:pikashunium-z"
 		},
 		{
 			"weight": 1.0,
@@ -434,11 +538,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:poisonium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:polished_mega_evo_block"
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:primarium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:psychium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:redorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:rockium-z"
 		},
 		{
 			"weight": 1.0,
@@ -490,6 +610,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:snorlium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:solganium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:steelium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:steelixite"
 		},
 		{
@@ -506,6 +638,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:tapunium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:tyranitarite"
 		},
 		{
@@ -514,11 +650,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "mega_showdown:ultranecrozium-z"
+		},
+		{
+			"weight": 1.0,
 			"key": "mega_showdown:venusaurite"
 		},
 		{
 			"weight": 1.0,
 			"key": "mega_showdown:venusaurite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:waterium-z"
+		},
+		{
+			"weight": 1.0,
+			"key": "mega_showdown:z-ring"
 		}
 	]
 }

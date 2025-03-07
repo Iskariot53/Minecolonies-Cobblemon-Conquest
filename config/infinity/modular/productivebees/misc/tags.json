@@ -2,423 +2,423 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#productivebees:advanced_beehives"
+			"key": "productivebees:advanced_beehives"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:canvas_beehives"
+			"key": "productivebees:canvas_beehives"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:canvas_expansion_boxes"
+			"key": "productivebees:canvas_expansion_boxes"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:default_flowering"
+			"key": "productivebees:default_flowering"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:dupe_blacklist"
+			"key": "productivebees:dupe_blacklist"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:expansion_boxes"
+			"key": "productivebees:expansion_boxes"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/agate"
+			"key": "productivebees:flowers/agate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/alexandrite"
+			"key": "productivebees:flowers/alexandrite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/amber"
+			"key": "productivebees:flowers/amber"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/amethyst"
+			"key": "productivebees:flowers/amethyst"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/ametrine"
+			"key": "productivebees:flowers/ametrine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/ammolite"
+			"key": "productivebees:flowers/ammolite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/apatite"
+			"key": "productivebees:flowers/apatite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/aquamarine"
+			"key": "productivebees:flowers/aquamarine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/arid"
+			"key": "productivebees:flowers/arid"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/benitoite"
+			"key": "productivebees:flowers/benitoite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/black_diamond"
+			"key": "productivebees:flowers/black_diamond"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/black_opal"
+			"key": "productivebees:flowers/black_opal"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/burning"
+			"key": "productivebees:flowers/burning"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/carnelian"
+			"key": "productivebees:flowers/carnelian"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/cats_eye"
+			"key": "productivebees:flowers/cats_eye"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/chrysoprase"
+			"key": "productivebees:flowers/chrysoprase"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/citrine"
+			"key": "productivebees:flowers/citrine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/coral"
+			"key": "productivebees:flowers/coral"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/crystalline"
+			"key": "productivebees:flowers/crystalline"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/cupric"
+			"key": "productivebees:flowers/cupric"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/diamond"
+			"key": "productivebees:flowers/diamond"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/draconic"
+			"key": "productivebees:flowers/draconic"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/emerald"
+			"key": "productivebees:flowers/emerald"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/ender"
+			"key": "productivebees:flowers/ender"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/euclase"
+			"key": "productivebees:flowers/euclase"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/ferric"
+			"key": "productivebees:flowers/ferric"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/fiery"
+			"key": "productivebees:flowers/fiery"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/fluorite"
+			"key": "productivebees:flowers/fluorite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/forest"
+			"key": "productivebees:flowers/forest"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/frozen"
+			"key": "productivebees:flowers/frozen"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/garnet"
+			"key": "productivebees:flowers/garnet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/gilded"
+			"key": "productivebees:flowers/gilded"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/glowing"
+			"key": "productivebees:flowers/glowing"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/graves"
+			"key": "productivebees:flowers/graves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/green_sapphire"
+			"key": "productivebees:flowers/green_sapphire"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/heliodor"
+			"key": "productivebees:flowers/heliodor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/iolite"
+			"key": "productivebees:flowers/iolite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/jade"
+			"key": "productivebees:flowers/jade"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/jasper"
+			"key": "productivebees:flowers/jasper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/kunzite"
+			"key": "productivebees:flowers/kunzite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/kyanite"
+			"key": "productivebees:flowers/kyanite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/lepidolite"
+			"key": "productivebees:flowers/lepidolite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/lumber"
+			"key": "productivebees:flowers/lumber"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/magmatic"
+			"key": "productivebees:flowers/magmatic"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/malachite"
+			"key": "productivebees:flowers/malachite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/mithril"
+			"key": "productivebees:flowers/mithril"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/moldavite"
+			"key": "productivebees:flowers/moldavite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/moonstone"
+			"key": "productivebees:flowers/moonstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/morganite"
+			"key": "productivebees:flowers/morganite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/nether"
+			"key": "productivebees:flowers/nether"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/onyx"
+			"key": "productivebees:flowers/onyx"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/opal"
+			"key": "productivebees:flowers/opal"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/pearl"
+			"key": "productivebees:flowers/pearl"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/peridot"
+			"key": "productivebees:flowers/peridot"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/phosphophyllite"
+			"key": "productivebees:flowers/phosphophyllite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/powdery"
+			"key": "productivebees:flowers/powdery"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/prismarine"
+			"key": "productivebees:flowers/prismarine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/pyrope"
+			"key": "productivebees:flowers/pyrope"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/quarry"
+			"key": "productivebees:flowers/quarry"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/radioactive"
+			"key": "productivebees:flowers/radioactive"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/redstone"
+			"key": "productivebees:flowers/redstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/river"
+			"key": "productivebees:flowers/river"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/rose_quartz"
+			"key": "productivebees:flowers/rose_quartz"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/ruby"
+			"key": "productivebees:flowers/ruby"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/sapphire"
+			"key": "productivebees:flowers/sapphire"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/slimy"
+			"key": "productivebees:flowers/slimy"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/snow"
+			"key": "productivebees:flowers/snow"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/sodalite"
+			"key": "productivebees:flowers/sodalite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/souled"
+			"key": "productivebees:flowers/souled"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/spinel"
+			"key": "productivebees:flowers/spinel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/sulfur"
+			"key": "productivebees:flowers/sulfur"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/sunstone"
+			"key": "productivebees:flowers/sunstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/swamp"
+			"key": "productivebees:flowers/swamp"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/tanzanite"
+			"key": "productivebees:flowers/tanzanite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/tektite"
+			"key": "productivebees:flowers/tektite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/topaz"
+			"key": "productivebees:flowers/topaz"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/tourmaline"
+			"key": "productivebees:flowers/tourmaline"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/turquoise"
+			"key": "productivebees:flowers/turquoise"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/white_diamond"
+			"key": "productivebees:flowers/white_diamond"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/wither"
+			"key": "productivebees:flowers/wither"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:flowers/zircon"
+			"key": "productivebees:flowers/zircon"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/bumble_bee"
+			"key": "productivebees:nests/bumble_bee"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/cold_nests"
+			"key": "productivebees:nests/cold_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/draconic_nests"
+			"key": "productivebees:nests/draconic_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/end_nests"
+			"key": "productivebees:nests/end_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/glowstone_nests"
+			"key": "productivebees:nests/glowstone_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/nether_brick_nests"
+			"key": "productivebees:nests/nether_brick_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/nether_nests"
+			"key": "productivebees:nests/nether_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/nether_quartz_nests"
+			"key": "productivebees:nests/nether_quartz_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/reed_nests"
+			"key": "productivebees:nests/reed_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/slimy_nests"
+			"key": "productivebees:nests/slimy_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/soul_sand_nests"
+			"key": "productivebees:nests/soul_sand_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/sugarbag_nests"
+			"key": "productivebees:nests/sugarbag_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nests/wood_nests"
+			"key": "productivebees:nests/wood_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:nether_gold_nests"
+			"key": "productivebees:nether_gold_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:not_flowers_for_spawning_nests"
+			"key": "productivebees:not_flowers_for_spawning_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:solitary_nests"
+			"key": "productivebees:solitary_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:solitary_overworld_nests"
+			"key": "productivebees:solitary_overworld_nests"
 		},
 		{
 			"weight": 1.0,
-			"key": "#productivebees:untickable"
+			"key": "productivebees:untickable"
 		}
 	]
 }

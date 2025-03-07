@@ -2,23 +2,23 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#sereneseasons:autumn_crops"
+			"key": "sereneseasons:autumn_crops"
 		},
 		{
 			"weight": 1.0,
-			"key": "#sereneseasons:spring_crops"
+			"key": "sereneseasons:spring_crops"
 		},
 		{
 			"weight": 1.0,
-			"key": "#sereneseasons:summer_crops"
+			"key": "sereneseasons:summer_crops"
 		},
 		{
 			"weight": 1.0,
-			"key": "#sereneseasons:unbreakable_infertile_crops"
+			"key": "sereneseasons:unbreakable_infertile_crops"
 		},
 		{
 			"weight": 1.0,
-			"key": "#sereneseasons:winter_crops"
+			"key": "sereneseasons:winter_crops"
 		}
 	]
 }

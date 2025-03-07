@@ -2,31 +2,31 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#oritech:laser_accelerated"
+			"key": "oritech:laser_accelerated"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:laser_passthrough"
+			"key": "oritech:laser_passthrough"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:mineable/cutter_leaves"
+			"key": "oritech:mineable/cutter_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:mineable/cutter_logs"
+			"key": "oritech:mineable/cutter_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:mineable/drill"
+			"key": "oritech:mineable/drill"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:reactor_wall_blocks"
+			"key": "oritech:reactor_wall_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#oritech:resource_nodes"
+			"key": "oritech:resource_nodes"
 		}
 	]
 }

@@ -100,6 +100,9 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
+  "modularrouters": {
+    "router": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
@@ -119,13 +122,12 @@
   "pipez": {
     "pipe": true
   },
+  "twilightforest": {
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
   "waystones": {
     "waystone": true
-  },
-  "toms_peripherals": {
-    "full_modem_info": true,
-    "modem_info": true,
-    "wdt_info": true
   },
   "corpse": {
     "corpse": true

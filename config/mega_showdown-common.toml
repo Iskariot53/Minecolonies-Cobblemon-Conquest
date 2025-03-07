@@ -8,3 +8,9 @@ battleModeOnly = false
 multiplePrimals = true
 #Allows you to have both the mega btn and allows u to carry your mega's into the battle, battleMode should be false for this
 scuffedMode = false
+#Makes it so that you need to have 200+ friendship in order to mega outside
+friendshipMode = false
+#Enables/Disables zMoves in game
+zMoves = true
+#Enables/Disables teralization in game
+teralization = true

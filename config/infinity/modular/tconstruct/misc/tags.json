@@ -2,7 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#tconstruct:harvestable/stackable"
+			"key": "tconstruct:harvestable/stackable"
 		}
 	]
 }

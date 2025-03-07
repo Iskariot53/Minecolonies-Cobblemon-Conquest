@@ -7,16 +7,6 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "legends_untold:xerneas_tree"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "legends_untold:mew_ruins"
 			}
 		},
@@ -27,7 +17,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "legends_untold:sky_pillar"
+				"id": "legends_untold:xerneas_tree"
 			}
 		},
 		{
@@ -48,6 +38,16 @@
 				},
 				"step": "underground_structures",
 				"id": "legends_untold:psychic_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "legends_untold:sky_pillar"
 			}
 		}
 	]

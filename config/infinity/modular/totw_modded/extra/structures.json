@@ -7,7 +7,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:derelict_grass"
+				"id": "totw_modded:glacio"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:tw_canopy"
 			}
 		},
 		{
@@ -27,17 +37,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:ratlantis"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:aether"
+				"id": "totw_modded:jungle"
 			}
 		},
 		{
@@ -47,7 +47,67 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:derelict"
+				"id": "totw_modded:venus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:end"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "totw_modded:ocean_warm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:ratlantis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:moon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:ice"
 			}
 		},
 		{
@@ -77,107 +137,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:badlands"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:nether"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:moon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "totw_modded:everbright"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:jungle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:end"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "totw_modded:ocean_warm"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:tw_mangrove"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:ice"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "totw_modded:tw_canopy"
 			}
 		},
 		{
@@ -197,6 +157,16 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "totw_modded:nether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "totw_modded:everdawn"
 			}
 		},
@@ -207,7 +177,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:glacio"
+				"id": "totw_modded:derelict"
 			}
 		},
 		{
@@ -217,7 +187,37 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "totw_modded:venus"
+				"id": "totw_modded:tw_mangrove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:derelict_grass"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:aether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "totw_modded:badlands"
 			}
 		}
 	]

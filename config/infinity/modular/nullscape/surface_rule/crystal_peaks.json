@@ -3,9 +3,32 @@
 		"nullscape:crystal_peaks"
 	],
 	"rule": {
-		"result_state": {
-			"Name": "minecraft:blackstone"
-		},
-		"type": "minecraft:block"
+		"sequence": [
+			{
+				"result_state": {
+					"Name": "minecraft:blackstone"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "minecraft:end_stone"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "minecraft:blackstone"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "minecraft:end_stone"
+				},
+				"type": "minecraft:block"
+			}
+		],
+		"type": "minecraft:sequence"
 	}
 }

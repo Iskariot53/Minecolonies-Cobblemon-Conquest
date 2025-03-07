@@ -2,7 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#chiselsandbits:chiselable/forced"
+			"key": "chiselsandbits:chiselable/forced"
 		}
 	]
 }

@@ -171,6 +171,134 @@
 		{
 			"weight": 1.0,
 			"key": "smallships:spruce_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_canopy_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_canopy_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_canopy_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_canopy_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_dark_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_dark_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_dark_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_dark_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mangrove_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mangrove_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mangrove_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mangrove_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mining_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mining_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mining_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_mining_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_sorting_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_sorting_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_sorting_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_sorting_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_time_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_time_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_time_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_time_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_transformation_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_transformation_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_transformation_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_transformation_galley"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_twilight_oak_brigg"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_twilight_oak_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_twilight_oak_drakkar"
+		},
+		{
+			"weight": 1.0,
+			"key": "smallships:twilightforest_twilight_oak_galley"
 		}
 	]
 }

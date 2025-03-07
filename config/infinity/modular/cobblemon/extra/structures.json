@@ -3,36 +3,6 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:ruins/unstable_cave_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_suspicious_mound"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_submerged_impact"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
@@ -53,171 +23,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/toppled_pillars_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/deserted_gimmi_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/temperate_gimmi_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:ruins/deserted_tower_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
 				"id": "cobblemon:fossils/prehistoric_underwater_fissure"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_submerged_spike"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:fishing_boat/beach"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_birch_tree"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_sunscorched_den"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_spruce_tree"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_sandy_den"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:fishing_boat/deep_ocean"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/stonjourner_henge_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/deserted_town_center_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:ruins/fallen_statue_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_lush_den"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "cobblemon:ruins/crumbling_arch_ruins"
 			}
 		},
 		{
@@ -233,31 +43,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "cobblemon:ruins/rooted_arch_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:fossils/prehistoric_mud_pit"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:ruins/rooted_gimmi_tower"
+				"id": "cobblemon:ruins/sol_henge_ruins"
 			}
 		},
 		{
@@ -273,21 +63,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cobblemon:ruins/deserted_house_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_frozen_pond"
+				"id": "cobblemon:fossils/prehistoric_sandy_den"
 			}
 		},
 		{
@@ -307,17 +87,27 @@
 				"spawn_overrides": {
 				},
 				"step": "top_layer_modification",
-				"id": "cobblemon:shipwreck_coves/submerged_shipwreck_cove"
+				"id": "cobblemon:shipwreck_coves/lush_shipwreck_cove"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:ruins/lush_gimmi_tower"
+				"id": "cobblemon:ruins/toppled_pillars_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "cobblemon:fossils/prehistoric_preserved_skeleton"
 			}
 		},
 		{
@@ -333,11 +123,31 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_lush_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_birch_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "underground_decoration",
-				"id": "cobblemon:ruins/hidden_bunker_ruins"
+				"id": "cobblemon:fishing_boat/beach"
 			}
 		},
 		{
@@ -347,7 +157,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_eroded_pillar"
+				"id": "cobblemon:ruins/rooted_gimmi_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/deserted_gimmi_tower"
 			}
 		},
 		{
@@ -367,7 +187,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_powdered_deposit"
+				"id": "cobblemon:fossils/prehistoric_submerged_spike"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/frozen_gimmi_tower"
 			}
 		},
 		{
@@ -383,11 +213,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_frozen_spike"
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/unstable_cave_ruins"
 			}
 		},
 		{
@@ -403,11 +233,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "underground_decoration",
-				"id": "cobblemon:ruins/mossy_oubliette_ruins"
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_frozen_spike"
 			}
 		},
 		{
@@ -417,7 +247,107 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "cobblemon:fossils/prehistoric_preserved_skeleton"
+				"id": "cobblemon:ruins/crumbling_arch_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_vibrant_hydrothermal_vents"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/lush_gimmi_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/deserted_house_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:fossils/prehistoric_mud_pit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_spruce_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/deserted_tower_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_frozen_pond"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/fallen_statue_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_eroded_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "top_layer_modification",
+				"id": "cobblemon:shipwreck_coves/submerged_shipwreck_cove"
 			}
 		},
 		{
@@ -437,27 +367,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "cobblemon:ruins/frozen_gimmi_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "top_layer_modification",
-				"id": "cobblemon:shipwreck_coves/lush_shipwreck_cove"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "cobblemon:ruins/sol_henge_ruins"
+				"id": "cobblemon:fossils/prehistoric_suspicious_mound"
 			}
 		},
 		{
@@ -476,8 +386,98 @@
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 				},
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/mossy_oubliette_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:ruins/hidden_bunker_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
 				"step": "surface_structures",
-				"id": "cobblemon:fossils/prehistoric_vibrant_hydrothermal_vents"
+				"id": "cobblemon:fossils/prehistoric_submerged_impact"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "cobblemon:ruins/rooted_arch_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_sunscorched_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:fossils/prehistoric_powdered_deposit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/stonjourner_henge_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cobblemon:fishing_boat/deep_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/temperate_gimmi_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "cobblemon:ruins/deserted_town_center_ruins"
 			}
 		}
 	]

@@ -5,17 +5,27 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "aether:large_aercloud"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
 					"water_creature": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
 					},
-					"aether_aether_sky_monster": {
+					"underground_water_creature": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
 					},
-					"underground_water_creature": {
+					"aether_aether_sky_monster": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
@@ -35,7 +45,12 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"aether_aether_aerwhale": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
@@ -45,12 +60,7 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					},
-					"aether_aether_aerwhale": {
+					"water_ambient": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
@@ -80,12 +90,12 @@
 						"spawns": [
 						]
 					},
-					"aether_aether_sky_monster": {
+					"underground_water_creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"underground_water_creature": {
+					"aether_aether_sky_monster": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -105,7 +115,12 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_aether_aerwhale": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -115,12 +130,7 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_aether_aerwhale": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -150,12 +160,12 @@
 						"spawns": [
 						]
 					},
-					"aether_aether_sky_monster": {
+					"underground_water_creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"underground_water_creature": {
+					"aether_aether_sky_monster": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -175,7 +185,12 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_aether_aerwhale": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -185,12 +200,7 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_aether_aerwhale": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -208,16 +218,6 @@
 				},
 				"step": "surface_structures",
 				"id": "aether:gold_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "aether:large_aercloud"
 			}
 		}
 	]

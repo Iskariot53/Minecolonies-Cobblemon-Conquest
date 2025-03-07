@@ -2,7 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#supplementaries:bomb_breakable"
+			"key": "supplementaries:bomb_breakable"
 		}
 	]
 }

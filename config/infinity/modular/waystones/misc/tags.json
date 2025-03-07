@@ -2,19 +2,19 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#waystones:is_teleport_target"
+			"key": "waystones:is_teleport_target"
 		},
 		{
 			"weight": 1.0,
-			"key": "#waystones:portstones"
+			"key": "waystones:portstones"
 		},
 		{
 			"weight": 1.0,
-			"key": "#waystones:sharestones"
+			"key": "waystones:sharestones"
 		},
 		{
 			"weight": 1.0,
-			"key": "#waystones:waystones"
+			"key": "waystones:waystones"
 		}
 	]
 }

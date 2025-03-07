@@ -2,11 +2,11 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#framedblocks:blockentity_whitelisted"
+			"key": "framedblocks:blockentity_whitelisted"
 		},
 		{
 			"weight": 1.0,
-			"key": "#framedblocks:frameable"
+			"key": "framedblocks:frameable"
 		}
 	]
 }

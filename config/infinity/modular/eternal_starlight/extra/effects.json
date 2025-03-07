@@ -4,6 +4,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 8001164,
+				"Instant": false,
 				"Name": "eternal_starlight:crystalline_infection"
 			}
 		},
@@ -11,6 +13,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 5343172,
+				"Instant": false,
 				"Name": "eternal_starlight:dream_catcher"
 			}
 		},
@@ -18,6 +22,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 14250876,
+				"Instant": false,
 				"Name": "eternal_starlight:flammable"
 			}
 		},
@@ -25,6 +31,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16758447,
+				"Instant": false,
 				"Name": "eternal_starlight:sticky"
 			}
 		}

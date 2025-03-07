@@ -2,7 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#constructionstick:non_replaceable"
+			"key": "constructionstick:non_replaceable"
 		}
 	]
 }

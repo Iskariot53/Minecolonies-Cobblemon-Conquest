@@ -2,1111 +2,1111 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#chipped:acacia_door"
+			"key": "chipped:acacia_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:acacia_leaves"
+			"key": "chipped:acacia_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:acacia_log"
+			"key": "chipped:acacia_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:acacia_planks"
+			"key": "chipped:acacia_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:acacia_trapdoor"
+			"key": "chipped:acacia_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:amethyst_block"
+			"key": "chipped:amethyst_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:ancient_debris"
+			"key": "chipped:ancient_debris"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:andesite"
+			"key": "chipped:andesite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bamboo_door"
+			"key": "chipped:bamboo_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bamboo_planks"
+			"key": "chipped:bamboo_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bamboo_trapdoor"
+			"key": "chipped:bamboo_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:barrel"
+			"key": "chipped:barrel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:basalt"
+			"key": "chipped:basalt"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:birch_door"
+			"key": "chipped:birch_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:birch_leaves"
+			"key": "chipped:birch_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:birch_log"
+			"key": "chipped:birch_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:birch_planks"
+			"key": "chipped:birch_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:birch_trapdoor"
+			"key": "chipped:birch_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_carpet"
+			"key": "chipped:black_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_concrete"
+			"key": "chipped:black_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_glazed_terracotta"
+			"key": "chipped:black_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_stained_glass"
+			"key": "chipped:black_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_stained_glass_pane"
+			"key": "chipped:black_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_terracotta"
+			"key": "chipped:black_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:black_wool"
+			"key": "chipped:black_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blackstone"
+			"key": "chipped:blackstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_carpet"
+			"key": "chipped:blue_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_concrete"
+			"key": "chipped:blue_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_glazed_terracotta"
+			"key": "chipped:blue_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_ice"
+			"key": "chipped:blue_ice"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_stained_glass"
+			"key": "chipped:blue_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_stained_glass_pane"
+			"key": "chipped:blue_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_terracotta"
+			"key": "chipped:blue_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:blue_wool"
+			"key": "chipped:blue_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bone_block"
+			"key": "chipped:bone_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bookshelf"
+			"key": "chipped:bookshelf"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:borderless_bricks"
+			"key": "chipped:borderless_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:bricks"
+			"key": "chipped:bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_carpet"
+			"key": "chipped:brown_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_concrete"
+			"key": "chipped:brown_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_glazed_terracotta"
+			"key": "chipped:brown_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_mushroom"
+			"key": "chipped:brown_mushroom"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_mushroom_block"
+			"key": "chipped:brown_mushroom_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_stained_glass"
+			"key": "chipped:brown_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_stained_glass_pane"
+			"key": "chipped:brown_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_terracotta"
+			"key": "chipped:brown_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:brown_wool"
+			"key": "chipped:brown_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:calcite"
+			"key": "chipped:calcite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:carved_pumpkin"
+			"key": "chipped:carved_pumpkin"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cherry_door"
+			"key": "chipped:cherry_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cherry_log"
+			"key": "chipped:cherry_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cherry_planks"
+			"key": "chipped:cherry_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cherry_trapdoor"
+			"key": "chipped:cherry_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:clay"
+			"key": "chipped:clay"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:coal_block"
+			"key": "chipped:coal_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cobblestone"
+			"key": "chipped:cobblestone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cobweb"
+			"key": "chipped:cobweb"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_door"
+			"key": "chipped:crimson_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_fungus"
+			"key": "chipped:crimson_fungus"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_planks"
+			"key": "chipped:crimson_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_roots"
+			"key": "chipped:crimson_roots"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_stem"
+			"key": "chipped:crimson_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crimson_trapdoor"
+			"key": "chipped:crimson_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:crying_obsidian"
+			"key": "chipped:crying_obsidian"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_carpet"
+			"key": "chipped:cyan_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_concrete"
+			"key": "chipped:cyan_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_glazed_terracotta"
+			"key": "chipped:cyan_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_stained_glass"
+			"key": "chipped:cyan_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_stained_glass_pane"
+			"key": "chipped:cyan_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_terracotta"
+			"key": "chipped:cyan_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:cyan_wool"
+			"key": "chipped:cyan_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_oak_door"
+			"key": "chipped:dark_oak_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_oak_leaves"
+			"key": "chipped:dark_oak_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_oak_log"
+			"key": "chipped:dark_oak_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_oak_planks"
+			"key": "chipped:dark_oak_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_oak_trapdoor"
+			"key": "chipped:dark_oak_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dark_prismarine"
+			"key": "chipped:dark_prismarine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:deepslate"
+			"key": "chipped:deepslate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:diamond_block"
+			"key": "chipped:diamond_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:diorite"
+			"key": "chipped:diorite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dirt"
+			"key": "chipped:dirt"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dried_kelp_block"
+			"key": "chipped:dried_kelp_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:dripstone_block"
+			"key": "chipped:dripstone_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:emerald_block"
+			"key": "chipped:emerald_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:end_stone"
+			"key": "chipped:end_stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gilded_blackstone"
+			"key": "chipped:gilded_blackstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:glass"
+			"key": "chipped:glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:glass_pane"
+			"key": "chipped:glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:glowstone"
+			"key": "chipped:glowstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gold_block"
+			"key": "chipped:gold_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:granite"
+			"key": "chipped:granite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gravel"
+			"key": "chipped:gravel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_carpet"
+			"key": "chipped:gray_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_concrete"
+			"key": "chipped:gray_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_glazed_terracotta"
+			"key": "chipped:gray_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_stained_glass"
+			"key": "chipped:gray_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_stained_glass_pane"
+			"key": "chipped:gray_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_terracotta"
+			"key": "chipped:gray_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:gray_wool"
+			"key": "chipped:gray_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_carpet"
+			"key": "chipped:green_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_concrete"
+			"key": "chipped:green_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_glazed_terracotta"
+			"key": "chipped:green_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_stained_glass"
+			"key": "chipped:green_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_stained_glass_pane"
+			"key": "chipped:green_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_terracotta"
+			"key": "chipped:green_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:green_wool"
+			"key": "chipped:green_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:hay_block"
+			"key": "chipped:hay_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:ice"
+			"key": "chipped:ice"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:iron_bars"
+			"key": "chipped:iron_bars"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:iron_block"
+			"key": "chipped:iron_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jack_o_lantern"
+			"key": "chipped:jack_o_lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jungle_door"
+			"key": "chipped:jungle_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jungle_leaves"
+			"key": "chipped:jungle_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jungle_log"
+			"key": "chipped:jungle_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jungle_planks"
+			"key": "chipped:jungle_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:jungle_trapdoor"
+			"key": "chipped:jungle_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:ladder"
+			"key": "chipped:ladder"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lantern"
+			"key": "chipped:lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lapis_block"
+			"key": "chipped:lapis_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_carpet"
+			"key": "chipped:light_blue_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_concrete"
+			"key": "chipped:light_blue_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_glazed_terracotta"
+			"key": "chipped:light_blue_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_stained_glass"
+			"key": "chipped:light_blue_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_stained_glass_pane"
+			"key": "chipped:light_blue_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_terracotta"
+			"key": "chipped:light_blue_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_blue_wool"
+			"key": "chipped:light_blue_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_carpet"
+			"key": "chipped:light_gray_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_concrete"
+			"key": "chipped:light_gray_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_glazed_terracotta"
+			"key": "chipped:light_gray_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_stained_glass"
+			"key": "chipped:light_gray_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_stained_glass_pane"
+			"key": "chipped:light_gray_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_terracotta"
+			"key": "chipped:light_gray_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:light_gray_wool"
+			"key": "chipped:light_gray_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lily_pad"
+			"key": "chipped:lily_pad"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_carpet"
+			"key": "chipped:lime_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_concrete"
+			"key": "chipped:lime_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_glazed_terracotta"
+			"key": "chipped:lime_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_stained_glass"
+			"key": "chipped:lime_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_stained_glass_pane"
+			"key": "chipped:lime_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_terracotta"
+			"key": "chipped:lime_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lime_wool"
+			"key": "chipped:lime_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:lodestone"
+			"key": "chipped:lodestone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_carpet"
+			"key": "chipped:magenta_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_concrete"
+			"key": "chipped:magenta_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_glazed_terracotta"
+			"key": "chipped:magenta_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_stained_glass"
+			"key": "chipped:magenta_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_stained_glass_pane"
+			"key": "chipped:magenta_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_terracotta"
+			"key": "chipped:magenta_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magenta_wool"
+			"key": "chipped:magenta_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:magma_block"
+			"key": "chipped:magma_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mangrove_door"
+			"key": "chipped:mangrove_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mangrove_log"
+			"key": "chipped:mangrove_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mangrove_planks"
+			"key": "chipped:mangrove_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mangrove_roots"
+			"key": "chipped:mangrove_roots"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mangrove_trapdoor"
+			"key": "chipped:mangrove_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:melon"
+			"key": "chipped:melon"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:moss_block"
+			"key": "chipped:moss_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mossy_cobblestone"
+			"key": "chipped:mossy_cobblestone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mossy_stone_bricks"
+			"key": "chipped:mossy_stone_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mud"
+			"key": "chipped:mud"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mud_bricks"
+			"key": "chipped:mud_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:mushroom_stem"
+			"key": "chipped:mushroom_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:nether_bricks"
+			"key": "chipped:nether_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:nether_sprouts"
+			"key": "chipped:nether_sprouts"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:nether_wart_block"
+			"key": "chipped:nether_wart_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:netherite_block"
+			"key": "chipped:netherite_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:netherrack"
+			"key": "chipped:netherrack"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:oak_door"
+			"key": "chipped:oak_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:oak_leaves"
+			"key": "chipped:oak_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:oak_log"
+			"key": "chipped:oak_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:oak_planks"
+			"key": "chipped:oak_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:oak_trapdoor"
+			"key": "chipped:oak_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:obsidian"
+			"key": "chipped:obsidian"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:ochre_froglight"
+			"key": "chipped:ochre_froglight"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_carpet"
+			"key": "chipped:orange_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_concrete"
+			"key": "chipped:orange_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_glazed_terracotta"
+			"key": "chipped:orange_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_stained_glass"
+			"key": "chipped:orange_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_stained_glass_pane"
+			"key": "chipped:orange_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_terracotta"
+			"key": "chipped:orange_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:orange_wool"
+			"key": "chipped:orange_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:packed_ice"
+			"key": "chipped:packed_ice"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:packed_mud"
+			"key": "chipped:packed_mud"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pearlescent_froglight"
+			"key": "chipped:pearlescent_froglight"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_carpet"
+			"key": "chipped:pink_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_concrete"
+			"key": "chipped:pink_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_glazed_terracotta"
+			"key": "chipped:pink_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_stained_glass"
+			"key": "chipped:pink_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_stained_glass_pane"
+			"key": "chipped:pink_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_terracotta"
+			"key": "chipped:pink_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pink_wool"
+			"key": "chipped:pink_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pointed_dripstone"
+			"key": "chipped:pointed_dripstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:prismarine"
+			"key": "chipped:prismarine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:pumpkin"
+			"key": "chipped:pumpkin"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_carpet"
+			"key": "chipped:purple_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_concrete"
+			"key": "chipped:purple_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_glazed_terracotta"
+			"key": "chipped:purple_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_stained_glass"
+			"key": "chipped:purple_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_stained_glass_pane"
+			"key": "chipped:purple_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_terracotta"
+			"key": "chipped:purple_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purple_wool"
+			"key": "chipped:purple_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:purpur_block"
+			"key": "chipped:purpur_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:quartz_block"
+			"key": "chipped:quartz_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:raw_copper_block"
+			"key": "chipped:raw_copper_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:raw_gold_block"
+			"key": "chipped:raw_gold_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:raw_iron_block"
+			"key": "chipped:raw_iron_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_carpet"
+			"key": "chipped:red_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_concrete"
+			"key": "chipped:red_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_glazed_terracotta"
+			"key": "chipped:red_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_mushroom"
+			"key": "chipped:red_mushroom"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_mushroom_block"
+			"key": "chipped:red_mushroom_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_nether_bricks"
+			"key": "chipped:red_nether_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_sandstone"
+			"key": "chipped:red_sandstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_stained_glass"
+			"key": "chipped:red_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_stained_glass_pane"
+			"key": "chipped:red_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_terracotta"
+			"key": "chipped:red_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:red_wool"
+			"key": "chipped:red_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:redstone_block"
+			"key": "chipped:redstone_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:redstone_lamp"
+			"key": "chipped:redstone_lamp"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:redstone_torch"
+			"key": "chipped:redstone_torch"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:sand"
+			"key": "chipped:sand"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:sandstone"
+			"key": "chipped:sandstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:sea_lantern"
+			"key": "chipped:sea_lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:shroomlight"
+			"key": "chipped:shroomlight"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:smooth_stone"
+			"key": "chipped:smooth_stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:snow_block"
+			"key": "chipped:snow_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:soul_lantern"
+			"key": "chipped:soul_lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:soul_sand"
+			"key": "chipped:soul_sand"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:special_lantern"
+			"key": "chipped:special_lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:special_soul_lantern"
+			"key": "chipped:special_soul_lantern"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:sponge"
+			"key": "chipped:sponge"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:spruce_door"
+			"key": "chipped:spruce_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:spruce_leaves"
+			"key": "chipped:spruce_leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:spruce_log"
+			"key": "chipped:spruce_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:spruce_planks"
+			"key": "chipped:spruce_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:spruce_trapdoor"
+			"key": "chipped:spruce_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stone"
+			"key": "chipped:stone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_acacia_log"
+			"key": "chipped:stripped_acacia_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_birch_log"
+			"key": "chipped:stripped_birch_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_cherry_log"
+			"key": "chipped:stripped_cherry_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_crimson_stem"
+			"key": "chipped:stripped_crimson_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_dark_oak_log"
+			"key": "chipped:stripped_dark_oak_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_jungle_log"
+			"key": "chipped:stripped_jungle_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_mangrove_log"
+			"key": "chipped:stripped_mangrove_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_oak_log"
+			"key": "chipped:stripped_oak_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_spruce_log"
+			"key": "chipped:stripped_spruce_log"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:stripped_warped_stem"
+			"key": "chipped:stripped_warped_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:terracotta"
+			"key": "chipped:terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:torch"
+			"key": "chipped:torch"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:tuff"
+			"key": "chipped:tuff"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:verdant_froglight"
+			"key": "chipped:verdant_froglight"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:vine"
+			"key": "chipped:vine"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_door"
+			"key": "chipped:warped_door"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_fungus"
+			"key": "chipped:warped_fungus"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_planks"
+			"key": "chipped:warped_planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_roots"
+			"key": "chipped:warped_roots"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_stem"
+			"key": "chipped:warped_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_trapdoor"
+			"key": "chipped:warped_trapdoor"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:warped_wart_block"
+			"key": "chipped:warped_wart_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:waxed_copper_block"
+			"key": "chipped:waxed_copper_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:waxed_exposed_copper_block"
+			"key": "chipped:waxed_exposed_copper_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:waxed_oxidized_copper"
+			"key": "chipped:waxed_oxidized_copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:waxed_weathered_copper"
+			"key": "chipped:waxed_weathered_copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_carpet"
+			"key": "chipped:white_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_concrete"
+			"key": "chipped:white_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_glazed_terracotta"
+			"key": "chipped:white_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_stained_glass"
+			"key": "chipped:white_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_stained_glass_pane"
+			"key": "chipped:white_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_terracotta"
+			"key": "chipped:white_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:white_wool"
+			"key": "chipped:white_wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_carpet"
+			"key": "chipped:yellow_carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_concrete"
+			"key": "chipped:yellow_concrete"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_glazed_terracotta"
+			"key": "chipped:yellow_glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_stained_glass"
+			"key": "chipped:yellow_stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_stained_glass_pane"
+			"key": "chipped:yellow_stained_glass_pane"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_terracotta"
+			"key": "chipped:yellow_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#chipped:yellow_wool"
+			"key": "chipped:yellow_wool"
 		}
 	]
 }
