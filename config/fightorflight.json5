@@ -5,6 +5,8 @@
 	"do_pokemon_attack_unprovoked": true,
 	// If the aggressive pokemon will only attack unprovoked in the dark area.(similar to the spider in Minecraft,do_pokemon_attack_unprovoked needs to be set to true
 	"light_dependent_unprovoked_attack": true,
+	// If failed captures can be counted as provocation?
+	"failed_capture_counted_as_provocation": true,
 	// Do aggro Pokemon attack their targets even if they're in the middle of a battles?
 	"do_pokemon_attack_in_battle": false,
 	// The minimum level a Pokemon needs to be to fight back when provoked.
@@ -181,8 +183,8 @@
 	"poison_type_no_effect_dmg_multiplier": 0.10000000149011612,
 	// If the original updateMaxHealth() will be replaced by my version. Pokemons outside of battle will use the hp stat instead of the base hp stat. The following configurations needs this one to work.
 	"shouldOverrideUpdateMaxHealth": true,
-	// If health sync will work on the wild pokemon, healing them on standard pokemon battle start if they were damaged before.
-	"health_sync_for_wild_pokemon": true,
+	// If health sync will work on the wild pokemon, set to false will heal them on standard pokemon battle start if they were damaged before.
+	"enable_health_sync_for_wild_pokemon": false,
 	// The minimum hp of a pokemon outside standard pokemon battle,shedinja is set to 1.0 and can't be changed.
 	"min_HP": 8,
 	// The medium hp value of a pokemon outside standard pokemon battle,the medium value is designed to allow you to better tweak the growth of HP value for the entity

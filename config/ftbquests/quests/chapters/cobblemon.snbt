@@ -76,7 +76,7 @@
 				id: "43724AD6D8CE6777"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 5.0d
 			y: 0.5d
 		}
 		{
@@ -88,7 +88,7 @@
 				id: "492DAEFF6BEDD746"
 				type: "advancement"
 			}]
-			x: 4.0d
+			x: 6.0d
 			y: 0.5d
 		}
 		{
@@ -100,7 +100,7 @@
 				id: "6440CB0B56CD9136"
 				type: "advancement"
 			}]
-			x: 5.0d
+			x: 7.0d
 			y: 0.5d
 		}
 		{
@@ -112,7 +112,7 @@
 				id: "3D0E9BC7AC0550C1"
 				type: "advancement"
 			}]
-			x: 6.0d
+			x: 8.0d
 			y: 0.5d
 		}
 		{
@@ -124,7 +124,7 @@
 				id: "305C4C598A2BFC9C"
 				type: "advancement"
 			}]
-			x: 7.0d
+			x: 9.0d
 			y: 0.5d
 		}
 		{
@@ -136,7 +136,7 @@
 				id: "7FC12351C60934EA"
 				type: "advancement"
 			}]
-			x: 8.0d
+			x: 10.0d
 			y: 0.5d
 		}
 		{
@@ -328,6 +328,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
 			id: "34CD25F44A1D9879"
 			tasks: [{
 				id: "7D6DDCE011313689"
@@ -337,6 +338,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "00561B81705B3506"
 			tasks: [{
 				id: "0D8AAC2AA202DD24"
@@ -347,6 +350,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "1942BEDE7ADF7123"
 			tasks: [{
 				id: "55DB7482B353534E"
@@ -357,6 +362,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "18379C88D93F18F6"
 			tasks: [{
 				id: "0C9CCB03BC8E697A"
@@ -367,6 +374,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "736A1870C544012D"
 			tasks: [{
 				id: "39032835EC70CD5D"
@@ -377,6 +386,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "36D3DAC16DEB5AD6"
 			tasks: [{
 				id: "21AB47053F5F3F46"
@@ -387,6 +398,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "77A2104354AFC6BF"
 			tasks: [{
 				id: "163DD1545D5475B0"
@@ -397,6 +410,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "6E83DF1E8C3419F8"
 			tasks: [{
 				id: "04A801465B17DA56"
@@ -407,6 +422,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "75F67AE518C2DA9B"
 			tasks: [{
 				id: "66CFB363099D992B"
@@ -417,6 +434,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "097D9D942864EA04"
 			tasks: [{
 				id: "2FE327A1072CC682"
@@ -427,6 +446,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "119B4B3AFE7945FF"
 			tasks: [{
 				id: "7D24FD4A5227DC93"
@@ -437,6 +458,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "3673C1903B0CE671"
 			tasks: [{
 				id: "22FB2717BB4883DA"
@@ -447,6 +470,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "17016A1F9EE209F8"
 			tasks: [{
 				id: "04E200A6B98204AE"
@@ -457,6 +482,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "68F15E8270BCA001"
 			tasks: [{
 				id: "71BCB126D343F3A7"
@@ -467,6 +494,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "090637FD2F27EF38"
 			tasks: [{
 				id: "578FA05B273FF8E2"
@@ -477,6 +506,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "6E40224494C4BA3B"
 			tasks: [{
 				id: "024697CD9F7E87C1"
@@ -487,6 +518,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "3154C557DCBBED72"
 			tasks: [{
 				id: "6EAC3EDCFF0C6E1A"
@@ -497,6 +530,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "14E08AC6E6BD7900"
 			tasks: [{
 				id: "734F8354AB2C35A3"
@@ -507,6 +542,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
+			hide_dependency_lines: true
 			id: "33DBC8506A6C8C05"
 			tasks: [{
 				id: "1CC1903461B163AC"
@@ -517,6 +554,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["657BF3CA6C6AE395"]
 			id: "7AC247633CD97DF3"
 			tasks: [{
 				id: "006778971AE841F2"
@@ -527,6 +565,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "5C2DB8593D1CC71E"
 			tasks: [{
 				id: "084DE124034FB2B9"
@@ -537,6 +577,8 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "2DD5628BA71289FB"
 			tasks: [{
 				id: "6A4E48F34EB5406A"
@@ -547,6 +589,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "7F5F699B2D362D62"
 			tasks: [{
 				id: "2EAFE98F2B538D58"
@@ -557,6 +601,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "135D4ED2385076F3"
 			tasks: [{
 				id: "71930E85A87DE0A0"
@@ -567,6 +613,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "11EDF87A42BEF706"
 			tasks: [{
 				id: "3A0799FA1A4494A5"
@@ -577,6 +625,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "3256D2B1A3443339"
 			tasks: [{
 				id: "461B7D139B4594FB"
@@ -587,6 +637,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "71AEEAE69486D4B7"
 			tasks: [{
 				id: "30A7E58373F6A5F2"
@@ -597,6 +649,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "44DC61C79AB908AA"
 			tasks: [{
 				id: "4C17F28203E69936"
@@ -607,6 +661,8 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "0BC4C12CC74F0A09"
 			tasks: [{
 				id: "3452E4CA1BF5419B"
@@ -617,6 +673,8 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "3BFEF224932A283F"
 			tasks: [{
 				id: "07C6E8A5EFE5B71E"
@@ -627,6 +685,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "2E55EFC259702CE6"
 			tasks: [{
 				id: "1A04D1E363264118"
@@ -637,6 +697,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "71C7AD0347F0F209"
 			tasks: [{
 				id: "33C90F4A34C5C5E1"
@@ -647,6 +709,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "27F847C4D972FA86"
 			tasks: [{
 				id: "0C76655714522008"
@@ -657,6 +721,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "5DDF026229B0862F"
 			tasks: [{
 				id: "6B8A39A519C4EEED"
@@ -667,6 +733,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7AC247633CD97DF3"]
+			hide_dependency_lines: true
 			id: "40924A4D8EC9FA22"
 			tasks: [{
 				id: "3D9DAF2E10B69027"
@@ -685,12 +753,359 @@
 				id: "cobblemon_smartphone:red_smartphone"
 			}
 			id: "5B698AB7FE032025"
+			size: 1.5d
 			tasks: [{
 				id: "2C2A9B9BCAD65D65"
 				type: "checkmark"
 			}]
-			x: -4.5d
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["39DAC28F62C0107F"]
+			id: "433193A517886CAD"
+			tasks: [{
+				id: "71574C3A5629B60B"
+				item: { count: 1, id: "cobblemonboxlink:box_link" }
+				type: "item"
+			}]
+			x: -3.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["7425ABFB2D688DB8"]
+			id: "4DD64B7322641A51"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				id: "787EA98F478A9CD1"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DD64B7322641A51"]
+			id: "564F6F789443F4C0"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				id: "638CD57315F2E950"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["564F6F789443F4C0"]
+			id: "0ED97CF11E7335CA"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
+				criterion: ""
+				id: "3C9A886C52794007"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0ED97CF11E7335CA"]
+			id: "6E98D8C6C0F182FA"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_2"
+				criterion: ""
+				id: "0DC508BC36E9BA68"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E98D8C6C0F182FA"]
+			id: "6786B6A8692C67A5"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_and_ariana"
+				criterion: ""
+				id: "6F07B907B47CFE4B"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6786B6A8692C67A5"]
+			id: "114DD047A53F75D8"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_2"
+				criterion: ""
+				id: "3E20EFF168FF4FA6"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["114DD047A53F75D8"]
+			id: "17A95BE832138F53"
+			tasks: [
+				{
+					advancement: "rctmod:trainers/defeat_rocket_admin_archer_2"
+					criterion: ""
+					id: "64BE450882F25694"
+					type: "advancement"
+				}
+				{
+					advancement: "rctmod:trainers/defeat_rocket_admin_ariana_1"
+					criterion: ""
+					id: "662DF5860D6EBD5C"
+					type: "advancement"
+				}
+			]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["17A95BE832138F53"]
+			id: "776BCAC6DB50C3E3"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				id: "5589013C40697249"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["776BCAC6DB50C3E3"]
+			id: "2BA23752F0416D72"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_2"
+				criterion: ""
+				id: "111A4ACD36300D03"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2BA23752F0416D72"]
+			id: "0F9AD5E4642D02F1"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_koga"
+				criterion: ""
+				id: "5534F491E4F87FAC"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0F9AD5E4642D02F1"]
+			id: "0DE569E88A846A8C"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_may"
+				criterion: ""
+				id: "42F35073A8BE970A"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0DE569E88A846A8C"]
+			id: "7CBFD6FB662C9367"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_3"
+				criterion: ""
+				id: "784BFA6F4379C87C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CBFD6FB662C9367"]
+			id: "7250895C2EBE25DF"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_blaine"
+				criterion: ""
+				id: "3A0DE6CE3B6ED3FB"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7250895C2EBE25DF"]
+			id: "73CB7A93841ACD3F"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_3"
+				criterion: ""
+				id: "438416476C791396"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["73CB7A93841ACD3F"]
+			id: "19BAB83CEDFD003A"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_2"
+				criterion: ""
+				id: "64372E563B837FD4"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["19BAB83CEDFD003A"]
+			id: "40207980D0FD3F59"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_3"
+				criterion: ""
+				id: "75DE836CBE07C4D6"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["40207980D0FD3F59"]
+			id: "7CC9ED75384138EB"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_clair"
+				criterion: ""
+				id: "5EFF2BD23A8AC93C"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CC9ED75384138EB"]
+			id: "623CBDB7698DEEA8"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_4"
+				criterion: ""
+				id: "5B3FDD9B9B53B59C"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["623CBDB7698DEEA8"]
+			id: "66903E18B867271C"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_3"
+				criterion: ""
+				id: "4C05CA8D94ECAB9B"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["66903E18B867271C"]
+			id: "255486098D36A9C6"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_4"
+				criterion: ""
+				id: "0941E45869074034"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["255486098D36A9C6"]
+			id: "66CEACD7F2C2E04C"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_3"
+				criterion: ""
+				id: "415E6EDF55747FFF"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["66CEACD7F2C2E04C"]
+			id: "1C9DA5A61C28127D"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four"
+				criterion: ""
+				id: "3660A62319DF1253"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1C9DA5A61C28127D"]
+			id: "7B022D628B82A749"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion"
+				criterion: ""
+				id: "3624B4491301B8F3"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1C9DA5A61C28127D"]
+			hide_dependency_lines: true
+			id: "4C0CCC6AF947A8BF"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_elite_four"
+				criterion: ""
+				id: "7B1E52D8545446AF"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["7B022D628B82A749"]
+			id: "1D31FD9F17FFCB02"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_red"
+				criterion: ""
+				id: "57A0EDC0AA3FD043"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1C9DA5A61C28127D"]
+			hide_dependency_lines: true
+			id: "5C6FAA3CCD4F9CB2"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_champion"
+				criterion: ""
+				id: "46B0AFAE7DDE599A"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["1C9DA5A61C28127D"]
+			hide_dependency_lines: true
+			id: "2B65410747683B19"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_rival"
+				criterion: ""
+				id: "55DC9FBFCBD1648F"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 9.5d
 		}
 	]
 }

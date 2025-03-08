@@ -197,7 +197,7 @@
       ]
     },
     {
-      "Exp": [
+      "Xp-EVs-IVs": [
         {
           "item": "cobblemon:exp_candy_xs",
           "price": 2500
@@ -212,11 +212,11 @@
         },
         {
           "item": "cobblemon:exp_candy_l",
-          "price": 50000
+          "price": 40000
         },
         {
           "item": "cobblemon:exp_candy_xl",
-          "price": 150000
+          "price": 85000
         },
         {
           "item": "cobblemon:rare_candy",
@@ -224,7 +224,7 @@
         },
         {
           "item": "cobblemon:exp_share",
-          "price": 250000
+          "price": 125000
         },
         {
           "item": "cobblemon:health_feather",
@@ -249,6 +249,114 @@
         {
           "item": "cobblemon:swift_feather",
           "price": 2000
+        },
+        {
+          "item": "cobblemon:ability_capsule",
+          "price": 150000
+        },
+        {
+          "item": "cobblemon:ability_patch",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:atksilvercap",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:spatksilvercap",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:spdefsilvercap",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:speedsilvercap",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:defsilvercap",
+          "price": 200000
+        },
+        {
+          "item": "brendons_bottlecaps:hpsilvercap",
+          "price": 200000
+        }
+      ]
+    },
+    {
+      "Gems": [
+        {
+          "item": "cobblemon:normal_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:fire_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:water_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:grass_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:electric_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:ice_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:fighting_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:poison_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:ground_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:flying_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:psychic_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:bug_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:rock_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:ghost_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:dragon_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:dark_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:steel_gem",
+          "price": 15000
+        },
+        {
+          "item": "cobblemon:fairy_gem",
+          "price": 15000
         }
       ]
     }
