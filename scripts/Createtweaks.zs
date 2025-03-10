@@ -1,0 +1,2 @@
+craftingTable.addShaped("rose_quartz_from_blocks_of_rose_quartz", <item:create:rose_quartz>, [[<item:create:rose_quartz_block> * 2]]);
+craftingTable.addShaped("rose_quartz_from_bop_blocks_of_rose_quartz", <item:create:rose_quartz>, [[<item:biomesoplenty:rose_quartz_block> * 4]]);

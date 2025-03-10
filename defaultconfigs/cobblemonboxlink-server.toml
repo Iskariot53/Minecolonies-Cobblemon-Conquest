@@ -1,0 +1,3 @@
+#Whether the 'Open PC Storage' Keybind requires having a Box Link item.
+#If false, it is effectively an innate ability.
+boxLinkBindRequiresItem = true
