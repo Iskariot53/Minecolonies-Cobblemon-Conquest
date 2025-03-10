@@ -8,6 +8,40 @@
 		id: "cobblemon:ultra_ball"
 	}
 	id: "1900D81E9D2138D9"
+	images: [
+		{
+			height: 2.0d
+			image: "cobbledollars:textures/gui/cobbledollars_background.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -11.517857142857153d
+			y: 10.071428571428577d
+		}
+		{
+			height: 3.0d
+			image: "ccextras:textures/RADICAL-TRAINERS-PROGRESSION.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 10.678571428571416d
+			y: 2.0714285714285694d
+		}
+		{
+			height: 2.0d
+			image: "ccextras:textures/MERCHANT.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			height: 3.0d
+			image: "ccextras:textures/COBBLEMON.png"
+			rotation: 0.0d
+			width: 11.0d
+			x: 0.1607142857142847d
+			y: -3.357142857142854d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -76,8 +110,8 @@
 				id: "43724AD6D8CE6777"
 				type: "advancement"
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: 7.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["02C28EADBE69CA9A"]
@@ -88,8 +122,8 @@
 				id: "492DAEFF6BEDD746"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 0.5d
+			x: 8.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["483B482CC112C494"]
@@ -100,8 +134,8 @@
 				id: "6440CB0B56CD9136"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 0.5d
+			x: 9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0BC132C441FC7598"]
@@ -112,8 +146,8 @@
 				id: "3D0E9BC7AC0550C1"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 0.5d
+			x: 10.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2241A9BBD6153119"]
@@ -124,8 +158,8 @@
 				id: "305C4C598A2BFC9C"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 0.5d
+			x: 11.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["499B398F25A88F68"]
@@ -136,8 +170,8 @@
 				id: "7FC12351C60934EA"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 0.5d
+			x: 12.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -148,8 +182,8 @@
 				item: { count: 1, id: "cobblemon:pc" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -0.5d
+			x: -4.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -160,8 +194,8 @@
 				item: { count: 1, id: "cobblemon:healing_machine" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -0.5d
+			x: -5.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["5862BF0408DBDFEA"]
@@ -175,6 +209,8 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
 			id: "28467C18C3459289"
 			tasks: [{
 				id: "4362569E21D6B35E"
@@ -196,6 +232,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
 			id: "7078E004A4888746"
 			tasks: [{
 				id: "66AAFECE9D90B08C"
@@ -220,6 +258,8 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
 			id: "0F6F23ECCD9BEC3F"
 			tasks: [{
 				id: "09DCBA0E7A17487B"
@@ -241,6 +281,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
 			icon: {
 				id: "brendons_bottlecaps:goldencap"
 			}
@@ -250,7 +292,7 @@
 				type: "checkmark"
 			}]
 			x: -13.0d
-			y: 0.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -769,8 +811,8 @@
 				item: { count: 1, id: "cobblemonboxlink:box_link" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 1.0d
+			x: -4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7425ABFB2D688DB8"]
@@ -781,8 +823,8 @@
 				id: "787EA98F478A9CD1"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 0.5d
+			x: 13.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["4DD64B7322641A51"]
@@ -793,8 +835,8 @@
 				id: "638CD57315F2E950"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 0.5d
+			x: 14.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["564F6F789443F4C0"]
@@ -805,8 +847,8 @@
 				id: "3C9A886C52794007"
 				type: "advancement"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: 7.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["0ED97CF11E7335CA"]
@@ -817,8 +859,8 @@
 				id: "0DC508BC36E9BA68"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 2.0d
+			x: 8.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["6E98D8C6C0F182FA"]
@@ -829,8 +871,8 @@
 				id: "6F07B907B47CFE4B"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 9.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["6786B6A8692C67A5"]
@@ -841,8 +883,8 @@
 				id: "3E20EFF168FF4FA6"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 10.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["114DD047A53F75D8"]
@@ -861,8 +903,8 @@
 					type: "advancement"
 				}
 			]
-			x: 9.0d
-			y: 2.0d
+			x: 11.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["17A95BE832138F53"]
@@ -873,8 +915,8 @@
 				id: "5589013C40697249"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 2.0d
+			x: 12.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["776BCAC6DB50C3E3"]
@@ -885,8 +927,8 @@
 				id: "111A4ACD36300D03"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 2.0d
+			x: 13.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["2BA23752F0416D72"]
@@ -897,8 +939,8 @@
 				id: "5534F491E4F87FAC"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 2.0d
+			x: 14.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["0F9AD5E4642D02F1"]
@@ -909,8 +951,8 @@
 				id: "42F35073A8BE970A"
 				type: "advancement"
 			}]
-			x: 5.0d
-			y: 3.5d
+			x: 7.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["0DE569E88A846A8C"]
@@ -921,8 +963,8 @@
 				id: "784BFA6F4379C87C"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 3.5d
+			x: 8.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["7CBFD6FB662C9367"]
@@ -933,8 +975,8 @@
 				id: "3A0DE6CE3B6ED3FB"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 3.5d
+			x: 9.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["7250895C2EBE25DF"]
@@ -945,8 +987,8 @@
 				id: "438416476C791396"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 3.5d
+			x: 10.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["73CB7A93841ACD3F"]
@@ -957,8 +999,8 @@
 				id: "64372E563B837FD4"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 3.5d
+			x: 11.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["19BAB83CEDFD003A"]
@@ -969,8 +1011,8 @@
 				id: "75DE836CBE07C4D6"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 3.5d
+			x: 12.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["40207980D0FD3F59"]
@@ -981,8 +1023,8 @@
 				id: "5EFF2BD23A8AC93C"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 3.5d
+			x: 13.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["7CC9ED75384138EB"]
@@ -993,8 +1035,8 @@
 				id: "5B3FDD9B9B53B59C"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 3.5d
+			x: 14.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["623CBDB7698DEEA8"]
@@ -1005,8 +1047,8 @@
 				id: "4C05CA8D94ECAB9B"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 5.0d
+			x: 9.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["66903E18B867271C"]
@@ -1017,8 +1059,8 @@
 				id: "0941E45869074034"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 5.0d
+			x: 10.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["255486098D36A9C6"]
@@ -1029,8 +1071,8 @@
 				id: "415E6EDF55747FFF"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 5.0d
+			x: 11.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["66CEACD7F2C2E04C"]
@@ -1041,8 +1083,8 @@
 				id: "3660A62319DF1253"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: 12.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["1C9DA5A61C28127D"]
@@ -1053,8 +1095,8 @@
 				id: "3624B4491301B8F3"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 6.5d
+			x: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["1C9DA5A61C28127D"]
@@ -1066,8 +1108,8 @@
 				id: "7B1E52D8545446AF"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 9.5d
+			x: 9.0d
+			y: 13.0d
 		}
 		{
 			dependencies: ["7B022D628B82A749"]
@@ -1078,8 +1120,8 @@
 				id: "57A0EDC0AA3FD043"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 8.0d
+			x: 10.5d
+			y: 11.5d
 		}
 		{
 			dependencies: ["1C9DA5A61C28127D"]
@@ -1091,8 +1133,8 @@
 				id: "46B0AFAE7DDE599A"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 9.5d
+			x: 10.5d
+			y: 13.0d
 		}
 		{
 			dependencies: ["1C9DA5A61C28127D"]
@@ -1104,8 +1146,67 @@
 				id: "55DC9FBFCBD1648F"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 9.5d
+			x: 12.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "135B76E092E8171D"
+			tasks: [{
+				id: "0DDEFEAAEDEA5F75"
+				item: { count: 1, id: "cobblenav:pokenav_item_base" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2F8DF91E3EE7D3FA"
+			tasks: [{
+				id: "0A59C8619A366F3E"
+				item: { components: { "ftbfiltersystem:filter": "only_one(item(cobblenav:pokefinder_item_black)item(cobblenav:pokefinder_item_blue)item(cobblenav:pokefinder_item_green)item(cobblenav:pokefinder_item_pink)item(cobblenav:pokefinder_item_red)item(cobblenav:pokefinder_item_white)item(cobblenav:pokefinder_item_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.2142857142857153d
+			y: 1.2857142857142847d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "52A781C9CAD37CE0"
+			optional: true
+			rewards: [{
+				command: "/cobblemerchant open shop"
+				icon: {
+					id: "cobblemon:relic_coin_pouch"
+				}
+				id: "1AAB51BEEC2CD192"
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "626052F051631CFC"
+				type: "checkmark"
+			}]
+			x: -11.982142857142861d
+			y: 10.214285714285715d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "4EACDF4E649E7C2B"
+			tasks: [{
+				id: "0596C5DD48511946"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:type_gems)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 0.5d
 		}
 	]
 }

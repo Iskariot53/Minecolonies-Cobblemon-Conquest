@@ -1,4 +1,5 @@
 {
+	autofocus_id: "1BA3583FDDBAEEA7"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "oritech"
@@ -8,6 +9,14 @@
 		id: "oritech:processing_unit"
 	}
 	id: "08CE67C453CF05CC"
+	images: [{
+		height: 3.0d
+		image: "ccextras:textures/ORITECH.png"
+		rotation: 0.0d
+		width: 9.0d
+		x: -1.1785714285714235d
+		y: -11.57142857142857d
+	}]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -152,8 +161,8 @@
 				item: { count: 1, id: "oritech:foundry_block" }
 				type: "item"
 			}]
-			x: 2.25d
-			y: -3.0d
+			x: 0.9642857142857224d
+			y: -0.8571428571428612d
 		}
 		{
 			id: "5B48EC3F74F6B2DD"
@@ -163,7 +172,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -7.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5B48EC3F74F6B2DD"]
@@ -173,7 +182,7 @@
 				item: { count: 1, id: "oritech:centrifuge_block" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.5d
 			y: -3.0d
 		}
 		{
@@ -184,8 +193,8 @@
 				item: { count: 1, id: "oritech:fragment_forge_block" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -5.5d
+			x: 3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: [
@@ -198,7 +207,7 @@
 				item: { count: 1, id: "oritech:enderic_compound" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 6.0d
 			y: -3.0d
 		}
 		{
@@ -212,8 +221,8 @@
 				item: { count: 1, id: "oritech:assembler_block" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: -1.5357142857142847d
+			y: -4.607142857142854d
 		}
 		{
 			id: "54A1D540D0231F60"
@@ -223,7 +232,21 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"1BA3583FDDBAEEA7"
+				"5B48EC3F74F6B2DD"
+			]
+			id: "25EB20A8288B050F"
+			tasks: [{
+				id: "6EBF8DE939614437"
+				item: { count: 1, id: "oritech:enderic_lens" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
 		}
 	]
 }

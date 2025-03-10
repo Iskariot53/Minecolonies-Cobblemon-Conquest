@@ -75,9 +75,3 @@ craftingTable.addJsonRecipe("cobblemon.master_ball",
         "id": "cobblemon:master_ball"
     }
 });
-craftingTable.removeByName("tomtaru:heavy_ball");
-craftingTable.removeByName("tomtaru:moon_ball");
-craftingTable.removeByName("tomtaru:sport_ball");
-craftingTable.removeByName("tomtaru:heal_ball");
-craftingTable.removeByName("tomtaru:quick_ball");
-craftingTable.removeByName("tomtaru:fast_ball");

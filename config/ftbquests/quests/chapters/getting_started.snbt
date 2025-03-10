@@ -1,5 +1,5 @@
 {
-	autofocus_id: "3BA6F9CD59088C7D"
+	autofocus_id: "34295F4932C40D1D"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "getting_started"
@@ -10,6 +10,14 @@
 		id: "cobblemon:poke_ball"
 	}
 	id: "3ADA6E43741748B5"
+	images: [{
+		height: 3.0d
+		image: "ccextras:textures/THE-BASICS.png"
+		rotation: 0.0d
+		width: 9.0d
+		x: 0.5d
+		y: -15.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -122,6 +130,15 @@
 		{
 			dependencies: ["704FD1152464AD1B"]
 			id: "6D2638F72AEDA63E"
+			rewards: [{
+				command: "/cobblemerchant open shop"
+				icon: {
+					id: "cobblemon:relic_coin_pouch"
+				}
+				id: "291613F37272FFCA"
+				team_reward: false
+				type: "command"
+			}]
 			tasks: [{
 				id: "17C76AE741FEB6BB"
 				type: "checkmark"

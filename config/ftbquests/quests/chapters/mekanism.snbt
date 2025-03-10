@@ -1,5 +1,5 @@
 {
-	autofocus_id: "0DFEC0DF582D9988"
+	autofocus_id: "1A54CB7CC678C553"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mekanism"
@@ -9,6 +9,14 @@
 		id: "mekanism:quantum_entangloporter"
 	}
 	id: "0D98B33203B576DF"
+	images: [{
+		height: 3.0d
+		image: "ccextras:textures/MEKANISM.png"
+		rotation: 0.0d
+		width: 9.0d
+		x: 0.0d
+		y: -2.5d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [

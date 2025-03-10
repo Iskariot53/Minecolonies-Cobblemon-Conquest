@@ -1,4 +1,5 @@
 {
+	autofocus_id: "177356502AE1B924"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "immersive_engineering"
@@ -8,6 +9,14 @@
 		id: "immersiveengineering:hammer"
 	}
 	id: "43FC55A0E4E3627E"
+	images: [{
+		height: 5.0d
+		image: "ccextras:textures/IMMERSIVE-ENGINEERING.png"
+		rotation: 0.0d
+		width: 16.0d
+		x: 0.0d
+		y: -3.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -24,6 +33,7 @@
 		}
 		{
 			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
 			id: "1895465FFAF43E7E"
 			tasks: [{
 				id: "12896D1502DE8517"

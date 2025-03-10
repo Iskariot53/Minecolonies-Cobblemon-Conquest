@@ -9,14 +9,24 @@
 		id: "minecolonies:blockhuttownhall"
 	}
 	id: "65AAD4FF3CB2E745"
-	images: [{
-		height: 7.0d
-		image: "minecolonies:textures/gui/logo_large_empty.png"
-		rotation: 0.0d
-		width: 10.58d
-		x: 0.0d
-		y: -1.7d
-	}]
+	images: [
+		{
+			height: 7.0d
+			image: "minecolonies:textures/gui/logo_large_empty.png"
+			rotation: 0.0d
+			width: 10.58d
+			x: 0.0d
+			y: -1.7d
+		}
+		{
+			height: 3.0d
+			image: "ccextras:textures/MINECOLONIES.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.1071428571428612d
+			y: -4.964285714285722d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [

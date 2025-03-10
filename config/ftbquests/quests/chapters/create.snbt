@@ -1,5 +1,5 @@
 {
-	autofocus_id: "61CE044637D55EE3"
+	autofocus_id: "2DFAB367F1A7D350"
 	default_hide_dependency_lines: false
 	default_quest_shape: "gear"
 	filename: "create"
@@ -9,6 +9,14 @@
 		id: "create:large_cogwheel"
 	}
 	id: "064AE5987A6C474D"
+	images: [{
+		height: 3.0d
+		image: "ccextras:textures/CREATE.png"
+		rotation: 0.0d
+		width: 6.0d
+		x: 0.0d
+		y: -5.5d
+	}]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -79,7 +87,7 @@
 				type: "item"
 			}]
 			x: -7.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["2DFAB367F1A7D350"]
@@ -91,7 +99,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -216,8 +224,8 @@
 				item: { count: 1, id: "create:deployer" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -6.75d
+			x: -2.75d
+			y: 7.75d
 		}
 		{
 			dependencies: ["2DFAB367F1A7D350"]
@@ -301,6 +309,7 @@
 			dependencies: [
 				"71EC8771E073828D"
 				"5B3660BF8A28EBE4"
+				"6410DD17441D06C6"
 			]
 			hide_dependency_lines: true
 			id: "6EB67049F07A7C80"
@@ -311,14 +320,11 @@
 				item: { count: 1, id: "create:brass_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -6.75d
+			x: 0.25d
+			y: 10.0d
 		}
 		{
-			dependencies: [
-				"6410DD17441D06C6"
-				"6EB67049F07A7C80"
-			]
+			dependencies: ["6EB67049F07A7C80"]
 			id: "6105E72E2983A91A"
 			size: 1.5d
 			tasks: [{
@@ -326,8 +332,8 @@
 				item: { count: 1, id: "create:brass_casing" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -9.0d
+			x: 3.25d
+			y: 7.75d
 		}
 		{
 			dependencies: ["2D0E3347EF63B89E"]
@@ -361,8 +367,8 @@
 				item: { count: 1, id: "create:precision_mechanism" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -5.5d
+			x: -4.535714285714285d
+			y: 7.7499999999999964d
 		}
 		{
 			dependencies: ["2D64B8D38B367DC0"]
@@ -373,8 +379,8 @@
 				item: { count: 1, id: "create:wand_of_symmetry" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -3.75d
+			x: -6.5d
+			y: 7.75d
 		}
 		{
 			dependencies: ["6105E72E2983A91A"]
@@ -384,8 +390,8 @@
 				item: { count: 1, id: "create:mechanical_crafter" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -11.0d
+			x: 4.785714285714285d
+			y: 7.75d
 		}
 		{
 			dependencies: ["59B58F487D188A06"]
@@ -395,8 +401,8 @@
 				item: { count: 1, id: "create:mechanical_arm" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -12.5d
+			x: 5.75d
+			y: 7.0d
 		}
 		{
 			dependencies: ["6EB67049F07A7C80"]
@@ -406,19 +412,19 @@
 				item: { count: 1, id: "create:brass_funnel" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -5.5d
+			x: 1.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["6EB67049F07A7C80"]
 			id: "5C400DCED8BC884F"
 			tasks: [{
 				id: "3CB51474D530845F"
-				item: { count: 1, id: "create:andesite_funnel" }
+				item: { count: 1, id: "create:brass_tunnel" }
 				type: "item"
 			}]
 			x: -1.0d
-			y: -5.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["7F23B52CD0488C38"]
@@ -495,8 +501,8 @@
 				item: { count: 1, id: "create:crushing_wheel" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -11.0d
+			x: 5.75d
+			y: 8.5d
 		}
 		{
 			dependencies: ["7DB6CA1F6105CC96"]
@@ -567,7 +573,7 @@
 				item: { count: 1, id: "create:copper_sheet" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: -2.0d
 			y: -3.5d
 		}
 		{
@@ -579,7 +585,7 @@
 				item: { count: 1, id: "create:fluid_tank" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 0.0d
 			y: -3.5d
 		}
 		{
@@ -590,7 +596,7 @@
 				item: { count: 1, id: "create:steam_engine" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 2.0d
 			y: -3.5d
 		}
 	]

@@ -21,7 +21,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -4.5d
+			y: -2.1428571428571423d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -32,7 +32,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -43,7 +43,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -54,7 +54,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -65,7 +65,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -326,7 +326,7 @@
 				type: "checkmark"
 			}]
 			x: -0.5d
-			y: 2.0d
+			y: 3.0d
 		}
 	]
 }

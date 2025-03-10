@@ -22,7 +22,7 @@
 	chapter.5E8B386358D2260F.title: "Tom's Simple Storage"
 	chapter.62F1A6802BCA4AFF.title: "Mekanism"
 	chapter.65AAD4FF3CB2E745.title: "Minecolonies"
-	chapter.683B6A4D65B65D19.title: "The Twilight Forest"
+	chapter.683B6A4D65B65D19.title: "Twilight Forest"
 	chapter.684810D6A94360CC.title: "MineColonies"
 	chapter.707349D42B2378BD.title: "Productive Bees"
 	chapter.7BFF883E4584D5BF.title: "Eternal Starlight"
@@ -60,6 +60,7 @@
 	quest.01EB06530D028AC2.quest_desc: ["&e&lFiery Sword and Pickaxe&r&r are made from Fiery Ingots and have the ability to burn attackers, and auto-smelt blocks."]
 	quest.01EB06530D028AC2.title: "Fiery Sword and Pickaxe"
 	quest.02056C28AB828C96.quest_desc: ["The &e&lTri-bow&r&r is one of two bows dropped by the Snow Queen upon defeat. When fired, it shoots three vertically aligned arrows at once, similar to the Multishot enchantment on crossbows, but it only uses one arrow and reduces durability by one. This bow is highly effective against single targets if all shots hit, as well as against multiple targets."]
+	quest.02C28EADBE69CA9A.title: "Defeat any trainer"
 	quest.02E249A161D2EC5C.quest_desc: ["Summon your own powerful Zombies with the &l&eZombie Scepter&r&r! These Zombies are strong, fast, immune to sunlight, and ready to attack. They follow you and target enemies but self-immolate after about a minute. Unlike regular Zombies, they are not undead, are affected by potions, and can be targeted by the Wither. Summoned Zombies do not scare, target, or corrupt Villagers, and baby or chicken jockey variants do not exist."]
 	quest.031BF5A5DDEA7DDF.quest_desc: [
 		"Once the player has traversed the Thornlands, they will encounter the &l&eFinal Castle&r&r, a structure that spawns in the &eFinal Plateau&r. It is primarily made of white castle bricks in different variants, some of which are engraved with colored runes and covered with force fields."
@@ -282,6 +283,8 @@
 		"The &e&lAlpha Yeti&r&r is significantly bigger than the other Yetis in its pack, with six large blue horns, and it is constantly aggressive toward players."
 	]
 	quest.0BB1207844B6F10E.title: "&2&lSlay The Alpha Yeti"
+	quest.0BC132C441FC7598.quest_subtitle: "Round 1"
+	quest.0BC132C441FC7598.title: "Defeat Rocket Admin Archer"
 	quest.0BC1B7B07FC3E8F1.quest_desc: ["The solar neutron activator will convert nuclear waste into polonium gas, which does not decay. However, it will only do so during the day and when it has clear view of the sky. The polonium pellets made from processing this gas will be needed on the way to producing and processing antimatter."]
 	quest.0BC1B7B07FC3E8F1.quest_subtitle: "&3Processing nuclear waste"
 	quest.0BC1B7B07FC3E8F1.title: "&9&lSolar Neutron Activator"
@@ -306,6 +309,7 @@
 	quest.0DDC127F1CB70026.quest_desc: ["Breed a creebee and an iron bee."]
 	quest.0DDC127F1CB70026.quest_subtitle: "&eBee Breeding"
 	quest.0DDC127F1CB70026.title: "&6&lAcquire a Radioactive Bee"
+	quest.0DE569E88A846A8C.title: "Defeat May"
 	quest.0DFEC0DF582D9988.quest_desc: ["The enrichment chamber can be used to make your infusion materials last &oa lot&r longer. "]
 	quest.0DFEC0DF582D9988.quest_subtitle: "&3Enriching resources"
 	quest.0DFEC0DF582D9988.title: "&9&lEnrichment Chamber"
@@ -338,9 +342,12 @@
 	]
 	quest.0EB845F8A38477C8.title: "&6&lStash and Postbox"
 	quest.0ED3AAEF382CF18B.title: "&2&lHollow Hills"
+	quest.0ED97CF11E7335CA.quest_subtitle: "Round 1"
+	quest.0ED97CF11E7335CA.title: "Defeat Giovanni"
 	quest.0EFB469B8EEB8A4D.quest_desc: ["The &e&lOre Magnet&r&r is a treasure found in Hollow Hill chests. To use it, point the magnet at the ground or a wall, charge it up, and release. If you’re lucky, it will pull anything from an ore block to an entire vein to the surface, bringing up to 24 blocks, plus a few extra."]
 	quest.0F4965D65EBCC091.quest_desc: ["&e&lIronwood Armor and Tools&r&r are made from Ironwood Ingots."]
 	quest.0F4965D65EBCC091.title: "Ironwood Armor and Tools"
+	quest.0F9AD5E4642D02F1.title: "Defeat Koga"
 	quest.0FD07AFEE75166A7.quest_desc: ["&e&lKnightmetal Armor&r&r is an armor set made from Knightmetal Ingots."]
 	quest.0FD07AFEE75166A7.title: "Knightmetal Armor"
 	quest.0FE5E15692E6C16F.quest_desc: [
@@ -384,6 +391,8 @@
 	]
 	quest.111AEA0E6D56DE8F.quest_subtitle: "&eMystical Site"
 	quest.111AEA0E6D56DE8F.title: "&6&lMystical Site"
+	quest.114DD047A53F75D8.quest_subtitle: "Round 2"
+	quest.114DD047A53F75D8.title: "Defeat Giovanni"
 	quest.118623DACF6DC891.quest_desc: ["The osmium compressor is used to compress and infuse osmium into different dusts into order to yield an ingot of the alloy from the mixture."]
 	quest.118623DACF6DC891.quest_subtitle: "&3Osmium infusion"
 	quest.118623DACF6DC891.title: "&9&lOsmium Compressor"
@@ -481,6 +490,8 @@
 		"The &l&eTwilight Lich&r&r, or simply the Lich, resides at the top of the tower. It appears as a tall humanoid skeleton wearing a purple cape and a large golden crown, surrounded by a wall of shields that may be breakable."
 	]
 	quest.17126C997D141E79.title: "&2&lSlay The Lich"
+	quest.17A95BE832138F53.quest_subtitle: "Singles"
+	quest.17A95BE832138F53.title: "Defeat Rocket Admins Archer and Ariana"
 	quest.17E0353A98922300.quest_desc: ["The &6&lChicken Farmer's Hut&r&r is where the &6Chicken Farmer&r will raise chickens, collect eggs, and butcher chickens for food. You will have to capture and bring in two chickens to the Chicken Farmer's Hut, as the Chicken Farmer will &cnot&r catch and bring in any chickens."]
 	quest.17E0353A98922300.quest_subtitle: "&eChicken Farmer's Hut"
 	quest.17E0353A98922300.title: "&6&lChicken Farmers"
@@ -503,6 +514,8 @@
 		"Meaning all content within the modpack, including &l&eQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &l&6TeamMCC&r&r without explicit permission from the creators."
 	]
 	quest.1954E44EEC89DE39.title: "&6&lQuests by TeamMCC for the MCC Modpack"
+	quest.19BAB83CEDFD003A.quest_subtitle: "Round 2"
+	quest.19BAB83CEDFD003A.title: "Defeat Rocket Admin Ariana"
 	quest.19CA2BE5845168AA.quest_desc: ["The &e&lTri-bow&r&r is one of two bows dropped by the Snow Queen upon defeat. When fired, it shoots three vertically aligned arrows at once, similar to the Multishot enchantment on crossbows, but it only uses one arrow and reduces durability by one. This bow is highly effective against single targets if all shots hit, as well as against multiple targets."]
 	quest.19CC579914069E61.quest_desc: ["Breed an iron bee with a neon cuckoo bee."]
 	quest.19CC579914069E61.quest_subtitle: "&eBee Breeding"
@@ -579,6 +592,7 @@
 	quest.1C761E69DB39289E.quest_subtitle: "1 singularity will make 2 Q.E singularities"
 	quest.1C8087BC08CB0C4B.quest_desc: ["&e&lKnightmetal Tools and Weapons&r&r are made from Knightmetal Ingots."]
 	quest.1C8087BC08CB0C4B.title: "Knightmetal Tools and Weapons"
+	quest.1C9DA5A61C28127D.title: "Defeat The Elite 4"
 	quest.1CB4E504B2A12845.quest_desc: [
 		"Resembling a large Hollow Hill, the &e&lHydra Lair&r&r rises from the flat swamplands, providing a home for the multi-headed Hydra in the Fire Swamp. The Hydra has hollowed out the hill for shelter, forcing challengers to approach head-on in an area devoid of cover."
 		""
@@ -681,6 +695,8 @@
 		""
 		"When the crumble horn is used in a &eDispenser&r, it will attempt to crumble the block in front of it. This action takes one durability to complete. Unlike other damageable items that can be used in the dispenser, the crumble horn will not break when depleted. If the durability hits zero it will instead refuse to fire again."
 	]
+	quest.2241A9BBD6153119.quest_subtitle: "Round 1"
+	quest.2241A9BBD6153119.title: "Defeat Terry"
 	quest.224C2A4CAABD226E.quest_desc: [
 		"The &e&lNaga Courtyard&r&r is a large, walled structure made of various stones and Nagastone. Inside, there are hedges of Twilight Oak Leaves, pillars of Polished Andesite and Etched Nagastone, and decorative features. At the center is a Boss Spawner for the Naga."
 		""
@@ -714,6 +730,8 @@
 	quest.24D263576EA9EAB9.quest_desc: ["Sugarbag bees have a very small chance to spawn inside of &6cocoa bean pods&r, grow and break as many pods as you can and you should *eventually* spawn at least 1. They produce a comb very useful as an early game food supply. provided you have chosen an origin that allows you to eat it."]
 	quest.24D263576EA9EAB9.quest_subtitle: "&eThis one can be quick, can take a whille."
 	quest.24D263576EA9EAB9.title: "&6&lSugarbag Bee"
+	quest.255486098D36A9C6.quest_subtitle: "Round 3"
+	quest.255486098D36A9C6.title: "Defeat Rocket Admin Archer"
 	quest.25CB61DB5BA804E3.quest_desc: [
 		"As explorers ventured deeper into the Twilight Highlands, they encountered a thick, spiny wall of foliage, impervious to cutting or burning attempts to access the Final Plateau. Disturbingly, any sections cut would regrow almost instantaneously, injuring one impatient adventurer. This natural yet unnatural barrier became known as the &l&eThornlands&r&r."
 		""
@@ -812,6 +830,8 @@
 	]
 	quest.2B84931E84D9FEDF.quest_subtitle: "&eEntirely Optional"
 	quest.2B84931E84D9FEDF.title: "&6&lMineColonies for ComputerCraft!"
+	quest.2BA23752F0416D72.quest_subtitle: "Round 2"
+	quest.2BA23752F0416D72.title: "Defeat Brendan"
 	quest.2BC383AAEC8C05B4.quest_desc: ["&e&lKnightmetal Armor&r&r is an armor set made from Knightmetal Ingots."]
 	quest.2BC383AAEC8C05B4.title: "Knightmetal Armor"
 	quest.2C5A91D10FE18DC5.quest_desc: ["&e&lIce Bow&r&r is a weapon that can be found in the Aurora Palace. The Ice Bow acts like a normal bow, but when an arrow from an Ice Bow hits a target, they will be covered in ice and inflicted with Frosted III for 10 seconds. This bow is useful to slow down moving targets or make escape from a monster easy. Ice Bows cannot be crafted, but they can be repaired with any type of Ice using an Anvil."]
@@ -910,6 +930,8 @@
 	]
 	quest.2F5B1536B8F289FF.quest_subtitle: "&6Retractable hoses"
 	quest.2F5B1536B8F289FF.title: "&e&lHose Pulley"
+	quest.2F8DF91E3EE7D3FA.quest_subtitle: "hold it in your off-hand"
+	quest.2F8DF91E3EE7D3FA.title: "Pokefinder"
 	quest.2FD5852E556DCF16.quest_desc: [
 		"Standing over the desolate glaciers, the &e&lAurora Palace&r&r is a striking sight for adventurers in the Twilight Forest, with walls that constantly shift in various colors. However, dangers within will fiercely defend their magical home."
 		""
@@ -1183,6 +1205,8 @@
 	quest.3FC010FC5CF4E383.quest_desc: ["With 1 quartz and 8 redstone you can craft rose quartz. Which can be sanded to make polished rose quartz. "]
 	quest.3FC010FC5CF4E383.quest_subtitle: "&6Handy when sanded"
 	quest.3FC010FC5CF4E383.title: "&e&lRose Quartz"
+	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
+	quest.40207980D0FD3F59.title: "Defeat Giovanni"
 	quest.40B42B2D21A31F1A.quest_desc: [
 		"&e&lArctic Fur&r&r is an item dropped by Yetis and Winter Wolves."
 		""
@@ -1319,6 +1343,7 @@
 		"Now that you've created a simple auto-sorting setup, you can easily sort items from something like a skeleton farm for example. However, you might face one problem: skeletons also drop bows and armor, which you may not want in your system. This is where the &e&lOpen Crate&r&r comes in play. The &e&lOpen Crate&r&r will automatically pull out any items from the system and drop them on the ground if they can't be sorted into any chests. You can place it with some lava in front of it to burn unwanted items. (&l&cMake sure there's something to destroy the items the Open Crate drops, or else a large number of item entities on the ground could cause significant lag!&r&r)"
 	]
 	quest.483153D5181940D0.title: "&lA Simple Setup to Auto-Sort Items"
+	quest.483B482CC112C494.title: "Defeat Brock"
 	quest.483D3EC791231340.quest_desc: ["&cPolished rose quartz&r is the last thing you need to get you on your way to banking, converting and spending those coins you've been gathering. Its also used in many components for contraptions."]
 	quest.483D3EC791231340.quest_subtitle: "&6Used in many contraptions"
 	quest.483D3EC791231340.title: "&e&lPolished Rose Quartz"
@@ -1338,6 +1363,7 @@
 	quest.498613C3ED5FE24A.quest_desc: ["Breed a magmatic bee with a sweat bee."]
 	quest.498613C3ED5FE24A.quest_subtitle: "&eBee Breeding"
 	quest.498613C3ED5FE24A.title: "&6&lAcquire an Obsidian Bee"
+	quest.499B398F25A88F68.title: "Defeat Misty"
 	quest.49A96C03DAB07DC0.quest_desc: [
 		"The &e&lCrumble Horn&r&r is one of the rewards for completing the Questing Ram's quest. If the quest is completed, this (along with one of each of the resource blocks) will be given to the player by the Quest Ram."
 		""
@@ -1413,6 +1439,7 @@
 	quest.4D97B36C553829F3.quest_desc: ["Wasted radioactive combs can be processed in a chemical oxidizer in order to more safely and easily automate the production of waste."]
 	quest.4D97B36C553829F3.quest_subtitle: "&3Processing eggs and combs"
 	quest.4D97B36C553829F3.title: "&9&lChemical Oxidizer"
+	quest.4DD64B7322641A51.title: "Defeat Lt. Surge"
 	quest.4E23C99DB4D1F7BD.quest_desc: ["The gamma upgrade is essentially the same as the beta upgrade, except it provides a %200 boost to production as well as functioning as a simulator upgrade."]
 	quest.4E23C99DB4D1F7BD.quest_subtitle: "&eMore"
 	quest.4E23C99DB4D1F7BD.title: "&6&lUpgrade: Productivity Gamma"
@@ -1485,6 +1512,7 @@
 	quest.5220FB0D131C6F95.title: "&2&lMaze Map"
 	quest.527D99B5715B3DAE.quest_desc: ["As your network grows, the power demands will inevitably grow with it. You'll notice that the network itself only holds a small amount of energy, adding a controller increases this. However, your network will almost certainly reach a point of demanding more power than it is capable of buffering at any given time. This is where we introduce the energy cell, allowing your network to buffer more power and avoid periodic network drops due to spikes in consumption."]
 	quest.527D99B5715B3DAE.quest_subtitle: "Network power buffer"
+	quest.52A781C9CAD37CE0.title: "Shop Command"
 	quest.52AE104474C902F2.quest_desc: ["Use a honey treat on a &areed&r nest to spawn a reed bee if you sannot find one."]
 	quest.52AE104474C902F2.quest_subtitle: "&eLook near rivers"
 	quest.52AE104474C902F2.title: "&6&lReed Bee"
@@ -1579,6 +1607,7 @@
 	]
 	quest.55E454F7D7A5B62E.quest_subtitle: "&6Steam Power"
 	quest.55E454F7D7A5B62E.title: "&e&lSteam Engine"
+	quest.564F6F789443F4C0.title: "Defeat Erika"
 	quest.566F3B5361936B1A.quest_desc: ["Like funnels, tunnels allow for the &ainsertion&r and &cextraction&r of items, but these may only be placed onto belts, and then fed into the container of choosing."]
 	quest.566F3B5361936B1A.quest_subtitle: "&6Belt exclusive item transfer"
 	quest.566F3B5361936B1A.title: "&e&lAndesite Tunnel"
@@ -1843,6 +1872,8 @@
 	quest.62135299C53DAEC4.quest_subtitle: "&3Antimatter"
 	quest.62135299C53DAEC4.title: "&9&lThe Supercritical Phase Shifter"
 	quest.622B8EEE00C9F620.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
+	quest.623CBDB7698DEEA8.quest_subtitle: "Round 4"
+	quest.623CBDB7698DEEA8.title: "Defeat Terry"
 	quest.62A2D789570DB3A4.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
 	quest.62BB492DEB62CA4A.quest_desc: ["Use a honey treat on a &6dark oak&r, &dcherry&r or &cacacia&r nest to spawn a blue banded bee if you cannot find one."]
 	quest.62BB492DEB62CA4A.quest_subtitle: "&eDark oak, cherry and acacia nests"
@@ -1923,11 +1954,17 @@
 	]
 	quest.6664CC4166B8FD3C.quest_subtitle: "&eWarehouse"
 	quest.6664CC4166B8FD3C.title: "&6&lWarehouse"
+	quest.66903E18B867271C.quest_subtitle: "Round 3"
+	quest.66903E18B867271C.title: "Defeat Brendon"
+	quest.66CEACD7F2C2E04C.quest_subtitle: "Round 3"
+	quest.66CEACD7F2C2E04C.title: "Defeat Rocket Admin Ariana"
 	quest.6754AD270F2F4BD5.quest_desc: [
 		"For even more flexibility, you can craft a &6&lColony Peripheral&r&r together with a &l&6Wireless Modem&r&r. This can’t be placed as a computer peripheral, but you can equip it to a &6Pocket Computer&r, and it gives you the benefits of both upgrades. "
 		"This lets you use the colony API along with the rednet/gps/http APIs or anything else that requires a wireless link. And all in the palms of your hands."
 	]
 	quest.6754AD270F2F4BD5.title: "&6&lColonial Wireless Upgrade&r&r"
+	quest.6786B6A8692C67A5.quest_subtitle: "Double"
+	quest.6786B6A8692C67A5.title: "Defeat Rocket Admins Archer and Ariana"
 	quest.67A58B04577F0602.quest_desc: ["&e&lFramed Inventory Cables&r&r and &e&lFramed Inventory Cable Connectors&r&r are used to create a storage system without compromising the aesthetics of your base. When these items are placed, you can use a &l&ePaint Kit&r&r. Simply shift-right-click any full-sized block with the &l&ePaint Kit&r&r, then right-click your cables and connectors to transform them into any other block, ensuring your building's appearance remains intact."]
 	quest.67A58B04577F0602.title: "&lFramed Cables and Cable Connectors"
 	quest.67EBDCC6D760A2D9.quest_desc: ["&e&lFiery Sword and Pickaxe&r&r are made from Fiery Ingots and have the ability to burn attackers, and auto-smelt blocks."]
@@ -2034,6 +2071,7 @@
 	]
 	quest.6CE068D4A1B95EB9.title: "&lInventory Connector"
 	quest.6D09FA6FE768A4D1.quest_desc: ["&e&lEnder Bow&r&r is a weapon that can be found in Aurora Palaces. The Ender Bow fires like a normal Bow, but if the arrow from the Ender Bow hits a creature then both the user and creature will swap places."]
+	quest.6D2638F72AEDA63E.quest_subtitle: "Check Cobblemon Chapter"
 	quest.6D54843B16B1E3ED.quest_desc: ["&e&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.6D54843B16B1E3ED.title: "Phantom Armor"
 	quest.6D9CCDB12FF5B518.quest_desc: [
@@ -2064,6 +2102,8 @@
 		"A network can have any number of wireless access points with any number of Wireless Booster in each one, allowing you to optimize power usage and range by altering your setup. Requires a channel to function and is used to bind wireless terminals to the network as well."
 	]
 	quest.6E3C73A89BE9CB85.quest_subtitle: "Going wireless"
+	quest.6E98D8C6C0F182FA.quest_subtitle: "Round 2"
+	quest.6E98D8C6C0F182FA.title: "Defeat Terry"
 	quest.6EB67049F07A7C80.quest_desc: ["Brass is used for crafting new casings and components among other things."]
 	quest.6EB67049F07A7C80.quest_subtitle: "&6Shiny!"
 	quest.6EB67049F07A7C80.title: "&e&lDiscovering new alloys: Brass"
@@ -2135,6 +2175,7 @@
 	quest.71EC8771E073828D.quest_desc: ["The mechanical mixer is used to make 1 of the first alloys we'll need to advance further into our technological progression, among other things."]
 	quest.71EC8771E073828D.quest_subtitle: "&6Blending all the things"
 	quest.71EC8771E073828D.title: "&e&lMechanical Mixer"
+	quest.7250895C2EBE25DF.title: "Defeat Blaine"
 	quest.7264C093510330F7.quest_desc: [
 		"Rising ominously over the Dark Forest, the &e&lDark Towers&r&r seem to pierce the sky. These immense structures contain unique rooms, obstacles, treasures, and monsters for adventurers to explore. They are typically found at the heart of the Dark Forest, where the thick foliage takes on a strange autumn hue, likely due to the Tower's sinister influence."
 		""
@@ -2173,8 +2214,12 @@
 	quest.73931D120F3C453D.quest_desc: ["If for whatever reason you lose the tome provided within the starter hut or you opted to not use the huts at all, The Big Book of Bees is easily crafted with a bee cage and a book."]
 	quest.73931D120F3C453D.quest_subtitle: "&eJust in case"
 	quest.73931D120F3C453D.title: "&6&lThe Big Book of Bees"
+	quest.73CB7A93841ACD3F.quest_subtitle: "Round 2"
+	quest.73CB7A93841ACD3F.title: "Defeat Rocket Admin Archer"
 	quest.73EFA418A2DD6732.quest_subtitle: "&3Now it's finally safe"
 	quest.73EFA418A2DD6732.title: "&9&lPolonium Pellet"
+	quest.7425ABFB2D688DB8.quest_subtitle: "Round 1"
+	quest.7425ABFB2D688DB8.title: "Defeat Brendon"
 	quest.744BF2D2E55A1511.quest_desc: [
 		"The metallurgic infuser will intake resources and then infuse them into another. Such as taking coal and infusing it into iron, making enriched iron, Or taking enriched iron and in turn enriching it again to make steel dust."
 		""
@@ -2242,6 +2287,7 @@
 	quest.774B7AAAD1A84617.quest_desc: ["Obtain a spatial bee spawn egg, then throw it and a skysteel block into a lava source block."]
 	quest.774B7AAAD1A84617.quest_subtitle: "&eIn-World Transformation"
 	quest.774B7AAAD1A84617.title: "&6&lAcquire a Sky Steel Bee"
+	quest.776BCAC6DB50C3E3.title: "Defeat Sabrina"
 	quest.77836607BA702351.quest_desc: ["The &6&lAlchemist Tower&r&r &9requires research&r at the &6University&r to be built, and is where the &6&lAlchemist&r&r works. The Alchemist brews potions, harvests netherwart and mistletoe."]
 	quest.77836607BA702351.quest_subtitle: "&eAlchemist Tower"
 	quest.77836607BA702351.title: "&6&lAlchemists"
@@ -2362,6 +2408,9 @@
 	]
 	quest.7CAFD0FAF3654C08.quest_subtitle: "&ePlantation"
 	quest.7CAFD0FAF3654C08.title: "&6&lPlanters"
+	quest.7CBFD6FB662C9367.quest_subtitle: "Round 3"
+	quest.7CBFD6FB662C9367.title: "Defeat Terry"
+	quest.7CC9ED75384138EB.title: "Defeat Clair"
 	quest.7D214A4E9FBE9A89.quest_desc: [
 		"While ME networks are also constructed of adjacent ME-capable devices and machines, cables are the primary way of extending an ME network over longer distances."
 		""
@@ -2461,11 +2510,15 @@
 		"The &e&lMinoshroom&r&r is a mini-boss lurking in its prison at the bottom of the Labyrinth, resembling a bizarre hybrid of a Mooshroom and a Minotaur."
 	]
 	quest.7FE1E8AD3B941CDA.title: "&2&lSlay The Minoshroom"
+	reward_table.04EA052095EE7A0C.title: "T3 cobblemon rewards"
+	reward_table.5396FA9EF19E4CCB.title: "T1 cobblemon rewards"
+	reward_table.5599E1C923051825.title: "T2 cobblemon rewards"
 	task.004A1534CA8F86A4.title: "Acquire an irradium bee"
 	task.006778971AE841F2.title: "Any #cobblemon:tumblestones"
 	task.00AD1133B558E012.title: "Any #forge:ingots/steel"
 	task.01DB6FA8980D9879.title: "Find a Small Hollow Hill"
 	task.024E3AFBD0612760.title: "Much better"
+	task.0596C5DD48511946.title: "Any #cobblemon:type_gems"
 	task.059D49D3886269F5.title: "Vitamins"
 	task.05C2BDC7998C7D66.title: "Acquire a brass bee"
 	task.066D9C0B311905C9.title: "Find a Large Hollow Hill"
@@ -2476,6 +2529,7 @@
 	task.089279FD8D5BDD76.title: "Acquire a hoarder bee"
 	task.08BD2CD08566394B.title: "Acquire a pure bee"
 	task.09EE3EA1E53CA986.title: "Acquire a hellfire bee"
+	task.0A59C8619A366F3E.title: "Pokefinder"
 	task.0BAA34164BD288AD.title: "Any #smallships:drakkars"
 	task.0BDEE1CB4A7D1E26.title: "Acquire a zinc bee"
 	task.0CC6FA0267935C43.title: "Acquire a tin bee"
@@ -2601,6 +2655,7 @@
 	task.603C97CFDC36815B.title: "Acquire a refined glowstone bee"
 	task.6054DB848B076888.title: "Find a ghostly bee"
 	task.607B918B6D697ECE.title: "Have a zombee move in"
+	task.626052F051631CFC.title: "Open Shop"
 	task.633097EAEA7EFB16.title: "Acquire a silicon bee"
 	task.63E03E64BA6D80EB.title: "So which is best?"
 	task.63E97663311EB81B.title: "Bottle Caps"
