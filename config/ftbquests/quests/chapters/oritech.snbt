@@ -1,5 +1,5 @@
 {
-	autofocus_id: "1BA3583FDDBAEEA7"
+	autofocus_id: "16472E640D0FCB50"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "oritech"
@@ -14,33 +14,41 @@
 		image: "ccextras:textures/ORITECH.png"
 		rotation: 0.0d
 		width: 9.0d
-		x: -1.1785714285714235d
-		y: -11.57142857142857d
+		x: -1.1785714285714306d
+		y: -11.749999999999996d
 	}]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["6801E2AC958DCC92"]
+			dependencies: [
+				"6801E2AC958DCC92"
+				"710D89FA1F75916C"
+			]
 			id: "3626B316AFAF5C3B"
+			size: 1.5d
 			tasks: [{
 				id: "6DE38B28315E8360"
 				item: { count: 1, id: "oritech:promethium_pickaxe" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 8.0d
+			x: -6.0d
+			y: 4.5d
 		}
 		{
-			dependencies: ["6801E2AC958DCC92"]
+			dependencies: [
+				"6801E2AC958DCC92"
+				"710D89FA1F75916C"
+			]
 			id: "1C366079E2966438"
+			size: 1.5d
 			tasks: [{
 				id: "7DD940C57815CC4C"
 				item: { count: 1, id: "oritech:promethium_axe" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 8.0d
+			x: -4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -54,8 +62,8 @@
 				item: { count: 4, id: "oritech:prometheum_ingot" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 6.5d
+			x: -5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -69,28 +77,36 @@
 				item: { count: 2, id: "oritech:overcharged_crystal" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 3.5d
+			x: -2.5d
+			y: 3.0d
 		}
 		{
+			dependencies: [
+				"545DC16674DB782A"
+				"4676031552B9B8C7"
+			]
 			id: "1DFE0C7E43F51694"
 			tasks: [{
 				id: "08B1750093228519"
 				item: { count: 1, id: "oritech:advanced_battery" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 2.0d
+			x: -3.0d
+			y: 0.1071428571428541d
 		}
 		{
+			dependencies: [
+				"32BC270BB8280166"
+				"4676031552B9B8C7"
+			]
 			id: "0177D524002AE41C"
 			tasks: [{
-				id: "7ACCDF8C6215EBB1"
-				item: { count: 1, id: "oritech:superconductor_duct_block" }
+				id: "32FFDD60D6093783"
+				item: { count: 1, id: "oritech:superconductor" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 2.0d
+			x: -1.5d
+			y: 0.1071428571428541d
 		}
 		{
 			dependencies: [
@@ -103,8 +119,8 @@
 				item: { count: 1, id: "oritech:heisenberg_compensator" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 3.5d
+			x: 0.5357142857142776d
+			y: 0.1071428571428541d
 		}
 		{
 			dependencies: ["16472E640D0FCB50"]
@@ -114,13 +130,14 @@
 				item: { count: 1, id: "oritech:adamant_ingot" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.5d
+			x: -1.0d
+			y: -2.892857142857146d
 		}
 		{
 			dependencies: [
 				"63667AA770925685"
 				"1DF343CA5DE3B6BD"
+				"7D2778F1C2BD996B"
 			]
 			id: "2FA0F6A8A7F2E240"
 			tasks: [{
@@ -128,18 +145,22 @@
 				item: { count: 1, id: "oritech:super_ai_chip" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 1.2500000000000142d
+			y: -0.9285714285714306d
 		}
 		{
+			dependencies: [
+				"4BA12E5C8F9B25D1"
+				"50D8DD3B3BA3F86F"
+			]
 			id: "63667AA770925685"
 			tasks: [{
 				id: "6040A0ADC0D7D0CF"
 				item: { count: 1, id: "oritech:advanced_computing_engine" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: 2.035714285714313d
+			y: -2.0714285714285694d
 		}
 		{
 			dependencies: ["16472E640D0FCB50"]
@@ -149,8 +170,8 @@
 				item: { count: 1, id: "oritech:duratium_ingot" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.5d
+			x: 0.5d
+			y: -2.892857142857146d
 		}
 		{
 			dependencies: ["5B48EC3F74F6B2DD"]
@@ -161,18 +182,19 @@
 				item: { count: 1, id: "oritech:foundry_block" }
 				type: "item"
 			}]
-			x: 0.9642857142857224d
-			y: -0.8571428571428612d
+			x: -1.5d
+			y: -4.250000000000007d
 		}
 		{
+			dependencies: ["072EB7108534181E"]
 			id: "5B48EC3F74F6B2DD"
 			tasks: [{
 				id: "11FDEAD46A7E559A"
 				item: { count: 1, id: "oritech:motor" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -3.0d
+			x: -1.4642857142857224d
+			y: -6.392857142857146d
 		}
 		{
 			dependencies: ["5B48EC3F74F6B2DD"]
@@ -182,8 +204,8 @@
 				item: { count: 1, id: "oritech:centrifuge_block" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: -3.0d
+			x: 2.0d
+			y: -5.392857142857146d
 		}
 		{
 			dependencies: ["5B48EC3F74F6B2DD"]
@@ -193,8 +215,8 @@
 				item: { count: 1, id: "oritech:fragment_forge_block" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: -4.5d
+			x: 2.0d
+			y: -7.392857142857146d
 		}
 		{
 			dependencies: [
@@ -207,8 +229,8 @@
 				item: { count: 1, id: "oritech:enderic_compound" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -3.0d
+			x: 2.0d
+			y: -6.392857142857146d
 		}
 		{
 			dependencies: [
@@ -221,18 +243,20 @@
 				item: { count: 1, id: "oritech:assembler_block" }
 				type: "item"
 			}]
-			x: -1.5357142857142847d
-			y: -4.607142857142854d
+			x: -5.0d
+			y: -8.0d
 		}
 		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
 			id: "54A1D540D0231F60"
 			tasks: [{
 				id: "24839C24DF7C619B"
 				item: { count: 1, id: "minecraft:crafter" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -6.0d
+			x: -3.5d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -245,8 +269,333 @@
 				item: { count: 1, id: "oritech:enderic_lens" }
 				type: "item"
 			}]
+			x: -5.0d
+			y: -6.392857142857146d
+		}
+		{
+			dependencies: ["25EB20A8288B050F"]
+			id: "13B488E8AF22FFD2"
+			tasks: [{
+				id: "2D39AD08FBC843A0"
+				item: { count: 1, id: "oritech:laser_arm_block" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.392857142857146d
+		}
+		{
+			dependencies: ["5B48EC3F74F6B2DD"]
+			id: "11C6278EC3AF7EC3"
+			tasks: [{
+				id: "442B9DDA42CF4CC8"
+				item: { count: 1, id: "oritech:pulverizer_block" }
+				type: "item"
+			}]
+			x: -3.821428571428555d
+			y: -5.392857142857146d
+		}
+		{
+			dependencies: [
+				"11C6278EC3AF7EC3"
+				"5B48EC3F74F6B2DD"
+				"13B488E8AF22FFD2"
+			]
+			id: "710D89FA1F75916C"
+			tasks: [{
+				id: "6ED0FFC7800269A6"
+				item: { count: 1, id: "oritech:destroyer_block" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.892857142857146d
+		}
+		{
+			dependencies: ["09E50FFCF8374C5E"]
+			id: "3A2DAF01294D1354"
+			tasks: [{
+				id: "2360E20E80391898"
+				item: { count: 1, id: "oritech:plastic_sheet" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.392857142857146d
+		}
+		{
+			dependencies: [
+				"09E50FFCF8374C5E"
+				"41655AC29B8DFA29"
+			]
+			id: "0FD6321D342813CE"
+			tasks: [{
+				id: "26463F5EA11CB588"
+				item: { count: 1, id: "oritech:fluxite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.392857142857146d
+		}
+		{
+			dependencies: ["094E3B6506FCB2A4"]
+			id: "4BA12E5C8F9B25D1"
+			tasks: [{
+				id: "7E5E0A260C40E5A2"
+				item: { count: 1, id: "oritech:silicon_wafer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.392857142857146d
+		}
+		{
+			dependencies: ["09E50FFCF8374C5E"]
+			id: "094E3B6506FCB2A4"
+			tasks: [{
+				id: "3EE0D6414C1ECBAA"
+				item: { count: 1, id: "oritech:carbon_fibre_strands" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.392857142857146d
+		}
+		{
+			dependencies: [
+				"0FD6321D342813CE"
+				"50D8DD3B3BA3F86F"
+			]
+			id: "2241B6B8D51A43D5"
+			tasks: [{
+				id: "1F87EF7DEB634841"
+				item: { count: 1, id: "oritech:flux_gate" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.392857142857146d
+		}
+		{
+			dependencies: [
+				"3A2DAF01294D1354"
+				"0FD6321D342813CE"
+			]
+			id: "50D8DD3B3BA3F86F"
+			tasks: [{
+				id: "7536EF80AEB5EEED"
+				item: { count: 1, id: "oritech:processing_unit" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.392857142857146d
+		}
+		{
+			dependencies: [
+				"3A2DAF01294D1354"
+				"2241B6B8D51A43D5"
+			]
+			id: "7D2778F1C2BD996B"
+			tasks: [{
+				id: "459235DC167412D4"
+				item: { count: 1, id: "oritech:atomic_forge_block" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6DB899AD90BA263C"
+				"3A2DAF01294D1354"
+			]
+			id: "32BC270BB8280166"
+			tasks: [{
+				id: "4085F41E0CA66AA8"
+				item: { count: 1, id: "oritech:dubios_container" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.107142857142854d
+		}
+		{
+			dependencies: ["32BC270BB8280166"]
+			id: "2D547A267D6CCB94"
+			tasks: [{
+				id: "578D77EFF4C0C694"
+				item: { count: 1, id: "oritech:large_storage_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.107142857142854d
+		}
+		{
+			dependencies: ["2D547A267D6CCB94"]
+			id: "093A7CC96CA17DF4"
+			tasks: [{
+				id: "014085102B90471F"
+				item: { count: 1, id: "oritech:augment_application_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32BC270BB8280166"]
+			id: "77995837E2F6A2C5"
+			tasks: [{
+				id: "0E1214514C689D6C"
+				item: { count: 1, id: "oritech:machine_core_6" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.107142857142854d
+		}
+		{
+			dependencies: ["32BC270BB8280166"]
+			id: "1850DC97A5657AC8"
+			tasks: [{
+				id: "07A957D13474D438"
+				item: { count: 1, id: "oritech:low_yield_nuke" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.107142857142854d
+		}
+		{
+			dependencies: ["6801E2AC958DCC92"]
+			id: "5061E1B09E417A9A"
+			tasks: [{
+				id: "28680F4D03157FCE"
+				item: { count: 1, id: "oritech:machine_core_7" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["16472E640D0FCB50"]
+			id: "4676031552B9B8C7"
+			tasks: [{
+				id: "197ED6A946513DAC"
+				item: { count: 1, id: "oritech:energite_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.892857142857146d
+		}
+		{
+			dependencies: ["16472E640D0FCB50"]
+			id: "545DC16674DB782A"
+			tasks: [{
+				id: "090A68CF72F3CF22"
+				item: { count: 1, id: "immersiveengineering:ingot_electrum" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.892857142857146d
+		}
+		{
+			dependencies: [
+				"24D145B0880BBBA8"
+				"1DF343CA5DE3B6BD"
+				"5DAA3195EB5F14B7"
+			]
+			id: "15B8696E4E0135C4"
+			tasks: [{
+				id: "5C41E38263C654A1"
+				item: { count: 1, id: "oritech:deep_drill_block" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"24D145B0880BBBA8"
+				"25EB20A8288B050F"
+			]
+			id: "35DE3F29E9962F80"
+			tasks: [{
+				id: "684E23DA9ED2CB81"
+				item: { count: 1, id: "oritech:arcane_augment_station" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["32BC270BB8280166"]
+			id: "6C762190D8B99779"
+			tasks: [{
+				id: "034EE5B850737FCD"
+				item: { count: 1, id: "oritech:unholy_intelligence" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1DFE0C7E43F51694"
+				"0177D524002AE41C"
+				"1DF343CA5DE3B6BD"
+				"545DC16674DB782A"
+			]
+			hide_dependency_lines: true
+			id: "319628F50A6D1830"
+			tasks: [{
+				id: "6B990960ED5B325D"
+				item: { count: 1, id: "oritech:accelerator_motor" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0177D524002AE41C"]
+			hide_dependency_lines: true
+			id: "7ECAA9268C3433F8"
+			tasks: [{
+				id: "4038D23C578F26D5"
+				item: { count: 1, id: "oritech:accelerator_ring" }
+				type: "item"
+			}]
 			x: -1.5d
-			y: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7ECAA9268C3433F8"]
+			id: "3FD9312891B1B1A0"
+			tasks: [{
+				id: "29315D4EE0F04393"
+				item: { count: 1, id: "oritech:accelerator_sensor" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"2241B6B8D51A43D5"
+				"319628F50A6D1830"
+			]
+			hide_dependency_lines: true
+			id: "11EAC63B87E9B61D"
+			size: 2.0d
+			tasks: [{
+				id: "59084CFB72B845DB"
+				item: { count: 1, id: "oritech:accelerator_controller" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			id: "072EB7108534181E"
+			tasks: [{
+				id: "51194ECEF86EBD05"
+				item: { count: 1, id: "oritech:magnetic_coil" }
+				type: "item"
+			}]
+			x: -1.4285714285714306d
+			y: -7.928571428571438d
 		}
 	]
 }

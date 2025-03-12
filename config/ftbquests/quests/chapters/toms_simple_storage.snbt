@@ -9,15 +9,25 @@
 		id: "toms_storage:storage_terminal"
 	}
 	id: "5E8B386358D2260F"
-	images: [{
-		dependency: "06F6FB4557C2EFCB"
-		height: 4.0d
-		image: "ccextras:textures/toms_auto_sorting.png"
-		rotation: 0.0d
-		width: 8.0d
-		x: 13.0d
-		y: 5.5d
-	}]
+	images: [
+		{
+			dependency: "06F6FB4557C2EFCB"
+			height: 4.0d
+			image: "ccextras:textures/toms_auto_sorting.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 13.0d
+			y: 5.5d
+		}
+		{
+			height: 5.0d
+			image: "ccextras:textures/TOM-S-SIMPLE-STORAGE.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: 6.5d
+			y: -5.5d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -239,8 +249,8 @@
 				item: { }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 2.0d
+			x: 6.357142857142854d
+			y: 1.9642857142857153d
 		}
 		{
 			disable_toast: true

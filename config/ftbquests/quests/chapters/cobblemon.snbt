@@ -1,4 +1,5 @@
 {
+	autofocus_id: "364913280A3CA451"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "cobblemon"
@@ -38,8 +39,8 @@
 			image: "ccextras:textures/COBBLEMON.png"
 			rotation: 0.0d
 			width: 11.0d
-			x: 0.1607142857142847d
-			y: -3.357142857142854d
+			x: 0.2142857142857153d
+			y: -3.9642857142857224d
 		}
 	]
 	order_index: 2
@@ -1175,6 +1176,8 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
 			icon: {
 				id: "minecraft:emerald"
 			}

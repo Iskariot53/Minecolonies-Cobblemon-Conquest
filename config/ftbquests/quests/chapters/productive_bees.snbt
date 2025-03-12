@@ -9,6 +9,14 @@
 		id: "minecraft:bee_nest"
 	}
 	id: "707349D42B2378BD"
+	images: [{
+		height: 4.0d
+		image: "ccextras:textures/PRODUCTIVE-BEES.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 0.0d
+		y: -8.5d
+	}]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -855,12 +863,12 @@
 				}
 				{
 					id: "70544FF5E3173A62"
-					item: { }
+					item: { count: 1, id: "minecraft:dragon_breath" }
 					type: "item"
 				}
 				{
 					id: "537BDDA5FB41F747"
-					item: { }
+					item: { count: 1, id: "minecraft:dragon_egg" }
 					type: "item"
 				}
 			]
@@ -2086,7 +2094,7 @@
 			id: "18E742B005126239"
 			tasks: [{
 				id: "2C8DDD4F68DC6F84"
-				item: { }
+				item: { count: 1, id: "productivebees:dragon_egg_hive" }
 				type: "item"
 			}]
 			x: 0.0d

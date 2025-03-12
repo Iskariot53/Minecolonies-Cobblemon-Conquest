@@ -1,5 +1,5 @@
 {
-	autofocus_id: "57205C2E097F6B3B"
+	autofocus_id: "00B9671338E0E8A4"
 	default_hide_dependency_lines: true
 	default_quest_shape: "square"
 	filename: "sophisticated_backpacks"
@@ -9,6 +9,14 @@
 		id: "sophisticatedbackpacks:backpack"
 	}
 	id: "0C40BEA2F3B1B245"
+	images: [{
+		height: 5.0d
+		image: "ccextras:textures/SOPHISTICATED-STORAGE.png"
+		rotation: 0.0d
+		width: 16.0d
+		x: 0.0d
+		y: -5.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

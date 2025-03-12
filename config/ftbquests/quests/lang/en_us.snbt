@@ -1,6 +1,7 @@
 {
 	chapter.00587F1803C7B687.title: "Sophisticated Backpacks"
 	chapter.01A4FCDA699EABBC.title: "Tom's Simple Storage"
+	chapter.023451F08377F94D.title: "Infinite Dimensions"
 	chapter.0441340616420AD2.title: "Productive Bees"
 	chapter.064AE5987A6C474D.title: "Create"
 	chapter.0836214B59E7D830.title: "&eThe Twilight Forest"
@@ -506,7 +507,7 @@
 	quest.183AE610FA1BB0A2.title: "Arctic Armor"
 	quest.18E742B005126239.quest_desc: ["A specially made home for draconic bees to harvest dragons breath."]
 	quest.18E742B005126239.quest_subtitle: "&eA specially made hive, carved from the egg of the ends ruler."
-	quest.18E742B005126239.title: "&6&lDragon Egg Nest"
+	quest.18E742B005126239.title: "&6&lDragon Egg Hive"
 	quest.193EDF94D10B984B.quest_desc: ["The &e&lSeeker Bow&r&r is one of two bows that can drop from the Snow Queen. Arrows fired from this bow will attempt to hone in onto nearby targets. Seeker arrows cannot land critical hits."]
 	quest.1954E44EEC89DE39.quest_desc: [
 		"The &6&lMinecolonies - Create and Conquer&r&r Modpack is licensed under &eAll Rights Reserved&r."
@@ -2143,7 +2144,22 @@
 		"The &l&eTwilight Lich&r&r, or simply the Lich, resides at the top of the tower. It appears as a tall humanoid skeleton wearing a purple cape and a large golden crown, surrounded by a wall of shields that may be breakable."
 	]
 	quest.6FD568A1C81CE3D2.title: "&2&lSlay The Lich"
-	quest.704FD1152464AD1B.quest_desc: [""]
+	quest.704FD1152464AD1B.quest_desc: [
+		"To start, for all intents and purposes Cobblemon Conquest has been structured to leave the sandbox nature of the game completely inteact. You will not need to participate in this mod to get to that mod, but integrations have been provided to make it so participating in certain mods &l&ndoes&r&r provide an advantage in others."
+		""
+		"{@pagebreak}"
+		""
+		"A great example of this is MineColonies and Cobblemon. Many aspects of colony life has been intertwined with your cobblemon adventure! Your Sifters, depending on level and mesh, will find apricorn saplings, bottlecaps and may or may not be able to help you obtain masterballs before reaching the end amongst other goodies! Your Farmers will grow important crops like vivichoke, leek and mint! Blacksmiths, Dyers and Mechanics can craft balls for you and after unlocking the highest tiers, your Mechanics will learn to craft masterballs at &nhalf material cost&r! Miners, Quarriers and Nether Miners can find evolution stone ores, fossils and other lucky finds!"
+		""
+		""
+		"{@pagebreak}"
+		""
+		"You can farm materials and craft balls using Immersive Engineering &nAND&r Create. The Poké Ball factory of your dreams is just a few clicks away!  "
+		""
+		"The quest book structure and progression will be a running Work-In-Progress for the next few updates, any and all ideas and/or suggestions are welcome!"
+		""
+		"As always, please report any and all issues to our issue tracker or the &9MCC Discord&r have fun!"
+	]
 	quest.704FD1152464AD1B.quest_subtitle: "Here's a quick guide to get you rolling"
 	quest.707871C62A831E84.quest_desc: ["The &e&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
 	quest.70C9E4903746E071.quest_desc: ["When installed in a hive, the gene sampler will extract small gene samples from the bees working within the hive periodically, multiple upgrades will increase the yield."]

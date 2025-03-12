@@ -1,5 +1,5 @@
 {
-	autofocus_id: "6664CC4166B8FD3C"
+	autofocus_id: "6213462ABAECCB3D"
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "minecolonies"
@@ -19,12 +19,12 @@
 			y: -1.7d
 		}
 		{
-			height: 3.0d
+			height: 4.0d
 			image: "ccextras:textures/MINECOLONIES.png"
 			rotation: 0.0d
 			width: 12.0d
 			x: 0.1071428571428612d
-			y: -4.964285714285722d
+			y: -5.357142857142858d
 		}
 	]
 	order_index: 1
