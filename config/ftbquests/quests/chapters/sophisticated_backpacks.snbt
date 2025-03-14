@@ -11,7 +11,7 @@
 	id: "0C40BEA2F3B1B245"
 	images: [{
 		height: 5.0d
-		image: "ccextras:textures/SOPHISTICATED-STORAGE.png"
+		image: "ccextras:textures/sophisticated-storage.png"
 		rotation: 0.0d
 		width: 16.0d
 		x: 0.0d

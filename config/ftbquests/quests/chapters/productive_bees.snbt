@@ -11,7 +11,7 @@
 	id: "707349D42B2378BD"
 	images: [{
 		height: 4.0d
-		image: "ccextras:textures/PRODUCTIVE-BEES.png"
+		image: "ccextras:textures/productive-bees.png"
 		rotation: 0.0d
 		width: 12.0d
 		x: 0.0d

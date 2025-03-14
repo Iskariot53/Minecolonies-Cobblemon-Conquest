@@ -11,7 +11,7 @@
 	id: "43FC55A0E4E3627E"
 	images: [{
 		height: 5.0d
-		image: "ccextras:textures/IMMERSIVE-ENGINEERING.png"
+		image: "ccextras:textures/immersive-engineering.png"
 		rotation: 0.0d
 		width: 16.0d
 		x: 0.0d

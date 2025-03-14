@@ -20,7 +20,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ccextras:textures/RADICAL-TRAINERS-PROGRESSION.png"
+			image: "ccextras:textures/radical-trainers-progression.png"
 			rotation: 0.0d
 			width: 9.0d
 			x: 10.678571428571416d
@@ -28,7 +28,7 @@
 		}
 		{
 			height: 2.0d
-			image: "ccextras:textures/MERCHANT.png"
+			image: "ccextras:textures/merchant.png"
 			rotation: 0.0d
 			width: 5.0d
 			x: -11.5d
@@ -36,7 +36,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ccextras:textures/COBBLEMON.png"
+			image: "ccextras:textures/cobblemon.png"
 			rotation: 0.0d
 			width: 11.0d
 			x: 0.2142857142857153d
@@ -798,8 +798,9 @@
 			id: "5B698AB7FE032025"
 			size: 1.5d
 			tasks: [{
-				id: "2C2A9B9BCAD65D65"
-				type: "checkmark"
+				id: "3C0BD5F7A81D25A6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(curios:smartphone)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: -5.5d
 			y: 2.5d

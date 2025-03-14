@@ -1,8 +1,32 @@
 {
   "bank": [
     {
-      "item": "minecraft:air",
+      "item": "brendons_bottlecaps:atksilvercap",
       "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:spatksilvercap",
+      "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:defsilvercap",
+      "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:spdefsilvercap",
+      "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:speedsilvercap",
+      "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:hpsilvercap",
+      "price": 25000
+    },
+    {
+      "item": "brendons_bottlecaps:goldencap",
+      "price": 175000
     }
   ]
 }

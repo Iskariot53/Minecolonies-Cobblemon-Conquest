@@ -12,7 +12,7 @@
 	id: "3ADA6E43741748B5"
 	images: [{
 		height: 3.0d
-		image: "ccextras:textures/THE-BASICS.png"
+		image: "ccextras:textures/the-basics.png"
 		rotation: 0.0d
 		width: 9.0d
 		x: 0.5d
@@ -129,6 +129,9 @@
 		}
 		{
 			dependencies: ["704FD1152464AD1B"]
+			icon: {
+				id: "cobblemon:relic_coin_pouch"
+			}
 			id: "6D2638F72AEDA63E"
 			rewards: [{
 				command: "/cobblemerchant open shop"
@@ -149,18 +152,11 @@
 		{
 			dependencies: ["704FD1152464AD1B"]
 			id: "07642BFD8BE9A0E5"
-			tasks: [
-				{
-					id: "3AE31216E6167104"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-				{
-					id: "7042A68E1CA4DE74"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorn_sprouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "7042A68E1CA4DE74"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorn_sprouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
 			x: -3.5d
 			y: -10.5d
 		}
@@ -168,6 +164,7 @@
 			dependencies: [
 				"47AE4FC2CC059CEE"
 				"3036F5CAE085055D"
+				"4B39B274E4AC881D"
 			]
 			dependency_requirement: "one_completed"
 			id: "40A6F8988EEF04A1"
@@ -218,7 +215,7 @@
 		{
 			dependencies: [
 				"16C59B6311832A6D"
-				"718CFC6D4D3C7824"
+				"546060A7E7AA9A09"
 			]
 			id: "46028668D25936A3"
 			tasks: [{
@@ -373,82 +370,13 @@
 			y: -9.5d
 		}
 		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "7C355D692616D027"
-			tasks: [{
-				id: "31ABFD5C225E388D"
-				item: { count: 1, id: "brendons_bottlecaps:atksilvercap" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -9.5d
-		}
-		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "64A188BE19792FD3"
-			tasks: [{
-				id: "31994454A6D2A4FC"
-				item: { count: 1, id: "brendons_bottlecaps:spatksilvercap" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "17216E843CA17E2A"
-			tasks: [{
-				id: "3D14DF39BF54D2FA"
-				item: { count: 1, id: "brendons_bottlecaps:spdefsilvercap" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "34AACB0D767A0C31"
-			tasks: [{
-				id: "2DF62FE36E1ED038"
-				item: { count: 1, id: "brendons_bottlecaps:speedsilvercap" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -9.5d
-		}
-		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "69E5C38523545A37"
-			tasks: [{
-				id: "7660B6CB948CD0EE"
-				item: { count: 1, id: "brendons_bottlecaps:defsilvercap" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -10.5d
-		}
-		{
-			dependencies: ["6D2638F72AEDA63E"]
-			hide_dependency_lines: true
-			id: "1EE81976D5F49F60"
-			tasks: [{
-				id: "5CECF77878FC8016"
-				item: { count: 1, id: "brendons_bottlecaps:hpsilvercap" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: -10.5d
-		}
-		{
 			dependencies: [
 				"6BBE6B0C7DA24F2F"
 				"5BF30AA21250A283"
 			]
+			icon: {
+				id: "structurize:sceptergold"
+			}
 			id: "6933F31C26EB3393"
 			size: 1.5d
 			tasks: [{
@@ -489,6 +417,18 @@
 				type: "item"
 			}]
 			x: -7.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "brendons_bottlecaps:goldencap"
+			}
+			id: "32037B9970FC3DF2"
+			tasks: [{
+				id: "541A1ABC4B4411C2"
+				type: "checkmark"
+			}]
+			x: 8.0d
 			y: -8.0d
 		}
 	]

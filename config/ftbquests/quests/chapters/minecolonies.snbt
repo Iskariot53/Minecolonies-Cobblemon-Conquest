@@ -20,7 +20,7 @@
 		}
 		{
 			height: 4.0d
-			image: "ccextras:textures/MINECOLONIES.png"
+			image: "ccextras:textures/minecolonies.png"
 			rotation: 0.0d
 			width: 12.0d
 			x: 0.1071428571428612d

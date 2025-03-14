@@ -11,7 +11,7 @@
 	id: "0D98B33203B576DF"
 	images: [{
 		height: 3.0d
-		image: "ccextras:textures/MEKANISM.png"
+		image: "ccextras:textures/mekanism.png"
 		rotation: 0.0d
 		width: 9.0d
 		x: 0.0d

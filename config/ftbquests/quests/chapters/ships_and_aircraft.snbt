@@ -10,7 +10,7 @@
 	id: "34C61CDE3F68A872"
 	images: [{
 		height: 4.0d
-		image: "ccextras:textures/SHIPS-AND-AIRCRAFT.png"
+		image: "ccextras:textures/ships-and-aircraft.png"
 		rotation: 0.0d
 		width: 16.0d
 		x: -0.5d

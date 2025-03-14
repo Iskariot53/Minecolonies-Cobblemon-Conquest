@@ -32,7 +32,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.white_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -62,7 +62,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.orange_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -92,7 +92,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.magenta_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -122,7 +122,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.light_blue_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -152,7 +152,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.yellow_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -182,7 +182,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.pink_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -212,7 +212,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.gray_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -242,7 +242,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.light_gray_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -272,7 +272,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.cyan_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -302,7 +302,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.purple_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -332,7 +332,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.blue_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -362,7 +362,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.brown_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -392,7 +392,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.green_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -422,7 +422,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.red_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"
@@ -452,7 +452,7 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.black_smartphone",
             "item": "cobblemon:healing_machine"
         },
 		"D": {
-            "item": "cobblemon:pc"
+            "item": "cobblemonboxlink:box_link"
         },
 		"E": {
             "item": "minecraft:ender_chest"

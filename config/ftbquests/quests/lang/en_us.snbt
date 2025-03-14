@@ -43,7 +43,7 @@
 	quest.00C06C4114CD2656.quest_desc: ["The &e&lMoonworm Queen&r&r is a peculiar green insect found in some Hollow Hill and Lich Tower chests. It contains Moonworm eggs that can attach to walls or any solid surface. By holding the button like a bow, the Queen can fire Moonworms as projectiles that stick upon landing. It can also shoot Moonworms through a Dispenser when powered with a Moonworm Queen inside."]
 	quest.00C79D7593BD9909.quest_desc: ["The &6&lCookery&r&r is where the &6Chef&r will create food for your citizens. Food will be cooked when requested, use this conjunction with your Restaurants to automatically keep your Restaurants stocked with food."]
 	quest.00C79D7593BD9909.quest_subtitle: "&eCookery"
-	quest.00C79D7593BD9909.title: "&6&lYou didn’t choose the spatula life, the spatula life chose you!"
+	quest.00C79D7593BD9909.title: "&6&lCookery"
 	quest.00D738AD58B0E84A.quest_desc: ["Not all bees are created equally... as such... not all bees work equally, here are some examples of \"specialty\" bees bred for a specific job, rather than just producing combs."]
 	quest.00D738AD58B0E84A.quest_subtitle: "&eWorker bees"
 	quest.00D738AD58B0E84A.title: "&6&lSpecialty Bees"
@@ -193,6 +193,9 @@
 		"When Magic Beans are planted in Uberous Soil, they will grow a giant beanstalk, reaching to cloud level. This serves as a convenient way to access the Cloud Cottage over the Highlands."
 	]
 	quest.074B887DF09E55D8.title: "&2&lMagic Beans"
+	quest.07642BFD8BE9A0E5.quest_desc: ["Wether a basic Poké Ball or a Master Ball, it all started here. You can find Apricorn Trees of various colors through out your world, however, your colonies sifters are also capable of finding them. Once acquired, they can be farmed using deployers, cloches or planted and harvested by foresters."]
+	quest.07642BFD8BE9A0E5.quest_subtitle: "Gathering basic Poké Ball ingredients"
+	quest.07642BFD8BE9A0E5.title: "Apricorns"
 	quest.07A1ABE59F38F2BD.quest_desc: ["The &6&lGlassblower's Hut&r&r &9requires research&r at the &6University&r to be built, and is where the &6&lGlassblower&r&r will smelt sand into glass and make glass panes from glass blocks. For the Glassblower to work, they must receive a request from another worker and have the necessary materials, &cincluding fuel&r if they're smelting sand into glass. The Glassblower's Hut must also have been taught the crafting recipe for glass panes."]
 	quest.07A1ABE59F38F2BD.quest_subtitle: "&eGlassblower's Hut"
 	quest.07A1ABE59F38F2BD.title: "&6&lGlassblowers"
@@ -624,6 +627,7 @@
 		""
 		"When placed and held by the player, it lights up and is visible through surfaces, helping trace steps. It can attach to solid surfaces, allowing up to six Red Threads to occupy the same block."
 	]
+	quest.1DFF87F008F7D95A.quest_desc: ["The Trainer Card will help you keep track of your progress, find information about trainers and to locate the next key trainer towards increasing your level cap."]
 	quest.1E1E1FF70F6417E6.quest_desc: ["Find an &e&lInactive Thorncutter&r&r inside a chest atop the Final Castle within the purple forcefield. When &e&lThorncutter&r&r is completed, you can harvest Thorns."]
 	quest.1E324D81453A1191.quest_desc: ["Electron tubes are used to make many different components to your machines and contraptions. Such as the &9Bank Terminal&r and &cRedstone Links&r."]
 	quest.1E324D81453A1191.quest_subtitle: "&6ooooh fancy"
@@ -945,6 +949,12 @@
 	quest.2FE55402767791FA.quest_desc: ["Citizens will go to the &6&lResidence&r&r they are assigned to at night to sleep. The Residence is also a way to get more citizens for your colony. For additional citizens to spawn, you first have to have enough space&r in your Residences to house your first four citizens. After you have created enough space for your &6initial four citizens&r, &eyou have two options&r for your colony to grow. The first way is to have a free bed in your colony. You can also make space for a new citizen, go to the &6Tavern&r, wait for a &6traveler&r to show up, and then give them the items they request to recruit them."]
 	quest.2FE55402767791FA.quest_subtitle: "&eResidence"
 	quest.2FE55402767791FA.title: "&6&lResidence"
+	quest.3036F5CAE085055D.quest_desc: [
+		"Mint plants can be found in mountain regions. All colors spawn in every biome (excluding deserts) as long as the Y-level is high enough and there is soil."
+		""
+		"Mints can be used to change the effect of a Pokémon's nature on its stats to that of the nature corresponding to the mint used. The Pokémon's actual Nature, however, remains unchanged. (meaning they work exactly as they do in the main line games, and they DO work, but don;t surprised at first when it appears like the nature has not changed.)"
+	]
+	quest.3036F5CAE085055D.quest_subtitle: "Gathering mint seeds"
 	quest.303E5FEBA512547F.quest_desc: ["Advanced hives placed in dark, unlit areas, will naturally spawn both &azombees&r and &7skeletal&r bees. While you will most likely want a &ofew&r skeletal bees at some point, the undead bees are typically a nuisance in general more than anything as they spawn and take up the space of the bees you do want to access the hives. Keeping your bee keeping area well lit is a very easy way to solve any problems caused by them, if they are spawning in an area you do not want them in, this is because at least 1 of the hives in the area is &enot lit well enough&r."]
 	quest.303E5FEBA512547F.quest_subtitle: "&eUndead and unwanted visitors"
 	quest.303E5FEBA512547F.title: "&6&lLight up your Hives!"
@@ -973,6 +983,7 @@
 		""
 		"When the crumble horn is used in a &eDispenser&r, it will attempt to crumble the block in front of it. This action takes one durability to complete. Unlike other damageable items that can be used in the dispenser, the crumble horn will not break when depleted. If the durability hits zero it will instead refuse to fire again."
 	]
+	quest.32037B9970FC3DF2.quest_desc: ["Bottlecaps can be sold to merchants for relatively large amounts of CobbleDollars. The sales and shopping options are subject to change from across updates, any and all suggestions are welcome."]
 	quest.328AA822DBA16B9C.quest_desc: [
 		"Not just used for sequential crafting, deployers can be very versatile, used to plant crops, equipped with tools to farm them, sword to kill mobs, etc."
 		""
@@ -998,6 +1009,7 @@
 		""
 		"The Tree of Time accelerates the growth of nearby plants. Its clock ticks, and right-clicking it will turn the clock gray and stop it."
 	]
+	quest.34295F4932C40D1D.quest_subtitle: "Basic Cobblemon storage systems"
 	quest.3474ECA738CB5CC2.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r is a backpack mod (obviously) with backpacks that you can place in the world, color in different color combinations, upgrade with more inventory slots and enhance with many functional upgrades."
 		""
@@ -1140,6 +1152,8 @@
 	quest.3B7EB59164BFECB7.quest_desc: ["The beta upgrade functions the same as the alpha upgrade, but this one provides a %150 increase to combs yielded."]
 	quest.3B7EB59164BFECB7.quest_subtitle: "&eNeed more production"
 	quest.3B7EB59164BFECB7.title: "&6&lUpgrade: Productivity Beta"
+	quest.3BA6F9CD59088C7D.quest_desc: ["Don't bother trying to swipe the Healing Machine from a village, they're meant to stay for all adventurers, of course. You can try, but they will only drop an ingot."]
+	quest.3BA6F9CD59088C7D.quest_subtitle: "Healing your Cobblemon"
 	quest.3BD0465731814040.quest_desc: [
 		"The &e&lLabyrinth&r&r is a major landmark that appears as an unremarkable hill in the Twilight Swamp, leading to an underground structure of sprawling maze passages. Deep within, a fenced-off room contains a Boss Spawner for the Minoshroom."
 		""
@@ -1208,6 +1222,8 @@
 	quest.3FC010FC5CF4E383.title: "&e&lRose Quartz"
 	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
 	quest.40207980D0FD3F59.title: "Defeat Giovanni"
+	quest.40A6F8988EEF04A1.quest_desc: ["Using Garden Cloches is probably going to be the optimal way to farm mints and apricorns amongst other things if and when unable to rely on a colony for production."]
+	quest.40A6F8988EEF04A1.quest_subtitle: "Farming made easy"
 	quest.40B42B2D21A31F1A.quest_desc: [
 		"&e&lArctic Fur&r&r is an item dropped by Yetis and Winter Wolves."
 		""
@@ -1301,6 +1317,12 @@
 		""
 		"The &e&llevel I charm&r&r is bronze and will keep the player's armor, currently selected item, and the off-hand item. It can be found in some treasure chests, or as a rare drop from Maze Slimes."
 	]
+	quest.47AE4FC2CC059CEE.quest_desc: [
+		"An engineers hammer is going to be required to start immersive, many crafts require tools and the hammer specifically is required to form many multi block structures, once built. "
+		""
+		"We may as well get the screw driver and wire cutters out of the way too."
+	]
+	quest.47AE4FC2CC059CEE.quest_subtitle: "Getting started in Immersive Engineering"
 	quest.47AE4FC2CC059CEE.title: "&3&lEngineer's Tools"
 	quest.47B549546A02C8F5.quest_desc: ["The &6&lShepherd's Hut&r&r is where the &6Shepherd&r will &9breed and butcher sheep&r for food and wool. You will have to capture and bring in two sheep to the Shepherd's Hut, as the Shepherd will &cnot&r catch and bring in any sheep."]
 	quest.47B549546A02C8F5.quest_subtitle: "&eShepherd's Hut"
@@ -1423,7 +1445,7 @@
 		"&c&lNote:&r&r The Fisher will only catch fish and junk in most biomes. If the Fisher is in an &6ocean&r biome, items from treasure category will also be caught."
 	]
 	quest.4D2634CE591F088F.quest_subtitle: "&eFisher's Hut"
-	quest.4D2634CE591F088F.title: "&6&lYou are quite a catch!"
+	quest.4D2634CE591F088F.title: "&6&lFisher's Hut"
 	quest.4D540ED8AA5EEA18.quest_desc: ["Eat &5&lALL&r&r of the Food exclusive to the Twilight Forest."]
 	quest.4D66C8BBEDAD4A2F.quest_desc: [
 		"The &e&lCharm of Keeping&r&r is a small item resembling a lock. When the player dies, the charm will activate and attempt to preserve a portion of the player's inventory and give it to the player once they respawn. The charm is consumed in this process."
@@ -1716,6 +1738,8 @@
 	]
 	quest.5B3660BF8A28EBE4.quest_subtitle: "&6A big mixing bowl."
 	quest.5B3660BF8A28EBE4.title: "&e&lBasin"
+	quest.5B698AB7FE032025.title: "The Smartphone"
+	quest.5BF30AA21250A283.quest_subtitle: "On our way to netherite"
 	quest.5C400DCED8BC884F.quest_desc: ["Like the andesite tunnel, the brass version may only be placed over belts, but its sides can be filtered on insertion and extraction!"]
 	quest.5C400DCED8BC884F.quest_subtitle: "&6Belt sorting 2.0"
 	quest.5C400DCED8BC884F.title: "&e&lBrass Tunnel"
@@ -1729,6 +1753,7 @@
 		"The &e&lHydra&r&r is a massive creature with two stumpy legs and a wide, scaly body. Its serpentine necks end in heads resembling those of the Ender Dragon, covered in blue-green and dark blue scales."
 	]
 	quest.5D59D6E285A0AA44.title: "&2&lSlay The Hydra"
+	quest.5DDCDC6AA7C673EE.quest_subtitle: "Guaranteed Capture"
 	quest.5DE1C3B17B55B4D1.quest_desc: ["The &6&lUniversity&r&r is where a &6&lResearcher&r&r will &9research various upgrades&r to your colony. Each &6Researcher&r can start their own research, but more Researchers &cdoes not&r lower the &9amount of time&r each individual research takes. For example, having two &6Researchers&r but only one research in progress does not decrease the time that single research takes."]
 	quest.5DE1C3B17B55B4D1.quest_subtitle: "&6University"
 	quest.5DE1C3B17B55B4D1.title: "&6&lWhat did the buffalo say to his son when he left for university? Bi-son."
@@ -1875,6 +1900,15 @@
 	quest.622B8EEE00C9F620.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
 	quest.623CBDB7698DEEA8.quest_subtitle: "Round 4"
 	quest.623CBDB7698DEEA8.title: "Defeat Terry"
+	quest.6298076755AB1708.quest_desc: [
+		"There are a many berries that can be commonly found, others that will usually require some luck or effort. Each berry has it use, and there are multiple uses for them, from using as a held item to ingredients in recipes."
+		""
+		"There are currently 29 unique berries that spawn naturally, 39 obtained through berry mutations, and 1 obtained from Pokémon drops."
+		""
+		"Refer to the \"Cobblemon\" chapter or JEI for more information."
+	]
+	quest.6298076755AB1708.quest_subtitle: "Gathering berries"
+	quest.6298076755AB1708.title: "Berries"
 	quest.62A2D789570DB3A4.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
 	quest.62BB492DEB62CA4A.quest_desc: ["Use a honey treat on a &6dark oak&r, &dcherry&r or &cacacia&r nest to spawn a blue banded bee if you cannot find one."]
 	quest.62BB492DEB62CA4A.quest_subtitle: "&eDark oak, cherry and acacia nests"
@@ -2001,6 +2035,12 @@
 	quest.68DE2C4711BA109D.title: "&2&lVisit The Thornlands"
 	quest.68FF8E56E6CDF0C5.quest_desc: ["Sometimes Roots form strange, ore-like clusters, called &l&eLiveroots&r&r. Liveroots appear as roots webbed with a bright yellow-green color. They typically appear in clusters of between 4 and 8 blocks and can be found anywhere underground in the Twilight Forest. Breaking Liveroots without silk touch gives Liveroot, which forms a key ingredient in the creation of &l&eRaw Ironwood&r&r."]
 	quest.68FF8E56E6CDF0C5.title: "Liveroot"
+	quest.6933F31C26EB3393.quest_desc: [
+		"While everything has been designed so that you do not &orequire&r one, a colony will be capable of making your Cobblemon journey much easier in many ways. Once fully established it can be looked at as your Cobblemon cheat code, generating everything from free balls and bottle caps to half cost Master Balls! "
+		""
+		"Refer to the \"Minecolonies\" chapter of the quest book for more info."
+	]
+	quest.6933F31C26EB3393.quest_subtitle: "Free and easy, but not fast."
 	quest.6933F31C26EB3393.title: "Getting help from your colony"
 	quest.693B69D43BE2CC18.quest_desc: [
 		"Use a &8hopper&r on a vanilla be to convert it into a collector bee. "
@@ -2072,7 +2112,8 @@
 	]
 	quest.6CE068D4A1B95EB9.title: "&lInventory Connector"
 	quest.6D09FA6FE768A4D1.quest_desc: ["&e&lEnder Bow&r&r is a weapon that can be found in Aurora Palaces. The Ender Bow fires like a normal Bow, but if the arrow from the Ender Bow hits a creature then both the user and creature will swap places."]
-	quest.6D2638F72AEDA63E.quest_subtitle: "Check Cobblemon Chapter"
+	quest.6D2638F72AEDA63E.quest_desc: ["Villagers can be converted into merchants by giving them a cobblemon display case as a work station. Unless otherwise disabled, you can also access the merchant via in game command."]
+	quest.6D2638F72AEDA63E.quest_subtitle: "/cobblemerchant open shop"
 	quest.6D54843B16B1E3ED.quest_desc: ["&e&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.6D54843B16B1E3ED.title: "Phantom Armor"
 	quest.6D9CCDB12FF5B518.quest_desc: [
@@ -2318,6 +2359,7 @@
 		"Each upgrade requires an &c&lUpgrade Base&r&r in its crafting recipe."
 	]
 	quest.7815EFD9800BE9C5.title: "&lTime for an upgrade?"
+	quest.78DB561AC5365AAC.quest_subtitle: "You know the drill"
 	quest.78DC4A5D9E49BE0E.quest_desc: ["The &e&lCrafting Terminal&r&r is an upgraded version of the Storage Terminal, featuring a built-in crafting table. It also integrates with &eJEI&r for automatic interaction with the terminal."]
 	quest.78DC4A5D9E49BE0E.title: "&lCrafting Terminal"
 	quest.79059AA1E305C8E2.quest_desc: ["Mine all types of giant blocks using the &e&lGiant's Pickaxe&r&r."]
@@ -2507,12 +2549,12 @@
 	quest.7F23B52CD0488C38.title: "&e&lCopper Casing"
 	quest.7F3DA56DAB79AC1E.quest_desc: ["The &e&lCharm of Life I&r&r will heal the player back to 4 hearts, and bestow Regeneration I for the next 10 seconds. Charm of Life I can be found in medium and large Hollow Hills, Leaf Dungeons, Lich Towers, Goblin Knight Strongholds, Dark Towers and Aurora Palaces."]
 	quest.7F40612A6BA5D1EE.quest_subtitle: "&eBuild one of every Herder Hut"
-	quest.7F40612A6BA5D1EE.title: "&6&lWho needs peace and quiet when you can have the chaos of herding?"
+	quest.7F40612A6BA5D1EE.title: "&6&lA Herd of Herders"
 	quest.7F7D5A012187CF4F.quest_desc: ["Made with 16x &bdiamonds&r, 4 stone and 1 precision mechanism."]
 	quest.7F7D5A012187CF4F.quest_subtitle: "Mechanical Crafting"
 	quest.7F8AD0BECEF17D93.quest_desc: ["The &6&lBakery&r&r will craft bread dough, cookie dough, cake dough, and raw pumpkin pie, then &6bake&r these in a furnace to create bread, cookies, cakes, and pumpkin pies. They will only do this &nupon request&r, whether from the &6Cook&r, the &6Postbox&r, or as a minimum stock in the &6Warehouse&r."]
 	quest.7F8AD0BECEF17D93.quest_subtitle: "&eBakery"
-	quest.7F8AD0BECEF17D93.title: "&6&lI bake because punching dough is socially acceptable"
+	quest.7F8AD0BECEF17D93.title: "&6&lBakery"
 	quest.7FB856B9C55BD2DA.quest_desc: [
 		"The &6&lMinecolonies - Create and Conquer&r&r Modpack is licensed under &eAll Rights Reserved&r."
 		""
@@ -2590,7 +2632,6 @@
 	task.2AF893AF6E8356AD.title: "Find a water bee"
 	task.2B34269A9F24E0AE.title: "Acquire an experience bee"
 	task.2B9EEC5273C8FB05.title: "Acquire a rancher bee"
-	task.2C2A9B9BCAD65D65.title: "Smart Phone"
 	task.2C668EF04A176CE5.title: "Acquire an emerald bee"
 	task.2CB86DB746200509.title: "Acquire an aluminum bee"
 	task.2DA3480D11AE9DEF.title: "Find a slimy bee"
@@ -2621,10 +2662,10 @@
 	task.38C398664FAA3325.title: "Find an ender bee"
 	task.3940D7A919DE5C99.title: "Find a mason bee"
 	task.39D587CCE8C01B2A.title: "The Big Book of Bees"
-	task.3AE31216E6167104.title: "Any #cobblemon:apricorns"
 	task.3B07531AC37F1FF7.title: "Find a reed bee"
 	task.3B3B3E27081D6D28.title: "Fishing for bees"
 	task.3B767C1079613226.title: "Acquire a bronze bee"
+	task.3C0BD5F7A81D25A6.title: "Any #curios:smartphone"
 	task.3D6814E7EC98551D.title: "Automating Berries and Mints"
 	task.3DEAE87C30873ED0.title: "&2&lThe Quest Ram"
 	task.418B7CBFE8ABF7B2.title: "Find a crystalline bee"
@@ -2653,6 +2694,7 @@
 	task.5192854682D3DF80.title: "Find a chocolate mining bee"
 	task.52CE66D7B2434D4A.title: "Acquire a philolite bee"
 	task.538FF059B5F47525.title: "Acquire a sculk bee"
+	task.541A1ABC4B4411C2.title: "Caps for CobbleDollars"
 	task.547D0A550320173B.title: "Acquire a sky steel bee"
 	task.55143C17D399E5D3.title: "Any #cobblemon:mint_seeds"
 	task.55982478A10C86BE.title: "Bee genetics"
