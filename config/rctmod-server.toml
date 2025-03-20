@@ -85,6 +85,16 @@
 	#trainers. Every entry must define an item followed by a space seperated list of
 	#trainer ids (of which one will be randomly chosen to spawn).
 	trainerSpawnerItems = ["cobblemon:lucky_egg rival_terry_01b3 rival_terry_01b4 rival_terry_01b5", "cobblemon:poison_barb leader_koga_01a2", "cobblemon:dragon_scale leader_clair_004a", "cobblemon:black_tumblestone rocket_admin_archer_002e", "cobblemon:soothe_bell rival_terry_01b0 rival_terry_01b1 rival_terry_01b2", "minecraft:gold_nugget rival_terry_014c rival_terry_014d rival_terry_014e", "cobblemon:black_sludge rocket_admin_archer_ariana_m000", "cobblemon:charcoal_stick leader_blaine_01a3", "cobblemon:covert_cloak rocket_admin_archer_0043", "cobblemon:utility_umbrella rocket_admin_ariana_0044", "cobblemon:choice_scarf trainer_brendan_001a", "cobblemon:twisted_spoon leader_sabrina_01a4", "cobblemon:upgrade boss_giovanni_015c", "cobblemon:never_melt_ice elite_four_lorelei_004d elite_four_lorelei_004e", "cobblemon:mystic_water leader_misty_019f", "cobblemon:dubious_disc boss_giovanni_015d", "cobblemon:miracle_seed leader_erika_01a1", "cobblemon:cleanse_tag elite_four_agatha_0053 elite_four_agatha_0054", "cobblemon:magnet leader_lt_surge_01a0", "cobblemon:silk_scarf trainer_brendan_0032", "cobblemon:dragon_fang elite_four_lance_0056 elite_four_lance_0057", "cobblemon:focus_band elite_four_bruno_0050 elite_four_bruno_0051", "cobblemon:hard_stone leader_brock_019e", "cobblemon:life_orb champion_terry_01b6 champion_terry_01b7 champion_terry_01b8", "cobblemon:destiny_knot boss_giovanni_0045", "cobblemon:expert_belt trainer_brendan_0039", "cobblemon:vivichoke trainer_may_003d"]
+	#━━━━━━━━━━
+	#If enabled trainers will only spawn naturally around players that have a trainer card
+	#in their inventory (does not affect trainer spawners).
+	spawningRequiresTrainerCard = false
+	#━━━━━━━━━━
+	#If enabled a single trainer association npc may spawn naturally nearby players that carry a trainer
+	#card and have either not started a series or completed their current series. One may also spawn nearby
+	#any player in proximity to a village (at least 3 occupied beds and a village center). These can
+	#spawn everywhere but will respect the 'dimensionBlacklist' and 'dimensionWhitelist' settings.
+	spawnTrainerAssociation = true
 
 [Players]
 	#━━━━━━━━━━
@@ -102,6 +112,12 @@
 	#If enabled the level cap of a players will not prevent their pokemon from gaining experience and leveling up.
 	#Trainers will still refuse to battle players that carry pokemon above their level cap!
 	allowOverLeveling = false
+	#━━━━━━━━━━
+	#Can an empty series be considered completed or uncompletable? You tell me. If enabled an empty series
+	#will always be considered completed hence rewarding players immediately with a level cap of 100 otherwise
+	#the level cap of players will be as configured by initialLevelCap (and additiveLevelCapRequirement).
+	#Note that players will start with an empty series by default.
+	considerEmptySeriesCompleted = false
 
 [Debug]
 	#━━━━━━━━━━

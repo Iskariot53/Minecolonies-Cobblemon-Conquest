@@ -72,6 +72,12 @@
 				id: "minecolonies:blockhuttownhall"
 			}
 			id: "7AA37760F9C6BA7D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B19F33C14481486"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [
 				{
@@ -96,6 +102,12 @@
 			}
 			icon_scale: 1.5d
 			id: "7A4231E1D13D27A9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68F387111BD03BB2"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				advancement: "minecolonies:minecolonies/build_builder"
@@ -113,6 +125,12 @@
 				id: "minecolonies:blockhuttavern"
 			}
 			id: "3B3C2C300801BCEE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "587BA06EEC66F52A"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:minecolonies/build_tavern"
 				criterion: ""
@@ -129,6 +147,12 @@
 				id: "minecolonies:blockhutcitizen"
 			}
 			id: "2FE55402767791FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25455D5ABF68EE5C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:minecolonies/build_citizen"
 				criterion: ""
@@ -141,6 +165,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "2E9E12CAEE6E6A4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CC32883F43F7EE2"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_cook"
 				criterion: ""
@@ -153,6 +183,12 @@
 		{
 			dependencies: ["2E9E12CAEE6E6A4C"]
 			id: "7F8AD0BECEF17D93"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C469B7DF1389887"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				advancement: "minecolonies:production/build_baker"
@@ -166,6 +202,12 @@
 		{
 			dependencies: ["2E9E12CAEE6E6A4C"]
 			id: "00C79D7593BD9909"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67C26797FD8D1105"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "5601939C1430E133"
@@ -178,6 +220,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "4D2634CE591F088F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C9EDF050B3EA9B2"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_fisherman"
 				criterion: ""
@@ -213,6 +261,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "52A3B23D007DEDD2"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
 			]
 			size: 1.5d
 			tasks: [{
@@ -234,6 +288,12 @@
 				"3C387C2D733BFED3"
 			]
 			id: "7F40612A6BA5D1EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "54CDC3B4654A3AA1"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_all_herders"
 				criterion: ""
@@ -247,6 +307,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "47B549546A02C8F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78D97BEE5CDBD65C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "160F5056D7D290AC"
@@ -260,6 +326,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "17E0353A98922300"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "038F500DA63647A8"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "4C0EBED599F10879"
@@ -273,6 +345,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "30B9E7520C2936E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F468EA46698B394"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "42FBF282CC538416"
@@ -286,6 +364,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "39C5A2B73D30D109"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "40A977A2051C3887"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "46A51B55DD3DBA19"
@@ -299,6 +383,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "4F738E96A298B07E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "321471AC7C8A6376"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "3A3A0A7E0DB88F8C"
@@ -314,6 +404,12 @@
 				id: "minecolonies:blockhutminer"
 			}
 			id: "10513CA248FB2898"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "117BB5DF24EE953C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					advancement: "minecolonies:production/build_miner"
@@ -336,6 +432,12 @@
 				id: "minecolonies:blockhutfarmer"
 			}
 			id: "30D49280688C4630"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E197101831170FD"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					advancement: "minecolonies:production/build_farmer"
@@ -355,6 +457,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "2D1908A2F64A80C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F06EC520963C068"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_lumberjack"
 				criterion: ""
@@ -367,6 +475,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "6664CC4166B8FD3C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AA61855A4E9FC6A"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_warehouse"
 				criterion: ""
@@ -379,6 +493,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "6213462ABAECCB3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "058A2DBC51B667F0"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.8d
 			tasks: [{
 				advancement: "minecolonies:production/build_delivery_person"
@@ -393,6 +513,12 @@
 			dependencies: ["7A4231E1D13D27A9"]
 			hide_dependency_lines: true
 			id: "3C387C2D733BFED3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7305F8352B6F3AE7"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 0.75d
 			tasks: [{
 				id: "22BB918ADBBCC0CC"
@@ -408,6 +534,12 @@
 				id: "minecolonies:blockhutenchanter"
 			}
 			id: "05747711CC03281C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D59EAB0C8F8AF51"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					advancement: "minecolonies:production/build_enchanter"
@@ -427,6 +559,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "07FED65149F877AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0EBE805CD1D43C5D"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				advancement: "minecolonies:minecolonies/build_guard_tower"
@@ -440,18 +578,30 @@
 		{
 			dependencies: ["14840116BC6E52B7"]
 			id: "1BF6556EE16095F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7AB036C615CE9D60"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:military/build_barracks_tower"
 				criterion: ""
 				id: "1A4DFA2B05D52C0D"
 				type: "advancement"
 			}]
-			x: -1.5d
+			x: -7.5d
 			y: 8.0d
 		}
 		{
 			dependencies: ["07FED65149F877AA"]
 			id: "2F1EE7ACA3CCFB42"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11B91484ED966A5D"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:military/build_combat_academy"
 				criterion: ""
@@ -464,6 +614,12 @@
 		{
 			dependencies: ["07FED65149F877AA"]
 			id: "2CB763BBC7B0F688"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32718B365D9A371C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:military/build_archery"
 				criterion: ""
@@ -476,18 +632,30 @@
 		{
 			dependencies: ["07FED65149F877AA"]
 			id: "14840116BC6E52B7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "54A1D1D0001DC059"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:military/build_barracks"
 				criterion: ""
 				id: "53696107D88C7C71"
 				type: "advancement"
 			}]
-			x: -3.0d
+			x: -6.0d
 			y: 8.0d
 		}
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "034FBE8B8E8651BC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31EDA46068E88280"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:minecolonies/citizen_bury"
 				criterion: ""
@@ -500,6 +668,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "111AEA0E6D56DE8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D82E5F49A2175AF"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:minecolonies/build_mysticalsite"
 				criterion: ""
@@ -512,6 +686,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "29F7B7015D4DE8F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F398C4E8FEB7589"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_library"
 				criterion: ""
@@ -524,6 +704,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "595A0D5A1E38A414"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C92A78FF28E8E2C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "5A6FD4764C8CD7AF"
 				item: { count: 1, id: "minecolonies:blockhutschool" }
@@ -535,6 +721,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "4B7797941C20496E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "290BA902DAC236F1"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6EB222BC0ED7D919"
 				item: { count: 1, id: "minecolonies:blockhuthospital" }
@@ -546,6 +738,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "05CC534A0DE3868A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "276AD3A21E452F6A"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "68485F9731AB5992"
 				item: { count: 1, id: "minecolonies:blockhutnetherworker" }
@@ -557,6 +755,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "77D84FE0B729775E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B7A33662A728976"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_composter"
 				criterion: ""
@@ -569,6 +773,12 @@
 		{
 			dependencies: ["77D84FE0B729775E"]
 			id: "77EEBD84A84DFD36"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C9501D10DCB0780"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_florist"
 				criterion: ""
@@ -581,6 +791,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "4E2B4BFA5EF80546"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "180AE26DB15D21B8"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_sawmill"
 				criterion: ""
@@ -593,6 +809,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "61DABFE2D4151659"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F93FC5BF64AF5FB"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_crusher"
 				criterion: ""
@@ -605,6 +827,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "377C36AD367DB60D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B224C6047525861"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_stonemason"
 				criterion: ""
@@ -617,6 +845,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "093039CD2C51183B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "442496BC5EFF65E8"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_blacksmith"
 				criterion: ""
@@ -629,6 +863,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "633CFF0D0970013D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FF80B4211855BA9"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_smeltery"
 				criterion: ""
@@ -641,6 +881,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "14251EA8EF4DA3D6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21856D58D4B3CB90"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_stone_smeltery"
 				criterion: ""
@@ -653,6 +899,12 @@
 		{
 			dependencies: ["4E2B4BFA5EF80546"]
 			id: "58003B4EA4064BB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "024863F658F3EFD0"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				advancement: "minecolonies:production/build_sifter"
 				criterion: ""
@@ -665,6 +917,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "77836607BA702351"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0079E9C7F43AD78B"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "32533CF3CD01A98B"
 				item: { count: 1, id: "minecolonies:blockhutalchemist" }
@@ -676,6 +934,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "6898C03FFF9BEEE4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "678BA5E59C3AE47A"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "05FCDA6A02236633"
 				item: { count: 1, id: "minecolonies:blockhutconcretemixer" }
@@ -687,6 +951,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "7CAFD0FAF3654C08"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D3B44B1658EC05C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "60446AD57874C633"
 				item: { count: 1, id: "minecolonies:blockhutplantation" }
@@ -698,6 +968,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "532251F10407CD16"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E21B4AB1A17B531"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "19CAB4EE6363797F"
 				item: { count: 1, id: "minecolonies:blockhutmechanic" }
@@ -709,6 +985,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "0E51F4FF8498D40D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CD1358246BFF4DE"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "390C602CFEAF26EA"
 				item: { count: 1, id: "minecolonies:blockhutfletcher" }
@@ -720,6 +1002,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "4F93846C439B8EC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52564DCB7A2EB726"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "498ED4D32F2219AA"
 				item: { count: 1, id: "minecolonies:blockhutdyer" }
@@ -731,6 +1019,12 @@
 		{
 			dependencies: ["5DE1C3B17B55B4D1"]
 			id: "07A1ABE59F38F2BD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A9FC61A71AAC9B8"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "333CBA6AC2D89474"
 				item: { count: 1, id: "minecolonies:blockhutglassblower" }
@@ -743,6 +1037,12 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "2EA4E0B05E242FC2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7219BFC3357B28AB"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "7B0E620D50ECF45E"
@@ -777,6 +1077,12 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "6E0277C6CBF9DAFE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FB18A6277411E1C"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "28718D6E50157B0F"
@@ -796,6 +1102,12 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "0EB845F8A38477C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07198ED4AF68EDFF"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "1730EE7B4CC1FCA4"
@@ -815,6 +1127,12 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "1665F1A15B6A0F53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B74A983001F5385"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0850F4436FE4DB24"
 				item: { count: 1, id: "minecolonies:banner_rally_guards" }
@@ -827,6 +1145,12 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "47552A2EF958932A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "144A1C6BCA3C9CF4"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6CDFDE3C436DF7E1"
 				item: { count: 1, id: "minecolonies:ancienttome" }

@@ -14,3 +14,7 @@ friendshipMode = false
 zMoves = true
 #Enables/Disables teralization in game
 teralization = true
+#Allows you to trade even if your pokemon is not in base form
+tradeForm = false
+#Enables etermax eternus forme
+etermaxForme = true

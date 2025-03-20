@@ -463,3 +463,33 @@ craftingTable.addJsonRecipe("cobblemon_smartphone.black_smartphone",
         "id": "cobblemon_smartphone:black_smartphone"
     }
 });
+craftingTable.addJsonRecipe("cobblemon_smartphone.lime_smartphone",
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BDB",
+        "ACA",
+        "AEA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "B": {
+            "item": "minecraft:lime_dye"
+        },
+		"C": {
+            "item": "cobblemon:healing_machine"
+        },
+		"D": {
+            "item": "cobblemonboxlink:box_link"
+        },
+		"E": {
+            "item": "minecraft:ender_chest"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "cobblemon_smartphone:lime_smartphone"
+    }
+});

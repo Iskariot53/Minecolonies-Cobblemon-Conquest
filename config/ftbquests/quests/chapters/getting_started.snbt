@@ -24,6 +24,12 @@
 		{
 			dependencies: ["78DB561AC5365AAC"]
 			id: "47AE4FC2CC059CEE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41ECB78B009F5D1A"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "6C76E1B4F4B226F0"
@@ -47,6 +53,12 @@
 		{
 			dependencies: ["704FD1152464AD1B"]
 			id: "78DB561AC5365AAC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FACB647D0014AE0"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0D2F1A2F57D13ADC"
 				item: { count: 1, id: "minecraft:iron_pickaxe" }
@@ -58,6 +70,12 @@
 		{
 			dependencies: ["78DB561AC5365AAC"]
 			id: "5BF30AA21250A283"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CE1207CFB23FEE4"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "043DB124C8E1E489"
 				item: { count: 1, id: "minecraft:diamond_pickaxe" }
@@ -68,6 +86,12 @@
 		}
 		{
 			id: "704FD1152464AD1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B1380F6F3E00789"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "5D6D55068AB77D99"
@@ -79,6 +103,12 @@
 		{
 			dependencies: ["78DB561AC5365AAC"]
 			id: "1DFF87F008F7D95A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D36BCE7B80615DB"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "7A6FA88D4C684C57"
@@ -91,6 +121,12 @@
 		{
 			dependencies: ["78DB561AC5365AAC"]
 			id: "21D8191BE6CC46B7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A7DAA28A5BE1B4C"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "748813491C9B2742"
@@ -106,6 +142,12 @@
 				"34295F4932C40D1D"
 			]
 			id: "3BA6F9CD59088C7D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CB1115D8F6BB017"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 1.25d
 			tasks: [{
 				id: "1221485F41EEAB13"
@@ -118,6 +160,12 @@
 		{
 			dependencies: ["78DB561AC5365AAC"]
 			id: "34295F4932C40D1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27DCA05D99D9D35B"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 1.25d
 			tasks: [{
 				id: "3FD6475E1B452475"
@@ -152,6 +200,12 @@
 		{
 			dependencies: ["704FD1152464AD1B"]
 			id: "07642BFD8BE9A0E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2046A49EF092EA13"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7042A68E1CA4DE74"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorn_sprouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -169,6 +223,12 @@
 			dependency_requirement: "one_completed"
 			id: "40A6F8988EEF04A1"
 			min_required_dependencies: 2
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0030564197F65C9D"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "44542901125563EC"
@@ -181,6 +241,12 @@
 		{
 			dependencies: ["4B39B274E4AC881D"]
 			id: "718CFC6D4D3C7824"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "626F3CCA26FE6992"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "45FB2F4443CBFC58"
 				item: { count: 1, id: "tmtceic:mold_pokeball_frame" }
@@ -193,6 +259,12 @@
 			dependencies: ["546060A7E7AA9A09"]
 			hide_dependent_lines: true
 			id: "5168C52323A809E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62CDF0984511BCF8"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "25D28BDE07E73E29"
 				item: { count: 1, id: "tmtceic:aluminum_pokeball_frame" }
@@ -204,6 +276,12 @@
 		{
 			dependencies: ["5BF30AA21250A283"]
 			id: "16C59B6311832A6D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DDD637FFE6D3AA1"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "54FBB6D18E87EAB1"
 				item: { count: 1, id: "minecraft:netherite_ingot" }
@@ -218,6 +296,12 @@
 				"546060A7E7AA9A09"
 			]
 			id: "46028668D25936A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41876F725A4A2642"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0300CDFD8FB336AE"
 				item: { count: 1, id: "tmtceic:netherite_pokeball_frame" }
@@ -229,6 +313,12 @@
 		{
 			dependencies: ["47AE4FC2CC059CEE"]
 			id: "27566499D60DF15E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75B714370CFC36CB"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "27073AA9DB89776D"
 				item: { count: 1, id: "immersiveengineering:craftingtable" }
@@ -240,6 +330,12 @@
 		{
 			dependencies: ["27566499D60DF15E"]
 			id: "4B39B274E4AC881D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1074F1BBED1B91D1"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "234FD876A9EA2BB4"
 				item: { count: 1, id: "immersiveengineering:workbench" }
@@ -251,6 +347,12 @@
 		{
 			dependencies: ["46028668D25936A3"]
 			id: "5DDCDC6AA7C673EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FECD95BBA54E532"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "27DBD0542FFF0C0D"
 				item: { count: 1, id: "cobblemon:master_ball" }
@@ -262,6 +364,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "63A903AE420482B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5188FB8D5C0E61F3"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "65134B9936891652"
 				item: { count: 1, id: "cobblemon:poke_ball" }
@@ -273,6 +381,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "54C397636A7BE97F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "122F6E7CED36F822"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "18B6D1A921260C56"
 				item: { count: 1, id: "cobblemon:citrine_ball" }
@@ -284,6 +398,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "191299BE6CF98EBE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57668AE848238679"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "602AA95969B3D5C2"
 				item: { count: 1, id: "cobblemon:verdant_ball" }
@@ -295,6 +415,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "3190E98596E385A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D6DA55D02DDDFAF"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "48C85FAA4CB5E1B5"
 				item: { count: 1, id: "cobblemon:azure_ball" }
@@ -306,6 +432,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "525A1E65E686A172"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D5E9BF997D41B79"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3FBF96C98F8FE0AA"
 				item: { count: 1, id: "cobblemon:roseate_ball" }
@@ -317,6 +449,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "1D66C07A85CA61AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31E1A9DBC1C65F03"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "24630E924B1D5263"
 				item: { count: 1, id: "cobblemon:premier_ball" }
@@ -328,6 +466,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "725855014BA78449"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BCBE4C10720181A"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "459F756584430E4F"
 				item: { count: 1, id: "cobblemon:great_ball" }
@@ -339,6 +483,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "762A1DFE1B379C05"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44D5186015E7E833"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7F545C12BFC6206F"
 				item: { count: 1, id: "cobblemon:ultra_ball" }
@@ -350,6 +500,12 @@
 		{
 			dependencies: ["5168C52323A809E0"]
 			id: "7F3E313BAAF44EB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F959D70718AF204"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "347FD27488883602"
 				item: { count: 1, id: "cobblemon:cherish_ball" }
@@ -361,6 +517,12 @@
 		{
 			dependencies: ["6D2638F72AEDA63E"]
 			id: "6BBE6B0C7DA24F2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D9BF4D1CFB30832"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "15E15643DEF05A7A"
 				item: { count: 1, id: "cobblemon:display_case" }
@@ -389,6 +551,12 @@
 		{
 			dependencies: ["718CFC6D4D3C7824"]
 			id: "546060A7E7AA9A09"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7797BBB27B290A80"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2997015B3A46C06F"
 				item: { count: 1, id: "immersiveengineering:metal_press" }
@@ -400,6 +568,12 @@
 		{
 			dependencies: ["07642BFD8BE9A0E5"]
 			id: "6298076755AB1708"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D1E62BAAFC3BDF6"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7C757E6102D1C95E"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:berries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -411,6 +585,12 @@
 		{
 			dependencies: ["6298076755AB1708"]
 			id: "3036F5CAE085055D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DE936858BCC5944"
+				table_id: 7864365139616724351L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "55143C17D399E5D3"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -420,6 +600,8 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["6BBE6B0C7DA24F2F"]
+			hide_dependency_lines: true
 			icon: {
 				id: "brendons_bottlecaps:goldencap"
 			}

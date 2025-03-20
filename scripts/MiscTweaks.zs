@@ -71,7 +71,6 @@ craftingTable.addJsonRecipe("megas.blank_z",
         "id": "mega_showdown:blank-z"
     }
 });
-craftingTable.remove(<item:mega_showdown:tera_orb>);
 craftingTable.addJsonRecipe("brendons_bottlecaps.goldencap",
 {
     "type": "minecraft:crafting_shaped",

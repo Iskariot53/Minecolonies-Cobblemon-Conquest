@@ -9,10 +9,10 @@
 	}
 	id: "34C61CDE3F68A872"
 	images: [{
-		height: 4.0d
+		height: 5.0d
 		image: "ccextras:textures/ships-and-aircraft.png"
 		rotation: 0.0d
-		width: 16.0d
+		width: 12.0d
 		x: -0.5d
 		y: -4.5d
 	}]
@@ -328,6 +328,7 @@
 		{
 			dependencies: ["704FD1152464AD1B"]
 			hide_dependent_lines: true
+			hide_until_deps_complete: true
 			id: "5ADB0CD269D43B35"
 			tasks: [{
 				id: "4239070C7C1534D6"
