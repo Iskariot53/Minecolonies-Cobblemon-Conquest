@@ -23,6 +23,12 @@
 		{
 			dependencies: ["1895465FFAF43E7E"]
 			id: "21EBE60B0AE03D5F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46CA56262985888F"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6D51F52057A0A683"
 				item: { count: 1, id: "immersiveengineering:hammer" }
@@ -45,6 +51,12 @@
 		{
 			dependencies: ["1895465FFAF43E7E"]
 			id: "09C4C7A0E5074F99"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C67860071B6BA9F"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3DF2AD81CBB7794F"
 				item: { count: 1, id: "immersiveengineering:screwdriver" }
@@ -56,6 +68,12 @@
 		{
 			dependencies: ["1895465FFAF43E7E"]
 			id: "69C5F275670C361A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72B0739796C9E741"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0E193BA2A70EC1F4"
 				item: { count: 1, id: "immersiveengineering:wirecutter" }
@@ -71,6 +89,12 @@
 				"21EBE60B0AE03D5F"
 			]
 			id: "5E7DA0CA5946108C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48E9BFBDD59F7939"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 27L
 				id: "44A34667E9449B2D"
@@ -83,6 +107,12 @@
 		{
 			dependencies: ["5E7DA0CA5946108C"]
 			id: "177356502AE1B924"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15EFF19F30AB6FAF"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 32L
 				id: "527F7119C5CDAF99"
@@ -95,6 +125,12 @@
 		{
 			dependencies: ["177356502AE1B924"]
 			id: "6A689230C3DAA15F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "466CBEE75EE19688"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "5489D3956211E1FE"
 				item: { count: 1, id: "immersiveengineering:craftingtable" }
@@ -106,6 +142,12 @@
 		{
 			dependencies: ["6A689230C3DAA15F"]
 			id: "051BE464085D88A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75C35413EF100F3B"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "5B47987DF25FE183"
 				item: { count: 1, id: "immersiveengineering:workbench" }
@@ -117,6 +159,12 @@
 		{
 			dependencies: ["6A689230C3DAA15F"]
 			id: "5FED14B9DEAF9CC6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A41A909ED52F040"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6823DBA9C427C315"
 				item: { count: 1, id: "immersiveengineering:circuit_table" }
@@ -131,6 +179,12 @@
 				"095F4DBB62BB476D"
 			]
 			id: "761A33FBB322E5C3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51FE0C2BDBAA5107"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "34776C54574A66D0"
 				item: { count: 1, id: "immersiveengineering:cloche" }
@@ -142,6 +196,12 @@
 		{
 			dependencies: ["051BE464085D88A3"]
 			id: "5D53BAF9E45AC381"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F629526C4A86F0D"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7E879A9D41FC9851"
 				item: { count: 1, id: "immersiveengineering:light_bulb" }
@@ -153,6 +213,12 @@
 		{
 			dependencies: ["051BE464085D88A3"]
 			id: "095F4DBB62BB476D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E0D8DE988DAB982"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "22E1D5D51F3D14AA"
 				item: { count: 1, id: "immersiveengineering:component_iron" }
@@ -164,6 +230,12 @@
 		{
 			dependencies: ["6A689230C3DAA15F"]
 			id: "29931EF1A1C9AED7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "182893C4035085BB"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 2L
@@ -199,6 +271,12 @@
 		{
 			dependencies: ["29931EF1A1C9AED7"]
 			id: "588A876AC676836F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F13C7F074CC80C1"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "32BBA59746C47E6A"
 				item: { count: 1, id: "immersiveengineering:mold_wire" }
@@ -210,6 +288,12 @@
 		{
 			dependencies: ["29931EF1A1C9AED7"]
 			id: "152610469A09DC4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05845C411AA3F9F0"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "31775EDB3E195158"
 				item: { count: 1, id: "tmtceic:mold_pokeball_frame" }
@@ -221,6 +305,12 @@
 		{
 			dependencies: ["29931EF1A1C9AED7"]
 			id: "5539E5255F4ABEE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F07DD22714B682C"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7EC33ED3940FA6A3"
 				item: { count: 1, id: "immersiveengineering:mold_plate" }

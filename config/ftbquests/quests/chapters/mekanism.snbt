@@ -27,6 +27,12 @@
 				id: "mekanism:ingot_osmium"
 			}
 			id: "71070D1348F6EBF2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "013A3E8DF0BCF7F3"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				count: 6L
@@ -40,6 +46,12 @@
 		{
 			dependencies: ["71070D1348F6EBF2"]
 			id: "744BF2D2E55A1511"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A24A85391C42D86"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "48BA68D98D82DF8C"
 				item: { count: 1, id: "mekanism:metallurgic_infuser" }
@@ -51,6 +63,12 @@
 		{
 			dependencies: ["1A54CB7CC678C553"]
 			id: "0DFEC0DF582D9988"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EE67AF0EAD4CB76"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "27C16BAB6900FC12"
 				item: { count: 1, id: "mekanism:enrichment_chamber" }
@@ -62,6 +80,12 @@
 		{
 			dependencies: ["744BF2D2E55A1511"]
 			id: "63440E310364A62A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B4565EDC0F628C9"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "245D6E717FCFB082"
@@ -85,6 +109,12 @@
 		{
 			dependencies: ["63440E310364A62A"]
 			id: "1A54CB7CC678C553"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C708B929717EC2C"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "63BE4571A3BA22D2"
@@ -97,6 +127,12 @@
 		{
 			dependencies: ["0DFEC0DF582D9988"]
 			id: "64C7CCAD15697CAF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BD4DDAD1AB16030"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4447476B165D6E0D"
 				item: { count: 1, id: "mekanism:enriched_carbon" }
@@ -108,6 +144,12 @@
 		{
 			dependencies: ["0DFEC0DF582D9988"]
 			id: "5157EFB7AFF4E525"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DC125B3DC919AF0"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "32CA5817D6E18026"
 				item: { count: 1, id: "mekanism:enriched_redstone" }
@@ -119,6 +161,12 @@
 		{
 			dependencies: ["0DFEC0DF582D9988"]
 			id: "72DCC1B8F79DDF5D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2802A3052C680FFE"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "1B6353D975F4B399"
 				item: { count: 1, id: "mekanism:enriched_diamond" }
@@ -130,6 +178,12 @@
 		{
 			dependencies: ["0DFEC0DF582D9988"]
 			id: "4C4BC66202FE4CEA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63A0D3CC023AD8DF"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "27FCC9D87E7F48A5"
 				item: { count: 1, id: "mekanism:enriched_refined_obsidian" }
@@ -141,6 +195,12 @@
 		{
 			dependencies: ["4B014E76BB899429"]
 			id: "4D97B36C553829F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0004E6113DCABE8A"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0E097C48250DB1D4"
 				item: { count: 1, id: "mekanism:chemical_oxidizer" }
@@ -152,6 +212,12 @@
 		{
 			dependencies: ["38FEAC55F958F1AF"]
 			id: "45C5145795B1BD29"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AF7E2C6EACFEF07"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3906B4DFC98B94DD"
 				item: { count: 1, id: "mekanism:isotopic_centrifuge" }
@@ -163,6 +229,12 @@
 		{
 			dependencies: ["3529BF2321A4EC4E"]
 			id: "0BC1B7B07FC3E8F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C14B0945C61AB88"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7EC13BD9798B8ED6"
 				item: { count: 1, id: "mekanism:solar_neutron_activator" }
@@ -177,6 +249,12 @@
 				"3529BF2321A4EC4E"
 			]
 			id: "5E2E8F6B86F18A15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BA7985CD1BC2001"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "625E65011AE5DC72"
 				item: { count: 1, id: "mekanism:pellet_plutonium" }
@@ -191,6 +269,12 @@
 				"3529BF2321A4EC4E"
 			]
 			id: "73EFA418A2DD6732"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48930310E65DC1D7"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6CEBCCBDFC6D6CBB"
 				item: { count: 1, id: "mekanism:pellet_polonium" }
@@ -202,6 +286,12 @@
 		{
 			dependencies: ["4B014E76BB899429"]
 			id: "3529BF2321A4EC4E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "524C2628B493BC5E"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "41409EAD79291502"
 				item: { count: 1, id: "mekanism:pressurized_reaction_chamber" }
@@ -214,6 +304,12 @@
 			dependencies: ["744BF2D2E55A1511"]
 			hide_dependency_lines: true
 			id: "68B188F4166F5D7F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09773E7B8DE0E254"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7207C39E254E0BFB"
 				item: { count: 1, id: "mekanism:alloy_infused" }
@@ -225,6 +321,12 @@
 		{
 			dependencies: ["68B188F4166F5D7F"]
 			id: "0DD4E9D455135EA9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "772D807AAC6134D9"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "1C7510B119A3EA8B"
 				item: { count: 1, id: "mekanism:alloy_reinforced" }
@@ -236,6 +338,12 @@
 		{
 			dependencies: ["0DD4E9D455135EA9"]
 			id: "2ABD0207F3170B90"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76AF047675C157F2"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "799D302F88171EEC"
 				item: { count: 1, id: "mekanism:alloy_atomic" }
@@ -248,6 +356,12 @@
 			dependencies: ["744BF2D2E55A1511"]
 			hide_dependency_lines: true
 			id: "4B014E76BB899429"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "490B5CFC02F41E09"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "215A91C5B777C1E4"
 				item: { count: 1, id: "mekanism:basic_control_circuit" }
@@ -259,6 +373,12 @@
 		{
 			dependencies: ["4B014E76BB899429"]
 			id: "0653F1F63884FF23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5886344CB26E4072"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "21359DE4FA38C427"
 				item: { count: 1, id: "mekanism:advanced_control_circuit" }
@@ -270,6 +390,12 @@
 		{
 			dependencies: ["0653F1F63884FF23"]
 			id: "1FD8BF9F8FD76037"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3150447F9BD166F2"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "048DCDD1C5202C24"
 				item: { count: 1, id: "mekanism:elite_control_circuit" }
@@ -281,6 +407,12 @@
 		{
 			dependencies: ["1FD8BF9F8FD76037"]
 			id: "38FEAC55F958F1AF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CF74590C9900853"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2E62D2E8B04C4014"
 				item: { count: 1, id: "mekanism:ultimate_control_circuit" }
@@ -292,6 +424,12 @@
 		{
 			dependencies: ["4B014E76BB899429"]
 			id: "4FA8A47B669B78FE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "442F2209E9BF9DC7"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "431C4F61DD71A6F4"
 				item: { count: 1, id: "mekanism:electrolytic_separator" }
@@ -306,6 +444,12 @@
 				"73EFA418A2DD6732"
 			]
 			id: "62135299C53DAEC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1649E46868C4F64A"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7655D66335781688"
 				item: { count: 1, id: "mekanism:sps_casing" }
@@ -320,6 +464,12 @@
 				"6B78992C7D17BD78"
 			]
 			id: "0AA9DD3766093E67"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0604842AA2DBDCAA"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "403456746519EE4E"
@@ -335,6 +485,12 @@
 				"38FEAC55F958F1AF"
 			]
 			id: "6B78992C7D17BD78"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EF3E15E1D22B13C"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3FD225D4E0A2CD7F"
 				item: { count: 1, id: "mekanism:chemical_crystallizer" }
@@ -347,6 +503,12 @@
 			dependencies: ["0653F1F63884FF23"]
 			hide_dependency_lines: true
 			id: "118623DACF6DC891"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2146617BAC52F240"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "39E7AE37355B9A1B"
 				item: { count: 1, id: "mekanism:osmium_compressor" }
@@ -402,6 +564,12 @@
 		{
 			dependencies: ["3529BF2321A4EC4E"]
 			id: "4B1FE35ACC2A0E2A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "475491E8AEACBC22"
+				table_id: 5363686151310292470L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "1BD80E90D4E997B0"
 				item: { count: 1, id: "mekanism:hdpe_pellet" }

@@ -1,7 +1,6 @@
 {
 	chapter.00587F1803C7B687.title: "Sophisticated Backpacks"
 	chapter.01A4FCDA699EABBC.title: "Tom's Simple Storage"
-	chapter.023451F08377F94D.title: "Infinite Dimensions"
 	chapter.0441340616420AD2.title: "Productive Bees"
 	chapter.064AE5987A6C474D.title: "Create"
 	chapter.0836214B59E7D830.title: "&eThe Twilight Forest"
@@ -1483,6 +1482,8 @@
 	]
 	quest.43F71D97827116DD.title: "&2&lSlay The Alpha Yeti"
 	quest.440488A43C150C7A.quest_desc: ["The &e&lDiamond Minotaur Axe&r&r is a unique axe that is dropped when the Minoshroom is killed. The Diamond Minotaur Axe is unique in that it has extra charge damage, meaning that when it is used while the player is sprinting, extra damage will be dealt to whatever monster it attacks."]
+	quest.446FD3C8D6006B1E.quest_subtitle: "Ride On and Teleport"
+	quest.446FD3C8D6006B1E.title: "Getting Around"
 	quest.448A587E578045E9.quest_desc: ["&e&lMeef Stroganoff&r&r is a food item that can only be obtained after defeating the Minoshroom. Upon consuming Meef Stroganoff, the player is rewarded with the Advancement: Mighty Stroganoff, granting access to both the Fire Swamp and the Hydra."]
 	quest.448A587E578045E9.title: "&2&lUnlock The Fire Swamp"
 	quest.44AAA3D8E90F7EB7.quest_desc: ["The &e&lCharm of Life I&r&r will heal the player back to 4 hearts, and bestow Regeneration I for the next 10 seconds. Charm of Life I can be found in medium and large Hollow Hills, Leaf Dungeons, Lich Towers, Goblin Knight Strongholds, Dark Towers and Aurora Palaces."]
@@ -2150,6 +2151,19 @@
 	quest.62135299C53DAEC4.quest_subtitle: "&3Antimatter"
 	quest.62135299C53DAEC4.title: "&9&lThe Supercritical Phase Shifter"
 	quest.622B8EEE00C9F620.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
+	quest.622F98D334229719.quest_desc: [
+		"Each move has a hidden priority value in the game, with values ranging from +5 to -7. The vast majority of moves have the standard priority value of 0. A move with a positive priority is a priority move."
+		""
+		"Moves with a positive priority may also be referred to as having an increased priority and moves with a negative priority a decreased priority. Some abilities increase the priority of certain moves. Some moves and abilities can prevent priority moves from being used; Dark-type Pokémon are also immune to Prankster-promoted priority moves."
+		""
+		""
+		"{@pagebreak}"
+		""
+		"Move priority is not affected by Trick Room, which only reverses the Speed-resolved order of moves within a priority bracket; moves with higher priority are still performed before ones with lower priority. Some held items and Abilities also affect a move's resolution within its priority bracket (ignoring Trick Room), but not the priority itself."
+		""
+		"Pursuit is a special exception to the general rules of priority, due to its effect. Switching fundamentally happens before any moves priority checks can be performed, but when Pursuit is targeting a Pokémon that switches out, it will hit the Pokémon before it can switch, meaning that it will go before any other move or switch, no matter its priority."
+	]
+	quest.622F98D334229719.quest_subtitle: "More damage is not always more better"
 	quest.623CBDB7698DEEA8.quest_subtitle: "Round 4"
 	quest.623CBDB7698DEEA8.title: "Defeat Terry"
 	quest.62664023E1CCCB39.title: "Defeat Lorelei"
@@ -2474,6 +2488,8 @@
 		"{@pagebreak}"
 		""
 		"You can farm materials and craft balls using Immersive Engineering &nAND&r Create. The Poké Ball factory of your dreams is just a few clicks away!  "
+		""
+		"Don't forget!!! On top of the featured dimension mods (quest lines coming soon). There's over 2 billion possible dimensions in this pack. Light a nether portal. Write something in a book... ANYTHING... It will then generate a unique dimension which may contain untold fortune and treasure from a realm of extravagance... Or it may lead to a dimension of endless mobs in a world that you would swear hates you and wants to kill you at all costs... Enjoy!"
 		""
 		"The quest book structure and progression will be a running Work-In-Progress for the next few updates, any and all ideas and/or suggestions are welcome!"
 		""
@@ -2905,6 +2921,7 @@
 	reward_table.416D1D518D41BB01.title: "Immersive Engineering"
 	reward_table.4A6FA422F78835F6.title: "Mekanism"
 	reward_table.5396FA9EF19E4CCB.title: "T1 cobblemon rewards"
+	reward_table.544604192DA3A87E.title: "AE2"
 	reward_table.54B760B03C715A3B.title: "Oritech"
 	reward_table.5599E1C923051825.title: "T2 cobblemon rewards"
 	reward_table.5AB271E02326865C.title: "MineColonies"
