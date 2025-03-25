@@ -12,7 +12,7 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayHeight": 0.0,
+    "displayHeight": 2.0,
     "displayed": true,
     "heightBasedFade": true,
     "renderOrder": 0.0,

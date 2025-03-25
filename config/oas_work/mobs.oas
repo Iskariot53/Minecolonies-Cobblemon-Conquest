@@ -7,6 +7,7 @@ minecraft:salmon
 minecraft:chicken
 minecraft:fox
 minecraft:tropical_fish
+minecraft:pufferfish
 minecraft:axolotl
 minecraft:creeper
 minecraft:skeleton
@@ -24,6 +25,7 @@ minecraft:zombified_piglin
 minecraft:piglin_brute
 minecraft:hoglin
 minecraft:zoglin
+minecraft:magma_cube
 minecraft:witch
 minecraft:shulker
 minecraft:ghast
