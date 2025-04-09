@@ -67,7 +67,7 @@
 	forceEnableFarmerBeeRightClickHarvest = false
 
 [Bees]
-	#Allow for bee simulation in hives. This will stop bees from exiting the hive and instead simulate a trip to flower blocks saving on performance.
+	#Allow for bee simulation in hives using simulation upgrades. This will stop bees from exiting the hive and instead simulate a trip to flower blocks saving on performance.
 	allowBeeSimulation = true
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
@@ -98,6 +98,8 @@
 	disableWanderGoal = false
 	#Allow resin bees to encase mobs in amber. With this disabled it's only possible with an amber bee and it's also not as fun.
 	enableResinBeeEncasing = true
+	#Force bee simulation in hives.
+	forceBeeSimulation = false
 
 ["Bee attributes"]
 	#Number of ticks between attribute improvement attempts while leashed

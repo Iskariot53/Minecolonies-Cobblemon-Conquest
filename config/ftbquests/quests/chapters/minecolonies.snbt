@@ -238,36 +238,12 @@
 		{
 			dependencies: ["7A4231E1D13D27A9"]
 			id: "5DE1C3B17B55B4D1"
-			rewards: [
-				{
-					id: "03E83C89B937E686"
-					type: "xp"
-					xp: 10
-				}
-				{
-					exclude_from_claim_all: true
-					id: "1085D703C85BF215"
-					type: "choice"
-				}
-				{
-					count: 5
-					id: "473B850979E33DA0"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:spur"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "52A3B23D007DEDD2"
-					table_id: 6535411216744351324L
-					type: "loot"
-				}
-			]
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52A3B23D007DEDD2"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "4D25A7457406616E"
