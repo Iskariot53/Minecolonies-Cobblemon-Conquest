@@ -1,0 +1,132 @@
+{
+  "allowStarterOnJoin": true,
+  "promptStarterOnceOnly": true,
+  "starters": [
+    {
+      "name": "Kanto",
+      "displayName": "cobblemon.starterselection.category.kanto",
+      "pokemon": [
+        "Bulbasaur level=10",
+        "Charmander level=10",
+        "Squirtle level=10"
+      ]
+    },
+    {
+      "name": "Johto",
+      "displayName": "cobblemon.starterselection.category.johto",
+      "pokemon": [
+        "Chikorita level=10",
+        "Cyndaquil level=10",
+        "Totodile level=10"
+      ]
+    },
+    {
+      "name": "Hoenn",
+      "displayName": "cobblemon.starterselection.category.hoenn",
+      "pokemon": [
+        "Treecko level=10",
+        "Torchic level=10",
+        "Mudkip level=10"
+      ]
+    },
+    {
+      "name": "Sinnoh",
+      "displayName": "cobblemon.starterselection.category.sinnoh",
+      "pokemon": [
+        "Turtwig level=10",
+        "Chimchar level=10",
+        "Piplup level=10"
+      ]
+    },
+    {
+      "name": "Unova",
+      "displayName": "cobblemon.starterselection.category.unova",
+      "pokemon": [
+        "Snivy level=10",
+        "Tepig level=10",
+        "Oshawott level=10"
+      ]
+    },
+    {
+      "name": "Kalos",
+      "displayName": "cobblemon.starterselection.category.kalos",
+      "pokemon": [
+        "Chespin level=10",
+        "Fennekin level=10",
+        "Froakie level=10"
+      ]
+    },
+    {
+      "name": "Alola",
+      "displayName": "cobblemon.starterselection.category.alola",
+      "pokemon": [
+        "Rowlet level=10",
+        "Litten level=10",
+        "Popplio level=10"
+      ]
+    },
+    {
+      "name": "Galar",
+      "displayName": "cobblemon.starterselection.category.galar",
+      "pokemon": [
+        "Grookey level=10",
+        "Scorbunny level=10",
+        "Sobble level=10"
+      ]
+    },
+    {
+      "name": "Hisui Bias",
+      "displayName": "cobblemon.starterselection.category.hisui_bias",
+      "pokemon": [
+        "Rowlet region_bias=hisui level=10 pokeball=ancient_poke_ball",
+        "Cyndaquil region_bias=hisui level=10 pokeball=ancient_poke_ball",
+        "Oshawott region_bias=hisui level=10 pokeball=ancient_poke_ball"
+      ]
+    },
+    {
+      "name": "Paldea",
+      "displayName": "cobblemon.starterselection.category.paldea",
+      "pokemon": [
+        "Sprigatito level=10",
+        "Fuecoco level=10",
+        "Quaxly level=10"
+      ]
+    },
+	{
+      "name": "MCC 1",
+      "displayName": "cobblemon.starterselection.category.MCC_1",
+      "pokemon": [
+        "Dratini level=10",
+        "Beldum level=10",
+        "Larvitar level=10"
+      ]
+    },
+    {
+      "name": "MCC 2",
+      "displayName": "cobblemon.starterselection.category.MCC_2",
+      "pokemon": [
+        "Bagon level=10",
+        "Gible level=10",
+        "Deino level=10"
+      ]
+    },
+	{
+      "name": "MCC 3",
+      "displayName": "cobblemon.starterselection.category.MCC_3",
+      "pokemon": [
+        "Goomy level=10",
+        "Dreepy level=10",
+        "Jangmo-o level=10"
+      ]
+    },
+	{
+      "name": "MCC 4",
+      "displayName": "cobblemon.starterselection.category.MCC_4",
+      "pokemon": [
+        "Frigibax level=10",
+        "Happiny level=10",
+        "Honedge level=10"
+      ]
+    }
+  ]
+}
