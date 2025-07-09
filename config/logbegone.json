@@ -1,0 +1,55 @@
+{
+  "logbegone": {
+    "phrases": [
+     "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "L'entité minecraft:",
+	  "Failed to load model",
+	  "Unable to load model:",
+	  "Missing textures in model",
+	  "Unknown preset name:",
+	  "loading recipe",
+	  "unknown structure",
+	  "Failed loading villager",
+	  "Exception caught when registering villager",
+	  "Unknown preset name:",
+	  "Couldn't parse element ResourceKey",
+	  "File create_dd:sounds",
+	  "to process update information",
+	  "loading blockstate definition",
+	  "provided in this context",
+	  "you can ignore this message",
+	  "Added recipe category decorator",
+	  "Reference map",
+	  "Performing periodic auto-save of player progress data",
+	  "Saved footprint progress data for",
+	  "Saved worlds:"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "L'entité minecraft:",
+	  "Failed to load model",
+	  "Unable to load model:",
+	  "Missing textures in model",
+	  "Unknown preset name:",
+	  "loading recipe",
+	  "unknown structure",
+	  "Failed loading villager",
+	  "Exception caught when registering villager",
+	  "Unknown preset name:",
+	  "Couldn't parse element ResourceKey",
+	  "File create_dd:sounds",
+	  "to process update information",
+	  "loading blockstate definition",
+	  "provided in this context",
+	  "you can ignore this message",
+	  "Added recipe category decorator",
+	  "Reference map",
+	  "Performing periodic auto-save of player progress data",
+	  "Saved footprint progress data for",
+	  "Saved worlds:"
+	  
+    ]
+  }
+}
