@@ -11,32 +11,16 @@
 	id: "1900D81E9D2138D9"
 	images: [
 		{
-			height: 2.0d
-			image: "cobbledollars:textures/gui/cobbledollars_background.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: -11.5d
-			y: 12.5d
-		}
-		{
 			height: 4.0d
-			image: "ccextras:textures/radical-trainers-progression.png"
+			image: "mcc:textures/radical-trainers-progression.png"
 			rotation: 0.0d
 			width: 9.0d
-			x: 7.105427357601002E-15d
-			y: 12.714285714285722d
+			x: -5.5d
+			y: 29.0d
 		}
 		{
 			height: 3.0d
-			image: "ccextras:textures/merchant.png"
-			rotation: 0.0d
-			width: 7.0d
-			x: -11.5d
-			y: 10.5d
-		}
-		{
-			height: 3.0d
-			image: "ccextras:textures/cobblemon.png"
+			image: "mcc:textures/cobblemon.png"
 			rotation: 0.0d
 			width: 11.0d
 			x: 0.2142857142857153d
@@ -44,27 +28,227 @@
 		}
 		{
 			height: 3.0d
-			image: "ccextras:textures/tips-and-tricks.png"
+			image: "mcc:textures/tips-and-tricks.png"
 			rotation: 0.0d
 			width: 12.0d
-			x: -11.5d
-			y: 7.0d
+			x: 10.5d
+			y: 0.5d
 		}
 		{
 			height: 4.0d
-			image: "ccextras:textures/bd-sp-trainers-progression.png"
+			image: "mcc:textures/bd-sp-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
-			x: 11.0d
-			y: 0.0d
+			x: 0.0d
+			y: 13.5d
 		}
 		{
 			height: 4.0d
-			image: "ccextras:textures/unbound-trainers-progression.png"
+			image: "mcc:textures/unbound-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
-			x: 11.0d
-			y: 12.0d
+			x: 8.5d
+			y: 28.5d
+		}
+		{
+			height: 3.0d
+			image: "mcc:textures/manga_trainers.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -12.0d
+			y: 16.0d
+		}
+		{
+			height: 2.0d
+			image: "mcc:textures/team_aqua.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 11.214285714285715d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "mcc:textures/team_magma.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 11.17857142857143d
+			y: 14.0d
+		}
+		{
+			height: 3.0d
+			image: "mcc:textures/paldean_challenge.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 10.821428571428584d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 20.571428571428584d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.178571428571416d
+			y: 20.500000000000014d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.642857142857153d
+			y: 16.035714285714292d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.321428571428584d
+			y: 16.10714285714286d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 14.07142857142857d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 14.07142857142857d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 29.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 29.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 28.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: 28.5d
+		}
+		{
+			height: 1.0d
+			image: "ping-wheel:textures/arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ping-wheel:textures/arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ping-wheel:textures/arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 4.0d
 		}
 	]
 	order_index: 2
@@ -165,11 +349,12 @@
 				id: "43724AD6D8CE6777"
 				type: "advancement"
 			}]
-			x: -3.499999999999993d
-			y: 14.714285714285722d
+			x: -9.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["02C28EADBE69CA9A"]
+			dependency_requirement: "one_started"
 			id: "483B482CC112C494"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -183,11 +368,12 @@
 				id: "492DAEFF6BEDD746"
 				type: "advancement"
 			}]
-			x: -2.499999999999993d
-			y: 14.714285714285722d
+			x: -8.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["483B482CC112C494"]
+			dependency_requirement: "one_started"
 			id: "0BC132C441FC7598"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -201,8 +387,8 @@
 				id: "6440CB0B56CD9136"
 				type: "advancement"
 			}]
-			x: -1.499999999999993d
-			y: 14.714285714285722d
+			x: -7.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["0BC132C441FC7598"]
@@ -219,8 +405,8 @@
 				id: "3D0E9BC7AC0550C1"
 				type: "advancement"
 			}]
-			x: -0.4999999999999929d
-			y: 14.714285714285722d
+			x: -6.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["2241A9BBD6153119"]
@@ -237,8 +423,8 @@
 				id: "305C4C598A2BFC9C"
 				type: "advancement"
 			}]
-			x: 0.5000000000000071d
-			y: 14.714285714285722d
+			x: -5.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["499B398F25A88F68"]
@@ -255,8 +441,8 @@
 				id: "7FC12351C60934EA"
 				type: "advancement"
 			}]
-			x: 1.500000000000007d
-			y: 14.714285714285722d
+			x: -4.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -381,7 +567,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:vitamins)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -10.0d
+			x: -9.5d
 			y: 3.5d
 		}
 		{
@@ -994,8 +1180,8 @@
 				id: "787EA98F478A9CD1"
 				type: "advancement"
 			}]
-			x: 2.500000000000007d
-			y: 14.714285714285722d
+			x: -3.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["4DD64B7322641A51"]
@@ -1012,8 +1198,8 @@
 				id: "638CD57315F2E950"
 				type: "advancement"
 			}]
-			x: 3.500000000000007d
-			y: 14.714285714285722d
+			x: -2.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["564F6F789443F4C0"]
@@ -1030,8 +1216,8 @@
 				id: "3C9A886C52794007"
 				type: "advancement"
 			}]
-			x: -3.499999999999993d
-			y: 16.214285714285722d
+			x: -9.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0ED97CF11E7335CA"]
@@ -1048,8 +1234,8 @@
 				id: "0DC508BC36E9BA68"
 				type: "advancement"
 			}]
-			x: -2.499999999999993d
-			y: 16.214285714285722d
+			x: -8.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["6E98D8C6C0F182FA"]
@@ -1066,11 +1252,14 @@
 				id: "6F07B907B47CFE4B"
 				type: "advancement"
 			}]
-			x: -1.499999999999993d
-			y: 16.214285714285722d
+			x: -7.0d
+			y: 33.0d
 		}
 		{
-			dependencies: ["6786B6A8692C67A5"]
+			dependencies: [
+				"6786B6A8692C67A5"
+				"0C6C61B9BBC08F04"
+			]
 			id: "114DD047A53F75D8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1084,37 +1273,11 @@
 				id: "3E20EFF168FF4FA6"
 				type: "advancement"
 			}]
-			x: -0.4999999999999929d
-			y: 16.214285714285722d
+			x: -6.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["114DD047A53F75D8"]
-			id: "17A95BE832138F53"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "28C687A275AC5BF0"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					advancement: "rctmod:trainers/defeat_rocket_admin_archer_2"
-					criterion: ""
-					id: "64BE450882F25694"
-					type: "advancement"
-				}
-				{
-					advancement: "rctmod:trainers/defeat_rocket_admin_ariana_1"
-					criterion: ""
-					id: "662DF5860D6EBD5C"
-					type: "advancement"
-				}
-			]
-			x: 0.5000000000000071d
-			y: 16.214285714285722d
-		}
-		{
-			dependencies: ["17A95BE832138F53"]
 			id: "776BCAC6DB50C3E3"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1128,8 +1291,8 @@
 				id: "5589013C40697249"
 				type: "advancement"
 			}]
-			x: 1.500000000000007d
-			y: 16.214285714285722d
+			x: -4.964285714285715d
+			y: 32.9642857142857d
 		}
 		{
 			dependencies: ["776BCAC6DB50C3E3"]
@@ -1146,8 +1309,8 @@
 				id: "111A4ACD36300D03"
 				type: "advancement"
 			}]
-			x: 2.500000000000007d
-			y: 16.214285714285722d
+			x: -3.9642857142857153d
+			y: 32.9642857142857d
 		}
 		{
 			dependencies: ["2BA23752F0416D72"]
@@ -1164,8 +1327,8 @@
 				id: "5534F491E4F87FAC"
 				type: "advancement"
 			}]
-			x: 3.500000000000007d
-			y: 16.214285714285722d
+			x: -2.9642857142857153d
+			y: 32.9642857142857d
 		}
 		{
 			dependencies: ["0F9AD5E4642D02F1"]
@@ -1182,29 +1345,11 @@
 				id: "42F35073A8BE970A"
 				type: "advancement"
 			}]
-			x: -3.499999999999993d
-			y: 17.714285714285722d
+			x: -1.9642857142857153d
+			y: 32.9642857142857d
 		}
 		{
 			dependencies: ["0DE569E88A846A8C"]
-			id: "7CBFD6FB662C9367"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0E23017CFAB318ED"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_rival_terry_3"
-				criterion: ""
-				id: "784BFA6F4379C87C"
-				type: "advancement"
-			}]
-			x: -2.499999999999993d
-			y: 17.714285714285722d
-		}
-		{
-			dependencies: ["7CBFD6FB662C9367"]
 			id: "7250895C2EBE25DF"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1218,8 +1363,8 @@
 				id: "3A0DE6CE3B6ED3FB"
 				type: "advancement"
 			}]
-			x: -1.499999999999993d
-			y: 17.714285714285722d
+			x: -8.464285714285722d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["7250895C2EBE25DF"]
@@ -1236,8 +1381,8 @@
 				id: "438416476C791396"
 				type: "advancement"
 			}]
-			x: -0.4999999999999929d
-			y: 17.714285714285722d
+			x: -7.464285714285722d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["73CB7A93841ACD3F"]
@@ -1254,8 +1399,8 @@
 				id: "64372E563B837FD4"
 				type: "advancement"
 			}]
-			x: 0.5000000000000071d
-			y: 17.714285714285722d
+			x: -6.464285714285722d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["19BAB83CEDFD003A"]
@@ -1272,8 +1417,8 @@
 				id: "75DE836CBE07C4D6"
 				type: "advancement"
 			}]
-			x: 1.500000000000007d
-			y: 17.714285714285722d
+			x: -5.464285714285722d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["40207980D0FD3F59"]
@@ -1290,8 +1435,8 @@
 				id: "5EFF2BD23A8AC93C"
 				type: "advancement"
 			}]
-			x: 2.500000000000007d
-			y: 17.714285714285722d
+			x: -4.464285714285722d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["7CC9ED75384138EB"]
@@ -1308,11 +1453,12 @@
 				id: "5B3FDD9B9B53B59C"
 				type: "advancement"
 			}]
-			x: 3.500000000000007d
-			y: 17.714285714285722d
+			x: -3.4642857142857224d
+			y: 34.535714285714285d
 		}
 		{
 			dependencies: ["623CBDB7698DEEA8"]
+			hide_dependent_lines: true
 			id: "66903E18B867271C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1326,44 +1472,8 @@
 				id: "4C05CA8D94ECAB9B"
 				type: "advancement"
 			}]
-			x: -2.999999999999993d
-			y: 19.214285714285722d
-		}
-		{
-			dependencies: ["66903E18B867271C"]
-			id: "255486098D36A9C6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "067877A6AFFEB476"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_rocket_admin_archer_4"
-				criterion: ""
-				id: "0941E45869074034"
-				type: "advancement"
-			}]
-			x: -1.999999999999993d
-			y: 19.214285714285722d
-		}
-		{
-			dependencies: ["255486098D36A9C6"]
-			id: "66CEACD7F2C2E04C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "15F5C77B037ABED8"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_3"
-				criterion: ""
-				id: "415E6EDF55747FFF"
-				type: "advancement"
-			}]
-			x: -0.9999999999999929d
-			y: 19.214285714285722d
+			x: -2.4285714285714377d
+			y: 34.5357142857143d
 		}
 		{
 			dependencies: ["4ED2CF94627F2171"]
@@ -1392,8 +1502,8 @@
 				id: "7B1E52D8545446AF"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 22.5d
+			x: -3.9285714285714377d
+			y: 38.892857142857125d
 		}
 		{
 			dependencies: ["7C89224D386AB3CF"]
@@ -1421,8 +1531,8 @@
 				id: "57A0EDC0AA3FD043"
 				type: "advancement"
 			}]
-			x: 7.105427357601002E-15d
-			y: 22.214285714285722d
+			x: -5.428571428571431d
+			y: 38.60714285714285d
 		}
 		{
 			dependencies: ["7C89224D386AB3CF"]
@@ -1451,8 +1561,8 @@
 				id: "55DC9FBFCBD1648F"
 				type: "advancement"
 			}]
-			x: -1.5d
-			y: 22.5d
+			x: -6.928571428571438d
+			y: 38.892857142857125d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -1491,31 +1601,6 @@
 			y: 1.5d
 		}
 		{
-			can_repeat: true
-			dependencies: ["222C9B14E10E8E98"]
-			hide_dependency_lines: true
-			icon: {
-				id: "minecraft:emerald"
-			}
-			id: "52A781C9CAD37CE0"
-			optional: true
-			rewards: [{
-				command: "/cobblemerchant open shop"
-				icon: {
-					id: "cobblemon:relic_coin_pouch"
-				}
-				id: "1AAB51BEEC2CD192"
-				type: "command"
-			}]
-			shape: "diamond"
-			tasks: [{
-				id: "626052F051631CFC"
-				type: "checkmark"
-			}]
-			x: -12.0d
-			y: 12.5d
-		}
-		{
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "4EACDF4E649E7C2B"
@@ -1544,8 +1629,8 @@
 				id: "0CA5C37334D15CA1"
 				type: "checkmark"
 			}]
-			x: -11.5d
-			y: 8.5d
+			x: 10.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -1558,8 +1643,8 @@
 				id: "7C314130097D621D"
 				type: "checkmark"
 			}]
-			x: -13.5d
-			y: 8.5d
+			x: 8.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -1572,8 +1657,8 @@
 				id: "35105D1AD5EA447C"
 				type: "checkmark"
 			}]
-			x: -12.5d
-			y: 8.5d
+			x: 9.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -1586,8 +1671,8 @@
 				id: "116556C0B3E46BF7"
 				type: "checkmark"
 			}]
-			x: -10.5d
-			y: 8.5d
+			x: 11.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -1600,8 +1685,8 @@
 				id: "0E56288B4115AE76"
 				type: "checkmark"
 			}]
-			x: -9.5d
-			y: 8.5d
+			x: 12.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -1611,8 +1696,8 @@
 				id: "182C67230417BBF1"
 				type: "checkmark"
 			}]
-			x: -14.5d
-			y: 8.5d
+			x: 7.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -1625,8 +1710,8 @@
 				id: "0F2DECBFF8AB55CF"
 				type: "checkmark"
 			}]
-			x: -8.5d
-			y: 8.5d
+			x: 13.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -1650,7 +1735,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["66CEACD7F2C2E04C"]
+			dependencies: ["66903E18B867271C"]
 			id: "2DA26BC74C28375E"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1664,11 +1749,11 @@
 				id: "3AB2DB6C7CA95317"
 				type: "advancement"
 			}]
-			x: 7.105427357601002E-15d
-			y: 19.214285714285722d
+			x: -6.928571428571431d
+			y: 35.9642857142857d
 		}
 		{
-			dependencies: ["66CEACD7F2C2E04C"]
+			dependencies: ["66903E18B867271C"]
 			id: "62664023E1CCCB39"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1682,11 +1767,11 @@
 				id: "0FA87F250B0C34F3"
 				type: "advancement"
 			}]
-			x: 1.000000000000007d
-			y: 19.214285714285722d
+			x: -5.928571428571431d
+			y: 35.9642857142857d
 		}
 		{
-			dependencies: ["66CEACD7F2C2E04C"]
+			dependencies: ["66903E18B867271C"]
 			id: "3F7693D865C29FE9"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1700,11 +1785,11 @@
 				id: "56727D4E4C6DEB52"
 				type: "advancement"
 			}]
-			x: 2.000000000000007d
-			y: 19.214285714285722d
+			x: -4.928571428571431d
+			y: 35.9642857142857d
 		}
 		{
-			dependencies: ["66CEACD7F2C2E04C"]
+			dependencies: ["66903E18B867271C"]
 			id: "4ED2CF94627F2171"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1718,11 +1803,17 @@
 				id: "71712D8738DD263B"
 				type: "advancement"
 			}]
-			x: 3.000000000000007d
-			y: 19.214285714285722d
+			x: -3.9285714285714306d
+			y: 35.9642857142857d
 		}
 		{
-			dependencies: ["4ED2CF94627F2171"]
+			dependencies: [
+				"4ED2CF94627F2171"
+				"62664023E1CCCB39"
+				"2DA26BC74C28375E"
+				"3F7693D865C29FE9"
+			]
+			hide_dependency_lines: true
 			id: "7C89224D386AB3CF"
 			rewards: [
 				{
@@ -1746,8 +1837,8 @@
 				id: "30EE69DB96CEDF16"
 				type: "advancement"
 			}]
-			x: 7.105427357601002E-15d
-			y: 20.714285714285722d
+			x: -5.428571428571431d
+			y: 37.10714285714285d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -1765,8 +1856,8 @@
 				id: "2D3BAD32CB232250"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 2.0d
+			x: -3.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["0FF0BA3DB92A2A26"]
@@ -1783,8 +1874,8 @@
 				id: "2AE4A19BF0F2AC0A"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 2.0d
+			x: 0.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["0B4C800E8E16784C"]
@@ -1801,8 +1892,8 @@
 				id: "248F6307EFC7BFC4"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 2.0d
+			x: 1.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["0171597E016DB310"]
@@ -1819,8 +1910,8 @@
 				id: "044DDD8F93AD80D5"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 2.0d
+			x: 2.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["64E666DD442C33C6"]
@@ -1837,8 +1928,8 @@
 				id: "2202BC0353343115"
 				type: "advancement"
 			}]
-			x: 14.5d
-			y: 2.0d
+			x: 3.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["4103C7FA751AC743"]
@@ -1855,8 +1946,8 @@
 				id: "0650E8DE75ED9D72"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 3.5d
+			x: -3.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["6691B35A4356BF59"]
@@ -1873,8 +1964,8 @@
 				id: "1ECE6B43B0C7A9D1"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 3.5d
+			x: -2.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["6805DA60D91DD16F"]
@@ -1891,8 +1982,8 @@
 				id: "3E82BEB0121B564E"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 3.5d
+			x: -1.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["1CE4C8613F27A00D"]
@@ -1909,8 +2000,8 @@
 				id: "6AB6EF1B7DCD8219"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 3.5d
+			x: 0.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5C5AA522A01CA426"]
@@ -1927,8 +2018,8 @@
 				id: "5076B82ADB6AA448"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 3.5d
+			x: 1.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["516D2E86DC009C4B"]
@@ -1945,8 +2036,8 @@
 				id: "3E991D2F8C222880"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 3.5d
+			x: 2.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["38BAA7A6AF7E809D"]
@@ -1963,8 +2054,8 @@
 				id: "5089FF027A009185"
 				type: "advancement"
 			}]
-			x: 14.0d
-			y: 3.5d
+			x: 3.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["3F6E3D9433313B68"]
@@ -1981,8 +2072,8 @@
 				id: "1FCA02E7F3ED9428"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 5.0d
+			x: -2.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["363597FAD27A6827"]
@@ -1999,8 +2090,8 @@
 				id: "72C59A7E5A9C17B9"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: -1.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["0B6BDA8A076A819E"]
@@ -2017,8 +2108,8 @@
 				id: "496D28CC02A54787"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: 0.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["4C03A9D46FB62E81"]
@@ -2035,8 +2126,8 @@
 				id: "085842B9C25BB13C"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 5.0d
+			x: 1.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["21ABDD6D68F783DC"]
@@ -2053,8 +2144,8 @@
 				id: "1290CAD9200A9DFB"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 5.0d
+			x: 2.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["4C7FDCFC6E37B494"]
@@ -2071,8 +2162,8 @@
 				id: "16FCAB2538BA79CE"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 6.5d
+			x: -2.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["3FF7EDC74F634A45"]
@@ -2089,8 +2180,8 @@
 				id: "0DA4AA693ECBDB62"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 6.5d
+			x: -1.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["244084798F9E0DBE"]
@@ -2107,8 +2198,8 @@
 				id: "758DF6E5AA77F143"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 6.5d
+			x: -0.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["7E0E6F25AC0882AF"]
@@ -2125,8 +2216,8 @@
 				id: "75B47348E9A99443"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 6.5d
+			x: 0.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["23FD1B8B06B4EAA1"]
@@ -2143,8 +2234,8 @@
 				id: "1336ABBF5FE6B3C8"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 6.5d
+			x: 2.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["35947D9A5AF50325"]
@@ -2161,8 +2252,8 @@
 				id: "26F28B67D7ED2E32"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 8.0d
+			x: -2.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["004434351BAEB17D"]
@@ -2179,8 +2270,8 @@
 				id: "1AD1E821B1551B1D"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 9.5d
+			x: -2.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["5217A5CBD2F70CB0"]
@@ -2197,8 +2288,8 @@
 				id: "12103778DD49915D"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 8.0d
+			x: -1.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["329AFA37DACB1C66"]
@@ -2215,8 +2306,8 @@
 				id: "0A2C816AFB148F4C"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 9.5d
+			x: -1.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["742989BC047BC1D4"]
@@ -2233,8 +2324,8 @@
 				id: "2DBCDFD5E74DFE38"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 8.0d
+			x: -0.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["19F75866A075439D"]
@@ -2251,8 +2342,8 @@
 				id: "4EE534B0E413A76A"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 9.5d
+			x: -0.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["678416D377935356"]
@@ -2269,8 +2360,8 @@
 				id: "07EAB75FBA19AC82"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 8.0d
+			x: 0.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["6B7B565AA76C60C4"]
@@ -2287,8 +2378,8 @@
 				id: "27C53A2469E69DAE"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 9.5d
+			x: 0.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["3A59DE29C1BF9EBD"]
@@ -2305,8 +2396,8 @@
 				id: "6352E3CF4CD70472"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 8.0d
+			x: 2.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["1472219EF437D964"]
@@ -2333,11 +2424,15 @@
 				id: "726A4F8E30B8E0BB"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 9.5d
+			x: 2.5d
+			y: 23.0d
 		}
 		{
-			dependencies: ["222C9B14E10E8E98"]
+			dependencies: [
+				"222C9B14E10E8E98"
+				"1D31FD9F17FFCB02"
+				"4C0CCC6AF947A8BF"
+			]
 			hide_dependency_lines: true
 			id: "2BA4FD9CCA6D20BD"
 			rewards: [{
@@ -2352,8 +2447,8 @@
 				id: "56A0EC99959F3808"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 14.0d
+			x: 4.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["2BA4FD9CCA6D20BD"]
@@ -2370,8 +2465,8 @@
 				id: "289F66D28C01012D"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 14.0d
+			x: 5.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["4D1BC9C3857360CD"]
@@ -2388,8 +2483,8 @@
 				id: "3820BDFC749FD89C"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 14.0d
+			x: 6.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["37A7F746888E7B30"]
@@ -2406,8 +2501,8 @@
 				id: "287FD1BF62AA3825"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 14.0d
+			x: 7.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["6129AE04B5E61F30"]
@@ -2424,8 +2519,8 @@
 				id: "1C65259ACBEB200D"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 14.0d
+			x: 8.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["5C88FE2CEEB99169"]
@@ -2442,8 +2537,8 @@
 				id: "4C7B3FCE6810FAF1"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 14.0d
+			x: 9.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["37E7C99E91B8B37D"]
@@ -2460,8 +2555,8 @@
 				id: "4D27511DE11C0BB0"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 14.0d
+			x: 10.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["385C5D1F98711D3C"]
@@ -2478,8 +2573,8 @@
 				id: "68713B08BF2FCF81"
 				type: "advancement"
 			}]
-			x: 14.0d
-			y: 14.0d
+			x: 11.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["68D63DD63EF11BBA"]
@@ -2496,8 +2591,8 @@
 				id: "53CE2F11BC4591EE"
 				type: "advancement"
 			}]
-			x: 15.0d
-			y: 14.0d
+			x: 12.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["70A0D3C54C40A377"]
@@ -2514,8 +2609,8 @@
 				id: "34690A0C06ACC96F"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 15.5d
+			x: 4.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["67A0460FFBF3D9AB"]
@@ -2532,8 +2627,8 @@
 				id: "56E82767668930C5"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 15.5d
+			x: 5.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["7F4C296861FA32D6"]
@@ -2550,8 +2645,8 @@
 				id: "212273C5BC4B367A"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 15.5d
+			x: 6.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["6A7FC4CEC03AC1F8"]
@@ -2568,8 +2663,8 @@
 				id: "150C9C0F697F33B8"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 15.5d
+			x: 7.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["181477D6F7B604B9"]
@@ -2586,8 +2681,8 @@
 				id: "424FB3738859FEC5"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 15.5d
+			x: 8.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["4B35AFA7E106D8AA"]
@@ -2604,8 +2699,8 @@
 				id: "5BB6A8E85395DD1B"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 15.5d
+			x: 9.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["761547BAA6CFC6B9"]
@@ -2622,8 +2717,8 @@
 				id: "48F5B8DF5DFD1F24"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 15.5d
+			x: 10.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["6FFE64324C0D4FB4"]
@@ -2640,8 +2735,8 @@
 				id: "146024B5E76D86B8"
 				type: "advancement"
 			}]
-			x: 14.0d
-			y: 15.5d
+			x: 11.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["534B4F74DA1EF827"]
@@ -2658,8 +2753,8 @@
 				id: "436F5288FB7FBCA2"
 				type: "advancement"
 			}]
-			x: 15.0d
-			y: 15.5d
+			x: 12.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["661BB2E3C98A16DC"]
@@ -2676,8 +2771,8 @@
 				id: "4C1E5AE5CAC1E057"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 17.0d
+			x: 5.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["3112842479774CA0"]
@@ -2694,8 +2789,8 @@
 				id: "2BA85B3E3C702CB4"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 17.0d
+			x: 6.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["63FF059CC9C89167"]
@@ -2712,8 +2807,8 @@
 				id: "37CEA8300FA43D95"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 17.0d
+			x: 7.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["78FE754F2BDD07DC"]
@@ -2730,8 +2825,8 @@
 				id: "5B4BE9B0C185935E"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 17.0d
+			x: 8.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["73EC84D1F1502430"]
@@ -2748,8 +2843,8 @@
 				id: "2E52846AF98E5628"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 17.0d
+			x: 9.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["4F89A2237F765025"]
@@ -2766,8 +2861,8 @@
 				id: "663AD32E0DBDA230"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 17.0d
+			x: 10.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["587A49AE94970205"]
@@ -2784,8 +2879,8 @@
 				id: "317C6177E00C49A2"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 17.0d
+			x: 11.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["39D0E87A3CA1FA8A"]
@@ -2802,8 +2897,8 @@
 				id: "2E610C4A46B59130"
 				type: "advancement"
 			}]
-			x: 14.5d
-			y: 17.0d
+			x: 12.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["14020DAD5C2BC991"]
@@ -2820,8 +2915,8 @@
 				id: "4C5DA6AE726E0C7E"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 18.5d
+			x: 7.0d
+			y: 35.5d
 		}
 		{
 			dependencies: ["77E39A74C01F7509"]
@@ -2838,8 +2933,8 @@
 				id: "1A4E668F4451FFC4"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 18.5d
+			x: 8.0d
+			y: 35.5d
 		}
 		{
 			dependencies: ["2C55F60B816B8277"]
@@ -2856,8 +2951,8 @@
 				id: "1D8895924745FCB2"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 18.5d
+			x: 9.0d
+			y: 35.5d
 		}
 		{
 			dependencies: ["031C42F72D657118"]
@@ -2874,8 +2969,8 @@
 				id: "7D3DDAD7F6405ABF"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 18.5d
+			x: 10.0d
+			y: 35.5d
 		}
 		{
 			dependencies: ["14F956CE2A84763D"]
@@ -2902,8 +2997,8 @@
 				id: "1D6126E9F58D9D08"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 20.0d
+			x: 8.5d
+			y: 37.0d
 		}
 		{
 			dependencies: ["601D7A24E4335E1F"]
@@ -2930,8 +3025,8 @@
 				id: "67403AC945959B04"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 21.5d
+			x: 8.5d
+			y: 38.5d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -2948,8 +3043,8 @@
 				id: "621F4CABA2BF0CC7"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 23.0d
+			x: 6.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -2966,8 +3061,8 @@
 				id: "0DAB81E71A8D037D"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 23.0d
+			x: 7.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -2984,8 +3079,8 @@
 				id: "501C2C428C20A61D"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 23.0d
+			x: 8.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -3002,8 +3097,8 @@
 				id: "7C7509C7D315D409"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 23.0d
+			x: 9.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -3020,8 +3115,8 @@
 				id: "62350748DFE5495B"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 23.0d
+			x: 10.5d
+			y: 40.0d
 		}
 		{
 			dependencies: [
@@ -3055,8 +3150,8 @@
 				id: "233237EAC634DC6E"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 24.5d
+			x: 8.5d
+			y: 41.5d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3073,8 +3168,8 @@
 				id: "5F0575D484BDFF1B"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 26.0d
+			x: 5.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3091,8 +3186,8 @@
 				id: "3137CCFD2166A1C1"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 26.0d
+			x: 6.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3109,8 +3204,8 @@
 				id: "66E2656044A0EDCF"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 26.0d
+			x: 7.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3127,8 +3222,8 @@
 				id: "63BB80121AD13CCD"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 26.0d
+			x: 8.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3145,8 +3240,8 @@
 				id: "7AF9333230656E41"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 26.0d
+			x: 9.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3163,8 +3258,8 @@
 				id: "4DE3929A3DC2F04F"
 				type: "advancement"
 			}]
-			x: 13.0d
-			y: 26.0d
+			x: 10.5d
+			y: 43.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -3181,8 +3276,8 @@
 				id: "7DAD57E811267379"
 				type: "advancement"
 			}]
-			x: 14.0d
-			y: 26.0d
+			x: 11.5d
+			y: 43.0d
 		}
 		{
 			dependencies: [
@@ -3218,8 +3313,8 @@
 				id: "4BAE0C7EE416F3BA"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 27.5d
+			x: 8.5d
+			y: 44.5d
 		}
 		{
 			dependencies: ["5B1C9839D2E05974"]
@@ -3247,8 +3342,8 @@
 				id: "74FD245A1BB3522A"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 29.0d
+			x: 8.5d
+			y: 46.0d
 		}
 		{
 			dependencies: ["1F01A614F4704FFF"]
@@ -3265,8 +3360,8 @@
 				id: "258AC98A3CBD0E3F"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 2.0d
+			x: -2.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["7185032FDE001F31"]
@@ -3283,8 +3378,8 @@
 				id: "15264ECD59082A46"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 2.0d
+			x: -1.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["20C5100BB55383D1"]
@@ -3301,8 +3396,1036 @@
 				id: "7BDAB8C1FF063926"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: -0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "48FC88FF15242AF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "623392AA5272BA50"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1CA70197D609525C"
+				item: { count: 1, id: "mega_showdown:keystone" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2AA3BE4ECEB355D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68308A25FEDEA418"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "569D619FAD3C3372"
+				item: { count: 1, id: "mega_showdown:max_mushroom" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2AA3BE4ECEB355D0"]
+			id: "63881E92CD5F4A96"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CED97CA2B9FF5B3"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0521BDE3DE3F638D"
+				item: { count: 1, id: "mega_showdown:max_honey" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2AA3BE4ECEB355D0"]
+			id: "4F75E68A95260E99"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "500424C5148BE173"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6FAFC6EDA4A84AE0"
+				item: { count: 1, id: "mega_showdown:max_soup" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"4F75E68A95260E99"
+				"63881E92CD5F4A96"
+			]
+			id: "68B6DDF1B126BBB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4328B3E17A8F23AE"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0A45635A8D93227B"
+				item: { count: 1, id: "mega_showdown:sweet_max_soup" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["48FC88FF15242AF9"]
+			id: "4CAA0224C3ED7451"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5FC3AA91AC5BED"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2D452C84699B6A3B"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1129D75FB40DF9D8"]
+			id: "480555FA75B189A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7986A4A9AF655823"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "58745D7C7B79CFA9"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_rings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "1129D75FB40DF9D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D342CE873401183"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "69B9B6D0581AFB73"
+				item: { count: 1, id: "cobblemon:protector" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "5F496A6A0F1632AE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5727494D296F664C"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "5E15AFEC28D3CC9E"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5F496A6A0F1632AE"]
+			id: "342EDCCAFD398CC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56C82EE45DD67D4A"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7C9ED591164D5763"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:ditto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5F496A6A0F1632AE"]
+			id: "54496CB5F8242511"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FA96AB3B5BB7823"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 2L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4C2773BE5CD14A13"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:ditto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7078E004A4888746"]
+			id: "5EEF7B760D5F8B33"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A29EA3A84493BCF"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2E0B44B45F4AD363"
+				item: { count: 1, id: "berrypouch:berry_pouch_30" }
+				type: "item"
+			}]
+			x: -11.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["5EEF7B760D5F8B33"]
+			id: "309CCEE8CB0A9BB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B27FE4E0684A404"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "23CD8506030D2F4B"
+				item: { count: 1, id: "berrypouch:berry_pouch_69" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "0B8193EBEAC0D301"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08656EED6D8E0C3E"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_yellow"
+				criterion: ""
+				id: "1BDF8D2D8FE5F977"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["0B8193EBEAC0D301"]
+			id: "06F07A733CE7DEC3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78BC28CB2FC8F6FB"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_crystal"
+				criterion: ""
+				id: "1DFCBFC327F62700"
+				type: "advancement"
+			}]
+			x: -13.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0B8193EBEAC0D301"]
+			id: "28CC4CC1AA47B5E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57AE6CCEA6BC1FC5"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_diamond"
+				criterion: ""
+				id: "12B9A81E95CFAFD3"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0B8193EBEAC0D301"]
+			id: "4DFE2469814E0BEA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09E04BCF748F32D6"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_ruby"
+				criterion: ""
+				id: "7E69AE2D337FC6E4"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["06F07A733CE7DEC3"]
+			id: "1AE4EFBD26296D6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7066C0449FD8C2EF"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_gold"
+				criterion: ""
+				id: "4F23B5622C7BE692"
+				type: "advancement"
+			}]
+			x: -13.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["4DFE2469814E0BEA"]
+			id: "4FC72D293EEB7E19"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4ABE0B62B05963C9"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_sapphire"
+				criterion: ""
+				id: "7C5AC2BEF93CA04B"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["28CC4CC1AA47B5E5"]
+			id: "36CDDF9F13834BF4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6013DB07129BD2A8"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_pearl"
+				criterion: ""
+				id: "7146DF7710B57465"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1AE4EFBD26296D6F"]
+			id: "2D29DD10C5DB8910"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18F63C3A0E58141D"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_silver"
+				criterion: ""
+				id: "3A2701D3CED1D32E"
+				type: "advancement"
+			}]
+			x: -13.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["4FC72D293EEB7E19"]
+			id: "189C41B813576760"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74DA25E56EC27AED"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_emerald"
+				criterion: ""
+				id: "01C1DFA65E6764BF"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["36CDDF9F13834BF4"]
+			id: "2D7A42570EE8645C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BEB6A91AF6683D0"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_platinum"
+				criterion: ""
+				id: "09EBD32BF6D8A91A"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["2D29DD10C5DB8910"]
+			id: "24339D2FEDEBC53E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33C36BBC2842628C"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_green"
+				criterion: ""
+				id: "289CD85278A9B413"
+				type: "advancement"
+			}]
+			x: -13.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["189C41B813576760"]
+			id: "75E9703033C927B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EDB8DF3BCAA86D3"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_red"
+				criterion: ""
+				id: "17888A6AD39AB3B2"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["2D7A42570EE8645C"]
+			id: "7153C4C7A653C645"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "460A00181A72D392"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_blue"
+				criterion: ""
+				id: "2E5614C760FC537C"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 24.5d
+		}
+		{
+			dependencies: [
+				"7153C4C7A653C645"
+				"75E9703033C927B5"
+				"24339D2FEDEBC53E"
+			]
+			id: "412096DBAA158854"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C86BAF5524E0BD8"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_mangatrainers"
+				criterion: ""
+				id: "39AD8064CF3CC4D5"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2058E990EDF9DE3B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "020F0D3CFFDC9A77"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_male_ignio"
+				criterion: ""
+				id: "7D80FC33262C0276"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 16.035714285714285d
+		}
+		{
+			dependencies: ["2058E990EDF9DE3B"]
+			id: "28AE37156FFC0864"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1361CA0D927917D5"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_female_sandy"
+				criterion: ""
+				id: "51D8474EFAB96EE9"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 16.035714285714285d
+		}
+		{
+			dependencies: ["28AE37156FFC0864"]
+			id: "43A5B24A6DB91DDF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DE00B010561BA84"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_male_lithio"
+				criterion: ""
+				id: "72BC95B548A7302C"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 16.035714285714285d
+		}
+		{
+			dependencies: ["43A5B24A6DB91DDF"]
+			id: "04508C6A24E3F210"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C41D0FE94301593"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_female_micah"
+				criterion: ""
+				id: "6C14F7B682FBDF7F"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 16.035714285714285d
+		}
+		{
+			dependencies: ["04508C6A24E3F210"]
+			id: "1EDCBB697FD22EC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F9236405A33E7E4"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_blaise"
+				criterion: ""
+				id: "028B610B1DB645D6"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 17.535714285714285d
+		}
+		{
+			dependencies: ["1EDCBB697FD22EC4"]
+			id: "33FB0278FB91DB1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FA44A9E00E03A29"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_courtney"
+				criterion: ""
+				id: "769B9413CF05E78F"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 17.535714285714285d
+		}
+		{
+			dependencies: ["33FB0278FB91DB1B"]
+			id: "722B2F33DC07D827"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "606F6C66B77D726F"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_tabitha"
+				criterion: ""
+				id: "1240DD7335ACAFE2"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 17.535714285714285d
+		}
+		{
+			dependencies: ["722B2F33DC07D827"]
+			id: "7C462577B430B679"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7551B0C326B8AEA6"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_leader_maxie"
+				criterion: ""
+				id: "343E8209BA827730"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 17.535714285714285d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "58099EBA6DF608F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18D4782A4CC02311"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_male_ray"
+				criterion: ""
+				id: "4D281DAD06D7A29A"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 9.464285714285715d
+		}
+		{
+			dependencies: ["58099EBA6DF608F9"]
+			id: "0011D2F506607E60"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "457A970CC603B262"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_female_octo"
+				criterion: ""
+				id: "2F453304F81A55FE"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 9.464285714285715d
+		}
+		{
+			dependencies: ["0011D2F506607E60"]
+			id: "2D845A03711CD66D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "435595147E3D7FAD"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_male_manta"
+				criterion: ""
+				id: "65635C7C8C0D494D"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 9.464285714285715d
+		}
+		{
+			dependencies: ["2D845A03711CD66D"]
+			id: "212646BB1F4277DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5775D6D3F6B36E27"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_female_inky"
+				criterion: ""
+				id: "22EB7BE9BDE85234"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 9.464285714285715d
+		}
+		{
+			dependencies: ["212646BB1F4277DF"]
+			id: "7777498E5877D4E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41C946C101F8834E"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_amber"
+				criterion: ""
+				id: "17A598D92092D5DB"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 10.964285714285715d
+		}
+		{
+			dependencies: ["7777498E5877D4E5"]
+			id: "228B0FF44D9EFB8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D251616451A8FFF"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_matt"
+				criterion: ""
+				id: "40007A64970BBD03"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 10.964285714285715d
+		}
+		{
+			dependencies: ["228B0FF44D9EFB8F"]
+			id: "0C997B3AE2E3906C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "395D3FEB3E2D38D8"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_shelly"
+				criterion: ""
+				id: "40CD948B6A902983"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 10.964285714285715d
+		}
+		{
+			dependencies: ["0C997B3AE2E3906C"]
+			id: "6C80392E1736FE46"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "26D8FF4BFE9DC6FD"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_leader_archie"
+				criterion: ""
+				id: "579199B4412377B9"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 10.964285714285715d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2589B379F20B8F80"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "689995B943E3BC98"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_katy"
+				criterion: ""
+				id: "3A35EBFCCAB68AC1"
+				type: "advancement"
+			}]
+			x: 8.321428571428584d
+			y: 23.0d
+		}
+		{
+			dependencies: ["2589B379F20B8F80"]
+			id: "44DAD6B6D2ED3ABE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FAC7A29255436C4"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_brassius"
+				criterion: ""
+				id: "1775D531CC9DED01"
+				type: "advancement"
+			}]
+			x: 9.821428571428584d
+			y: 23.0d
+		}
+		{
+			dependencies: ["44DAD6B6D2ED3ABE"]
+			id: "6D72D135DA5A161F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AD29D0F7FE7A656"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_iono"
+				criterion: ""
+				id: "2A07842EFB05E886"
+				type: "advancement"
+			}]
+			x: 11.321428571428584d
+			y: 23.0d
+		}
+		{
+			dependencies: ["6D72D135DA5A161F"]
+			id: "3FDF7F05BCB5BBAC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1835F3113E3C6DEB"
+				table_id: 6023277112220077259L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_kofu"
+				criterion: ""
+				id: "48A55BC2D4E918B1"
+				type: "advancement"
+			}]
+			x: 12.821428571428584d
+			y: 23.0d
+		}
+		{
+			dependencies: ["3FDF7F05BCB5BBAC"]
+			id: "5518B2F365F88973"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "089C7A666D0AE366"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_larry"
+				criterion: ""
+				id: "192D57E2F0AA30E0"
+				type: "advancement"
+			}]
+			x: 8.321428571428584d
+			y: 24.5d
+		}
+		{
+			dependencies: ["5518B2F365F88973"]
+			id: "550C209EFC0E5633"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62A06368EECCCB9B"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_ryme"
+				criterion: ""
+				id: "312CC3B1A01686CF"
+				type: "advancement"
+			}]
+			x: 9.821428571428584d
+			y: 24.5d
+		}
+		{
+			dependencies: ["550C209EFC0E5633"]
+			id: "7B5FA6AE8A0EB987"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "718DF59F0E0F4CB8"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_tulip"
+				criterion: ""
+				id: "5D954C1CE5C615A2"
+				type: "advancement"
+			}]
+			x: 11.321428571428584d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7B5FA6AE8A0EB987"]
+			id: "23E6E2B684668025"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "269E404781EC05BD"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldealeader_grusha"
+				criterion: ""
+				id: "4E385F3C593193B4"
+				type: "advancement"
+			}]
+			x: 12.821428571428584d
+			y: 24.5d
+		}
+		{
+			dependencies: ["23E6E2B684668025"]
+			id: "3E49E14350481944"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A6DDFB80A2CEF4A"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldeachampion_geeta"
+				criterion: ""
+				id: "4F0472B056AF159B"
+				type: "advancement"
+			}]
+			x: 10.607142857142868d
+			y: 26.107142857142875d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "72939EDA3489CBA8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04FA805C60659AE3"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "40705F75644F8A35"
+				item: { count: 1, id: "cobblemonparts:masterwork_blueprint" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"2BD82237222F42B6"
+				"72939EDA3489CBA8"
+			]
+			id: "2F7167AFDCDF3DBC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38DA8B4F93AB22FA"
+				table_id: 354101158214531596L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "52643DBC03981207"
+				item: { count: 1, id: "cobblemonparts:master_worked_metal" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["222C9B14E10E8E98"]
+			hide_dependency_lines: true
+			id: "2BD82237222F42B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79832882C7C2B42D"
+				table_id: 6168209418652817445L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2A8F29DD0C9C38A2"
+				item: { count: 1, id: "cobblemonparts:ambiguous_shard" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 9.0d
 		}
 	]
 }

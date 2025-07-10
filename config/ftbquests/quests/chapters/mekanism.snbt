@@ -11,7 +11,7 @@
 	images: [
 		{
 			height: 7.0d
-			image: "ccextras:textures/thermal_evaporation_plant.png"
+			image: "mcc:textures/thermal_evaporation_plant.png"
 			rotation: 0.0d
 			width: 14.0d
 			x: -10.5d
@@ -19,7 +19,7 @@
 		}
 		{
 			height: 7.0d
-			image: "ccextras:textures/induction_matrix.png"
+			image: "mcc:textures/induction_matrix.png"
 			rotation: 0.0d
 			width: 14.0d
 			x: -10.5d
@@ -27,7 +27,7 @@
 		}
 		{
 			height: 5.0d
-			image: "ccextras:textures/fission_reactor_mininimum.png"
+			image: "mcc:textures/fission_reactor_mininimum.png"
 			rotation: 0.0d
 			width: 10.0d
 			x: 6.0d
@@ -35,7 +35,7 @@
 		}
 		{
 			height: 8.0d
-			image: "ccextras:textures/fission_reactor.png"
+			image: "mcc:textures/fission_reactor.png"
 			rotation: 0.0d
 			width: 16.0d
 			x: 6.0d
@@ -43,7 +43,7 @@
 		}
 		{
 			height: 10.0d
-			image: "ccextras:textures/turbine.png"
+			image: "mcc:textures/turbine.png"
 			rotation: 0.0d
 			width: 20.0d
 			x: 13.32142857142857d
@@ -51,7 +51,7 @@
 		}
 		{
 			height: 7.0d
-			image: "ccextras:textures/fusion_reactor.png"
+			image: "mcc:textures/fusion_reactor.png"
 			rotation: 0.0d
 			width: 14.0d
 			x: -8.5d
@@ -59,7 +59,7 @@
 		}
 		{
 			height: 8.0d
-			image: "ccextras:textures/sps.png"
+			image: "mcc:textures/sps.png"
 			rotation: 0.0d
 			width: 16.0d
 			x: 2.5d
@@ -67,7 +67,7 @@
 		}
 		{
 			height: 4.0d
-			image: "ccextras:textures/mekanism.png"
+			image: "mcc:textures/mekanism.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: 0.0d
@@ -78,6 +78,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			icon: {
 				id: "mekanism:ingot_osmium"

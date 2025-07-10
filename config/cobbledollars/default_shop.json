@@ -281,6 +281,10 @@
         {
           "item": "brendons_bottlecaps:hpsilvercap",
           "price": 200000
+        },
+        {
+          "item": "mega_showdown:max_mushroom",
+          "price": 80000
         }
       ]
     },

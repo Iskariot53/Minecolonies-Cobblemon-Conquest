@@ -48,11 +48,16 @@
 			"maxEnergyInsertion": 256,
 			"maxEnergyExtraction": 0,
 			"energyPerTick": 32
+		},
+		"refineryData": {
+			"energyCapacity": 50000,
+			"maxEnergyInsertion": 512,
+			"maxEnergyExtraction": 0,
+			"energyPerTick": 64
 		}
 	},
 	"generators": {
 		"animationSpeedMultiplier": 10.0,
-		"rfToSteamRation": 2.0,
 		"basicGeneratorData": {
 			"energyCapacity": 50000,
 			"maxEnergyInsertion": 0,
@@ -79,9 +84,11 @@
 		},
 		"steamEngineData": {
 			"energyCapacity": 100000,
-			"maxEnergyInsertion": 0,
 			"maxEnergyExtraction": 10000,
-			"energyPerTick": 1
+			"rfToSteamRatio": 2.0,
+			"steamToRfRatio": 1,
+			"stopOnEnergyFull": false,
+			"stopOnWaterFull": true
 		},
 		"solarGeneratorData": {
 			"energyCapacity": 100000,
@@ -196,6 +203,22 @@
 		"energyUsage": 10,
 		"chargeSpeed": 512
 	},
+	"electricMace": {
+		"energyCapacity": 500000,
+		"energyUsage": 2048,
+		"chargeSpeed": 50000,
+		"baseDamage": 8,
+		"lightningCostMultiplier": 8
+	},
+	"portableLaserConfig": {
+		"energyCapacity": 5000000,
+		"energyPerTick": 4096,
+		"energyPerBoom": 100000,
+		"blockBreakSpeed": 0.125,
+		"damageBase": 4,
+		"explosionStrength": 6
+	},
+	"chainsawTreeCutting": true,
 	"generateOres": true,
 	"easyFindFeatures": true,
 	"safeMode": false,
@@ -209,6 +232,7 @@
 	"ventRelativeRate": 100,
 	"maxHeat": 2000,
 	"maxUnstableTicks": 400,
+	"boringNukes": false,
 	"enchanterCostMultiplier": 5,
 	"catalystBaseSouls": 50,
 	"catalystRFPerSoul": 20,
@@ -216,8 +240,9 @@
 	"catalystHyperMultiplier": 2,
 	"spawnerCostMultiplier": 1,
 	"maxGateDist": 10,
-	"bendFactor": 3,
+	"bendFactor": 3.0,
 	"accelerationRFCost": 10,
+	"acceleratorMotorRFCapacity": 5000000,
 	"endPortalRequiredSpeed": 10000,
 	"netherPortalRequiredSpeed": 5000,
 	"blackHoleRequiredSpeed": 15000,
@@ -227,8 +252,12 @@
 	"pullRange": 16,
 	"idleWaitTicks": 200,
 	"blackHoleTachyonEnergy": 50000,
+	"unstableContainerBaseCapacity": 20000000,
+	"augmenterMaxEnergy": 500000000,
 	"tightMachineAddonHitboxes": true,
 	"tightMachineFrameHitboxes": false,
 	"tightCableHitboxes": true,
-	"machineVolumeMultiplier": 1.0
+	"machineVolumeMultiplier": 1.0,
+	"showMachinePreview": true,
+	"enableHelpButton": true
 }

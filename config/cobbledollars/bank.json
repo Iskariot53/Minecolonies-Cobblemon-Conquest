@@ -27,6 +27,82 @@
     {
       "item": "brendons_bottlecaps:goldencap",
       "price": 175000
+    },
+	{
+      "item": "cobblemon:master_ball",
+      "price": 75000
+    },
+	{
+      "item": "cobblemon:normal_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:fire_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:water_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:grass_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:electric_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:ice_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:fighting_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:poison_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:ground_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:flying_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:psychic_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:bug_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:rock_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:ghost_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:dragon_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:dark_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:steel_gem",
+      "price": 3000
+    },
+    {
+      "item": "cobblemon:fairy_gem",
+      "price": 3000
     }
   ]
 }

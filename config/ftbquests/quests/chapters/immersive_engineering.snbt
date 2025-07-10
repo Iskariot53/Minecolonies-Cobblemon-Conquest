@@ -11,7 +11,7 @@
 	id: "43FC55A0E4E3627E"
 	images: [{
 		height: 5.0d
-		image: "ccextras:textures/immersive-engineering.png"
+		image: "mcc:textures/immersive-engineering.png"
 		rotation: 0.0d
 		width: 16.0d
 		x: 0.0d
@@ -105,7 +105,10 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5E7DA0CA5946108C"]
+			dependencies: [
+				"5E7DA0CA5946108C"
+				"115C00CF2B14B52C"
+			]
 			id: "177356502AE1B924"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -153,7 +156,7 @@
 				item: { count: 1, id: "immersiveengineering:workbench" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: -2.5d
 			y: 6.5d
 		}
 		{
@@ -185,13 +188,14 @@
 				table_id: 4714456621026228993L
 				type: "loot"
 			}]
+			size: 1.5d
 			tasks: [{
 				id: "34776C54574A66D0"
 				item: { count: 1, id: "immersiveengineering:cloche" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 7.0d
+			x: -2.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["051BE464085D88A3"]
@@ -207,8 +211,8 @@
 				item: { count: 1, id: "immersiveengineering:light_bulb" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 6.5d
+			x: -3.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["051BE464085D88A3"]
@@ -224,8 +228,8 @@
 				item: { count: 1, id: "immersiveengineering:component_iron" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 7.5d
+			x: -2.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["6A689230C3DAA15F"]
@@ -265,7 +269,7 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: 2.5d
 			y: 6.5d
 		}
 		{
@@ -282,7 +286,7 @@
 				item: { count: 1, id: "immersiveengineering:mold_wire" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: 8.0d
 		}
 		{
@@ -299,7 +303,7 @@
 				item: { count: 1, id: "tmtceic:mold_pokeball_frame" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: 7.5d
 		}
 		{
@@ -316,8 +320,542 @@
 				item: { count: 1, id: "immersiveengineering:mold_plate" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 4.0d
 			y: 6.5d
+		}
+		{
+			dependencies: ["30D8B0E74DAED1A7"]
+			id: "3F5BCA61AD7EA94B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7352D9E403962791"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_improvedblastfurnace"
+				criterion: ""
+				id: "577FAC944B9B6760"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5592A456607A4D3D"]
+			id: "529CC0F5C0BDCEC2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CC264AAC712E051"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_excavator"
+				criterion: ""
+				id: "68DCAC7BC2B45894"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3F5BCA61AD7EA94B"]
+			id: "55A9B31DFC72EF51"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AA132BB6BB5FA7A"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_arcfurnace"
+				criterion: ""
+				id: "43E500DF0723FEC2"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["21EBE60B0AE03D5F"]
+			hide_dependency_lines: true
+			id: "30D8B0E74DAED1A7"
+			tasks: [{
+				id: "7034AC0EAED1E593"
+				type: "checkmark"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["30D8B0E74DAED1A7"]
+			id: "5592A456607A4D3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4767AC7C84F4A577"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_crusher"
+				criterion: ""
+				id: "4D0147FBE7E37B0D"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["30D8B0E74DAED1A7"]
+			id: "2A35C705654D3740"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04FB6CEE67F75CD1"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/craft_sheetmetal"
+				criterion: ""
+				id: "0A05869627245EC2"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2A35C705654D3740"]
+			id: "4DF6741545B56AF2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66FE99F470309E12"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_tank"
+				criterion: ""
+				id: "6796DBE581E4F7BC"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2A35C705654D3740"]
+			id: "6E429A2355447D79"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "143DC5CD0DC27B6C"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_silo"
+				criterion: ""
+				id: "3CF9D214480B02D9"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["30D8B0E74DAED1A7"]
+			id: "2ABE1EF9E54A554F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C6AD122FB71DE9D"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_squeezer"
+				criterion: ""
+				id: "481E2636478E5DBC"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2ABE1EF9E54A554F"]
+			id: "21B569AA8CE5C012"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "256EACF02324557E"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_fermenter"
+				criterion: ""
+				id: "5A607EBC19A04E0F"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["21B569AA8CE5C012"]
+			id: "4CDFFAA4F900A169"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51603EF23D6FBE2E"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_mixer"
+				criterion: ""
+				id: "6D3A886080D3DB1E"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["21B569AA8CE5C012"]
+			id: "42C80D0976448974"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "301EB5C22161A6F0"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_refinery"
+				criterion: ""
+				id: "1B1DE34CE2968002"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["42C80D0976448974"]
+			id: "04B40ADBC34786F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "101EBA7C657934BE"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_dieselgen"
+				criterion: ""
+				id: "683BB08ED15C3A8E"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "5D755842C77190EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "475F23B638A1851D"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_drill"
+				criterion: ""
+				id: "0F9698A48EF88555"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5D755842C77190EF"]
+			id: "2BCF41D9DE57B627"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3477CAF0A283FF03"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/upgrade_drill"
+				criterion: ""
+				id: "290013183972D998"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2BCF41D9DE57B627"]
+			id: "0E9196711689E3FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53966C4C9E67369F"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/secret_drillbreak"
+				criterion: ""
+				id: "6A4639652133B4AB"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "43FA456C786768BD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "575D205E0E41DE7F"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_powerpack"
+				criterion: ""
+				id: "77C0359B0BE0EEF0"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["43FA456C786768BD"]
+			id: "2663A3D3CA0E33D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F6BD1116F17376C"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/upgrade_powerpack"
+				criterion: ""
+				id: "3325F168346FC120"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2663A3D3CA0E33D3"]
+			id: "739070C16B93A57F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "778E3056BA243464"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/secret_bttf"
+				criterion: ""
+				id: "3D1030DF9AF5F801"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "40A7548B51B42142"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68D1E526892D3460"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5647FDD6A5FD828F"
+				item: { count: 1, id: "immersiveengineering:skyhook" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "0FD55B9ADFD83247"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63510DBA59B45E71"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_buzzsaw"
+				criterion: ""
+				id: "3440AD26720BA779"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0FD55B9ADFD83247"]
+			id: "0A46A5457BF658BA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B9439435AA1762D"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/upgrade_buzzsaw"
+				criterion: ""
+				id: "4C236363FBBCC0F2"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "0C6C61B9BBC08F04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "529725B91350819C"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_revolver"
+				criterion: ""
+				id: "6C8DC692EF02816B"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["051BE464085D88A3"]
+			id: "71202542A4487393"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0989BCF8719CAD78"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_railgun"
+				criterion: ""
+				id: "5A81616FDDB968F0"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0C6C61B9BBC08F04"]
+			id: "2C32B13C201A3C12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E78D2BDA6C9673D"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/craft_wolfpack"
+				criterion: ""
+				id: "29D294BF1D730F5B"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0C6C61B9BBC08F04"]
+			id: "295D1A6D6FA719F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C619324C0488BCE"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/upgrade_revolver"
+				criterion: ""
+				id: "0B57D805BB0D9C5F"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["71202542A4487393"]
+			id: "6BA7CB2630D12BCF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C6B5975B5D02B6F"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/upgrade_railgun"
+				criterion: ""
+				id: "0B62CA0F135F3455"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6BA7CB2630D12BCF"]
+			id: "072F94D373B1BF4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "070BF8EB323F2001"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:tools/secret_ravenholm"
+				criterion: ""
+				id: "1E384D1B1B07E5C5"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"30D8B0E74DAED1A7"
+				"5E7DA0CA5946108C"
+			]
+			id: "28BC54AFCD1ED504"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3078F4700EE02DC6"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "immersiveengineering:main/mb_cokeoven"
+				criterion: ""
+				id: "44D4AAE5F29963B4"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28BC54AFCD1ED504"]
+			id: "115C00CF2B14B52C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A19918074D00107"
+				table_id: 4714456621026228993L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1A9C7C5DD46C98B1"
+				item: { count: 1, id: "immersiveengineering:creosote_bucket" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
 		}
 	]
 }

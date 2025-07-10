@@ -1,20 +1,25 @@
 {
+  "announceDespawnPlayer": true,
   "broadcastShiny": true,
   "broadcastCoords": true,
   "broadcastBiome": false,
   "playShinySound": true,
   "playShinySoundPlayer": true,
   "announceCrossDimensions": false,
-  "broadcastDespawns": false,
+  "broadcastCaptures": true,
+  "broadcastFaints": true,
   "broadcastVolatileDespawns": false,
   "broadcastSpeciesName": true,
   "broadcastPlayerSpawnedOn": false,
+  "disableWaypoints": false,
   "broadcastRange": -1,
   "playerLimit": -1,
   "labelsForBroadcast": [
     "legendary"
   ],
   "bucketsForBroadcast": [],
+  "blacklistForBroadcast": [],
+  "blacklistForBroadcastEvenIfShiny": [],
   "formatting": {
     "label.legendary": "LIGHT_PURPLE",
     "bucket.ultra-rare": "AQUA",

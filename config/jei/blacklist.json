@@ -771,7 +771,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thundershock"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thunderpunch"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thunderouskick"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thunderclap"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thundercage"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thunderbolt"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tm_thunder"},"type":"item_stack"}},
@@ -1681,7 +1680,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thunder"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thunderbolt"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thundercage"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thunderclap"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thunderfang"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thunderouskick"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_thousandarrows"},"type":"item_stack"}},
@@ -1868,11 +1866,12 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"smallships:twilightforest_twilight_oak_galley"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"smallships:twilightforest_twilight_oak_drakkar"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"smallships:aether_skyroot_cog"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"twilightforest:uncrafting_table"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"cobbleloots:loot_ball"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"create:creative_fluid_tank"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"create:handheld_worldshaper"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"create:creative_crate"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"create:creative_blaze_cake"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"modularrouters:creative_module"},"type":"item_stack"}}
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"modularrouters:creative_module"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"pipez:infinity_upgrade"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"createaddition:creative_energy"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"tempad:creative_chronometer"},"type":"item_stack"}}
 ]

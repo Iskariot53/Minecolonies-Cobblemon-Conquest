@@ -13,7 +13,7 @@
 		{
 			dependency: "06F6FB4557C2EFCB"
 			height: 4.0d
-			image: "ccextras:textures/toms_auto_sorting.png"
+			image: "mcc:textures/toms_auto_sorting.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: 13.0d
@@ -21,7 +21,7 @@
 		}
 		{
 			height: 5.0d
-			image: "ccextras:textures/tom-s-simple-storage.png"
+			image: "mcc:textures/tom-s-simple-storage.png"
 			rotation: 0.0d
 			width: 16.0d
 			x: 6.5d

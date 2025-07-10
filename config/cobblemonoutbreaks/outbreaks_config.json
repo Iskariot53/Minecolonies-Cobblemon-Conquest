@@ -12,11 +12,11 @@
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,
     "portal_spawn_choice": "per_player",
-    "per_player_outbreak_timer": 180000,
-    "random_outbreak_timer": 120000
+    "per_player_outbreak_timer": 36000,
+    "random_outbreak_timer": 72000
   },
   "shiny_config": {
-    "shiny_chance": 1024.0
+    "shiny_chance": 512.0
   },
   "general": {
     "outbreak_spawn_rewards": true,

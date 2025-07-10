@@ -63,6 +63,8 @@
 	],
 	// The aggression multiplier for natures above.
 	"more_peaceful_nature_multiplier": -2.0,
+	// If the behavior data will work?(Still W.I.P, not avialable yet)
+	"enable_datapack_driven_behavior": true,
 	// Forms that will always be aggressive
 	"always_aggro_aspects": [
 		"alolan"
@@ -109,6 +111,10 @@
 	"do_pokemon_defend_owner": true,
 	// Do player Pokemon defend their owners proactively? (follows the same rules as Iron Golems!!!)
 	"do_pokemon_defend_proactive": true,
+	// 0 zero means follow the same rule as Iron Golem. 1 means ignores neutral mobs that are not aiming at the player.
+	"pokemon_proactive_level": 1,
+	// The enemy detection radius for the pokemon to defend its owner.
+	"pokemon_defend_proactive_radius": 8.0,
 	// Do player Pokemon defend their owners from Creepers proactively?(Iron Golems won't attack Creeper proactively.
 	"do_pokemon_defend_creeper_proactive": false,
 	// Can player Pokemon target other players? (EXPERIMENTAL)
@@ -177,7 +183,7 @@
 	"minimum_melee_attack_interval": 1.0,
 	// The maximum time between pokemons melee attacks. In seconds.
 	"maximum_melee_attack_interval": 3.0,
-	// Minimum damage wild pokemon will do with ranged attacks
+	// Minimum damage wild pokemon would do with ranged attacks
 	"minimum_ranged_attack_damage": 1.0,
 	// Maximum damage wild pokemon would do with ranged attacks
 	"maximum_ranged_attack_damage": 50.0,
@@ -224,5 +230,7 @@
 	// HP stat needed to get maximum HP outside standard pokemon battle. The max hp of a Blissey is 714.
 	"max_HP_required_stat": 500,
 	// The Pokemon stays still after finishing the move command.
-	"stay_after_move_command": true
+	"stay_after_move_command": true,
+	// If the player need to hold a Poke Staff to use the command keybind
+	"should_check_poke_staff": true
 }

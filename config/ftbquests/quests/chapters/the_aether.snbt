@@ -3,8 +3,725 @@
 	default_quest_shape: ""
 	filename: "the_aether"
 	group: "2D51A79A011E57C1"
+	icon: {
+		id: "deep_aether:sun_core"
+	}
 	id: "1DD15B36AC80A7A5"
+	images: [
+		{
+			height: 4.0d
+			image: "aether:item/miscellaneous/aether_portal_frame"
+			rotation: 0.0d
+			width: 4.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "aether:block/miscellaneous/aether_portal"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 4.0d
+			image: "mcc:textures/the_aether.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 1.0d
+			y: -6.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			id: "5888DE243650135E"
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "18624798F81AE083"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5888DE243650135E"]
+			id: "303A967311EDE94C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19657C2EA448894C"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50B7C127CE326075"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "22F9ABC41D7A2BBA"
+				item: { count: 1, id: "aether:zanite_gemstone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["303A967311EDE94C"]
+			id: "5380C4E7728B6C91"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4A3CF4745F791260"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0459BF7DF7E4A605"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "42A7601974C75F89"
+				item: { count: 1, id: "aether:altar" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5380C4E7728B6C91"]
+			id: "2999CDCCF71DD600"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A5311FC213FE597"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "188C3B500FA78F4E"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "5B29FC32F0EDA107"
+				item: { count: 1, id: "aether:enchanted_gravitite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2999CDCCF71DD600"]
+			id: "24A854ACF67A1E2D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60922A21091BDAB2"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D2F5C3C474D4407"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:gravitite_armor"
+				criterion: ""
+				id: "3428D44654B1C848"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"24A854ACF67A1E2D"
+				"79C898659FF3D75A"
+			]
+			id: "49F6D9EDDD2AC3CF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "256B30620739885B"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A72BEA24471B09D"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "deep_aether:stratus_armor"
+				criterion: ""
+				id: "52EF44618B880E27"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2999CDCCF71DD600"]
+			id: "79C898659FF3D75A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4065A79D00D5E0C8"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A28BF17CCE4E00D"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "504E36B4A0841BCE"
+				item: { count: 1, id: "deep_aether:stratus_ingot" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5380C4E7728B6C91"]
+			id: "65E2FC8F97E67B93"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "047CADE464099C8E"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0226F1E4545DE887"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:bronze_dungeon"
+				criterion: ""
+				id: "33B65182FA1F0705"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["65E2FC8F97E67B93"]
+			id: "4919B6B0995D6092"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AC4F2BA0DB3EFAC"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1976185AA4983874"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:hammer_loot"
+				criterion: ""
+				id: "425588E57C0D473A"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["65E2FC8F97E67B93"]
+			id: "43BAA3B7D7839C3D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B69D450CEFEBF0A"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44CBC09AA1C25306"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:lance_loot"
+				criterion: ""
+				id: "29729043DE736F54"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["43BAA3B7D7839C3D"]
+			id: "2D39E7FA50C2CB08"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "08B33DEB8A8E2CD2"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B991FA7EBC450CD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:silver_dungeon"
+				criterion: ""
+				id: "1D13986C3396C7C8"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "0B27108E7BE7DE33"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BE5FF718F8510C7"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30451BEF2CD8F3AF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "616C00526FA72817"
+				item: { count: 1, id: "aether:valkyrie_helmet" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "7EE6463C2946ABDC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A474F169F9D89EC"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "54F4B7DAA764222B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "14C649C4C2CC1D82"
+				item: { count: 1, id: "aether:valkyrie_chestplate" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "2FB8449D86862A5A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2B4EE82064213F1F"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "591099226F06320D"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "7E8817D133AAED1B"
+				item: { count: 1, id: "aether:valkyrie_leggings" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "47B6C3FACCEF2DC4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "25113127BCBF66CF"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "502F2E916BE0FC17"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "54213A8EE8077550"
+				item: { count: 1, id: "aether:valkyrie_boots" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "64F517F758847C50"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C726E9B45EBF7AE"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73098F5BA6A9C040"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3D7B96E5A67A6279"
+				item: { count: 1, id: "aether:valkyrie_gloves" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "78D8DB9123C10BC1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "23C942312A402F18"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2516F68D6ED82F49"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "6AF0D80175843F03"
+				item: { count: 1, id: "aether:valkyrie_cape" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "3259F770ACC8B63B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51E901AED62067B4"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6092A7B2780C1FDA"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:valkyrie_hoe"
+				criterion: ""
+				id: "5CECB4D07743ADE9"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2D39E7FA50C2CB08"]
+			id: "4B63759E555F2946"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0059D3CA3B0570A5"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B6D6060360EB96A"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "2EA664C5B863339E"
+				item: { count: 1, id: "aether:regeneration_stone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4B63759E555F2946"]
+			id: "400692BBCCA73100"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "430B5DCA1738501F"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "745BEFAE7AE823B1"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "aether:gold_dungeon"
+				criterion: ""
+				id: "197E3CB713E2E6DA"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "3D8BF8264390A0AD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "452ACB0083D4DFE5"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17A838DF2FEE9F1D"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "68F9FA57A571659C"
+				item: { count: 1, id: "aether:phoenix_helmet" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "009919BC54ADF75A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "658B860363022F24"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78FBF2CEC7721E00"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "595FF247487945A3"
+				item: { count: 1, id: "aether:phoenix_chestplate" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "2EBBF9242B6B8B3B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3805CA8AB3F82DD4"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C3AC802558AB1D2"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "1D8088EEE0D41F78"
+				item: { count: 1, id: "aether:phoenix_leggings" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "70A09FD217BB2840"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "11AF19B7CDF41390"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D2A91D506B7AEBA"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "29313CC10E519C28"
+				item: { count: 1, id: "aether:phoenix_boots" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "0607DE029E09BADA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A187F9E46C100B3"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CD304711DEF78C8"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "096CBD93049098E3"
+				item: { count: 1, id: "aether:phoenix_gloves" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "1979909709DE2135"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F3E4F9AF1F4B1C1"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C512093AE9CDA6C"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3D186341D5580426"
+				item: { count: 1, id: "aether:phoenix_bow" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["400692BBCCA73100"]
+			id: "2CA7DD0CAA9FE690"
+			rewards: [
+				{
+					count: 3
+					id: "66309B943B202236"
+					item: {
+						count: 1
+						id: "minecolonies:scroll_buff"
+					}
+					type: "item"
+				}
+				{
+					id: "2BD7BAD8AB0BBA09"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_origin_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "459D3D3B15CD8F94"
+					item: {
+						count: 1
+						id: "brendons_bottlecaps:goldencap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "aether:aether_sleep"
+				criterion: ""
+				id: "2054793E092F16A1"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+	]
 }

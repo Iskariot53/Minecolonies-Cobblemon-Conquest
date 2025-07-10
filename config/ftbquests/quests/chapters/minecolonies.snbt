@@ -20,7 +20,7 @@
 		}
 		{
 			height: 4.0d
-			image: "ccextras:textures/minecolonies.png"
+			image: "mcc:textures/minecolonies.png"
 			rotation: 0.0d
 			width: 12.0d
 			x: 0.1071428571428612d
@@ -240,7 +240,7 @@
 			id: "5DE1C3B17B55B4D1"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "52A3B23D007DEDD2"
+				id: "00A2F115D1852E83"
 				table_id: 6535411216744351324L
 				type: "loot"
 			}]
@@ -1139,6 +1139,17 @@
 			dependencies: ["7AA37760F9C6BA7D"]
 			hide_dependency_lines: true
 			id: "2B84931E84D9FEDF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22F3AFAF809D75EB"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7DEAD8F2C6AA7E21"
+				item: { count: 1, id: "colony4cc:colony_peripheral" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 9.0d
 		}
@@ -1178,6 +1189,24 @@
 			dependencies: ["505CB5D419E6E4AF"]
 			id: "05B069F1635948FB"
 			min_width: 400
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B6ED82085A0E36A"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "5D2F2ABB30B85879"
+					item: { count: 1, id: "advancedperipherals:me_bridge" }
+					type: "item"
+				}
+				{
+					id: "13BB3FEDA1033B1E"
+					item: { count: 1, id: "advancedperipherals:colony_integrator" }
+					type: "item"
+				}
+			]
 			x: 8.0d
 			y: 10.5d
 		}
@@ -1197,6 +1226,17 @@
 		{
 			dependencies: ["2B84931E84D9FEDF"]
 			id: "6754AD270F2F4BD5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62BA02ED72578FB6"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5BC7235ABA66F158"
+				item: { count: 1, id: "colony4cc:colony_wireless_normal" }
+				type: "item"
+			}]
 			x: 6.5d
 			y: 9.0d
 		}

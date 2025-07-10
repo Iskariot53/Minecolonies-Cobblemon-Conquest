@@ -11,7 +11,7 @@
 	id: "08CE67C453CF05CC"
 	images: [{
 		height: 3.0d
-		image: "ccextras:textures/oritech.png"
+		image: "mcc:textures/oritech.png"
 		rotation: 0.0d
 		width: 9.0d
 		x: -1.1785714285714306d
@@ -866,6 +866,23 @@
 			}]
 			x: -1.4285714285714306d
 			y: -7.928571428571438d
+		}
+		{
+			dependencies: [
+				"6DB899AD90BA263C"
+				"2FA0F6A8A7F2E240"
+				"0FD6321D342813CE"
+			]
+			hide_dependency_lines: true
+			id: "6B0B8C799C01E847"
+			size: 2.0d
+			tasks: [{
+				id: "2241628C8373B180"
+				item: { count: 1, id: "oritech:enchantment_catalyst_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
 		}
 	]
 }

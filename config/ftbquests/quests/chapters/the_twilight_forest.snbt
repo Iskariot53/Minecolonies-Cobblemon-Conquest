@@ -9,6 +9,14 @@
 		id: "twilightforest:twilight_portal_miniature_structure"
 	}
 	id: "683B6A4D65B65D19"
+	images: [{
+		height: 5.0d
+		image: "mcc:textures/twilight_forest.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: -0.5d
+		y: -13.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -125,7 +133,7 @@
 				value: 1L
 			}]
 			x: -1.0d
-			y: -5.0d
+			y: -5.214285714285715d
 		}
 		{
 			dependencies: ["0CDBF9C116B9F573"]

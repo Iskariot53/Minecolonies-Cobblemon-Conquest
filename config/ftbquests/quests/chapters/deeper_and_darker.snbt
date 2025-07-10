@@ -1,10 +1,718 @@
 {
+	autofocus_id: "07B6E0D563D68B7B"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "deeper_and_darker"
 	group: "2D51A79A011E57C1"
+	icon: {
+		id: "deeperdarker:soul_elytra"
+	}
 	id: "181583F6F00E32D3"
+	images: [
+		{
+			height: 3.0d
+			image: "deeperdarker:block/otherside_portal"
+			rotation: 0.0d
+			width: 8.0d
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			height: 5.0d
+			image: "mcc:textures/deeper_and_darker.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: -1.5d
+			y: -8.5d
+		}
+	]
 	order_index: 3
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["704FD1152464AD1B"]
+			hide_until_deps_complete: true
+			id: "258415D7EE6AC489"
+			rewards: [
+				{
+					count: 2
+					id: "695C74302BADD47A"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "797E0C9375335AEC"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61EDC5CCE4C5FDBD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "66AAADC37009595A"
+					item: { count: 1, id: "deeperdarker:heart_of_the_deep" }
+					type: "item"
+				}
+				{
+					id: "1485CC285E9DCE69"
+					item: { count: 1, id: "deeperdarker:warden_carapace" }
+					type: "item"
+				}
+				{
+					id: "75CEA26E5F43FE6F"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["258415D7EE6AC489"]
+			id: "07B6E0D563D68B7B"
+			rewards: [
+				{
+					count: 2
+					id: "7BEB01DD88B76358"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70CE57A17E9B770A"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "407D24DD151A4CB5"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "deeperdarker:main/enter_otherside"
+				criterion: ""
+				id: "67CDECFF8C17BEC8"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["258415D7EE6AC489"]
+			id: "0B443B43E4D59AC2"
+			rewards: [
+				{
+					count: 2
+					id: "708BA5C6E4C69FF3"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DB453BF9E188946"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "145845A8EEA6F9B3"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "deeperdarker:main/obtain_reinforced_echo_shard"
+				criterion: ""
+				id: "4D8985FF330402C0"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C9428D558A18865"]
+			id: "169A7960FD5096E2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2138EAF374B5127B"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "31404F1C5E47F1DF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "4D48C3CE9CD4E43A"
+				item: { count: 1, id: "create_deep_dark:echo_armor_helmet" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1C9428D558A18865"]
+			id: "3EE52C0078B1039C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "158AFBD74CCFC234"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "369ABF88B13B6B94"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "20F79EE3A03130BC"
+				item: { count: 1, id: "create_deep_dark:echo_armor_chestplate" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1C9428D558A18865"]
+			id: "29678ACD6A10421E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3AE91B3A40C2982E"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61DEF0DAEEE3F5A8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "28F60CD90D33AF23"
+				item: { count: 1, id: "create_deep_dark:echo_armor_leggings" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C9428D558A18865"]
+			id: "46AB36D56A181DC9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67F73EF65DEA1EAF"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E661896B95D20F2"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "07CE3E8963ABB486"
+				item: { count: 1, id: "create_deep_dark:echo_armor_boots" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1C9428D558A18865"]
+			id: "0BEDE2CAAE120668"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E9C6B8F7BD04F3C"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "372BFC4068F4D2B4"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "448DDC76736196B5"
+				item: { count: 1, id: "create_deep_dark:echo_sword" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["258415D7EE6AC489"]
+			id: "1C9428D558A18865"
+			rewards: [
+				{
+					count: 2
+					id: "07B461D8543EAF6E"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34DBDF64AFD2E9A3"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7945B3CA8F47F5A0"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "743E3F1AB5C518CC"
+				item: { count: 1, id: "create_deep_dark:echo_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B443B43E4D59AC2"]
+			id: "18B57B5E721F69CC"
+			rewards: [
+				{
+					count: 2
+					id: "14486C5DD10FE5A8"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CB621FC1EF773AD"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "14EB8132ED3D0800"
+				item: { count: 1, id: "deeperdarker:warden_helmet" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0B443B43E4D59AC2"]
+			id: "7238CF5401D6F5F6"
+			rewards: [
+				{
+					count: 2
+					id: "637FE636F05AD1AD"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "38B68F452BC0B39C"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "5C4FB9CBBE46A8EB"
+				item: { count: 1, id: "deeperdarker:warden_chestplate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B443B43E4D59AC2"]
+			id: "5291487F5D94210D"
+			rewards: [
+				{
+					count: 2
+					id: "05CAC42BAECE4776"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F113A9378E5EEC9"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3A9268498D1CDCB1"
+				item: { count: 1, id: "deeperdarker:warden_leggings" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0B443B43E4D59AC2"]
+			id: "4A4381D8FD417066"
+			rewards: [
+				{
+					count: 2
+					id: "712E1494056E8E1A"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E6DFED3A707BADF"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3360FA435C4EA866"
+				item: { count: 1, id: "deeperdarker:warden_boots" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0B443B43E4D59AC2"]
+			id: "3F2AEC0EACEA9DF0"
+			rewards: [
+				{
+					count: 2
+					id: "0A795DBBEB9B5741"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66DA7E4E9FBC7BFB"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "062FA95D2F0BFEC4"
+				item: { count: 1, id: "deeperdarker:warden_sword" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["07B6E0D563D68B7B"]
+			id: "299D05F28A850C5D"
+			rewards: [
+				{
+					count: 2
+					id: "577AB7E9BAE27BDC"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "00CE90F2D9453336"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "423ECA6BC8A7F382"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "deeperdarker:main/find_ancient_temple"
+				criterion: ""
+				id: "3710B4DF0BC431A9"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["299D05F28A850C5D"]
+			id: "3E0FADE857DB0FD3"
+			rewards: [
+				{
+					count: 2
+					id: "04844A651CAEB35B"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AC9C7DF71042215"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "709B510B5692E730"
+				item: { count: 1, id: "deeperdarker:soul_elytra" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["299D05F28A850C5D"]
+			id: "0C4F6DA05C52758E"
+			rewards: [
+				{
+					count: 2
+					id: "7CB9F6072AF914A3"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C76273E8307ED33"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "2063DDCD291A33F0"
+				item: { count: 1, id: "deeperdarker:sonorous_staff" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+	]
 }

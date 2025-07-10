@@ -1,3 +1,6 @@
 {
-  "multiplier": 1.0
+  "inBattleExpMultiplier": 1.0,
+  "inBattleGrantEvs": false,
+  "outOfBattleExpMultiplier": 1.0,
+  "outOfBattleGrantEvs": false
 }

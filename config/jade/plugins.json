@@ -52,12 +52,23 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "tempad": {
+    "chronon": true,
+    "rudimentary": true,
+    "anchor": true,
+    "metronome": true,
+    "workstation": true,
+    "timedoor": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "mekanismcovers": {
+    "cover_component": true
   },
   "oritech": {
     "machine_core_controller": true
@@ -67,6 +78,9 @@
     "fossil_analyzer": true,
     "pokemon_entity": true,
     "berry_bush": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
   },
   "jade": {
     "coordinates.rel": false,

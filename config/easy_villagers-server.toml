@@ -56,7 +56,7 @@
 	# Range: > 1
 	sound_amount = 20
 	#If the trade cycling button should be enabled
-	trade_cycling = true
+	trade_cycling = false
 	#If the villager reputation should be the same for every player
 	#This affects the prices of cured/converted villagers and the prices of the auto trader
 	universal_reputation = true

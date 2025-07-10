@@ -10,7 +10,7 @@
 	id: "34633DCECF1920EB"
 	images: [{
 		height: 5.0d
-		image: "ccextras:textures/applied-energistics-2.png"
+		image: "mcc:textures/applied-energistics-2.png"
 		rotation: 0.0d
 		width: 16.0d
 		x: 0.0d
