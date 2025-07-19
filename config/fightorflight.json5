@@ -117,6 +117,8 @@
 	"pokemon_defend_proactive_radius": 8.0,
 	// Do player Pokemon defend their owners from Creepers proactively?(Iron Golems won't attack Creeper proactively.
 	"do_pokemon_defend_creeper_proactive": false,
+	// If the player's cat pokemon will attack the creeper proactively(LivelierPokemon required) 
+	"do_cat_pokemon_defend_creeper_proactive": true,
 	// Can player Pokemon target other players? (EXPERIMENTAL)
 	"do_player_pokemon_attack_other_players": false,
 	// Can player Pokemon target other player's Pokemon? (EXPERIMENTAL)
@@ -232,5 +234,11 @@
 	// The Pokemon stays still after finishing the move command.
 	"stay_after_move_command": true,
 	// If the player need to hold a Poke Staff to use the command keybind
-	"should_check_poke_staff": true
+	"should_check_poke_staff": true,
+	// If the pokemon can use held item(This config has the highest priority)
+	"can_use_held_item": true,
+	// If the pokemon can use damage-increasing held item
+	"can_use_held_item_damage_influencing": true,
+	// If the pokemon can use hp-restoring/damage-inflicting held item(Life Orb not included)
+	"can_use_held_item_hp_influencing": true
 }

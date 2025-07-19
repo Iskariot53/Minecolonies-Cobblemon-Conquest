@@ -20,7 +20,7 @@ dynamaxAnywhere = false
 powerSpotRange = 20
 #By how many times should the pokemon size increase when g/dmaxing
 # Default: 4
-# Range: 0 ~ 10000
+# Range: -10 ~ 10000
 dynamaxScaleFactor = 4
 # Enable/Disable loading of showdown files from the mod, 
 # note this means once you load the game and the showdown changes have been affected you disable
