@@ -1,0 +1,19 @@
+Minecolonies - Cobblemon Conquest -  1.4.4 Changelog
+
+
+
+
+Mods Updated
+
+
+
+- MoreCobblemonTweaks
+
+
+
+Changes
+
+
+- Resolves a crash that can occur when attempting to open the starter selection (or any cobblemon related) GUI.
+- Ammended lid recipes for: level, timer, safari, repeat, net, moon, luxury and lure ball lids.
+
