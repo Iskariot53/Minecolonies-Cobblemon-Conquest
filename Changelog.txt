@@ -1,19 +1,48 @@
-Minecolonies - Cobblemon Conquest -  1.4.4 Changelog
+Minecolonies - Cobblemon Conquest -  1.4.5 Changelog
 
 
+Updated to NeoForge 21.1.187
 
 
 Mods Updated
 
 
-
-- MoreCobblemonTweaks
+- Accessories
+- Almost Unified
+- Applied Energistics 2
+- Balm
+- Byzantine Styles Pack for Minecolonies
+- Cobblemon Fight or Flight Reborn
+- Cobblemon: Mega Showdown
+- Create
+- Create: Applied Kinetics
+- Create Crafts & Additions
+- Create: Deep Dark
+- Create Stock Bridge
+- FastFurnace
+- FastWorkbench
+- FTB Filter System
+- FTB Ultimine
+- Fusion
+- Glassential Renewed
+- Oritech
+- oωo
+- Placebo
+- Productive Bees
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Stylecolonies
+- Supplementaries
+- Waystones
 
 
 
 Changes
 
 
-- Resolves a crash that can occur when attempting to open the starter selection (or any cobblemon related) GUI.
-- Ammended lid recipes for: level, timer, safari, repeat, net, moon, luxury and lure ball lids.
+- Multiple major bugs with showdown resolved, indluing double battles issues and form changes.
+- Hyptertubes (especially larger pipe networks) should run more stable.
+- Tropical colony style added
+- Re-work of Oritech and it's internal network (If you use the mod frequently MAKE A BACKUP BEFORE UPDATING, although testing has gone well)
 
