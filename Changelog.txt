@@ -10,32 +10,42 @@ Mods Updated
 - Accessories
 - Almost Unified
 - Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
 - Balm
 - Byzantine Styles Pack for Minecolonies
 - Cobblemon Fight or Flight Reborn
+- CobbleFurnies
 - Cobblemon: Mega Showdown
 - Create
 - Create: Applied Kinetics
 - Create Crafts & Additions
 - Create: Deep Dark
+- Create: Hypertubes
 - Create Stock Bridge
+- Eternal Starlight
 - FastFurnace
 - FastWorkbench
 - FTB Filter System
 - FTB Ultimine
 - Fusion
 - Glassential Renewed
+- GuideME
+- MEGA Cells
 - Oritech
 - oωo
 - Placebo
+- Polymorph
 - Productive Bees
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
 - Stylecolonies
 - Supplementaries
+- Tom's Simple Storage Mod
+- Twilight's Flavors & Delight
+- Universal Enchants
+- WATERMeDIA: Multimedia API
 - Waystones
-
 
 
 Changes

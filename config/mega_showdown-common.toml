@@ -27,9 +27,19 @@ dynamaxScaleFactor = 4
 # this it will stop overwriting it ever load, this is for people who want to edit showdown 
 # but can't since mega showdown keeps overriding the files
 showdownFilesLoading = true
-#Disables pokemons from dropping tera shards
-disableTeraShardDrop = false
 #Enables/Disables dmax in game
 mega = true
 #Enable/Disable mega pokemons form reverting when battle starts
 revertMegas = true
+#Number of tera shards required to change tera type
+# Default: 50
+# Range: 1 ~ 50
+teraShardRequired = 50
+#Terashard drop rate
+# Default: 10.0
+# Range: -1.0 ~ 100.0
+teraShardDropRate = 10.0
+#Stellar tera drop rate
+# Default: 1.0
+# Range: -1.0 ~ 100.0
+stellarShardDropRate = 1.0
