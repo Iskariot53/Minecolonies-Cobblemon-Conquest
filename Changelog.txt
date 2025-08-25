@@ -1,18 +1,32 @@
 Minecolonies - Cobblemon Conquest -  1.4.5 Changelog
 
 
-Updated to NeoForge 21.1.187
+Updated to NeoForge 21.1.194
+
+
+Mods Removed
+
+
+- Artifacts
+- Relics
+- Relics: Artifacts Compat 
+
 
 
 Mods Updated
 
 
 - Accessories
+- AdvancedAE
+- Advanced Peripherals
 - Almost Unified
 - Applied Energistics 2
 - Applied Energistics 2 Wireless Terminals
+- BaguetteLib
 - Balm
 - Byzantine Styles Pack for Minecolonies
+- Cobblemon Capture XP
+- Cobblemon Challenge
 - Cobblemon Fight or Flight Reborn
 - CobbleFurnies
 - Cobblemon: Mega Showdown
@@ -31,14 +45,22 @@ Mods Updated
 - Glassential Renewed
 - GuideME
 - MEGA Cells
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Modular Routers
+- OctoLib
 - Oritech
 - oωo
+- Patchouli
 - Placebo
 - Polymorph
 - Productive Bees
+- Puzzles Lib
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
+- Structures Tweaker
 - Stylecolonies
 - Supplementaries
 - Tom's Simple Storage Mod
@@ -51,8 +73,8 @@ Mods Updated
 Changes
 
 
-- Multiple major bugs with showdown resolved, indluing double battles issues and form changes.
+- Multiple major bugs with showdown resolved, including double battles issues and form changes.
 - Hyptertubes (especially larger pipe networks) should run more stable.
-- Tropical colony style added
+- Tropical colony style added.
 - Re-work of Oritech and it's internal network (If you use the mod frequently MAKE A BACKUP BEFORE UPDATING, although testing has gone well)
 

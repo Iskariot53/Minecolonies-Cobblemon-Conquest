@@ -53,3 +53,7 @@ invLinkBeaconLvlSameDim = 1
 invLinkBeaconLvlCrossDim = 2
 #Use multithreading to improve performance
 runMultithreaded = true
+#Base tick cooldown for Basic Inventory Hopper item transfer
+# Default: 10
+# Range: 1 ~ 200
+basicHopperCooldown = 10
