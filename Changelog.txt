@@ -1,15 +1,19 @@
-Minecolonies - Cobblemon Conquest -  1.4.5 Changelog
+Minecolonies - Cobblemon Conquest -  1.5.0 Changelog
 
 
-Updated to NeoForge 21.1.194
+Updated to NeoForge 21.1.205
 
 
 Mods Removed
 
 
 - Artifacts
+- Immersive UI
 - Relics
-- Relics: Artifacts Compat 
+- Relics: Artifacts Compat
+- OctoLib
+- PKBadges
+- Universal Enchants
 
 
 
@@ -18,56 +22,66 @@ Mods Updated
 
 - Accessories
 - AdvancedAE
-- Advanced Peripherals
-- Almost Unified
+- The Aether
+- Amplified Nether
 - Applied Energistics 2
 - Applied Energistics 2 Wireless Terminals
 - BaguetteLib
 - Balm
+- Bookshelf
 - Byzantine Styles Pack for Minecolonies
 - Cobblemon Capture XP
 - Cobblemon Challenge
 - Cobblemon Fight or Flight Reborn
-- CobbleFurnies
-- Cobblemon: Mega Showdown
+- Cobblemon Spawn Notifications
+- Corpse x Curios API Compat
+- CraftTweaker
 - Create
 - Create: Applied Kinetics
 - Create Crafts & Additions
 - Create: Deep Dark
 - Create: Hypertubes
 - Create Stock Bridge
+- CreativeCore
+- Deep Aether
+- Default Options
 - Eternal Starlight
+- FancyMenu
 - FastFurnace
 - FastWorkbench
-- FTB Filter System
-- FTB Ultimine
+- Farmer's Delight
 - Fusion
 - Glassential Renewed
 - GuideME
+- Jade
+- KeyBind Bundles
 - MEGA Cells
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
+- ME Requester
+- MineColonies
 - Modular Routers
-- OctoLib
+- Moonlight Lib
+- MoreCobblemonTweaks
+- Nullscape
+- OctoLib <- the issue
 - Oritech
 - oωo
 - Patchouli
+- Ping Wheel
 - Placebo
 - Polymorph
 - Productive Bees
-- Puzzles Lib
-- Sophisticated Backpacks
 - Sophisticated Core
-- Sophisticated Storage
-- Structures Tweaker
 - Stylecolonies
 - Supplementaries
 - Tom's Simple Storage Mod
-- Twilight's Flavors & Delight
-- Universal Enchants
+- Underground Villages, Stoneholm
 - WATERMeDIA: Multimedia API
 - Waystones
+- Xaero's Minimap
+- Xaero's World Map
 
 
 Changes
@@ -77,4 +91,9 @@ Changes
 - Hyptertubes (especially larger pipe networks) should run more stable.
 - Tropical colony style added.
 - Re-work of Oritech and it's internal network (If you use the mod frequently MAKE A BACKUP BEFORE UPDATING, although testing has gone well)
-
+- Increased vault storage capacity to 64 stacks per block.
+- Slightly lowered overall pokemon spawn count.
+- Extended the duration between outbreaks.
+- Tweaked/fixed all recipes related to crafting balls (ex: issue causing seq. assembly recipes to always output lure balls, etc.)
+- eNaBlEd jEi cHeAt mOdE when Op'd or in creative, by default, alleviating isolated skill issues for inept players.
+- Changed default range of mechanical pumps to help provide more predictable logic, similar to pipes from other mods. Now reaching 256 blocks.

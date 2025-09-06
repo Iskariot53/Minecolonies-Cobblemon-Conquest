@@ -65,6 +65,10 @@
 	forceEnableFarmerBeeRightClickHarvest = false
 	#Enable april fools jokes
 	enableJokes = true
+	#Chance for MI quantum armor to not be effective against BeeBee.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	quantumArmorFailureChance = 0.1
 
 [Bees]
 	#Allow for bee simulation in hives using simulation upgrades. This will stop bees from exiting the hive and instead simulate a trip to flower blocks saving on performance.
