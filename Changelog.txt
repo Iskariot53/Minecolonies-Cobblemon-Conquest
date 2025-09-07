@@ -93,7 +93,8 @@ Changes
 - Re-work of Oritech and it's internal network (If you use the mod frequently MAKE A BACKUP BEFORE UPDATING, although testing has gone well)
 - Increased vault storage capacity to 64 stacks per block.
 - Slightly lowered overall pokemon spawn count.
-- Extended the duration between outbreaks.
+- Changed outbreaks time frame from 1 global timer with 1 additional timer, per player logged in to: 1 global + 1 singular timer for all players which chooses a random player to spawn an outbreak nearby, Extending the average duration between outbreaks while keeping them consistant across low and high populace servers.
 - Tweaked/fixed all recipes related to crafting balls (ex: issue causing seq. assembly recipes to always output lure balls, etc.)
 - eNaBlEd jEi cHeAt mOdE when Op'd or in creative, by default, alleviating isolated skill issues for inept players.
 - Changed default range of mechanical pumps to help provide more predictable logic, similar to pipes from other mods. Now reaching 256 blocks.
+- Fixed/removed issues with enchanting limitations for good.
