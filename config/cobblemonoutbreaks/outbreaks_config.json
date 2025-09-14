@@ -7,7 +7,7 @@
     "uncommon_outbreak_rarity": 30
   },
   "portal_spawning_config": {
-    "random_player_count": 2,
+    "random_player_count": 1,
     "outbreak_spawn_count": 1,
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,

@@ -1,19 +1,9 @@
-Minecolonies - Cobblemon Conquest -  1.5.0 Changelog
+Minecolonies - Cobblemon Conquest -  1.5.1 Changelog
 
 
-Updated to NeoForge 21.1.205
 
+Mods Added
 
-Mods Removed
-
-
-- Artifacts
-- Immersive UI
-- Relics
-- Relics: Artifacts Compat
-- OctoLib
-- PKBadges
-- Universal Enchants
 
 
 
@@ -21,80 +11,14 @@ Mods Updated
 
 
 - Accessories
-- AdvancedAE
-- The Aether
-- Amplified Nether
-- Applied Energistics 2
-- Applied Energistics 2 Wireless Terminals
-- BaguetteLib
-- Balm
-- Bookshelf
-- Byzantine Styles Pack for Minecolonies
-- Cobblemon Capture XP
-- Cobblemon Challenge
-- Cobblemon Fight or Flight Reborn
-- Cobblemon Spawn Notifications
-- Corpse x Curios API Compat
-- CraftTweaker
-- Create
-- Create: Applied Kinetics
-- Create Crafts & Additions
-- Create: Deep Dark
-- Create: Hypertubes
-- Create Stock Bridge
-- CreativeCore
-- Deep Aether
-- Default Options
-- Eternal Starlight
-- FancyMenu
-- FastFurnace
-- FastWorkbench
-- Farmer's Delight
-- Fusion
-- Glassential Renewed
-- GuideME
-- Jade
-- KeyBind Bundles
-- MEGA Cells
-- Mekanism
-- Mekanism Generators
-- Mekanism Tools
-- ME Requester
-- MineColonies
-- Modular Routers
-- Moonlight Lib
-- MoreCobblemonTweaks
-- Nullscape
-- OctoLib <- the issue
-- Oritech
-- oωo
-- Patchouli
-- Ping Wheel
-- Placebo
-- Polymorph
-- Productive Bees
-- Sophisticated Core
-- Stylecolonies
-- Supplementaries
-- Tom's Simple Storage Mod
-- Underground Villages, Stoneholm
-- WATERMeDIA: Multimedia API
-- Waystones
-- Xaero's Minimap
-- Xaero's World Map
+- Radical Cobblemon Trainers
+- Radical Cobblemon Trainers API
+- Sinytra Connector
 
 
 Changes
 
 
-- Multiple major bugs with showdown resolved, including double battles issues and form changes.
-- Hyptertubes (especially larger pipe networks) should run more stable.
-- Tropical colony style added.
-- Re-work of Oritech and it's internal network (If you use the mod frequently MAKE A BACKUP BEFORE UPDATING, although testing has gone well)
-- Increased vault storage capacity to 64 stacks per block.
-- Slightly lowered overall pokemon spawn count.
-- Changed outbreaks time frame from 1 global timer with 1 additional timer, per player logged in to: 1 global + 1 singular timer for all players which chooses a random player to spawn an outbreak nearby, Extending the average duration between outbreaks while keeping them consistant across low and high populace servers.
-- Tweaked/fixed all recipes related to crafting balls (ex: issue causing seq. assembly recipes to always output lure balls, etc.)
-- eNaBlEd jEi cHeAt mOdE when Op'd or in creative, by default, alleviating isolated skill issues for inept players.
-- Changed default range of mechanical pumps to help provide more predictable logic, similar to pipes from other mods. Now reaching 256 blocks.
-- Fixed/removed issues with enchanting limitations for good.
+- Fixed Anorith outbreaks not loading as well re-addressed higher tier evolutions spawning in outbreaks.
+- Found and fixed syntax errors within some of the additional series (primarily FrLg/HgSs).
+- Fixed issue causing excessive console spam on servers.
