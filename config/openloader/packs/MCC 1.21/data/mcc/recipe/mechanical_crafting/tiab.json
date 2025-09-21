@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "glassential:glass_ethereal"
+    },
+    "B": {
+      "item": "create:rotation_speed_controller"
+    },
+    "C": {
+      "item": "mekanism:alloy_reinforced"
+    },
+	"D": {
+      "item": "minecraft:clock"
+    }
+  },
+  "pattern": [
+    "AAAAA",
+    "ABCBA",
+    "ACDCA",
+    "ABCBA",
+    "AAAAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tiab:time_in_a_bottle"
+  },
+  "show_notification": false
+}

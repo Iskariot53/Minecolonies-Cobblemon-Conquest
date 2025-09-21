@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:echo_shard"
+    },
+	"C": {
+      "item": "cobblemonparts:iron_base"
+    },
+	"D": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "ADA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "cobblemonparts:beast_ball_base"
+  }
+}

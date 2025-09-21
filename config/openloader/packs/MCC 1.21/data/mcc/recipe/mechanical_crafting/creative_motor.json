@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "immersiveengineering:treated_wood_packaged"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "mekanism:alloy_atomic"
+    },
+	"D": {
+      "item": "create:factory_gauge"
+    },
+	"E": {
+      "item": "create:steam_engine"
+    },
+	"F": {
+      "item": "mekanism:pellet_antimatter"
+    }
+	
+  },
+  "pattern": [
+    "  AAA  ",
+    " AADAA ",
+    "AABCBAA",
+    "AECFCEA",
+    "AABCBAA",
+    " AADAA ",
+	"  AAA  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:creative_motor"
+  },
+  "show_notification": false
+}

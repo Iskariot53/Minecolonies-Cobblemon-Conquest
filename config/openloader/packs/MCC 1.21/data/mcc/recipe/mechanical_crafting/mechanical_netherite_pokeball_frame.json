@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "tag": "c:nuggets/brass"
+    }
+  },
+  "pattern": [
+    "B B",
+    " A ",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tmtceic:netherite_pokeball_frame"
+  }
+}

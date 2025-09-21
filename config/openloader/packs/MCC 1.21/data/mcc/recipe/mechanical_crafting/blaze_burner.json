@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+	"C": {
+      "item": "minecraft:blaze_rod"
+    },
+	"D": {
+      "item": "create:empty_blaze_burner"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "ADA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:blaze_burner"
+  }
+}

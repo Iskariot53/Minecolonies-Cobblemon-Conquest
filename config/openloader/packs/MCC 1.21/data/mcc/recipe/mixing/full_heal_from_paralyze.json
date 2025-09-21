@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "cobblemon:lum_berry"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "tmtceic:paralyze_heal"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "tmtceic:full_heal"
+    }
+  ]
+}

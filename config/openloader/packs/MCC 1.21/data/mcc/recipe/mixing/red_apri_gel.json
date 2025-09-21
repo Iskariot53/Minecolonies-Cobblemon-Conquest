@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "cobblemon:red_apricorn"
+    }
+  ],
+  "results": [
+    {
+      "amount": 400,
+      "id": "tmtceic:red_apri_gel"
+    }
+  ]
+}

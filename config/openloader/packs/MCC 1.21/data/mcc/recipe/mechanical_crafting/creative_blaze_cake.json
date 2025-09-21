@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "immersiveengineering:coke"
+    },
+    "B": {
+      "item": "eternal_starlight:cinder_brick"
+    },
+    "C": {
+      "item": "twilightforest:fiery_ingot"
+    },
+	"D": {
+      "item": "deep_aether:stratus_ingot"
+    },
+	"E": {
+      "item": "create_deep_dark:echo_cake"
+    }
+	
+  },
+  "pattern": [
+    "  AAAAA  ",
+    "AABBBBBAA",
+    "ABCDEDCBA",
+    "AABBBBBAA",
+    "  AAAAA  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:creative_blaze_cake"
+  },
+  "show_notification": false
+}
