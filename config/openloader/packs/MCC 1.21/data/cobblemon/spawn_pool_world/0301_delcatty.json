@@ -1,0 +1,91 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "delcatty-1",
+        "pokemon": "delcatty",
+        "presets": [                
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "15-55",
+        "weight": 3.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_overworld"
+            ],
+            "isRaining": false,
+            "structures": [
+                "#minecraft:village"
+            ]
+        },
+        "anticondition": {
+            "biomes": [
+                "#cobblemon:is_arid",
+                "#cobblemon:is_freezing"
+            ]
+        }
+
+      },
+      {
+        "id": "delcatty-2",
+        "pokemon": "delcatty",
+        "presets": [
+            "natural",
+            "urban"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "15-55",
+        "weight": 2.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_arid"
+            ]
+        }
+      },
+      {
+        "id": "delcatty-3",
+        "pokemon": "delcatty",
+        "presets": [
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "15-55",
+        "weight": 4.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_floral"
+            ]
+        }
+      }
+    ]
+  }

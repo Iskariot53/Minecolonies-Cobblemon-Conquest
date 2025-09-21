@@ -1,0 +1,40 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "azurill-1",
+            "pokemon": "azurill",
+            "presets": [
+                "water"
+                ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "2-15",
+            "weight": 4.2,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_river"
+                ]
+            }
+        },
+        {
+            "id": "azurill-2",
+            "pokemon": "azurill",
+            "type": "pokemon",
+            "context": "fishing",
+            "bucket": "common",
+            "level": "2-15",
+            "weight": 7.5,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_river"
+                ]
+            }
+        }
+    ]
+}
