@@ -1,0 +1,1 @@
+{"type":"mekanism:nucleosynthesizing","chemical_input":{"amount":5,"chemical":"mekanism:antimatter"},"duration":1000,"item_input":{"count":5,"item":"cobblemon:hp_up"},"output":{"count":1,"id":"brendons_bottlecaps:hpsilvercap"},"per_tick_usage":false}

@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:lure_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:copper_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:green_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:copper_ingot"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:copper_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:red_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:copper_ingot"
+        }
+      ]
+    },{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:copper_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:blue_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:copper_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:copper_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:copper_ingot"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "minecraft:copper_ingot"
+  }
+}

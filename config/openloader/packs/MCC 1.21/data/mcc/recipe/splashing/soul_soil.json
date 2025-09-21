@@ -1,0 +1,23 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_soil"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.125,
+      "count": 4,
+      "item": {
+        "id": "minecraft:blaze_powder"
+      }
+    },
+    {
+      "chance": 0.02,
+      "item": {
+        "id": "minecraft:wither_skeleton_skull"
+      }
+    }
+  ]
+}

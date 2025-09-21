@@ -1,0 +1,54 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "item": {
+        "id": "tmtceic:netherite_pokeball_frame"
+      }
+    }
+  ],
+  "sequence": [
+        {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_ingot"
+        },
+        {
+          "tag": "c:nuggets/gold"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "minecraft:netherite_ingot"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "minecraft:netherite_ingot"
+          }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": {
+      "id": "minecraft:netherite_ingot"
+    }
+  }
+}

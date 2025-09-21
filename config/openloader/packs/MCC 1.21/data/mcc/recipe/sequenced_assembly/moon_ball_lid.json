@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:golden_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:moon_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:golden_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:blue_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:golden_sheet"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:golden_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:yellow_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:golden_sheet"
+        }
+      ]
+    },{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:golden_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:black_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:golden_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:golden_sheet"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:golden_sheet"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create:golden_sheet"
+  }
+}

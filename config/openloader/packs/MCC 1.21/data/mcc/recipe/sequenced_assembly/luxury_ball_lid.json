@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_ingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:luxury_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:brass_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:red_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_ingot"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:brass_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:black_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_ingot"
+        }
+      ]
+    },{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:brass_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:white_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:brass_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_ingot"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create:brass_ingot"
+  }
+}

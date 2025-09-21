@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:repeat_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:yellow_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:gold_ingot"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:red_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:gold_ingot"
+        }
+      ]
+    },{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:black_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:gold_ingot"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "minecraft:gold_ingot"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cac",
+        "cbc",
+        "ccc"
+    ],
+    "key": {
+        "a": {
+            "item": "cobblemonparts:masterwork_blueprint"
+        },
+        "b": {
+            "item": "minecraft:end_stone"
+        },
+        "c": {
+            "item": "cobblemonparts:ambiguous_shard"
+        }		
+    },
+    "result": {
+        "id": "cobblemonparts:masterwork_blueprint",
+        "count": 2
+    }
+}

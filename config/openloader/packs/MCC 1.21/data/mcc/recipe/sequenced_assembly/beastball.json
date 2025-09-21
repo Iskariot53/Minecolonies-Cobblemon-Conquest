@@ -1,0 +1,63 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cobblemonparts:beast_ball_base"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 4,
+      "id": "cobblemon:beast_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:beast_ball_base"
+        },
+        {
+          "item": "cobblemonparts:beast_ball_lid"
+        }
+  ],
+      "results": [
+        {
+          "id": "cobblemonparts:beast_ball_base"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:beast_ball_base"
+        },
+        {
+          "tag": "c:nuggets/netherite"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemonparts:beast_ball_base"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:beast_ball_base"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemonparts:beast_ball_base"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "cobblemonparts:beast_ball_base"
+  }
+}

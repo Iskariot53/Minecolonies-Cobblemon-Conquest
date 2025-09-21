@@ -1,0 +1,63 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cobblemonparts:ancient_roseate_ball_lid"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 4,
+      "id": "cobblemon:ancient_roseate_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:ancient_roseate_ball_lid"
+        },
+        {
+          "item": "cobblemonparts:ancient_wooden_base"
+        }
+  ],
+      "results": [
+        {
+          "id": "cobblemonparts:ancient_roseate_ball_lid"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:ancient_roseate_ball_lid"
+        },
+        {
+          "tag": "c:nuggets/iron"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemonparts:ancient_roseate_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "cobblemonparts:ancient_roseate_ball_lid"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemonparts:ancient_roseate_ball_lid"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "cobblemonparts:ancient_roseate_ball_lid"
+  }
+}

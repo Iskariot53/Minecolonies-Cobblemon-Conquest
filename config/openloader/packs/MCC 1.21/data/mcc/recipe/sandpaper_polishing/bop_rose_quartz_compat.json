@@ -1,0 +1,15 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:rose_quartz_cluster"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "create:polished_rose_quartz"
+      }
+    }
+  ]
+}

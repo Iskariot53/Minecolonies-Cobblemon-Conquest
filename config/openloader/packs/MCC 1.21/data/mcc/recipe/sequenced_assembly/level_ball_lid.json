@@ -1,0 +1,85 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:level_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:yellow_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:iron_ingot"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:pink_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:iron_ingot"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:red_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:iron_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:iron_ingot"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "minecraft:iron_ingot"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:copper_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+	  "count": 6,
+      "id": "cobblemonparts:safari_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 200,
+          "fluid": "tmtceic:white_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:copper_sheet"
+        }
+      ]
+    },
+	{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:green_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:copper_sheet"
+        }
+      ]
+    },{
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 100,
+          "fluid": "tmtceic:yellow_apri_gel"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:copper_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:copper_sheet"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create:copper_sheet"
+  }
+}

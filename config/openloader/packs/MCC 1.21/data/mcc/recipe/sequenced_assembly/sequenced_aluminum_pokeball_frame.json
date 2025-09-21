@@ -1,0 +1,54 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "c:ingots/aluminum"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": {
+        "id": "tmtceic:aluminum_pokeball_frame"
+      }
+    }
+  ],
+  "sequence": [
+        {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:ingot_aluminum"
+        },
+        {
+          "tag": "c:nuggets/zinc"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "immersiveengineering:ingot_aluminum"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:ingot_aluminum"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "immersiveengineering:ingot_aluminum"
+          }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": {
+      "id": "immersiveengineering:ingot_aluminum"
+    }
+  }
+}
