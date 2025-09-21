@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "uxie-1T",
+      "pokemon": "uxie",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60",
+      "weight": 0.5,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_river",
+          "#cobblemon:is_coast",
+          "#cobblemon:is_island",
+          "#cobblemon:is_sky"
+        ]
+      }
+    }
+  ]
+}
