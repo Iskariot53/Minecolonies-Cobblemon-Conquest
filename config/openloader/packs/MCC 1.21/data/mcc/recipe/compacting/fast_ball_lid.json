@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "tmtceic:red_apri_gel"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "tmtceic:yellow_apri_gel"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 6,
+      "id": "cobblemonparts:fast_ball_lid"
+    }
+  ]
+}

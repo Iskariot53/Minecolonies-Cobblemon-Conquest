@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "cobblemon:black_apricorn"
+    }
+  ],
+  "results": [
+    { 
+	  "amount": 200,
+      "id": "tmtceic:black_apri_gel"
+    }
+  ]
+}

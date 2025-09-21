@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "tmtceic:red_apri_gel"
+    },
+    {
+      "item": "cobblemon:tumblestone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 6,
+      "id": "cobblemonparts:ancient_poke_ball_lid"
+    }
+  ]
+}

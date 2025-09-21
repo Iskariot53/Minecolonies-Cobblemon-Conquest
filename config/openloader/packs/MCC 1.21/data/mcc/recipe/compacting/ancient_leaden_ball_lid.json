@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+	{
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "tmtceic:black_apri_gel"
+    },
+    {
+      "item": "cobblemon:black_tumblestone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 6,
+      "id": "cobblemonparts:ancient_leaden_ball_lid"
+    }
+  ]
+}

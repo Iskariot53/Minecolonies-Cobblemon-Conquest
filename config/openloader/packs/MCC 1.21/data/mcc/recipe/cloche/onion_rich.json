@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "farmersdelight:onion"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "farmersdelight:onions"
+  },
+  "results": [
+    {
+      "count": 5,
+      "id": "farmersdelight:onion"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 550
+}

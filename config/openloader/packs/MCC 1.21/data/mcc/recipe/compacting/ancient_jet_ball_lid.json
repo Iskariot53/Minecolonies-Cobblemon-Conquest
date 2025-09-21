@@ -1,0 +1,28 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "tmtceic:blue_apri_gel"
+    },
+	{
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "tmtceic:white_apri_gel"
+    },
+    {
+      "item": "cobblemon:sky_tumblestone"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 6,
+      "id": "cobblemonparts:ancient_jet_ball_lid"
+    }
+  ]
+}

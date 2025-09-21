@@ -1,0 +1,21 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mega_showdown:max_mushroom"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mega_showdown:max_mushroom"
+  },
+  "results": [
+    {
+      "item": "mega_showdown:max_mushroom"
+    }
+  ],
+  "soil": [
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "time": 880
+}

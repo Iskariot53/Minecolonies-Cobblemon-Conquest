@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+	{
+      "item": "cobblemonparts:great_ball_lid"
+    },
+    {
+      "item": "cobblemonparts:ultra_ball_lid"
+    },
+    {
+      "item": "cobblemonparts:master_worked_metal"
+    },
+    {
+	  "count": 2,
+      "item": "cobblemonparts:ambiguous_shard"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 4,
+      "id": "cobblemonparts:master_ball_lid"
+    }
+  ]
+}

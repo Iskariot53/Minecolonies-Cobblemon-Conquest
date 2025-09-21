@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+	  "count": 2,
+      "item": "minecraft:echo_shard"
+    },
+    {
+	  "count": 2,
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 6,
+      "id": "cobblemonparts:beast_ball_lid"
+    }
+  ]
+}
