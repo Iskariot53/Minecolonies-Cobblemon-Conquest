@@ -1,0 +1,65 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.125,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cactus",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sugar_cane",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cocoa_beans",
+          "weight": 10
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:atksilvercap",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spatksilvercap",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spdefsilvercap",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:speedsilvercap",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:defsilvercap",
+          "weight": 3
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:hpsilvercap",
+          "weight": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecolonies:recipes/iron/sand"
+}

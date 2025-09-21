@@ -1,0 +1,98 @@
+{
+  "type": "recipe",
+  "additional-output": [
+    {
+      "id": "minecolonies:sifter_mesh_diamond"
+    },
+    {
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "id": "minecraft:oak_sapling"
+    },
+    {
+      "id": "minecraft:birch_sapling"
+    },
+    {
+      "id": "minecraft:spruce_sapling"
+    },
+    {
+      "id": "minecraft:jungle_sapling"
+    },
+    {
+      "id": "minecraft:carrot"
+    },
+    {
+      "id": "minecraft:potato"
+    },
+    {
+      "id": "minecraft:pumpkin_seeds"
+    },
+    {
+      "id": "minecraft:melon_seeds"
+    },
+    {
+      "id": "minecraft:beetroot_seeds"
+    },
+    {
+      "id": "minecraft:dark_oak_sapling"
+    },
+    {
+      "id": "minecraft:acacia_sapling"
+    },
+	{
+      "id": "cobblemon:red_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:yellow_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:green_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:blue_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:pink_apricorn_seed"
+    },
+	{
+      "id": "cobblemon:black_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:white_apricorn_seed"
+    },
+	{
+      "id": "minecraft:chorus_fruit"
+    },
+    {
+      "id": "brendons_bottlecaps:atksilvercap"
+    },
+    {
+      "id": "brendons_bottlecaps:spatksilvercap"
+    },
+    {
+      "id": "brendons_bottlecaps:spdefsilvercap"
+    },
+    {
+      "id": "brendons_bottlecaps:speedsilvercap"
+    },
+	{
+      "id": "brendons_bottlecaps:defsilvercap"
+    },
+    {
+      "id": "brendons_bottlecaps:hpsilvercap"
+    }
+  ],
+  "crafter": "sifter_custom",
+  "inputs": [
+    {
+      "id": "minecraft:dirt"
+    },
+    {
+      "id": "minecolonies:sifter_mesh_diamond"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "loot-table": "minecolonies:recipes/diamond/dirt",
+  "min-building-level": 5
+}

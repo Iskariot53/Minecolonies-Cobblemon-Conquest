@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "count": 1,
+      "id": "immersiveengineering:ingot_aluminum"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "count": 4,
+    "id": "tmtceic:aluminum_pokeball_frame"
+  },
+  "show-tooltip": true
+}

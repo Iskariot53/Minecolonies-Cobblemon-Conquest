@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coal_ore",
+          "weight": 64
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_ore",
+          "weight": 48
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mekanism:osmium_ore",
+          "weight": 24
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:ore_nickel",
+          "weight": 24
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecolonies:miner/lucky_ore1"
+}

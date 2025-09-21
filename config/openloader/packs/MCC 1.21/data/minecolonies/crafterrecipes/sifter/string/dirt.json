@@ -1,0 +1,56 @@
+{
+  "type": "recipe",
+  "additional-output": [
+    {
+      "id": "minecolonies:sifter_mesh_string"
+    },
+    {
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "id": "minecraft:oak_sapling"
+    },
+    {
+      "id": "minecraft:birch_sapling"
+    },
+    {
+      "id": "minecraft:spruce_sapling"
+    },
+    {
+      "id": "minecraft:jungle_sapling"
+    },
+	{
+      "id": "cobblemon:red_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:yellow_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:green_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:blue_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:pink_apricorn_seed"
+    },
+	{
+      "id": "cobblemon:black_apricorn_seed"
+    },
+    {
+      "id": "cobblemon:white_apricorn_seed"
+    }
+  ],
+  "crafter": "sifter_custom",
+  "inputs": [
+    {
+      "id": "minecraft:dirt"
+    },
+    {
+      "id": "minecolonies:sifter_mesh_string"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "loot-table": "minecolonies:recipes/string/dirt",
+  "min-building-level": 1
+}

@@ -1,0 +1,56 @@
+{
+  "type": "cobblemon:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:deep_sea_scale"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:deep_sea_tooth"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dragon_scale"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:kings_rock"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:prism_scale"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:atksilvercap"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spatksilvercap"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spdefsilvercap"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:speedsilvercap"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:defsilvercap"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:hpsilvercap"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/fishing/treasure"
+}

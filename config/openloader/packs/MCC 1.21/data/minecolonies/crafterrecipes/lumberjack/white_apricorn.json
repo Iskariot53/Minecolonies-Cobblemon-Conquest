@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "id": "cobblemon:apricorn_log"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "cobblemon:white_apricorn"
+  },
+  "tool": "minecolonies:axe"
+}

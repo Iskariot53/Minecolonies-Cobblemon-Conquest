@@ -1,0 +1,60 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 85
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cactus",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sugar_cane",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 5
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:atksilvercap",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spatksilvercap",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:spdefsilvercap",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:speedsilvercap",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:defsilvercap",
+          "weight": 2
+        },
+		{
+          "type": "minecraft:item",
+          "name": "brendons_bottlecaps:hpsilvercap",
+          "weight": 2
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecolonies:recipes/flint/sand"
+}
