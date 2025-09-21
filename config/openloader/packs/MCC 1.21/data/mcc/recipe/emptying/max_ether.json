@@ -1,0 +1,19 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "cobblemon:max_ether"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "minecraft:glass_bottle"
+      }
+    },
+    {
+      "amount": 250,
+      "id": "tmtceic:max_ether"
+    }
+  ]
+}

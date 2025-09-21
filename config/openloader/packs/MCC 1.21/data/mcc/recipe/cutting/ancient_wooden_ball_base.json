@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "count": 6,
+      "id": "cobblemonparts:ancient_wooden_base"
+    }
+  ]
+}

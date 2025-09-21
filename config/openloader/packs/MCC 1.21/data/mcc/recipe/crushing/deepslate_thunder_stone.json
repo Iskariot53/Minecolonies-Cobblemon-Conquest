@@ -1,0 +1,35 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:deepslate_thunder_stone_ore"
+    }
+  ],
+  "processing_time": 450,
+  "results": [
+    {
+      "item": {
+        "id": "cobblemon:thunder_stone"
+      }
+    },
+    {
+      "chance": 0.50,
+      "item": {
+        "id": "cobblemon:thunder_stone"
+      }
+    },
+    {
+      "chance": 0.50,
+      "count": 2,
+      "item": {
+        "id": "create:experience_nugget"
+      }
+    },
+    {
+      "chance": 0.125,
+      "item": {
+        "id": "minecraft:cobblestone"
+      }
+    }
+  ]
+}
