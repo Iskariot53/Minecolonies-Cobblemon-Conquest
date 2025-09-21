@@ -1,0 +1,51 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "bloodmoon-1",
+      "pokemon": "ursaluna bloodmoon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-60",
+      "weight": 0.05,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_taiga"
+        ]
+      }
+    },
+	{
+            "id": "ursaluna-bloodmoon-1",
+            "pokemon": "ursaluna bloodmoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-65",
+            "weight": 1,
+            "weightMultipliers": [
+                {
+                    "multiplier": 15,
+                    "condition": {
+                       "moonPhase": 0
+                    }
+                }
+            ],
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_spooky"
+                ],
+                "timeRange": "night"
+            }
+        }
+  ]
+}

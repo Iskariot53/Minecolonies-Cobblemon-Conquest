@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "spectrier-1",
+      "pokemon": "spectrier",
+      "presets": [
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "75",
+      "weight": 0.1,
+      "condition": {
+        "biomes": [ 
+          "#cobblemon:is_plains",
+          "biomesoplenty:ominous_woods",
+          "biomesoplenty:dead_forest",
+          "biomesoplenty:old_growth_dead_forest",
+          "terralith:cloud_forest",
+          "terralith:blooming_valley",
+          "terralith:mirage_isles",
+          "biomesoplenty:auroral_garden",
+          "biomesoplenty:lavender_field"
+          ],
+          "timeRange": "night"
+      }
+    }
+  ]
+}

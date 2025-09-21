@@ -1,0 +1,32 @@
+{
+   "enabled": true,
+   "neededInstalledMods": [],
+   "neededUninstalledMods": [],
+   "spawns": [
+       {
+           "id": "kubfu-1",
+           "pokemon": "kubfu",
+           "presets": [
+           ],
+           "type": "pokemon",
+           "context": "grounded",
+           "bucket": "ultra-rare",
+           "level": "15-45",
+           "weight": 0.3,
+           "condition": {
+               "biomes": [
+                   "#cobblemon:is_hills",
+                   "biomesoplenty:snowy_maple_woods",
+                   "biomesoplenty:maple_woods",
+                   "biomesoplenty:aspen_glade",
+                   "terralith:ancient_sands",
+                   "terralith:ashen_savanna",
+                   "terralith:desert_canyon",
+                   "biomesoplenty:dryland",
+                   "biomesoplenty:lush_desert",
+                   "biomesoplenty:lush_savanna"
+               ]
+           }
+       }
+   ]
+}
