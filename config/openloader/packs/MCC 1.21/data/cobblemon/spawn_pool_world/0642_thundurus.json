@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "thundurus-1",
+      "pokemon": "thundurus",
+      "presets": [ "water" ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.5,
+      "condition": {
+        "isThundering": true,
+        "biomes": [
+          "#cobblemon:is_ocean",
+          "#cobblemon:is_cold_ocean"
+        ]
+      }
+    },
+	{
+      "id": "thundurus-1T",
+      "pokemon": "thundurus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.5,
+      "weightMultipliers": [
+        {
+          "multiplier": 5.0,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_plains"
+        ]
+      }
+    }
+  ]
+}

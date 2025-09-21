@@ -1,0 +1,52 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "zekrom-1T",
+      "pokemon": "zekrom",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 1.5,
+      "weightMultiplier": {
+        "multiplier": 4.0,
+        "condition": {
+          "isThundering": true
+        }
+      },
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+	{
+      "id": "zekrom-1",
+      "pokemon": "zekrom",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.0,
+      "condition": {
+        "isThundering": true,
+        "biomes": [
+                   "#cobblemon:is_mountain",
+                   "terralith:alpine_highlands",
+                   "terralith:highlands",
+                   "biomesoplenty:cold_desert"
+        ],
+        "neededNearbyBlocks": ["minecraft:lightning_rod"]
+      }
+    }
+  ]
+}
