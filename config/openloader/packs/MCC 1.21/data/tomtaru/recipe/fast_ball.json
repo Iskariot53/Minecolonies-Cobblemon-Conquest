@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "I",
+        "i"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonparts:fast_ball_lid"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "cobblemonparts:iron_base"
+        }
+    },
+    "result": {
+        "id": "cobblemon:fast_ball",
+        "count": 1
+    }
+}
