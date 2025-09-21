@@ -1,0 +1,31 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "cobblemon:fire_stone"
+    },
+    "L": {
+      "item": "minecraft:redstone_block"
+    },
+    "T": {
+      "item": "cobblemon:fire_gem"
+    },
+    "M": {
+      "item": "cobblemon:ground_gem"
+    }
+
+  },
+
+  "pattern": [
+    "IMI",
+    "LTL",
+    "LLL"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "mega_showdown:redorb"
+  }
+}

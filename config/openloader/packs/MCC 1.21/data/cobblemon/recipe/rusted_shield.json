@@ -1,0 +1,30 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "L": {
+      "item": "cobblemon:fighting_gem"
+     },
+    "T": {
+      "item": "minecraft:netherite_chestplate"
+     },
+    "A": {
+      "item": "minecraft:red_tulip"
+    }
+  },
+
+  "pattern": [
+    "IAI",
+    "ITI",
+    "ILI"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "mega_showdown:rusted_shield"
+  }
+}

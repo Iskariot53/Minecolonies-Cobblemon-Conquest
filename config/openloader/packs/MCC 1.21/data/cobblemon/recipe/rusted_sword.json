@@ -1,0 +1,30 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "L": {
+      "item": "cobblemon:fairy_gem"
+     },
+    "T": {
+      "item": "minecraft:netherite_sword"
+     },
+    "A": {
+      "item": "minecraft:blue_orchid"
+    }
+  },
+
+  "pattern": [
+    "IAI",
+    "ITI",
+    "ILI"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "mega_showdown:rusted_sword"
+  }
+}

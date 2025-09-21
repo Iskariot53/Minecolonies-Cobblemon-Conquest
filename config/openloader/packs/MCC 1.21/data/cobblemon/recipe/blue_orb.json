@@ -1,0 +1,31 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "cobblemon:water_stone"
+    },
+    "L": {
+      "item": "minecraft:lapis_block"
+    },
+    "T": {
+      "item": "cobblemon:water_stone"
+    },
+    "M": {
+      "item": "cobblemon:ice_gem"
+    }
+
+  },
+
+  "pattern": [
+    "IMI",
+    "LTL",
+    "LLL"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "mega_showdown:blueorb"
+  }
+}

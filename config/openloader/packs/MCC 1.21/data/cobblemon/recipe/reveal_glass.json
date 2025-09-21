@@ -1,0 +1,33 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:deepslate"
+     },
+    "M": {
+      "item": "minecraft:cyan_terracotta"
+     },
+    "T": {
+      "item": "minecraft:orange_terracotta"
+     },
+    "A": {
+      "item": "minecraft:glass_pane"
+     },
+    "W": {
+      "item": "minecraft:lime_terracotta"
+    }
+  },
+
+  "pattern": [
+    "ITI",
+    "MAW",
+    "III"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "mega_showdown:reveal_glass"
+  }
+}
