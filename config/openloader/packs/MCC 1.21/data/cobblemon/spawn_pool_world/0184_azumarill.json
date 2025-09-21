@@ -1,0 +1,73 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "azumarill-1",
+            "pokemon": "azumarill",
+            "presets": [
+                "water"
+                ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "19-35",
+            "weight": 0.4,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_river"
+                ]
+            }
+        },
+        {
+            "id": "azumarill-2",
+            "pokemon": "azumarill",
+            "presets": [
+                "water"
+                ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "19-35",
+            "weight": 3.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_lukewarm_ocean",
+                    "#cobblemon:is_warm_ocean"
+                ]
+            }
+        },
+        {
+            "id": "azumarill-3",
+            "pokemon": "azumarill",
+            "type": "pokemon",
+            "context": "fishing",
+            "bucket": "common",
+            "level": "19-35",
+            "weight": 0.4,
+            "weightMultipliers": [
+                {
+                    "multiplier": 2.0,
+                    "condition": {
+                        "minLureLevel": 2
+                    }
+                },
+                {
+                    "multiplier": 3.0,
+                    "condition": {
+                        "minLureLevel": 3
+                    }
+                }
+            ],
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_river"
+                ]
+            }
+        }
+    ]
+}

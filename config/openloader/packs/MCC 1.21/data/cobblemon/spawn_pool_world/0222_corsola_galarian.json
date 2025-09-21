@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "corsola-galarian",
+            "pokemon": "corsola galarian",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "15-40",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_ocean"
+                ]
+            }
+        },
+        {
+            "id": "corsola-galarian-2",
+            "pokemon": "corsola galarian",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "15-40",
+            "weight": 9.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_warm_ocean"
+                ]
+            }
+        }
+    ]
+}
