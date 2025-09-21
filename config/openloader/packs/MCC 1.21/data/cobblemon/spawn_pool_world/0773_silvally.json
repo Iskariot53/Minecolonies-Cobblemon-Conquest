@@ -1,0 +1,26 @@
+{
+   "enabled": true,
+   "neededInstalledMods": [],
+   "neededUninstalledMods": [],
+   "spawns": [
+       {
+           "id": "silvally-1",
+           "pokemon": "silvally",
+           "presets": [
+               "natural"
+           ],
+           "type": "pokemon",
+           "context": "grounded",
+           "bucket": "ultra-rare",
+           "level": "70-100",
+           "weight": 1,
+           "condition": {
+               "biomes": [
+                   "#cobblemon:is_plains",
+                   "biomesoplenty:ominous_woods",
+                   "biomesoplenty:old_growth_dead_forest"
+               ]
+           }
+       }
+   ]
+}

@@ -1,0 +1,34 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "xurkitree-1T",
+            "pokemon": "xurkitree",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "60",
+            "weight": 5.0,
+            "weightMultipliers": [
+                {
+                    "multiplier": 2.5,
+                    "condition": {
+                        "neededNearbyBlocks": [
+                            "minecraft:lightning_rod"
+                        ]
+                    }
+                }
+            ],
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_end"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "necrozma-1",
+      "pokemon": "necrozma",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+                 "#minecraft:is_end",
+                 "biomesoplenty:ominous_woods",
+                 "biomesoplenty:old_growth_dead_forest",
+                 "terralith:mirage_isles",
+                 "terralith:moonlight_grove",
+                 "terralith:moonlight_valley"
+      ],
+      "custom_pokemons_in_team": [
+        {
+          "species": "solgaleo",
+          "count": 1
+        },
+        {
+          "species": "lunala",
+          "count": 1
+         }
+        ]
+      }
+    }
+  ]
+}

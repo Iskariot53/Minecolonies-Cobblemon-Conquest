@@ -1,0 +1,30 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tapulele-1",
+            "pokemon": "tapulele",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60",
+            "weight": 1,
+            "weightMultiplier": {
+                "multiplier": 5.0,
+                "condition": {
+                    "structures": [
+                    "cobblemon:ruins/toppled_pillars_ruins"
+                ]
+                }
+            },
+            "condition": {
+                
+                "biomes": [
+                    "#cobblemon:is_magical"
+                ]
+            }
+        }
+    ]
+}

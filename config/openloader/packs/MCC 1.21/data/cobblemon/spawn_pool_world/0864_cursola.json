@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "cursola-1",
+            "pokemon": "cursola",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "38-60",
+            "weight": 6.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_ocean"
+                ]
+            }
+        },
+        {
+            "id": "cursola-2",
+            "pokemon": "cursola",
+            "presets": [
+				"water"
+			],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "38-60",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_warm_ocean"
+                ]
+            }
+        }
+    ]
+}

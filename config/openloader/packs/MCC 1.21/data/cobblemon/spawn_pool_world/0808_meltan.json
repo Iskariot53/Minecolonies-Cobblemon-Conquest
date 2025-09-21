@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "meltan-1T",
+      "pokemon": "meltan",
+      "presets": [
+        "ancient_city"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "11-41",
+      "weight": 2.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "maxY": 0,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      }
+    },
+    {
+      "id": "meltan-2T",
+      "pokemon": "meltan",
+      "presets": [
+        "stronghold"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "11-41",
+      "weight": 2.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "maxY": 16,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      }
+    }
+  ]
+}
