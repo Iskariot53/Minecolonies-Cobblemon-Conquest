@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "chiyu-1T",
+            "pokemon": "chiyu",
+            "presets": [
+                "lava"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "60",
+            "weight": 4.0,
+            "condition": {
+                "maxY": 127,
+                "biomes": [
+                    "#cobblemon:nether/is_basalt",
+                    "#cobblemon:nether/is_wasteland"
+                ]
+            }
+        }
+    ]
+}

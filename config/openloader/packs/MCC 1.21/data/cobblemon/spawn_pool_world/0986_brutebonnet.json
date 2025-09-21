@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "brutebonnet-1T",
+      "pokemon": "brutebonnet",
+      "presets": [
+          "natural",
+          "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-75",
+      "weight": 3.0,
+      "condition": {
+        "timeRange":"day",
+        "biomes": [ 
+          "#cobblemon:is_jungle" 
+        ]
+      }
+    }
+  ]
+}
