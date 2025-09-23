@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "30-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -34,7 +34,7 @@
             "context": "seafloor",
             "bucket": "common",
             "level": "30-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -78,7 +78,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "30-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -104,7 +104,7 @@
             "context": "seafloor",
             "bucket": "common",
             "level": "30-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [

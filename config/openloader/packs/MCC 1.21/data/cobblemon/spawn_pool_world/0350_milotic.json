@@ -10,7 +10,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "15-54",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_overworld"
@@ -32,7 +32,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "15-54",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultipliers": [
                 {
                     "multiplier": 3.0,

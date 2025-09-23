@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "45-55",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_forest",
@@ -34,7 +34,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "45-55",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "aether:skyroot_forest",

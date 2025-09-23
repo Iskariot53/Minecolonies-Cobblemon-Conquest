@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -33,7 +33,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -54,7 +54,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -88,7 +88,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -117,7 +117,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -143,7 +143,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -166,7 +166,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -191,7 +191,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.6,
                 "condition": {
@@ -224,7 +224,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,
@@ -247,7 +247,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,
@@ -275,7 +275,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,
@@ -305,7 +305,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -334,7 +334,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -360,7 +360,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "34-50",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.6,
                 "condition": {

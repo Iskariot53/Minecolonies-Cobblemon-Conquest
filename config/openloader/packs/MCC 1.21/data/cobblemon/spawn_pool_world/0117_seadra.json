@@ -13,7 +13,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "32-44",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -29,7 +29,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "32-44",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultipliers": [
                 {
                     "multiplier": 3.0,
@@ -68,7 +68,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "32-44",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,
@@ -127,7 +127,7 @@
             "context": "submerged",
             "bucket": "common",
             "level": "32-44",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "biomes": [

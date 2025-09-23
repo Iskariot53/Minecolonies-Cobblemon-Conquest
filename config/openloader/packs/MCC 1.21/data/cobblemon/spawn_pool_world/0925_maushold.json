@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-47",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -40,7 +40,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-47",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -71,7 +71,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-47",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -105,7 +105,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-47",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "biomes": [

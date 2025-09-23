@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "21-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#minecraft:is_nether"
@@ -52,7 +52,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "21-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_overworld"

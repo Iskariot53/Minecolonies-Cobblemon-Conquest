@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "28-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -41,7 +41,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "28-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -60,7 +60,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "28-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -82,7 +82,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "28-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "biomes": [

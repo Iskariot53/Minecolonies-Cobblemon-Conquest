@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -41,7 +41,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -73,7 +73,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 1.5,
                 "condition": {
@@ -105,7 +105,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 1.5,
                 "condition": {
@@ -136,7 +136,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 1.5,
                 "condition": {
@@ -162,7 +162,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -181,7 +181,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "22-46",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,

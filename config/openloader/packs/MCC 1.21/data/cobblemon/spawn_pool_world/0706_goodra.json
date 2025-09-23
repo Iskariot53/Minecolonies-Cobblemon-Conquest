@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -35,7 +35,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -59,7 +59,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -77,7 +77,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -96,7 +96,7 @@
             "context": "fishing",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -113,7 +113,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -142,7 +142,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -162,7 +162,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -191,7 +191,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -217,7 +217,7 @@
             "context": "fishing",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -240,7 +240,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 3.0,
                 "condition": {
@@ -267,7 +267,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -294,7 +294,7 @@
             "context": "fishing",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -322,7 +322,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -349,7 +349,7 @@
             "context": "fishing",
             "bucket": "rare",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -376,7 +376,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "50-60",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 3.0,
                 "condition": {

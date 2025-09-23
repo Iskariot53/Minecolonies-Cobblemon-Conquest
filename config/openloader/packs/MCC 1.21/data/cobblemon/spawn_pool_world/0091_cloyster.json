@@ -13,7 +13,7 @@
             "context": "seafloor",
             "bucket": "common",
             "level": "26-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -32,7 +32,7 @@
             "context": "seafloor",
             "bucket": "common",
             "level": "26-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -180,7 +180,7 @@
             "context": "seafloor",
             "bucket": "common",
             "level": "26-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "biomes": [

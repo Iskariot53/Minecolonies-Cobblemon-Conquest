@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {
@@ -45,7 +45,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "25-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {
@@ -77,7 +77,7 @@
             "context": "surface",
             "bucket": "uncommon",
             "level": "25-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {
@@ -108,7 +108,7 @@
             "context": "fishing",
             "bucket": "uncommon",
             "level": "25-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {
@@ -138,7 +138,7 @@
             "context": "fishing",
             "bucket": "common",
             "level": "25-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultipliers": [
                 {
                     "multiplier": 5.0,

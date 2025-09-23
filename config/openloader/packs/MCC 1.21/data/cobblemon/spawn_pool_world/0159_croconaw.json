@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "18-41",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -32,7 +32,7 @@
             "context": "submerged",
             "bucket": "ultra-rare",
             "level": "18-41",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -47,7 +47,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "18-41",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -67,7 +67,7 @@
             "context": "submerged",
             "bucket": "ultra-rare",
             "level": "18-41",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,
@@ -84,7 +84,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "18-41",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "canSeeSky": false,
                 "minSkyLight": 8,

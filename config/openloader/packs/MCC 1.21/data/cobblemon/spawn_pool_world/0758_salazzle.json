@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "33-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_volcanic"
@@ -30,7 +30,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "33-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,
@@ -58,7 +58,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "33-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:nether/is_basalt"
@@ -75,7 +75,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "33-48",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:nether/is_desert"

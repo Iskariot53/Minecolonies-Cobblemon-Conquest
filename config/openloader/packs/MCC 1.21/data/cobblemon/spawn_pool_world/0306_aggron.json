@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "42-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_mountain"
@@ -39,7 +39,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "42-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,

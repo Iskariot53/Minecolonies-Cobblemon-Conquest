@@ -14,7 +14,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "30-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {
@@ -39,7 +39,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "30-49",
-            "weight": 0.0,
+            "weight": 0.01,
             "weightMultiplier": {
                 "multiplier": 5.0,
                 "condition": {

@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -37,7 +37,7 @@
             "context": "surface",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -58,7 +58,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -84,7 +84,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -108,7 +108,7 @@
             "context": "surface",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -132,7 +132,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -151,7 +151,7 @@
             "context": "surface",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -167,7 +167,7 @@
             "context": "fishing",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.0,
+            "weight": 0.01,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
