@@ -92,12 +92,13 @@
 	spawnTrainerAssociation = true
 	#━━━━━━━━━━
 	#By default, this mod prevents the spawning of a trainer if another entity with the same identity
-	#already exists anywhere in the world. However, if this is set to a positive value, the mod will check
-	#for the existence of a trainer with the same identity within the specified radius instead. Note that a
-	#greater radius will require more CPU resources (~ 100 to 200 should be fine for most machines).
-	# Default: -1
-	# Range: -2147483647 ~ 2147483646
+	#already exists anywhere in the world (in any dimension). However, if this is set to a positive value,
+	#the mod will check for the existence of a trainer with the same identity within the specified radius instead.
 	uniqueTrainerRadius = -1
+	#━━━━━━━━━━
+	#(Non persistent) trainers will despawn if they have no line of sight to any player for the configured amount of ticks.
+	#Set to a negative value to disable this feature (trainers may only despawn if they chunk becomes unloaded in that case).
+	despawnTicksIfUnseen = 6000
 
 [Players]
 	#━━━━━━━━━━

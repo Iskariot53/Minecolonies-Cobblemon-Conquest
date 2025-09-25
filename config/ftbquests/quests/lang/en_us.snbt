@@ -282,6 +282,8 @@
 		"They live in the plains and like eating carrots."
 	]
 	quest.09FD0BBC59643076.quest_desc: ["&e&lTransformation Powder&r&r is a bright blue magical item found in Hollow Hills treasure chests. It can transform Twilight items into dimensional items and change otherworldly creatures into Twilight Forest creatures and vice versa. This powder can alter the environment or help escape dangerous creatures by turning them into harmless mobs."]
+	quest.0A1CA85957B045FC.quest_desc: ["Trainer spawners allow the spawning of a specific trainer, provided the proper item associated is placed inside the spawner and that trainer does not already exist somewhere in the world, otherwise they will not spawn until the prior \"copy\" of them has despawned."]
+	quest.0A1CA85957B045FC.quest_subtitle: "Finding that trainer you're hunting for"
 	quest.0A46A5457BF658BA.quest_subtitle: "Apply max upgrades to your Buzzsaw"
 	quest.0A4C2EEA3BB31EAC.quest_desc: [
 		"The stasis chamber can be used to trap entities in stasis, in short: it freezes them in place."
@@ -313,7 +315,7 @@
 		""
 		"A single-type advantage (for instance a Water attack against a Ground-type Pokémon) will net you double normal damage. The advantages also stack up, so a double-type advantage (for instance a Water attack against a Ground/Rock-type Pokémon) will net you quadruple damage. In both these cases you will see the message \"super effective!\" in-game with the attack."
 		""
-		"Conversely, a single- and double-type disadvantage will afflict half and a quarter normal damage respectively. Here you will see the message It's not very effective... in-game."
+		"Conversely, a single- and double-type disadvantage will afflict half and a quarter normal damage respectively. Here you will see the message \"It's not very effective...\" in-game."
 		""
 		""
 		"{@pagebreak}"
@@ -1045,9 +1047,7 @@
 		"               "
 		"           Rocket              Gray     "
 		"               "
-		"           Champions          Purple  "
-		""
-		"Additional guidance material on any specific trainer spawning items will be provided in future updates. "
+		"           Champions          Purple   "
 		""
 		""
 		"{@pagebreak}"
@@ -1335,6 +1335,7 @@
 	quest.2D2D4477513F252F.quest_subtitle: "Round 3"
 	quest.2D2D4477513F252F.title: "Defeat Cynthia"
 	quest.2D39E7FA50C2CB08.quest_subtitle: "Defeat the Silver Dungeon and its boss"
+	quest.2D39E7FA50C2CB08.title: "The Silver Dungeon"
 	quest.2D5FB1453CD6A687.quest_desc: ["The Enginners Goggles allows you to see the stats of any given stress source, shaft, contraption, etc. they are very handy for troubleshooting problems."]
 	quest.2D5FB1453CD6A687.quest_subtitle: "&6See the numbers"
 	quest.2D5FB1453CD6A687.title: "&e&lEngineer's Goggles"
@@ -1405,6 +1406,12 @@
 	]
 	quest.2ED038A81358A49E.quest_subtitle: "Advanced Logistics Solutions."
 	quest.2ED038A81358A49E.title: "Welcome to Applied Energistics 2!"
+	quest.2ED8D6121ABADC02.quest_desc: [
+		"The Starlight Story is an integral part of experiencing the mod, it is due to this that we will not be &oruining&r that experience by adding a questline."
+		""
+		"Complaints will be ignored, if you do not want to read the book then you do not want to play the mod, it &o&nreally is&r&r that simple :)"
+	]
+	quest.2ED8D6121ABADC02.quest_subtitle: "Use the book"
 	quest.2EDBA01D646B9A9E.title: "&9&l2x Thermal Evaporation Valve"
 	quest.2EF32806E1739F1A.quest_desc: [
 		"Once centrifuged into singular gene samples, you will want to feed these genes into an indexer."
@@ -1521,7 +1528,11 @@
 		""
 		"When the crumble horn is used in a &eDispenser&r, it will attempt to crumble the block in front of it. This action takes one durability to complete. Unlike other damageable items that can be used in the dispenser, the crumble horn will not break when depleted. If the durability hits zero it will instead refuse to fire again."
 	]
-	quest.32037B9970FC3DF2.quest_desc: ["Bottlecaps can be sold to the merchant, using the \"bank\" tab for relatively large amounts of CobbleDollars. Currently, caps are the only items the cobble merchants who deal in cobbledollars will buy. The sales and shopping options are subject to change across updates, any and all suggestions are welcome."]
+	quest.32037B9970FC3DF2.quest_desc: [
+		"Type-gems, bottle caps, and masterballs are the only items the cobble merchants who deal in cobbledollars will buy. Sales are performed using the \"Bank\" tab, the merchant does not actually have a banking option (take that one up with the mod creator.)"
+		""
+		"The sales and shopping options are subject to change across updates, any and all suggestions are welcome."
+	]
 	quest.328AA822DBA16B9C.quest_desc: [
 		"Not just used for sequential crafting, deployers can be very versatile, used to plant crops, equipped with tools to farm them, sword to kill mobs, etc."
 		""
@@ -1934,6 +1945,7 @@
 	quest.3FF7EDC74F634A45.quest_subtitle: "Round 1"
 	quest.3FF7EDC74F634A45.title: "Defeat Aaron"
 	quest.400692BBCCA73100.quest_desc: ["Defeat the Golden Dungeon and its boss"]
+	quest.400692BBCCA73100.title: "The Gold Dungeon"
 	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
 	quest.40207980D0FD3F59.title: "Defeat Giovanni"
 	quest.40A6F8988EEF04A1.quest_desc: ["Using Garden Cloches is probably going to be the optimal way to farm mints and apricorns amongst other things if and when unable to rely on a colony for production."]
@@ -3014,6 +3026,13 @@
 		"Find a representative of the trainer association to choose your series. The chapter will be updated periodically to include the addition of new series, if a guide for the one you are attempting to complete is not present."
 		""
 		"They will appear as a wandering trader in a gold/yellow coat, instead of blue, and often wander villages."
+		""
+		"{@pagebreak}"
+		"R-clicking with the card in hand will open its GUI, and at the top you will see the ability to list out the next trainer you need to find to continue any progress through series. "
+		""
+		"Once a trainer is selected on the card, use the arrow buttons on the botton of the card to navigate the information about the trainer, the \"signature item\" listed on the card is the item that must be placed into the spawner to spawn that trainers phase of the series."
+		""
+		"An arrow will also appear above the card while it is held in your hand, pointing to the trainer, providing a working compass to find them, if they are already present in the world."
 	]
 	quest.65E2FC8F97E67B93.quest_desc: ["Find the Bronze Dungeon and defeat the Bronze Boss."]
 	quest.65E2FC8F97E67B93.title: "The Bronze Dungeon"
@@ -4026,7 +4045,7 @@
 	task.52CE66D7B2434D4A.title: "Acquire a philolite bee"
 	task.538FF059B5F47525.title: "Acquire a sculk bee"
 	task.53CF9024D1C33C05.title: "Arcane Library"
-	task.541A1ABC4B4411C2.title: "Caps for CobbleDollars"
+	task.541A1ABC4B4411C2.title: "Trading for CobbleDollars"
 	task.544990ED82C51091.title: "Shiraz Palace"
 	task.547D0A550320173B.title: "Acquire a sky steel bee"
 	task.55143C17D399E5D3.title: "Any #cobblemon:mint_seeds"

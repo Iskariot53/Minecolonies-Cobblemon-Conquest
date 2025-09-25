@@ -24,7 +24,8 @@
 	  "Performing periodic auto-save of player progress data",
 	  "Saved footprint progress data for",
 	  "Saved worlds:",
-	  "Discarding @Unique public method"
+	  "Discarding @Unique public method",
+	  "sending packet"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -50,7 +51,8 @@
 	  "Performing periodic auto-save of player progress data",
 	  "Saved footprint progress data for",
 	  "Saved worlds:",
-	  "Discarding @Unique public method"
+	  "Discarding @Unique public method",
+	  "sending packet"
 	  
     ]
   }

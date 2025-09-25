@@ -83,5 +83,16 @@
 			x: 0.0d
 			y: 2.5d
 		}
+		{
+			dependencies: ["0EFD80C0B8872BD2"]
+			id: "2ED8D6121ABADC02"
+			tasks: [{
+				id: "718266FFA73B287F"
+				item: { count: 1, id: "eternal_starlight:book" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
 	]
 }

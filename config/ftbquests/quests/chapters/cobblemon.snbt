@@ -1256,10 +1256,7 @@
 			y: 33.0d
 		}
 		{
-			dependencies: [
-				"6786B6A8692C67A5"
-				"0C6C61B9BBC08F04"
-			]
+			dependencies: ["6786B6A8692C67A5"]
 			id: "114DD047A53F75D8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1268,9 +1265,9 @@
 				type: "loot"
 			}]
 			tasks: [{
-				advancement: "rctmod:trainers/defeat_boss_giovanni_2"
+				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
 				criterion: ""
-				id: "3E20EFF168FF4FA6"
+				id: "7455132F3D1AAF72"
 				type: "advancement"
 			}]
 			x: -6.0d

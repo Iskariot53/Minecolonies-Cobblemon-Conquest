@@ -1,5 +1,5 @@
 {
-  "eggCheckTicks": 12000,
+  "eggCheckTicks": 6000,
   "eggCheckChance": 0.5,
   "eggHatchMultiplier": 1.0,
   "shinyMethod": [
