@@ -1,24 +1,22 @@
-Minecolonies - Cobblemon Conquest -  1.5.1 Changelog
+Minecolonies - Cobblemon Conquest -  1.5.2 Changelog
+
+
+Mods Removed
+
+
+- Packet Fixer
 
 
 
 Mods Added
 
 
+- FTB Ranks
 
-
-Mods Updated
-
-
-- Accessories
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- Sinytra Connector
 
 
 Changes
 
 
-- Fixed Anorith outbreaks not loading as well re-addressed higher tier evolutions spawning in outbreaks.
-- Found and fixed syntax errors within some of the additional series (primarily FrLg/HgSs).
-- Fixed issue causing excessive console spam on servers.
+- Outbreaks updated. Sharpedo removed, Charjabug removed and replaced with Grubbin.
+- Attempt to resolve crashes related to spawning in skyislands biomes.
