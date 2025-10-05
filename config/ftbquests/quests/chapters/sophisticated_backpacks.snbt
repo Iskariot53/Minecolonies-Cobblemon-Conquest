@@ -1,5 +1,5 @@
 {
-	autofocus_id: "00B9671338E0E8A4"
+	autofocus_id: "57205C2E097F6B3B"
 	default_hide_dependency_lines: true
 	default_quest_shape: "square"
 	filename: "sophisticated_backpacks"
@@ -1267,6 +1267,7 @@
 			disable_toast: true
 			hide_details_until_startable: true
 			hide_text_until_complete: true
+			hide_until_deps_complete: true
 			hide_until_deps_visible: true
 			id: "57205C2E097F6B3B"
 			invisible: true
@@ -1274,8 +1275,9 @@
 			size: 0.5d
 			tasks: [{
 				count: 999L
+				disable_toast: true
 				id: "2BF079905F882EB5"
-				item: { }
+				item: { count: 1, id: "minecraft:barrier" }
 				type: "item"
 			}]
 			x: 0.0d
