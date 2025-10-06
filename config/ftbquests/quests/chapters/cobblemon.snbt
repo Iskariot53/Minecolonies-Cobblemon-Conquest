@@ -1141,7 +1141,7 @@
 			}]
 			size: 1.5d
 			tasks: [{
-				id: "3C0BD5F7A81D25A6"
+				id: "2641EC9BD598F1AB"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(curios:smartphone)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
@@ -3496,8 +3496,8 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "2D452C84699B6A3B"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "52296AF3B69F7754"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelet)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -15.0d
@@ -3513,8 +3513,8 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "58745D7C7B79CFA9"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_rings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "1D0FBDDF8E1FE67F"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_ring)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -13.0d

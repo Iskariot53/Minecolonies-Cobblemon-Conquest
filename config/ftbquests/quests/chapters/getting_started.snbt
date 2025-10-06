@@ -4,7 +4,6 @@
 	default_quest_shape: ""
 	filename: "getting_started"
 	group: "4F7311E6BA484B49"
-	hide_quest_until_deps_complete: true
 	hide_quest_until_deps_visible: true
 	icon: {
 		id: "cobblemon:poke_ball"
