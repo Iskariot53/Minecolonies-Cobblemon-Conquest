@@ -361,6 +361,10 @@
         {
           "item": "cobblemon:fairy_gem",
           "price": 15000
+        },
+        {
+          "item": "mega_showdown:mega_stone",
+          "price": 25000
         }
       ]
     }
