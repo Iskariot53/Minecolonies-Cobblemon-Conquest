@@ -1,17 +1,99 @@
-Minecolonies - Cobblemon Conquest -  1.5.2 Changelog
+Minecolonies - Cobblemon Conquest -  1.5.3 Changelog
 
 
-Mods Removed
-
-
-- Packet Fixer
-
+- Updated to Neoforge 21.1.209
 
 
 Mods Added
 
 
-- FTB Ranks
+- Backpacked
+
+
+
+Mods Removed
+
+
+- Create Contraption Terminals
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- YetAnotherConfigLib
+
+
+Mods Updated
+
+
+- Accessories
+- Accessories Compatibility Layer
+- AdvancedAE
+- The Aether
+- Amplified Nether
+- Applied Energistics 2
+- Applied Mekanistics
+- BaguetteLib
+- Balm
+- Bookshelf
+- Byzantine Styles Pack for Minecolonies
+- Cobbleloots: Loot Balls and More!
+- Cobblemon Fight or Flight Reborn
+- Cobblemon: Legendary Monuments
+- Cobblemon: Parting Gifts
+- Cobblemon Pokenav
+- Collective
+- Connectivity
+- Cooking for Blockheads
+- Corpse
+- Corpse x Curios API Compat
+- Creae: Deep Dark
+- Create Crafts & Additions
+- Create: Filters Anywhere
+- Create: Hypertubes
+- CreativeCore
+- Default Options
+- Eternal Starlight
+- ForgeEndertech
+- Forgified Fabric API
+- FTB Chunks
+- FTB Essentials
+- FTB Filter System
+- FTB Library
+- FTB Quests
+- FTB Teams
+- FTB Ultimine
+- FTB XMod Compat
+- Fusion (Connected Textures)
+- GeckoLib
+- Glassential Renewed
+- GuideME
+- Immersive Aircraft
+- Industrial Foregoing
+- Just Enough Immersive Multiblocks
+- Just Enough Mekanism Multiblocks
+- KeybindsPurger
+- Kotlin for Forge
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Moonlight Lib
+- MoreCobblemonTweaks
+- Nullscape
+- Oritech
+- Ping Wheel
+- Prickle
+- Productive Bees
+- Radical Cobblemon Trainers
+- Radical Cobblemon Trainers API
+- Sinytra Connecto
+- Structures Tweakerr
+- Stylecolonies
+- Supplementaries
+- Twilight's Flavors & Delight
+- Underground Villages, Stoneholm
+- WATERFrAMES: Multimedia Displays
+- WATERMeDIA: Multimedia API
+- Waystones
 
 
 

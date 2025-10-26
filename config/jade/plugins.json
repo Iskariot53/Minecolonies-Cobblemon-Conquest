@@ -73,6 +73,9 @@
   "oritech": {
     "machine_core_controller": true
   },
+  "ftbquests": {
+    "barrier": true
+  },
   "cobblemonintegrations": {
     "healer": true,
     "fossil_analyzer": true,

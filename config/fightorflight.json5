@@ -9,6 +9,8 @@
 	"failed_capture_counted_as_provocation": true,
 	// Do aggro Pokemon attack their targets even if they're in the middle of a battles?
 	"do_pokemon_attack_in_battle": false,
+	// If the aggressive pokemon can be caught by Poke Ball.
+	"aggressive_pokemon_catchable": false,
 	// The minimum level a Pokemon needs to be to fight back when provoked.
 	"minimum_attack_level": 5,
 	// The minimum level a Pokemon needs to be to attack unprovoked.
@@ -187,8 +189,14 @@
 	"defense_stat_limit": 161,
 	// When a player owned Pokemon hurts or is hurt by a wild pokemon, should a pokemon battle be started?
 	"force_wild_battle_on_pokemon_hurt": false,
-	// When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started? (EXPERIMENTAL)
+	// When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started?
 	"force_player_battle_on_pokemon_hurt": false,
+	// When a player is hurt by a wild pokemon, should a pokemon battle be started?
+	"force_wild_battle_on_player_hurt": false,
+	// When a player is hurt by another player's pokemon, should a pokemon battle be started?
+	"force_player_battle_on_player_hurt": false,
+	// If this is set to true, only the players of different teams can start a battle
+	"force_player_battle_check_team": true,
 	// If wild pokemon can use the ranged attack.
 	"wild_pokemon_ranged_attack": false,
 	// The minimum time between pokemons ranged attacks. In seconds.
@@ -254,5 +262,9 @@
 	// If the pokemon can use damage-increasing held item
 	"can_use_held_item_damage_influencing": true,
 	// If the pokemon can use hp-restoring/damage-inflicting held item(Life Orb not included)
-	"can_use_held_item_hp_influencing": true
+	"can_use_held_item_hp_influencing": true,
+	// If the player's pokemon can hurt ender dragon
+	"player_pokemon_can_hurt_ender_dragon": true,
+	// If the wild poekmon can hurt ender dragon
+	"wild_pokemon_can_hurt_ender_dragon": false
 }

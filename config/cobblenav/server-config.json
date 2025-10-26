@@ -1,5 +1,4 @@
 {
-  "enableMythsAndLegendsIntegration": false,
   "hideUnknownPokemon": false,
   "showPokemonTooltips": true,
   "hideUnknownPokemonTooltips": false,
@@ -47,6 +46,10 @@
     "seafloor_type_block": true,
     "fishing_block": true,
     "count": true,
-    "streak": true
+    "streak": true,
+    "key_item": false,
+    "items": false,
+    "pokemon": false,
+    "zygarde_cube_charge": false
   }
 }
