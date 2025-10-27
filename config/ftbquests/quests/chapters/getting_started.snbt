@@ -609,12 +609,23 @@
 			dependencies: ["704FD1152464AD1B"]
 			hide_dependency_lines: true
 			id: "0C764519B69116BD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "759D7C5FCCC85034"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "759D7C5FCCC85034"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					count: 32
+					id: "2945524EF1D10ADF"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_dust"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "41915302D6379902"
 				item: { count: 1, id: "fluxnetworks:flux_dust" }
@@ -626,12 +637,23 @@
 		{
 			dependencies: ["0C764519B69116BD"]
 			id: "3164511E87565983"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3546878376C4B4B7"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3546878376C4B4B7"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					count: 32
+					id: "6696556BAF681F88"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_core"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C1634CEB42D152C"
 				item: { count: 1, id: "fluxnetworks:flux_core" }
@@ -694,12 +716,23 @@
 		{
 			dependencies: ["3164511E87565983"]
 			id: "7983E26A4F558799"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1EEFFB5027105102"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1EEFFB5027105102"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					count: 6
+					id: "3E4A8569CCB5C782"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_plug"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2FD05E064384ED32"
 				item: { count: 1, id: "fluxnetworks:flux_plug" }
@@ -711,12 +744,23 @@
 		{
 			dependencies: ["3164511E87565983"]
 			id: "5C37C0D926826F60"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "152A395F0DE0EE39"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "152A395F0DE0EE39"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					count: 6
+					id: "2E26C03C49D316A3"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_point"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6DC10CCA09907597"
 				item: { count: 1, id: "fluxnetworks:flux_point" }

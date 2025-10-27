@@ -3496,8 +3496,8 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "45E27640857A0E1C"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelet)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "2D452C84699B6A3B"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -15.0d
@@ -3513,8 +3513,8 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "7AB72039134C0A52"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_ring)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "58745D7C7B79CFA9"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_rings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -13.0d

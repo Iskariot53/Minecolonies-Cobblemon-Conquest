@@ -687,6 +687,8 @@
 	quest.15A607EBD58F699D.title: "&2&lHollow Hills"
 	quest.15BEA77F7610BACA.quest_desc: ["&e&lFiery Armor&r&r is armor made from Fiery Ingots and has the innate skill to burn attackers."]
 	quest.15BEA77F7610BACA.title: "Fiery Armor"
+	quest.15EDEA2E3D312AB2.quest_desc: ["This three seater is amphibious and powerfull. great for going anywhere espesially upgraded!"]
+	quest.15EDEA2E3D312AB2.quest_subtitle: "Craft or Obtain a Bamboo Hopper"
 	quest.15FA9A479EE5E88C.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
 	quest.1665F1A15B6A0F53.quest_desc: ["The &6&lRallying Banner&r&r will summon your &9Guards&r to you when used. It's especially useful in &craids&r, as Guards don't automatically know where to find the raiders."]
 	quest.1665F1A15B6A0F53.title: "&6&lRallying Banner"
@@ -1638,6 +1640,8 @@
 	quest.353A06EAE19F5598.title: "&2&lSlay A Giant Miner"
 	quest.35947D9A5AF50325.quest_subtitle: "Round 1"
 	quest.35947D9A5AF50325.title: "Defeat Cynthia"
+	quest.36146FF5F795E67A.quest_desc: ["These Quests are tied to the core components that are used as materials"]
+	quest.36146FF5F795E67A.quest_subtitle: "Parts"
 	quest.363597FAD27A6827.quest_subtitle: "Round 2"
 	quest.363597FAD27A6827.title: "Defeat Saturn"
 	quest.3637BDDF33899F5D.quest_desc: [
@@ -2262,8 +2266,11 @@
 	quest.4C8A24C2E2C2E995.quest_subtitle: "&eNeed more babees?"
 	quest.4C8A24C2E2C2E995.title: "&6&lUpgrade: BaBee"
 	quest.4CAA0224C3ED7451.title: "Craft your Mega Bracelet"
+	quest.4CB0DED7495F9891.quest_desc: ["Your variety of &oCheap flight."]
+	quest.4CB0DED7495F9891.quest_subtitle: "\"PFFFFFT Screw Gravity\" ASDF guy"
 	quest.4CBC70D40DAA38A3.title: "&9&lBasic Induction Cell"
 	quest.4CDFFAA4F900A169.quest_subtitle: "Form the Mixer multiblock"
+	quest.4CFD8F4E93154BB9.quest_desc: ["Can be fueled with hydrogen or ethene gas."]
 	quest.4CFD8F4E93154BB9.title: "&9&lGas-Burning Generator"
 	quest.4D1BC9C3857360CD.title: "Defeat Mirskle"
 	quest.4D2634CE591F088F.quest_desc: [
@@ -2289,7 +2296,10 @@
 	quest.4D8FB15CFB4FF9B4.quest_desc: ["The &e&lCharm of Life II&r&r will heal the player fully, and activate Regeneration IV, Resistance and Fire Resistance for the next 30 seconds."]
 	quest.4D923C6A898E849A.quest_desc: ["The Ultra Ball is a third tier Poké Ball. Unlike tier 1 and 2 Poké Balls, Ultra Balls require an iron ingot and a specific pattern of apricorns, aprigel or dye to craft and has a higher static catch rate at 1.5x that of the tier 1 and 2 balls."]
 	quest.4D923C6A898E849A.quest_subtitle: "2x Catch rate"
-	quest.4D97B36C553829F3.quest_desc: ["Wasted radioactive combs can be processed in a chemical oxidizer in order to more safely and easily automate the production of waste."]
+	quest.4D97B36C553829F3.quest_desc: [
+		"Wasted radioactive combs can be processed in a chemical oxidizer in order to more safely and easily automate the production of waste."
+		"Lithium comb and comb blocks can be processed in the chemical oxidizer to make lithium that can be processed in the solar neutron activator to make tritium."
+	]
 	quest.4D97B36C553829F3.quest_subtitle: "&3Processing eggs and combs"
 	quest.4D97B36C553829F3.title: "&9&lChemical Oxidizer"
 	quest.4DD64B7322641A51.title: "Defeat Lt. Surge"
@@ -2454,6 +2464,11 @@
 	quest.532251F10407CD16.quest_desc: ["The &6&lMechanic's Hut&r&r &9requires research&r at the &6University&r to be built, and is where the &6&lMechanic&r&r will craft redstone items, rails, minecarts, clocks, compasses, and many other items that &cno other crafter&r can make. For the Mechanic to work, they must receive a request from another worker and have the necessary materials. The Mechanic's Hut must also have been &9taught&r the crafting recipes for all the items you want the Mechanic to be able to craft."]
 	quest.532251F10407CD16.quest_subtitle: "&eMechanic's Hut"
 	quest.532251F10407CD16.title: "&6&lMechanics"
+	quest.53348D435700DDCF.quest_desc: [
+		"&o\"DAKA DAKA DAKA\""
+		"Ammunition type: Gunpowder"
+	]
+	quest.53348D435700DDCF.quest_subtitle: "Craft A Rotary Cannon Upgrade"
 	quest.534342E42661CBBB.title: "Defend Your Title!"
 	quest.534B4F74DA1EF827.title: "Defeat Ruin Agent Vega"
 	quest.5392A8DC9F2C3D5C.quest_desc: ["With the mechanical press you can now make your sheet metals much more efficiently, at 1 ingot per."]
@@ -2702,6 +2717,7 @@
 	]
 	quest.5D59D6E285A0AA44.title: "&2&lSlay The Hydra"
 	quest.5D755842C77190EF.quest_subtitle: "Craft the Mining Drill"
+	quest.5DB9063A0C07CFC3.quest_desc: ["Mounted Crossbows for your craft."]
 	quest.5DDCDC6AA7C673EE.quest_subtitle: "Guaranteed Capture"
 	quest.5DE1C3B17B55B4D1.quest_desc: ["The &6&lUniversity&r&r is where a &6&lResearcher&r&r will &9research various upgrades&r to your colony. Each &6Researcher&r can start their own research, but more Researchers &cdoes not&r lower the &9amount of time&r each individual research takes. For example, having two &6Researchers&r but only one research in progress does not decrease the time that single research takes."]
 	quest.5DE1C3B17B55B4D1.quest_subtitle: "&6University"
@@ -2837,6 +2853,8 @@
 		"Once the backpack is dyed, you can continue adding dyes which combine the current main, accent or both colors. You can &cwash away&r the color from any dyed backpack by holding it in your main hand and clicking with it on a &ccauldron with water&r."
 	]
 	quest.6116685D5414CC02.title: "&lDyeing your Backpack"
+	quest.6120626A53ED8ADD.quest_desc: ["for those who want to fly!"]
+	quest.6120626A53ED8ADD.quest_subtitle: "One Flight Option"
 	quest.6129AE04B5E61F30.quest_subtitle: "Round 1"
 	quest.6129AE04B5E61F30.title: "Defeat Marlon"
 	quest.612DB4407ADEEDEE.quest_desc: ["Use magma cream on a &cnether brick&r nest to spawn a magmatic bee if you cannot find one."]
@@ -3036,6 +3054,8 @@
 	]
 	quest.65E2FC8F97E67B93.quest_desc: ["Find the Bronze Dungeon and defeat the Bronze Boss."]
 	quest.65E2FC8F97E67B93.title: "The Bronze Dungeon"
+	quest.660A6932CF8171B1.quest_desc: ["Make your Aircraft Better!"]
+	quest.660A6932CF8171B1.quest_subtitle: "\"Upgrades People, Upgrades\""
 	quest.660CF547B8328F09.quest_desc: ["The Thermal Evaporation Plant is a multi-block structure used in the production of brine and Liquid Lithium. Brine is used in the ore refining process and to create various chemicals, such as Chlorine. Liquid Lithium is used in the creation of Tritium, which is used with Deuterium as the Fuel in a Fusion Reactor."]
 	quest.660CF547B8328F09.title: "&9&l32x Thermal Evaporation Block"
 	quest.661BB2E3C98A16DC.quest_subtitle: "Round 2"
@@ -3820,10 +3840,12 @@
 	quest.7FE58D6DDE67B8A7.quest_subtitle: "&9Even bigger bulk storage"
 	quest.7FE58D6DDE67B8A7.title: "&3&lAdvanced Black Hole Unit"
 	reward_table.04EA052095EE7A0C.title: "T3 cobblemon rewards"
+	reward_table.2E3F24EAD77F3DCD.title: "Immersive Aircraft Vehicle Loot"
 	reward_table.416D1D518D41BB01.title: "Immersive Engineering"
 	reward_table.4A6FA422F78835F6.title: "Mekanism"
 	reward_table.5396FA9EF19E4CCB.title: "T1 cobblemon rewards"
 	reward_table.544604192DA3A87E.title: "AE2"
+	reward_table.54516036015C24B8.title: "Immersive Aircraft General Loot"
 	reward_table.54B760B03C715A3B.title: "Oritech"
 	reward_table.5599E1C923051825.title: "T2 cobblemon rewards"
 	reward_table.5AB271E02326865C.title: "MineColonies"
@@ -3909,7 +3931,6 @@
 	task.1B0511A0BC0B1552.title: "Acquire a Sulfur Bee"
 	task.1B15B4A1AD7F65C8.title: "&l&eTame Raptor (Dark Green)"
 	task.1B99CA948A040562.title: "Any #smallships:briggs"
-	task.1D0FBDDF8E1FE67F.title: "Any #mega_showdown:z_ring"
 	task.1D30DDF02CF449F5.title: "&l&eTame Small Slime (Light Blue)"
 	task.1D474902C502C04F.title: "Thornborn Towers"
 	task.1D4BA4CCB62C060E.title: "Acquire a luminarchy bee"
@@ -3929,7 +3950,6 @@
 	task.22F958F68B508490.title: "Acquire a mana bee"
 	task.23AF3B21A89D2172.title: "Granite Fort"
 	task.23CB96896BC8519D.title: "Bathhouse"
-	task.2641EC9BD598F1AB.title: "Any #curios:smartphone"
 	task.267719275AC1D996.title: "Acquire a silky bee"
 	task.269E6D08E6396407.title: "Acquire a refined obsidian bee"
 	task.26D4F88905FEE2D8.title: "Any #smallships:cogs"
@@ -3947,6 +3967,7 @@
 	task.2C10F4B541FF1BBE.title: "Toxic Caves"
 	task.2C668EF04A176CE5.title: "Acquire an emerald bee"
 	task.2CB86DB746200509.title: "Acquire an aluminum bee"
+	task.2D452C84699B6A3B.title: "Mega Bracelet"
 	task.2DA3480D11AE9DEF.title: "Find a slimy bee"
 	task.2E00420481E2655F.title: "Find a sponge bee"
 	task.2E0FAFFC870F5142.title: "Find an ashy mining bee"
@@ -3970,6 +3991,7 @@
 	task.331682D58E3A532F.title: "Bastion Remnant"
 	task.331F3B9B48514A05.title: "Acquire a prismalium bee"
 	task.3348ED1D5842E723.title: "Acquire a fluix bee"
+	task.334BAE232C58C82F.title: "Upgrades"
 	task.33559FB8C6634DC3.title: "Acquire a rose quartz bee"
 	task.33C46E0CC2F814AA.title: "Acquire an iron bee"
 	task.34698AB199FE7411.title: "Minka Village"
@@ -3994,6 +4016,7 @@
 	task.3B07531AC37F1FF7.title: "Find a reed bee"
 	task.3B3B3E27081D6D28.title: "Fishing for bees"
 	task.3B767C1079613226.title: "Acquire a bronze bee"
+	task.3C0BD5F7A81D25A6.title: "Any #curios:smartphone"
 	task.3C33DD2DA722B47E.title: "The Nether"
 	task.3CE3DD884467C5BE.title: "Cabin Village"
 	task.3CEAF3B38556D35A.title: "Nether Fortress"
@@ -4002,6 +4025,7 @@
 	task.3E538E3B1EDACB28.title: "Old Fort"
 	task.3F6DCAA272338625.title: "Abyssal Chasm"
 	task.3F7A56447B9E50D0.title: "Airship Village"
+	task.40C53B426F32A07E.title: "Components"
 	task.4136C7309693053E.title: "Apothecary Abode"
 	task.418B7CBFE8ABF7B2.title: "Find a crystalline bee"
 	task.41F6B75B65C4D9FA.title: "Acquire a diamond bee"
@@ -4041,7 +4065,6 @@
 	task.511D58A375F13527.title: "Fortified Temple"
 	task.518F6839E569792F.title: "Haunted Manor"
 	task.5192854682D3DF80.title: "Find a chocolate mining bee"
-	task.52296AF3B69F7754.title: "Any #mega_showdown:mega_bracelet"
 	task.526E0DB16CA7F4B3.title: "&l&eTame Fairy (Red)"
 	task.52CE66D7B2434D4A.title: "Acquire a philolite bee"
 	task.538FF059B5F47525.title: "Acquire a sculk bee"
@@ -4060,6 +4083,7 @@
 	task.57C41A0C1456AC96.title: "Acquire a creebee"
 	task.57F513DCBD9930F0.title: "Acquire a plastic bee"
 	task.586BD2D4D08A8E51.title: "Acquire a dragonsteel bee"
+	task.58745D7C7B79CFA9.title: "Any #mega_showdown:z_rings"
 	task.587F9B52A203FEEA.title: "Magnetic Caves"
 	task.59053364AD841B37.title: "Ancient City"
 	task.592A374CAA69628B.title: "Acquire a copper bee"
@@ -4133,6 +4157,7 @@
 	task.7C314130097D621D.title: "IVs"
 	task.7C61825AEEDF790D.title: "Sinking Temple"
 	task.7C757E6102D1C95E.title: "Any #cobblemon:berries"
+	task.7D47031BA763A6E5.title: "Aircraft"
 	task.7D6DDCE011313689.title: "Optimal Hunting"
 	task.7DD863EBB8F0BB51.title: "&l&eTame Samurai"
 	task.7E3A063DFD3C6532.title: "&l&eTame Small Slime (Lime)"

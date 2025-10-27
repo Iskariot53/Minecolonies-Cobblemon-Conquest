@@ -1,27 +1,4 @@
-{
-	version: 1
-	uuid: "6d5789375ca5425bb4da43565bbb342b"
-	name: "Zanthiem#6d578937"
-	lock: false
-	rewards_blocked: false
-	task_progress: {
-		2BF079905F882EB5: 78
-		67CA9A067CA67384: 78
-	}
-	started: {
-		0C40BEA2F3B1B245: 1749774640631L
-		2BF079905F882EB5: 1749774640631L
-		57205C2E097F6B3B: 1749774640631L
-		0000000000000001: 1749774640631L
-		67CA9A067CA67384: 1749774640657L
-		5EDA313229862382: 1749774640657L
-		5E8B386358D2260F: 1749774640657L
-	}
-	completed: { }
-	claimed_rewards: { }
-	player_data: {
-		6d5789375ca5425bb4da43565bbb342b: {
-			can_edit: 1b
-		}
-	}
-}
+# Default config file that will be copied to local\ftbquests\client-config.snbt if it doesn't exist!
+# Just copy any values you wish to override in here!
+
+{ }
