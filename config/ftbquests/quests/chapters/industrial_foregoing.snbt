@@ -19,7 +19,7 @@
 		}
 		{
 			height: 9.0d
-			image: "ccextras:textures/ether_set_up.png"
+			image: "mcc:textures/ether_set_up.png"
 			rotation: 0.0d
 			width: 6.0d
 			x: 8.5d
@@ -27,7 +27,7 @@
 		}
 		{
 			height: 6.0d
-			image: "ccextras:textures/laser_drills.png"
+			image: "mcc:textures/laser_drills.png"
 			rotation: 0.0d
 			width: 6.0d
 			x: -2.5d

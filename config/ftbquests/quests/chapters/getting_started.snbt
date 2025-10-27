@@ -724,8 +724,8 @@
 					type: "loot"
 				}
 				{
-					count: 6
-					id: "3E4A8569CCB5C782"
+					count: 3
+					id: "75F54F3E1330BD82"
 					item: {
 						count: 1
 						id: "fluxnetworks:flux_plug"
@@ -752,7 +752,7 @@
 					type: "loot"
 				}
 				{
-					count: 6
+					count: 3
 					id: "2E26C03C49D316A3"
 					item: {
 						count: 1

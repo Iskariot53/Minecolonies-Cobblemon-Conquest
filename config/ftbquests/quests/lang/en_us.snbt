@@ -5,7 +5,6 @@
 	chapter.064AE5987A6C474D.title: "&9Create"
 	chapter.0836214B59E7D830.title: "&eThe Twilight Forest"
 	chapter.08CE67C453CF05CC.title: "&9Oritech"
-	chapter.0C40BEA2F3B1B245.title: "&9Sophisticated Storage"
 	chapter.0D98B33203B576DF.title: "&9Mekanism"
 	chapter.181583F6F00E32D3.title: "&9Deeper and Darker"
 	chapter.1900D81E9D2138D9.title: "&9Cobblemon"
@@ -1090,7 +1089,6 @@
 	quest.22B6D3A956C1306D.quest_subtitle: "&6contraption fluid transfer"
 	quest.22B6D3A956C1306D.title: "&e&lPortable Fluid Interface"
 	quest.231F3089F15E69E4.quest_desc: ["&e&lTransformation Powder&r&r is a bright blue magical item found in Hollow Hills treasure chests. It can transform Twilight items into dimensional items and change otherworldly creatures into Twilight Forest creatures and vice versa. This powder can alter the environment or help escape dangerous creatures by turning them into harmless mobs."]
-	quest.2326AE23B198826E.title: "&9&lBio-Generator"
 	quest.23395736A467E929.quest_desc: [
 		"Once the magic beans have been planted in Uberous Soil, the resulting beanstalk provides a quick climb to the cloud. It’s recommended to place torches along the beanstalk to illuminate the darkness beneath."
 		""
@@ -2270,8 +2268,6 @@
 	quest.4CB0DED7495F9891.quest_subtitle: "\"PFFFFFT Screw Gravity\" ASDF guy"
 	quest.4CBC70D40DAA38A3.title: "&9&lBasic Induction Cell"
 	quest.4CDFFAA4F900A169.quest_subtitle: "Form the Mixer multiblock"
-	quest.4CFD8F4E93154BB9.quest_desc: ["Can be fueled with hydrogen or ethene gas."]
-	quest.4CFD8F4E93154BB9.title: "&9&lGas-Burning Generator"
 	quest.4D1BC9C3857360CD.title: "Defeat Mirskle"
 	quest.4D2634CE591F088F.quest_desc: [
 		"The &6&lFisher's Hut&r&r is where the &6&lFisher&r&r will catch fish. The &6Fisher&r requires a &9fishing rod&r and a body of water of a minimum of 7 blocks wide, 7 blocks long and 2 blocks deep to be able to work, and the water must be near the hut."
@@ -2757,8 +2753,6 @@
 	]
 	quest.5EB495D8571A9118.quest_subtitle: "&eExpansion without boxes"
 	quest.5EB495D8571A9118.title: "&6&lUpgrade: Range"
-	quest.5EDA313229862382.quest_desc: [""]
-	quest.5EDA313229862382.title: "AUTOFOCUS"
 	quest.5EFF8F2CA747D6BF.quest_desc: [
 		"The &6&lMinecolonies - Create and Conquer&r&r Modpack is licensed under &eAll Rights Reserved&r."
 		""

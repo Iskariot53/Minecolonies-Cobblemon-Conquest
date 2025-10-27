@@ -100,5 +100,7 @@ Mods Updated
 Changes
 
 
-- Outbreaks updated. Sharpedo removed, Charjabug removed and replaced with Grubbin.
-- Attempt to resolve crashes related to spawning in skyislands biomes.
+- Removed sophosticated mods and quests.
+- Fixed some quest points failing due to tag issues.
+- Multiple quest lines/rewards updated as well as updated visually.
+- Spawn pools update for balance, isolated issues were causing certain spawns to effectively "drown out" others.

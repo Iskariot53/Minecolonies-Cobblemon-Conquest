@@ -244,13 +244,13 @@
 				{
 					count: 2L
 					id: "161AA0E9C1F74189"
-					item: { count: 2, id: "immersiveengineering:conveyor_basic" }
+					item: { count: 1, id: "immersiveengineering:conveyor_basic" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "73F9900AC0768CB3"
-					item: { count: 2, id: "immersiveengineering:steel_scaffolding_standard" }
+					item: { count: 1, id: "immersiveengineering:steel_scaffolding_standard" }
 					type: "item"
 				}
 				{

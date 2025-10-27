@@ -1,5 +1,5 @@
 {
-	autofocus_id: "5EDA313229862382"
+	autofocus_id: "06F6FB4557C2EFCB"
 	default_hide_dependency_lines: false
 	default_quest_shape: "square"
 	filename: "toms_simple_storage"
@@ -24,11 +24,11 @@
 			image: "mcc:textures/tom-s-simple-storage.png"
 			rotation: 0.0d
 			width: 16.0d
-			x: 6.5d
-			y: -5.5d
+			x: 6.642857142857139d
+			y: -5.214285714285715d
 		}
 	]
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -305,24 +305,6 @@
 			}]
 			x: 2.0d
 			y: -2.0d
-		}
-		{
-			disable_toast: true
-			hide_details_until_startable: true
-			hide_text_until_complete: true
-			hide_until_deps_visible: true
-			id: "5EDA313229862382"
-			invisible: true
-			optional: true
-			size: 0.5d
-			tasks: [{
-				count: 999L
-				id: "67CA9A067CA67384"
-				item: { }
-				type: "item"
-			}]
-			x: 6.357142857142854d
-			y: 1.9642857142857153d
 		}
 		{
 			disable_toast: true
