@@ -1,0 +1,56 @@
+{
+	id: "416D1D518D41BB01"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "immersive_engineering"
+	}
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 3
+			id: "06CA508FAF00AF85"
+			item: {
+				count: 1
+				id: "immersiveengineering:light_bulb"
+			}
+		}
+		{
+			count: 12
+			id: "50F4A81ED6546723"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_iron"
+			}
+		}
+		{
+			count: 6
+			id: "2E6D5EA8A5EC0527"
+			item: {
+				count: 1
+				id: "immersiveengineering:component_steel"
+			}
+		}
+		{
+			count: 6
+			id: "6A20153F6C39D2D7"
+			item: {
+				count: 1
+				id: "immersiveengineering:hemp_fabric"
+			}
+		}
+		{
+			count: 10
+			id: "09A8670B0D8EFF47"
+			item: {
+				count: 1
+				id: "immersiveengineering:plate_duroplast"
+			}
+		}
+	]
+}

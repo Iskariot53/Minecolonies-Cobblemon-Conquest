@@ -1,0 +1,59 @@
+{
+	id: "5AB271E02326865C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "minecolonies"
+	}
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			count: 6
+			id: "3E8D3FF98DB04AC5"
+			item: {
+				count: 1
+				id: "minecolonies:steak_dinner"
+			}
+			tags: ["cook_product"]
+		}
+		{
+			count: 12
+			id: "431FBAC1BFF1C2AF"
+			item: {
+				count: 1
+				id: "minecolonies:eggdrop_soup"
+			}
+		}
+		{ id: "193FBDB870A73351", item: { count: 1, id: "minecolonies:ancienttome" } }
+		{ id: "3E11BC0BCF2D8450", item: { count: 1, id: "torchmaster:megatorch" } }
+		{
+			count: 6
+			id: "08184DA8D7978F28"
+			item: {
+				count: 1
+				id: "minecolonies:blockminecoloniesrack"
+			}
+		}
+		{
+			count: 6
+			id: "56425CDA6194F866"
+			item: {
+				count: 1
+				id: "minecolonies:fish_n_chips"
+			}
+		}
+		{
+			count: 8
+			id: "4B12401468D2CF0D"
+			item: {
+				count: 1
+				id: "farmersdelight:egg_sandwich"
+			}
+		}
+	]
+}

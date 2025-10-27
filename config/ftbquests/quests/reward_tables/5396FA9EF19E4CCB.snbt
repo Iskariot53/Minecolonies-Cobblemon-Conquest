@@ -1,0 +1,76 @@
+{
+	id: "5396FA9EF19E4CCB"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "t1_cobblemon_rewards"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 10
+			id: "4B76A59A3695378B"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 5
+			id: "78E10D934225CC93"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "01853CCACD6C12D5"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 25
+			id: "67AC7216EB266820"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+		}
+		{ id: "3FF7982FACF0EB0F", item: { count: 1, id: "cobblemon:normal_gem" } }
+		{ id: "1D0665A59B4F11C7", item: { count: 1, id: "cobblemon:fire_gem" } }
+		{ id: "280D7648D96E9B08", item: { count: 1, id: "cobblemon:water_gem" } }
+		{ id: "6B433B40775752BE", item: { count: 1, id: "cobblemon:grass_gem" } }
+		{ id: "275F56404C3737C0", item: { count: 1, id: "cobblemon:electric_gem" } }
+		{ id: "63F719870E1A5EFC", item: { count: 1, id: "cobblemon:ice_gem" } }
+		{ id: "4C5497B01BD62AE7", item: { count: 1, id: "cobblemon:fighting_gem" } }
+		{ id: "62CC052AB6119342", item: { count: 1, id: "cobblemon:poison_gem" } }
+		{ id: "4BE1020CFA184111", item: { count: 1, id: "cobblemon:ground_gem" } }
+		{ id: "0DF1A70BF6B70DB4", item: { count: 1, id: "cobblemon:flying_gem" } }
+		{ id: "74F25242C6C0C752", item: { count: 1, id: "cobblemon:psychic_gem" } }
+		{ id: "2EBD04CC920A8A5E", item: { count: 1, id: "cobblemon:bug_gem" } }
+		{ id: "030BD62924956836", item: { count: 1, id: "cobblemon:rock_gem" } }
+		{ id: "64C12101ECA42F74", item: { count: 1, id: "cobblemon:ghost_gem" } }
+		{ id: "2DCD9BC3DFD6C65E", item: { count: 1, id: "cobblemon:dragon_gem" } }
+		{ id: "705F4D7C3FBE2158", item: { count: 1, id: "cobblemon:dark_gem" } }
+		{ id: "01526D3823A2D61C", item: { count: 1, id: "cobblemon:steel_gem" } }
+		{ id: "7613C1E8CED4847D", item: { count: 1, id: "cobblemon:fairy_gem" } }
+		{
+			count: 3
+			id: "7F26646A255A950F"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	id: "03AE5D7E38248891"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "if"
+	}
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 12
+			id: "5C92BEB91C9B7F77"
+			item: {
+				count: 1
+				id: "industrialforegoing:plastic"
+			}
+		}
+		{ id: "1D8020F2E536DDDD", item: { count: 1, id: "industrialforegoing:machine_frame_pity" } }
+		{
+			id: "51540ECC0A35B239"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_simple"
+			}
+			weight: 0.6f
+		}
+		{
+			id: "403A41CB6C15511B"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_advanced"
+			}
+			weight: 0.3f
+		}
+		{ id: "5EB6FC5150D67DA2", item: { count: 1, id: "industrialforegoing:mob_imprisonment_tool" } }
+	]
+}

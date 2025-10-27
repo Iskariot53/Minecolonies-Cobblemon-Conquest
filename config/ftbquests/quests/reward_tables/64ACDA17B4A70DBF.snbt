@@ -1,0 +1,56 @@
+{
+	id: "64ACDA17B4A70DBF"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "create"
+	}
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			count: 16
+			id: "6D4DD1FFF6BA0027"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+		}
+		{
+			count: 8
+			id: "44A6AEF19592509D"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "65CCD8D95976C0B3"
+			item: {
+				count: 1
+				id: "create:polished_rose_quartz"
+			}
+		}
+		{
+			count: 16
+			id: "073E658875ED4668"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+		}
+		{
+			count: 10
+			id: "0D0ABF5777335B70"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	id: "6D23D66D62D1F57F"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "general"
+	}
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 2
+			id: "395DDFD0BEF06621"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 5
+			id: "29B8041F3B0B2DC2"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 8
+			id: "5F005B4BE8D2E3D5"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 6
+			id: "45F22195FF8DCB1B"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+		}
+		{
+			count: 12
+			id: "1A95D0EC503ADC98"
+			item: {
+				count: 1
+				id: "minecraft:iron_ore"
+			}
+		}
+		{
+			count: 8
+			id: "7B454BEFA4146C11"
+			item: {
+				count: 1
+				id: "minecraft:gold_ore"
+			}
+		}
+		{
+			count: 5
+			id: "34728D582C714A83"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "33AC498E4A849EBA"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+			weight: 1.5f
+		}
+	]
+}

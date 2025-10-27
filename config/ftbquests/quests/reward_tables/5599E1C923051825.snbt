@@ -1,0 +1,64 @@
+{
+	id: "5599E1C923051825"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "t2_cobblemon_rewards"
+	}
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 10
+			id: "2341468991883778"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 5
+			id: "7C730FB92BAF98FB"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+		{
+			count: 5
+			id: "1AF51236CBA146EE"
+			item: {
+				count: 1
+				id: "cobblemon:timer_ball"
+			}
+		}
+		{
+			count: 2
+			id: "39BF3E510E1AE4CF"
+			item: {
+				count: 1
+				id: "cobblemon:ability_capsule"
+			}
+		}
+		{ id: "097E625A790CC5DD", item: { count: 1, id: "cobblemon:ability_patch" } }
+		{ id: "085E01A5764A396C", item: { count: 1, id: "brendons_bottlecaps:atksilvercap" } }
+		{ id: "0E29D15581160D90", item: { count: 1, id: "brendons_bottlecaps:spatksilvercap" } }
+		{ id: "0E5DCD314AA59E9E", item: { count: 1, id: "brendons_bottlecaps:spdefsilvercap" } }
+		{ id: "31ED1301D9C0A893", item: { count: 1, id: "brendons_bottlecaps:speedsilvercap" } }
+		{ id: "4A552D2ACB4012C8", item: { count: 1, id: "brendons_bottlecaps:defsilvercap" } }
+		{ id: "76302421F9ED322E", item: { count: 1, id: "brendons_bottlecaps:hpsilvercap" } }
+		{
+			count: 3
+			id: "7CFAA96F88E97DCD"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+		}
+	]
+}

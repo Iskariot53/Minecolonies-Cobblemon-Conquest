@@ -1,0 +1,77 @@
+{
+	id: "4A6FA422F78835F6"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "mekanism"
+	}
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 12
+			id: "2FE83F8F60E72B95"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 6
+			id: "3348CB2DA449CAC4"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "0EBEBE82BC79A1F0"
+			item: {
+				count: 1
+				id: "mekanism:alloy_atomic"
+			}
+		}
+		{
+			count: 8
+			id: "702CB1C74DEE9F7F"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 6
+			id: "34AA2A0D66D927EF"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "7BEE23245EACDBAB"
+			item: {
+				count: 1
+				id: "mekanism:elite_control_circuit"
+			}
+		}
+		{
+			count: 2
+			id: "01D0EDC99D7831CE"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_control_circuit"
+			}
+			weight: 0.5f
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	id: "544604192DA3A87E"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ae2"
+	}
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			count: 16
+			id: "546EFA4B91B38F45"
+			item: {
+				count: 1
+				id: "ae2:charged_certus_quartz_crystal"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 6
+			id: "688BE568F5248A1E"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 4
+			id: "6ABA346B1B26E8F2"
+			item: {
+				count: 1
+				id: "ae2:logic_processor"
+			}
+		}
+		{
+			count: 4
+			id: "39A1AB9CA53E0F83"
+			item: {
+				count: 1
+				id: "ae2:calculation_processor"
+			}
+		}
+		{
+			count: 4
+			id: "476EA3141A96B7CC"
+			item: {
+				count: 1
+				id: "ae2:engineering_processor"
+			}
+		}
+		{
+			id: "26E2887EB5A46228"
+			item: {
+				count: 1
+				id: "ae2:singularity"
+			}
+			weight: 0.5f
+		}
+	]
+}
