@@ -1,0 +1,84 @@
+{
+	id: "54516036015C24B8"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "immersive_aircraft_general_loot"
+	}
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			count: 16
+			id: "45DAC6BE0918B43E"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 16
+			id: "74706532632A7512"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 8
+			id: "7548A2D31ADAE244"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 30.0f
+		}
+		{
+			count: 8
+			id: "035D8F7811494F2E"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "631A115FB10FD12E"
+			item: {
+				count: 1
+				id: "immersive_aircraft:hull"
+			}
+			weight: 20.0f
+		}
+		{
+			id: "66DA73B7EAC09248"
+			item: {
+				count: 1
+				id: "immersive_aircraft:engine"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "11738DCA9D0B9C9F"
+			item: {
+				count: 1
+				id: "immersive_aircraft:sail"
+			}
+			weight: 20.0f
+		}
+		{
+			id: "445E4F5ECFBB0DCF"
+			item: {
+				count: 1
+				id: "immersive_aircraft:propeller"
+			}
+			weight: 20.0f
+		}
+	]
+}

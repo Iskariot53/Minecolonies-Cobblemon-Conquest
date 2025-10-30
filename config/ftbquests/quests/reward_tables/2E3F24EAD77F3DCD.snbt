@@ -1,0 +1,36 @@
+{
+	id: "2E3F24EAD77F3DCD"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "immersive_aircraft_vehicle_loot"
+	}
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ id: "285415FEE393B08F", item: { count: 1, id: "immersive_aircraft:eco_engine" } }
+		{
+			id: "29FAA32069665CD5"
+			item: {
+				count: 1
+				id: "immersive_aircraft:nether_engine"
+			}
+			weight: 0.5f
+		}
+		{ id: "6E09E96E927DC890", item: { count: 1, id: "immersive_aircraft:gyroscope" } }
+		{ id: "5BC0F15ECC51A683", item: { count: 1, id: "immersive_aircraft:hull_reinforcement" } }
+		{ id: "6BAF0E6097223317", item: { count: 1, id: "immersive_aircraft:heavy_crossbow" } }
+		{ id: "5F5ECF9320072F50", item: { count: 1, id: "immersive_aircraft:rotary_cannon" } }
+		{ id: "5642E5E84DF0DA57", item: { count: 1, id: "immersive_aircraft:improved_landing_gear" } }
+		{ id: "52FC938CF86D3EC5", item: { count: 1, id: "immersive_aircraft:sturdy_pipes" } }
+		{ id: "28A17DE35788E227", item: { count: 1, id: "immersive_aircraft:steel_boiler" } }
+		{ id: "730AC2FDBC51B463", item: { count: 1, id: "immersive_aircraft:industrial_gears" } }
+		{ id: "2ABE9DC1F7A6D64C", item: { count: 1, id: "immersive_aircraft:enhanced_propeller" } }
+		{ id: "663BECC3B5562210", item: { count: 1, id: "immersive_aircraft:telescope" } }
+		{ id: "1F25685858348D95", item: { count: 1, id: "immersive_aircraft:bomb_bay" } }
+	]
+}
