@@ -1,0 +1,339 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:any_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:match_tool",
+                      "predicate": {
+                        "items": "minecraft:shears"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:match_tool",
+                      "predicate": {
+                        "predicates": {
+                          "minecraft:enchantments": [
+                            {
+                              "enchantments": "minecraft:silk_touch",
+                              "levels": {
+                                "min": 1
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "name": "cobblemon:apricorn_leaves"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "items": "minecraft:shears"
+                }
+              },
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "predicates": {
+                    "minecraft:enchantments": [
+                      {
+                        "enchantments": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "chances": [
+                0.02,
+                0.022222223,
+                0.025,
+                0.033333335,
+                0.1
+              ],
+              "condition": "minecraft:table_bonus",
+              "enchantment": "minecraft:fortune"
+            }
+          ],
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ],
+          "name": "minecraft:stick"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "items": "minecraft:shears"
+                }
+              },
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "predicates": {
+                    "minecraft:enchantments": [
+                      {
+                        "enchantments": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "condition": "minecraft:table_bonus",
+          "enchantment": "minecraft:fortune",
+          "chances": [
+            0.05,
+            0.0625,
+            0.083333336,
+            0.1
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:red_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:red_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:blue_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:blue_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:yellow_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:yellow_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:green_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:green_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pink_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pink_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:black_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:black_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:sequence",
+          "weight": 1,
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:white_apricorn_seed"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:white_apricorn",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "cobblemon:blocks/apricorn_leaves"
+}
