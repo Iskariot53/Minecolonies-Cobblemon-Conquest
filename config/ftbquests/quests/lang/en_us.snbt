@@ -28,10 +28,10 @@
 	chapter.707349D42B2378BD.title: "&9Productive Bees"
 	chapter.7BFF883E4584D5BF.title: "&9Eternal Starlight"
 	chapter.7FD5EA4BB520625C.title: "Sophisticated Storage"
-	chapter_group.2D51A79A011E57C1.title: "&c&lExploration"
-	chapter_group.4F7311E6BA484B49.title: "&c&lMain Quests"
-	chapter_group.6D629D6C6B01FD7C.title: "&c&lStorage and Mobility"
-	chapter_group.7C5E8979F01FD474.title: "&c&lTechnology"
+	chapter_group.2D51A79A011E57C1.title: "&4&lExploration"
+	chapter_group.4F7311E6BA484B49.title: "&4&lMain Quests"
+	chapter_group.6D629D6C6B01FD7C.title: "&4&lStorage and Mobility"
+	chapter_group.7C5E8979F01FD474.title: "&4&lTechnology"
 	quest.0011D2F506607E60.title: "Defeat Grunt Octo"
 	quest.00133F24F615C219.quest_desc: ["Breed an iron bee and a blue banded bee."]
 	quest.00133F24F615C219.quest_subtitle: "&eBee Breeding"
@@ -225,8 +225,8 @@
 	quest.074B887DF09E55D8.title: "&2&lMagic Beans"
 	quest.075380BCAD8DD19C.title: "Defeat Benjamin"
 	quest.07642BFD8BE9A0E5.quest_desc: ["Wether a basic Poké Ball or a Master Ball, it all started here. You can find Apricorn Trees of various colors through out your world, however, your colonies sifters are also capable of finding them. Once acquired, they can be farmed using deployers, cloches or planted and harvested by foresters."]
-	quest.07642BFD8BE9A0E5.quest_subtitle: "Gathering basic Poké Ball ingredients"
-	quest.07642BFD8BE9A0E5.title: "Apricorns"
+	quest.07642BFD8BE9A0E5.quest_subtitle: "&0&lGathering basic Poké Ball ingredients"
+	quest.07642BFD8BE9A0E5.title: "&lApricorns"
 	quest.078B565E7AEF5547.quest_desc: ["The gatherer will harvest all plants and trees within its working area, producing sludge in the process which must be processed in a sludge refiner (or can be voided)."]
 	quest.078B565E7AEF5547.quest_subtitle: "&9Auto-Harvesting"
 	quest.078B565E7AEF5547.title: "&3&lPlant Gatherer"
@@ -395,7 +395,7 @@
 	quest.0C764519B69116BD.quest_desc: [
 		"&6Flux Networks&r is a very useful mod for moving energy and even stress around the world. Multiple players can share a network allowing for 1 person to handle production of power while another handles a build that consumes it and more."
 		""
-		"One of the most useful features is &athe ability to charge anything equipped or in your hotbar remotely&r. "
+		"One of the most useful features is &2the ability to charge anything equipped or in your hotbar remotely&r. "
 		""
 		"If you've never used it before we've provided a small guide to get started."
 		""
@@ -405,7 +405,8 @@
 		""
 		"Click the &dObsidian&r and it will slam down onto the &cRedstone&r which will convert it into &8Flux Dust&r and the&d Obsidian&r will convert into &7Cobblestone&r."
 	]
-	quest.0C764519B69116BD.quest_subtitle: "Moving power around the world"
+	quest.0C764519B69116BD.quest_subtitle: "&0&lMoving power around the world"
+	quest.0C764519B69116BD.title: "&lFlux Dust"
 	quest.0C8951AF61856F34.title: "&e&lNether Star"
 	quest.0C997B3AE2E3906C.title: "Defeat Admin Shelly"
 	quest.0CD6C3055C3A351A.title: "&9&lLaser"
@@ -691,6 +692,7 @@
 	quest.15FA9A479EE5E88C.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
 	quest.1665F1A15B6A0F53.quest_desc: ["The &6&lRallying Banner&r&r will summon your &9Guards&r to you when used. It's especially useful in &craids&r, as Guards don't automatically know where to find the raiders."]
 	quest.1665F1A15B6A0F53.title: "&6&lRallying Banner"
+	quest.16C59B6311832A6D.title: "&lNetherite Ingot"
 	quest.16D00A9DF240EDF5.quest_desc: [
 		"Standing over the desolate glaciers, the &e&lAurora Palace&r&r is a striking sight for adventurers in the Twilight Forest, with walls that constantly shift in various colors. However, dangers within will fiercely defend their magical home."
 		""
@@ -733,6 +735,7 @@
 	quest.18E742B005126239.quest_desc: ["A specially made home for draconic bees to harvest dragons breath."]
 	quest.18E742B005126239.quest_subtitle: "&eA specially made hive, carved from the egg of the ends ruler."
 	quest.18E742B005126239.title: "&6&lDragon Egg Hive"
+	quest.191299BE6CF98EBE.title: "&lVerdant Ball"
 	quest.193EDF94D10B984B.quest_desc: ["The &e&lSeeker Bow&r&r is one of two bows that can drop from the Snow Queen. Arrows fired from this bow will attempt to hone in onto nearby targets. Seeker arrows cannot land critical hits."]
 	quest.1942BEDE7ADF7123.quest_desc: [
 		"Has a catch rate of anywhere from 1× to 4×. This rate increases based on how much higher the player's Pokémon level is compared to the target."
@@ -882,6 +885,7 @@
 		"&e&lMaze Map Focus&r&r is an item found in chests and rarely dropped by Minotaurs. Adventurers are most likely to find a Maze Map Focus by searching chests in a Labyrinth. It is used to craft a Maze Map."
 	]
 	quest.1D5EC539153AB33F.title: "&2&lMaze Map"
+	quest.1D66C07A85CA61AB.title: "&lPremier Ball"
 	quest.1D984219266DCB6E.quest_desc: [
 		"The Magnetic Quarry Smasher is a placeable entity that works in conjunction with a Magnetic Quarry to create a fully automatic mining mechanism. To activate the system:"
 		""
@@ -896,6 +900,7 @@
 		"When placed and held by the player, it lights up and is visible through surfaces, helping trace steps. It can attach to solid surfaces, allowing up to six Red Threads to occupy the same block."
 	]
 	quest.1DFF87F008F7D95A.quest_desc: ["The Trainer Card will help you keep track of your progress, find information about trainers and to locate the next key trainer towards increasing your level cap."]
+	quest.1DFF87F008F7D95A.title: "&lTrainer Card"
 	quest.1E02B9F072BCA25E.title: "&e&lDragon's Breath"
 	quest.1E1E1FF70F6417E6.quest_desc: ["Find an &e&lInactive Thorncutter&r&r inside a chest atop the Final Castle within the purple forcefield. When &e&lThorncutter&r&r is completed, you can harvest Thorns."]
 	quest.1E324D81453A1191.quest_desc: ["Electron tubes are used to make many different components to your machines and contraptions. Such as the &9Bank Terminal&r and &cRedstone Links&r."]
@@ -1063,6 +1068,7 @@
 		""
 		"4. Pathfind in an otherwise previously      chosen direction or aimlessly.             (Allowing them to eventually despawn    and free up the cap.)"
 	]
+	quest.21D8191BE6CC46B7.title: "&lTrainer Spawner"
 	quest.220D6A97C5D12DC6.quest_desc: ["Breed a lapis bee with an ender bee"]
 	quest.220D6A97C5D12DC6.quest_subtitle: "&eBee Breeding"
 	quest.220D6A97C5D12DC6.title: "&6&lAcquire a Diamond Bee"
@@ -1172,6 +1178,7 @@
 	quest.2691B9D1ADE66445.quest_desc: ["The &e&lLamp of Cinders&r&r is a tool found in the central vault of the Troll Caves, which requires the Giant's Pickaxe to open. It is used to burn through the Thorns that fill the Thornlands biome. The lamp can be used in two ways: it can burn individual blocks by clicking on them, or it can be \"charged\" by holding the button to burn an entire area. The Lamp of Cinders has no usage limit."]
 	quest.2691B9D1ADE66445.title: "&2&lLamp of Cinders"
 	quest.26D4159CE7AFDF0E.quest_desc: ["To create an entirely new submarine will require multiple copper blocks, an Enigmatic Engine, and a few Depth Glass blocks. Simply surround the Enigmatic Engine with a copper cube, and make sure to use six Depth Glass to mark the front of the vehicle."]
+	quest.27566499D60DF15E.title: "&lEngineer's Crafting Table"
 	quest.27C0CAED40B28D03.title: "&e&lHow Did We Get Here?"
 	quest.27C3E7FB9ADD2FA0.quest_desc: [
 		"&6Solitary bees&r and their nests can be found throughout the world, different nests can be found in different biomes and dimensions, we'll need to hunt some of these down in order to breed them for the resource producing bees we're all actually after."
@@ -1480,7 +1487,8 @@
 		""
 		"Mints can be used to change the effect of a Pokémon's nature on its stats to that of the nature corresponding to the mint used. The Pokémon's actual Nature, however, remains unchanged. (meaning they work exactly as they do in the main line games, and they DO work, but don;t surprised at first when it appears like the nature has not changed.)"
 	]
-	quest.3036F5CAE085055D.quest_subtitle: "Gathering mint seeds"
+	quest.3036F5CAE085055D.quest_subtitle: "&0&lGathering mint seeds"
+	quest.3036F5CAE085055D.title: "&lMint Seeds"
 	quest.303A1680BED04583.title: "&9&lElectromagnetic Coil"
 	quest.303E5FEBA512547F.quest_desc: ["Advanced hives placed in dark, unlit areas, will naturally spawn both &azombees&r and &7skeletal&r bees. While you will most likely want a &ofew&r skeletal bees at some point, the undead bees are typically a nuisance in general more than anything as they spawn and take up the space of the bees you do want to access the hives. Keeping your bee keeping area well lit is a very easy way to solve any problems caused by them, if they are spawning in an area you do not want them in, this is because at least 1 of the hives in the area is &enot lit well enough&r."]
 	quest.303E5FEBA512547F.quest_subtitle: "&eUndead and unwanted visitors"
@@ -1518,9 +1526,11 @@
 		""
 		"It can also be used in conjunction with&e Alternators&r and &6Electric Motors&r to move stress around the world!"
 	]
+	quest.3164511E87565983.title: "&lFlux Core"
 	quest.316E851A58330781.quest_desc: ["Gearboxes allow you to take a shaft or other attachment and change the direction the force is headed or being applied."]
 	quest.316E851A58330781.quest_subtitle: "&6Stress and turning corners"
 	quest.316E851A58330781.title: "&e&lGearboxes"
+	quest.3190E98596E385A4.title: "&lAzure Ball"
 	quest.31F9DFD0F505AE02.quest_desc: [
 		"The &e&lCrumble Horn&r&r is one of the rewards for completing the Questing Ram's quest. If the quest is completed, this (along with one of each of the resource blocks) will be given to the player by the Quest Ram."
 		""
@@ -1543,7 +1553,8 @@
 	quest.329AFA37DACB1C66.quest_subtitle: "Round 3"
 	quest.329AFA37DACB1C66.title: "Defeat Aaron"
 	quest.32BFAB9E395AF61D.quest_desc: ["The &l&eScepter of Twilight&r&r, dropped by the Lich, shoots projectiles resembling the Lich's, with a texture like Ender Pearls and a blue-green particle effect. Slightly affected by gravity, they deal 2.5 hearts of damage—four hits for Skeletons and Creepers, three for Spiders, and five for Zombies. The scepter cannot interact with End Crystals or the Ender Dragon."]
-	quest.3345243C8824B0B9.quest_subtitle: "Make an energy buffer!"
+	quest.3345243C8824B0B9.quest_subtitle: "&0&lMake an energy buffer!"
+	quest.3345243C8824B0B9.title: "&lBasic Flux Storage"
 	quest.33B295CC0DBBE25D.quest_desc: [
 		"Industrial foregoing is another tech and automation mod whose use can range from mob duplication and farming to ore processing. "
 		""
@@ -1580,7 +1591,8 @@
 		""
 		"The Tree of Time accelerates the growth of nearby plants. Its clock ticks, and right-clicking it will turn the clock gray and stop it."
 	]
-	quest.34295F4932C40D1D.quest_subtitle: "Basic Cobblemon storage systems"
+	quest.34295F4932C40D1D.quest_subtitle: "&0&lBasic Cobblemon storage systems"
+	quest.34295F4932C40D1D.title: "&lPC"
 	quest.342EDCCAFD398CC5.quest_desc: [
 		" Pokémon are compatible for breeding if:"
 		""
@@ -1732,7 +1744,7 @@
 		""
 		"However, if you prefer to start a colony from scratch, we've got you covered! This is a complete &6tutorial&r that covers the basics of colony building and guides you through the steps to start one. So buckle up, and let’s dive into it!"
 	]
-	quest.37C818A6876BE461.quest_subtitle: "&eWelcome to Minecolonies!"
+	quest.37C818A6876BE461.quest_subtitle: "&0&lWelcome to Minecolonies!"
 	quest.37C818A6876BE461.title: "&6&lEvery new town is a blank page waiting to be written"
 	quest.37E7C99E91B8B37D.quest_subtitle: "Round 1"
 	quest.37E7C99E91B8B37D.title: "Defeat Ivory"
@@ -1842,7 +1854,8 @@
 	quest.3B7EB59164BFECB7.quest_subtitle: "&eNeed more production"
 	quest.3B7EB59164BFECB7.title: "&6&lUpgrade: Productivity Beta"
 	quest.3BA6F9CD59088C7D.quest_desc: ["Don't bother trying to swipe the Healing Machine from a village, they're meant to stay for all adventurers, of course. You can try, but they will only drop an ingot."]
-	quest.3BA6F9CD59088C7D.quest_subtitle: "Healing your Cobblemon"
+	quest.3BA6F9CD59088C7D.quest_subtitle: "&0&lHealing your Cobblemon"
+	quest.3BA6F9CD59088C7D.title: "&lHealing Machine"
 	quest.3BCF428D32DC21BF.quest_desc: ["Liquid latex can be piped directly into the Latex Processing Unit or transferred manually by bucket if needed. Unlike extractors, these machines require power and water to run."]
 	quest.3BCF428D32DC21BF.quest_subtitle: "&9Processing latex into rubber"
 	quest.3BCF428D32DC21BF.title: "&3&lLatex Processing Unit"
@@ -1908,6 +1921,7 @@
 		""
 		"Once you understand how its GUI works, you've pretty much learned the mod!"
 	]
+	quest.3D9DDD66467A4815.title: "&lFlux Controller"
 	quest.3DD12F8C1DF2CDFA.title: "Slay the Wither"
 	quest.3DDCBD68E14BE832.quest_desc: ["Eat &5&lALL&r&r of the Food exclusive to the Twilight Forest."]
 	quest.3E0EF49EEAB907C3.quest_desc: [
@@ -1951,7 +1965,8 @@
 	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
 	quest.40207980D0FD3F59.title: "Defeat Giovanni"
 	quest.40A6F8988EEF04A1.quest_desc: ["Using Garden Cloches is probably going to be the optimal way to farm mints and apricorns amongst other things if and when unable to rely on a colony for production."]
-	quest.40A6F8988EEF04A1.quest_subtitle: "Farming made easy"
+	quest.40A6F8988EEF04A1.quest_subtitle: "&0&lFarming made easy"
+	quest.40A6F8988EEF04A1.title: "&lThe Garden Cloche"
 	quest.40A7548B51B42142.quest_subtitle: "Craft a Skyhook"
 	quest.40B42B2D21A31F1A.quest_desc: [
 		"&e&lArctic Fur&r&r is an item dropped by Yetis and Winter Wolves."
@@ -2065,6 +2080,7 @@
 	quest.45C5145795B1BD29.quest_desc: ["The isotopic centrifuge will convert nuclear waste into plutonium gas, which does not decay. The plutonium pellets made from processing this gas will be needed on the way to producing and processing antimatter."]
 	quest.45C5145795B1BD29.quest_subtitle: "&3Processing nuclear waste"
 	quest.45C5145795B1BD29.title: "&9&lIsotopic Centrifuge"
+	quest.46028668D25936A3.title: "&lNetherite Pokeball Frame"
 	quest.460C61BD9A3C6AEE.quest_desc: ["You'll notice while attempting to keep the grid stable that certain generators generate different amounts of FE at different rates. Depending on where you are at in set up and what you have at your disposal to work with at the time, sometimes voiding excess is an easy method to keep certain things running. This is especially important considering the reactor only activates if all generators are currently running."]
 	quest.460C61BD9A3C6AEE.quest_subtitle: "&9No small feat"
 	quest.460C61BD9A3C6AEE.title: "&3&lKeeping the grid stable"
@@ -2097,12 +2113,12 @@
 		"The &e&llevel I charm&r&r is bronze and will keep the player's armor, currently selected item, and the off-hand item. It can be found in some treasure chests, or as a rare drop from Maze Slimes."
 	]
 	quest.47AE4FC2CC059CEE.quest_desc: [
-		"An engineers hammer is going to be required to start immersive, many crafts require tools and the hammer specifically is required to form many multi block structures, once built. "
+		"An engineers hammer is going to be required to start Immersive, many crafts require tools and the hammer specifically is required to form many multi-block structures, once built. "
 		""
 		"We may as well get the screw driver and wire cutters out of the way too."
 	]
-	quest.47AE4FC2CC059CEE.quest_subtitle: "Getting started in Immersive Engineering"
-	quest.47AE4FC2CC059CEE.title: "&3&lEngineer's Tools"
+	quest.47AE4FC2CC059CEE.quest_subtitle: "&0&lGetting started in Immersive Engineering"
+	quest.47AE4FC2CC059CEE.title: "&lEngineer's Tools"
 	quest.47B549546A02C8F5.quest_desc: ["The &6&lShepherd's Hut&r&r is where the &6Shepherd&r will &9breed and butcher sheep&r for food and wool. You will have to capture and bring in two sheep to the Shepherd's Hut, as the Shepherd will &cnot&r catch and bring in any sheep."]
 	quest.47B549546A02C8F5.quest_subtitle: "&eShepherd's Hut"
 	quest.47B549546A02C8F5.title: "&6&lShepherds"
@@ -2236,6 +2252,7 @@
 	quest.4B1FE35ACC2A0E2A.title: "&9&lHDPE Pellet"
 	quest.4B35AFA7E106D8AA.quest_subtitle: "Round 2"
 	quest.4B35AFA7E106D8AA.title: "Defeat Marlon"
+	quest.4B39B274E4AC881D.title: "&lEngineer's Workbench"
 	quest.4B45E51554FC438B.quest_desc: ["&e&lTransformation Powder&r&r is a bright blue magical item found in Hollow Hills treasure chests. It can transform Twilight items into dimensional items and change otherworldly creatures into Twilight Forest creatures and vice versa. This powder can alter the environment or help escape dangerous creatures by turning them into harmless mobs."]
 	quest.4B48777DE8DC80B2.quest_desc: ["The &e&lPeacock Feather Fan&r&r is a unique item found in Lich Towers and Medium Hollow Hills in the Twilight Forest. When used, it pushes entities in front of the player backwards, including mobs, dropped items, blocks, and even the player. The fan’s strong winds can uproot flowers and grasses. If the player runs and jumps while using the fan, it produces a high-jump effect."]
 	quest.4B63759E555F2946.quest_desc: ["Obtain the Regeneration Stone and Proceed to the Final Dungeon."]
@@ -2333,7 +2350,7 @@
 		""
 		"In addition to the default colony styles that the &6&lMinecolonies&r&r mod offers, we’ve included even more styles with the help of the &6Stylecolonies&r and &6Byzantine Style Pack&r mods!"
 	]
-	quest.4EA0CFA39CDC5B61.quest_subtitle: "&eColony styles"
+	quest.4EA0CFA39CDC5B61.quest_subtitle: "&0&lColony styles"
 	quest.4EAAB5FEF6E1713E.quest_desc: [
 		"The Fusion Reactor is a multiblock structure that produces very large amounts of power by using either Deuterium and Tritium, or D-T Fuel. By water cooling the structure, steam will be produced alongside power, which can be used for powering an Industrial Turbine."
 		""
@@ -2404,6 +2421,7 @@
 	quest.5152ACFB10052852.quest_subtitle: "&eBee Conversion"
 	quest.5152ACFB10052852.title: "&6&lAcquire a Rose Quartz Bee"
 	quest.5157EFB7AFF4E525.title: "&9&lEnriched Redstone"
+	quest.5168C52323A809E0.title: "&lAluminum Pokeball Frame"
 	quest.516D2E86DC009C4B.quest_subtitle: "Round 2"
 	quest.516D2E86DC009C4B.title: "Defeat Mars"
 	quest.51B15C1AF50B15C7.quest_desc: ["The Abyssal Ruins are ancient, submerged structures scattered across the Abyssal Chasm. Occasionally, these ruins may contain a Submarine in disrepair. To restore a damaged Submarine, players can use copper ingots to repair it and an axe to remove any oxidation from its surfaces. Once repaired, a Submarine can be piloted and comes equipped with floodlights to improve visibility in the depths."]
@@ -2418,6 +2436,7 @@
 	quest.5244DA4A140BE6BD.quest_desc: ["The separator can be used to separate babies from adults, handy when you need to maintain a supply of breeding stock and only want to harvest/slaughter from the extras produced from breeding."]
 	quest.5244DA4A140BE6BD.quest_subtitle: "&9Pretty self explanatory"
 	quest.5244DA4A140BE6BD.title: "&3&lAnimal Baby Separator"
+	quest.525A1E65E686A172.title: "&lRoseate Ball"
 	quest.527D99B5715B3DAE.quest_desc: ["As your network grows, the power demands will inevitably grow with it. You'll notice that the network itself only holds a small amount of energy, adding a controller increases this. However, your network will almost certainly reach a point of demanding more power than it is capable of buffering at any given time. This is where we introduce the energy cell, allowing your network to buffer more power and avoid periodic network drops due to spikes in consumption."]
 	quest.527D99B5715B3DAE.quest_subtitle: "Network power buffer"
 	quest.529CC0F5C0BDCEC2.quest_subtitle: "Form the Excavator multiblock"
@@ -2484,7 +2503,8 @@
 	quest.54321F1DFF5E20C0.title: "Fiery Sword and Pickaxe"
 	quest.54496CB5F8242511.quest_desc: ["When 2 ditto are bred together you can receive a random egg. These eggs can contain literally any species in the game. Mythicals, Legendaries, Paradox Pokémon... or you might just meet your 1,000th Rattata. You never know, for all intents and purposes they are weighted equally and it is a true random lottery."]
 	quest.5458ED1325250C81.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
-	quest.546060A7E7AA9A09.quest_subtitle: "Form the Metal Press multiblock structure"
+	quest.546060A7E7AA9A09.quest_subtitle: "&0&lForm the Metal Press multi-block structure"
+	quest.546060A7E7AA9A09.title: "&lBuild a metal press"
 	quest.54961C3BE7126035.quest_desc: ["If you're reading this, a method for obtaining amber bee spawn eggs (other than finding them in ruins as usual) has not been implemented yet, this means &eresin bees have been enabled with the ability to encase mobs in resin&r (amber) still and you can use those for obtaining your encased mobs."]
 	quest.54961C3BE7126035.quest_subtitle: "&eResin works for now"
 	quest.54961C3BE7126035.title: "&6&lAcquire an Amber Bee"
@@ -2514,6 +2534,7 @@
 	quest.54B6C8FA074658E3.quest_subtitle: "Sub-Part - Pulls Things INTO Your Network."
 	quest.54BCA40AC19FF61D.quest_desc: ["ME dense smart cable provides all the functionalities ove previous tiers of cables. Except lines representing channels on these cables represent multiple channels each."]
 	quest.54BCA40AC19FF61D.quest_subtitle: "Smart Cable, But Thicker "
+	quest.54C397636A7BE97F.title: "&lCitrine Ball"
 	quest.550C209EFC0E5633.title: "Defeat Ryme"
 	quest.550EF247784B7BCE.quest_desc: [
 		"Once the player has traversed the Thornlands, they will encounter the &l&eFinal Castle&r&r, a structure that spawns in the &eFinal Plateau&r. It is primarily made of white castle bricks in different variants, some of which are engraved with colored runes and covered with force fields."
@@ -2691,9 +2712,11 @@
 	quest.5B698AB7FE032025.title: "The Smartphone"
 	quest.5B7C670915E05F23.title: "&3&lEther Bee"
 	quest.5BBE97CFD87ABEE9.title: "&e&lWater and Lava"
-	quest.5BF30AA21250A283.quest_subtitle: "On our way to netherite"
+	quest.5BF30AA21250A283.quest_subtitle: "&0&lOn our way to netherite"
+	quest.5BF30AA21250A283.title: "&lDiamond Pickaxe"
 	quest.5C37C0D926826F60.quest_desc: ["Use Flux Points to supply energy to anywhere needed. They're even compatible with many forms of pipes and wires, allowing them to be connected directly."]
-	quest.5C37C0D926826F60.quest_subtitle: "Pushes energy OUT from the network"
+	quest.5C37C0D926826F60.quest_subtitle: "&0&lPushes energy OUT from the network"
+	quest.5C37C0D926826F60.title: "&lFlux Point"
 	quest.5C400DCED8BC884F.quest_desc: ["Like the andesite tunnel, the brass version may only be placed over belts, but its sides can be filtered on insertion and extraction!"]
 	quest.5C400DCED8BC884F.quest_subtitle: "&6Belt sorting 2.0"
 	quest.5C400DCED8BC884F.title: "&e&lBrass Tunnel"
@@ -2714,7 +2737,8 @@
 	quest.5D59D6E285A0AA44.title: "&2&lSlay The Hydra"
 	quest.5D755842C77190EF.quest_subtitle: "Craft the Mining Drill"
 	quest.5DB9063A0C07CFC3.quest_desc: ["Mounted Crossbows for your craft."]
-	quest.5DDCDC6AA7C673EE.quest_subtitle: "Guaranteed Capture"
+	quest.5DDCDC6AA7C673EE.quest_subtitle: "&0&lGuaranteed Capture"
+	quest.5DDCDC6AA7C673EE.title: "&lMasterball"
 	quest.5DE1C3B17B55B4D1.quest_desc: ["The &6&lUniversity&r&r is where a &6&lResearcher&r&r will &9research various upgrades&r to your colony. Each &6Researcher&r can start their own research, but more Researchers &cdoes not&r lower the &9amount of time&r each individual research takes. For example, having two &6Researchers&r but only one research in progress does not decrease the time that single research takes."]
 	quest.5DE1C3B17B55B4D1.quest_subtitle: "&6University"
 	quest.5DE1C3B17B55B4D1.title: "University"
@@ -2885,7 +2909,7 @@
 		""
 		"The level of the &6&lCourier's Hut&r&r will dictate how many items the Courier can deliver, so if you want them to carry more materials/tools, upgrade their hut. Upgrading the hut will also &9increase the amount of requests&r they can keep track of at a time."
 	]
-	quest.6213462ABAECCB3D.quest_subtitle: "&eCourier"
+	quest.6213462ABAECCB3D.quest_subtitle: "&0&lCourier"
 	quest.6213462ABAECCB3D.title: "&6&lCouriers"
 	quest.62135299C53DAEC4.quest_desc: ["The Supercritical Phase Shifter or \"SPS\" is used to convert polonium gas into antimatter gas and is the true \"final\" stage of nuclear waste processing. Other than converting said antimatter gas into a pellet, of course."]
 	quest.62135299C53DAEC4.quest_subtitle: "&3Antimatter"
@@ -2923,8 +2947,8 @@
 		""
 		"Refer to the \"Cobblemon\" chapter or JEI for more information."
 	]
-	quest.6298076755AB1708.quest_subtitle: "Gathering berries"
-	quest.6298076755AB1708.title: "Berries"
+	quest.6298076755AB1708.quest_subtitle: "&0&lGathering berries"
+	quest.6298076755AB1708.title: "&lBerries"
 	quest.62A2D789570DB3A4.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
 	quest.62BB492DEB62CA4A.quest_desc: ["Use a honey treat on a &6dark oak&r, &dcherry&r or &cacacia&r nest to spawn a blue banded bee if you cannot find one."]
 	quest.62BB492DEB62CA4A.quest_subtitle: "&eDark oak, cherry and acacia nests"
@@ -2960,7 +2984,8 @@
 	]
 	quest.638BCF1A1A52C4FC.title: "Raven Feather and Torchberries"
 	quest.639A0F775F07CFBA.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
-	quest.63A903AE420482B8.quest_subtitle: "1x Catch rate"
+	quest.63A903AE420482B8.quest_subtitle: "&0&l1x Catch rate"
+	quest.63A903AE420482B8.title: "&lPokeball"
 	quest.63C1EC8559D1E68B.quest_desc: ["&e&lNaga Scale Armor&r&r is armor made from Naga Scales. This armor set consists of only Chestplate and Leggings."]
 	quest.63C1EC8559D1E68B.title: "Naga Scale Armor"
 	quest.63D91E99B2AF1B20.title: "&e&lNetherite Tools"
@@ -3059,7 +3084,7 @@
 		""
 		"The level of the &6&lWarehouse&r&r will determine how many Couriers will be able to use it at the same time. Level up the Warehouse to increase the amount of Couriers that can work in it. Leveling up the Warehouse will also increase its &9storage capacity&r."
 	]
-	quest.6664CC4166B8FD3C.quest_subtitle: "&eWarehouse"
+	quest.6664CC4166B8FD3C.quest_subtitle: "&0&lWarehouse"
 	quest.6664CC4166B8FD3C.title: "&6&lWarehouse"
 	quest.66903E18B867271C.quest_subtitle: "Round 3"
 	quest.66903E18B867271C.title: "Defeat Brendon"
@@ -3128,8 +3153,8 @@
 		""
 		"Refer to the \"Minecolonies\" chapter of the quest book for more info."
 	]
-	quest.6933F31C26EB3393.quest_subtitle: "Free and easy, but not fast."
-	quest.6933F31C26EB3393.title: "Getting help from your colony"
+	quest.6933F31C26EB3393.quest_subtitle: "&0&lFree and easy, but not fast."
+	quest.6933F31C26EB3393.title: "&lGetting help from your colony"
 	quest.693A30BC1201B5B5.quest_desc: ["Lithium can be used in a Solar Neutron Activator to create Tritium to fuel the Fusion Reactor or put into a Chemical Crystallizer to produce Lithium Dust and then used for components of the Induction Matrix."]
 	quest.693A30BC1201B5B5.title: "&9&l4x Lithium Dust"
 	quest.693B69D43BE2CC18.quest_desc: [
@@ -3152,6 +3177,7 @@
 		"You can also paint cables with any forge compatible paint brush in world."
 	]
 	quest.69AF46B1490B34C4.quest_subtitle: "Your Basic ME Cable"
+	quest.6A0BD8F84EDD02DF.title: "&lGargantuan Flux Storage"
 	quest.6A2072648BBBEDAA.quest_desc: ["The &e&lCharm of Life II&r&r will heal the player fully, and activate Regeneration IV, Resistance and Fire Resistance for the next 30 seconds."]
 	quest.6A7FC4CEC03AC1F8.quest_subtitle: "Round 2"
 	quest.6A7FC4CEC03AC1F8.title: "Defeat Ivory"
@@ -3202,6 +3228,7 @@
 		"Masterball   -  175,000"
 		"Type Gems - 3,000"
 	]
+	quest.6BBE6B0C7DA24F2F.title: "&lDisplay Case"
 	quest.6BE0F4935A898C44.quest_desc: ["Use a piece of popped chorus fruit on an end stone nest to spawn an ender bee if you cannot find one."]
 	quest.6BE0F4935A898C44.quest_subtitle: "&ePopped chorus fruit"
 	quest.6BE0F4935A898C44.title: "&6&lEnder Bee"
@@ -3235,7 +3262,7 @@
 	quest.6CE068D4A1B95EB9.title: "&lInventory Connector"
 	quest.6D09FA6FE768A4D1.quest_desc: ["&e&lEnder Bow&r&r is a weapon that can be found in Aurora Palaces. The Ender Bow fires like a normal Bow, but if the arrow from the Ender Bow hits a creature then both the user and creature will swap places."]
 	quest.6D2638F72AEDA63E.quest_desc: ["Villager merchants of various types can be found in towns and villages naturally spawning through out the world. Keep an eye out for special towns as some, in particular, can even have Super Markets that can be found within them offering a plethora of sales options from vitamins to evolutions stones, held items and more!"]
-	quest.6D2638F72AEDA63E.title: "Merchants"
+	quest.6D2638F72AEDA63E.title: "&lMerchants"
 	quest.6D54843B16B1E3ED.quest_desc: ["&e&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.6D54843B16B1E3ED.title: "Phantom Armor"
 	quest.6D72D135DA5A161F.title: "Defeat Iono"
@@ -3335,7 +3362,7 @@
 		""
 		"As always, please report any and all issues to our issue tracker or the &9MCC Discord&r have fun!"
 	]
-	quest.704FD1152464AD1B.quest_subtitle: "Here's a quick guide to get you rolling"
+	quest.704FD1152464AD1B.quest_subtitle: "&0&lHere's a quick guide to get you rolling"
 	quest.707871C62A831E84.quest_desc: ["The &e&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
 	quest.7078E004A4888746.quest_desc: [
 		"Berries are obtained from harvesting a berry tree, which can be found around the world. Each berry tree gives a selected amount of berries per yield. There are 30 natural berries and 39 mutation berries, which can be obtained by crossbreeding mutations."
@@ -3373,6 +3400,7 @@
 	quest.7153C4C7A653C645.title: "Defeat Blue"
 	quest.7185032FDE001F31.quest_subtitle: "Round 1"
 	quest.7185032FDE001F31.title: "Defeat Mars"
+	quest.718CFC6D4D3C7824.title: "&lMold Pokeball Frame"
 	quest.71A609F70B6B6958.quest_desc: [
 		"Use bee squishing, genetics and incubation to obtain the &6spawn eggs&r of the following bees: "
 		""
@@ -3392,7 +3420,8 @@
 	quest.71EC8771E073828D.title: "&e&lMechanical Mixer"
 	quest.722B2F33DC07D827.title: "Defeat Admin Tabitha"
 	quest.7250895C2EBE25DF.title: "Defeat Blaine"
-	quest.725855014BA78449.quest_subtitle: "1.5 Catch rate"
+	quest.725855014BA78449.quest_subtitle: "&0&l1.5 Catch rate"
+	quest.725855014BA78449.title: "&lGreat Ball"
 	quest.7264C093510330F7.quest_desc: [
 		"Rising ominously over the Dark Forest, the &e&lDark Towers&r&r seem to pierce the sky. These immense structures contain unique rooms, obstacles, treasures, and monsters for adventurers to explore. They are typically found at the heart of the Dark Forest, where the thick foliage takes on a strange autumn hue, likely due to the Tower's sinister influence."
 		""
@@ -3519,7 +3548,8 @@
 	]
 	quest.761547BAA6CFC6B9.quest_subtitle: "Round 3"
 	quest.761547BAA6CFC6B9.title: "Defeat Wayne"
-	quest.762A1DFE1B379C05.quest_subtitle: "2.0 Catch rate"
+	quest.762A1DFE1B379C05.quest_subtitle: "&0&l2.0 Catch rate"
+	quest.762A1DFE1B379C05.title: "&lUltra Ball"
 	quest.76B211025E5ACC90.title: "&2&lHollow Hills"
 	quest.76D9A2260275CEDD.quest_desc: ["The &e&llevel II charm&r&r is silver and will keep the player's armor and full hotbar."]
 	quest.76F5F1498B72D329.quest_desc: [
@@ -3555,6 +3585,7 @@
 	quest.77836607BA702351.quest_subtitle: "&eAlchemist Tower"
 	quest.77836607BA702351.title: "&6&lAlchemists"
 	quest.77A2104354AFC6BF.quest_desc: ["Has a catch rate of 1×. Pokémon caught in a Friend Ball will start with 150 Friendship."]
+	quest.77D68DDFB19F5E1F.title: "&lHerculean Flux Storage"
 	quest.77D84FE0B729775E.quest_desc: ["The &6&lComposter's Hut&r&r &9requires research&r at the &6University&r to be built, and is where the &6Composter&r will turn organic materials into the &6Compost Barrel&r to make compost or dirt."]
 	quest.77D84FE0B729775E.quest_subtitle: "&eComposter's Hut"
 	quest.77D84FE0B729775E.title: "&6&lComposter"
@@ -3572,7 +3603,8 @@
 	quest.7815EFD9800BE9C5.title: "&lTime for an upgrade?"
 	quest.7862C2708A5A89CE.title: "&e&lDiamonds"
 	quest.78DB561AC5365AAC.quest_desc: ["For all intents and purposes tools function exactly as you are used to with a few minor exceptions. Primarily around enchanting. The &dArcane Catalyst&r is currently the only way to apply certain enchantments to certain items (like mending to a pickaxe). If you are wondering why \"X\" enchantment cannot be applied to \"Y\" item, the answer is probably that you need a catalyst to do it."]
-	quest.78DB561AC5365AAC.quest_subtitle: "You know the drill"
+	quest.78DB561AC5365AAC.quest_subtitle: "&0&lYou know the drill"
+	quest.78DB561AC5365AAC.title: "&lIron Pickaxe"
 	quest.78DC4A5D9E49BE0E.quest_desc: ["The &e&lCrafting Terminal&r&r is an upgraded version of the Storage Terminal, featuring a built-in crafting table. It also integrates with &eJEI&r for automatic interaction with the terminal."]
 	quest.78DC4A5D9E49BE0E.title: "&lCrafting Terminal"
 	quest.78FE754F2BDD07DC.title: "Defeat Tessy"
@@ -3590,7 +3622,8 @@
 	quest.7978B818B5BA9207.title: "&6&lQuests by TeamMCC for the MCC Modpack"
 	quest.797CDED396DBB958.quest_desc: ["The &e&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
 	quest.7983E26A4F558799.quest_desc: ["Using a &8Flux Point&r You can extract power from any number of energy generating blocks and structures, if it makes FE, this will probably accept it."]
-	quest.7983E26A4F558799.quest_subtitle: "Pulls energy IN to the network"
+	quest.7983E26A4F558799.quest_subtitle: "&0&lPulls energy IN to the network"
+	quest.7983E26A4F558799.title: "&lFlux Plug"
 	quest.79D9541D4D3A31BF.quest_desc: [
 		"&e&lAlpha Yeti Fur&r&r is an item that is always dropped by the Alpha Yeti. "
 		""
@@ -3637,7 +3670,7 @@
 		""
 		"Once the &6&lTown Hall&r&r block is placed and the colony is created, you will receive your initial &c4&r &6citizens&r. The Town Hall is where your citizens will take shelter and gather at night until you build them a &6Tavern&r or their own &6Residence&r."
 	]
-	quest.7AA37760F9C6BA7D.quest_subtitle: "&eStart Your Colony"
+	quest.7AA37760F9C6BA7D.quest_subtitle: "&0&lStart Your Colony"
 	quest.7AA37760F9C6BA7D.title: "&6&lThe heartbeat of every community"
 	quest.7AB6131A2890E8E4.quest_desc: ["Crafting storages are available in all cell sizes (1k, 4k, etc.). They store the ingredients and intermediate ingredients involved in a craft, so larger or more storages are required for the CPU to handle crafting jobs with more ingredients. Intermediate ingredients are the things made \"in -between\" the starting recipe ingredients and final product of a complex string of recipes. "]
 	quest.7AB6131A2890E8E4.quest_subtitle: "Not Optional"
@@ -3795,6 +3828,7 @@
 	quest.7F23B52CD0488C38.quest_subtitle: "&6A slightly nicer casing"
 	quest.7F23B52CD0488C38.title: "&e&lCopper Casing"
 	quest.7F3DA56DAB79AC1E.quest_desc: ["The &e&lCharm of Life I&r&r will heal the player back to 4 hearts, and bestow Regeneration I for the next 10 seconds. Charm of Life I can be found in medium and large Hollow Hills, Leaf Dungeons, Lich Towers, Goblin Knight Strongholds, Dark Towers and Aurora Palaces."]
+	quest.7F3E313BAAF44EB5.title: "&lCherish Ball"
 	quest.7F40612A6BA5D1EE.quest_subtitle: "&eBuild one of every Herder Hut"
 	quest.7F40612A6BA5D1EE.title: "&6&lA Herd of Herders"
 	quest.7F4819E3CAFB4225.quest_desc: [
@@ -4063,7 +4097,7 @@
 	task.52CE66D7B2434D4A.title: "Acquire a philolite bee"
 	task.538FF059B5F47525.title: "Acquire a sculk bee"
 	task.53CF9024D1C33C05.title: "Arcane Library"
-	task.541A1ABC4B4411C2.title: "Trading for CobbleDollars"
+	task.541A1ABC4B4411C2.title: "&lTrading for CobbleDollars"
 	task.544990ED82C51091.title: "Shiraz Palace"
 	task.547D0A550320173B.title: "Acquire a sky steel bee"
 	task.55143C17D399E5D3.title: "Any #cobblemon:mint_seeds"
@@ -4088,7 +4122,7 @@
 	task.5B3F595AFB048DF9.title: "&l&eTame Small Slime (Pink)"
 	task.5C52C16D3379E028.title: "&l&eTame Dobutsu"
 	task.5D047184D670680F.title: "Acquire an enderium bee"
-	task.5D6D55068AB77D99.title: "&3&lWelcome to Minecolonies - Cobblemon Conquest!"
+	task.5D6D55068AB77D99.title: "&lWelcome to Minecolonies - Cobblemon Conquest!"
 	task.5DC5BEF9ABD696F5.title: "Acquire a platinum bee"
 	task.5DEBBB9F24FF20D2.title: "Find a Medium Hollow Hill"
 	task.5EF41BEDBCCCCC54.title: "Find a sugarbag bee"

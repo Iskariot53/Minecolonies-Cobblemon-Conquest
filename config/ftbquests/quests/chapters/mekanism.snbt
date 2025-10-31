@@ -79,12 +79,13 @@
 	quests: [
 		{
 			dependencies: ["704FD1152464AD1B"]
-			hide_dependency_lines: true
+			hide_dependency_lines: false
 			hide_until_deps_complete: true
 			icon: {
 				id: "mekanism:ingot_osmium"
 			}
 			id: "71070D1348F6EBF2"
+			ignore_reward_blocking: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "7D408F6CE6E6B168"
@@ -103,7 +104,7 @@
 		}
 		{
 			dependencies: ["71070D1348F6EBF2"]
-			hide_dependency_lines: true
+			hide_dependency_lines: false
 			id: "744BF2D2E55A1511"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -963,11 +964,7 @@
 			y: 16.0d
 		}
 		{
-			dependencies: [
-				"660CF547B8328F09"
-				"2EDBA01D646B9A9E"
-				"44E02469AAEE00B1"
-			]
+			dependencies: ["44E02469AAEE00B1"]
 			icon: {
 				id: "mekanismgenerators:tritium_bucket"
 			}

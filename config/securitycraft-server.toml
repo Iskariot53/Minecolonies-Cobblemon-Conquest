@@ -103,3 +103,7 @@ allow_breaking_non_owned_blocks = false
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
 non_owned_breaking_slowdown = 1.0
+#Set the limit of chunks per dimension that may be forceloaded around frame feeds. A value of 0 will prevent any frame feed from forceloading chunks. A value of -1 will allow an unlimited number of chunks to be forceloaded by frame feeds.
+# Default: -1
+# Range: > -1
+frame_feed_forceloading_limit = -1
