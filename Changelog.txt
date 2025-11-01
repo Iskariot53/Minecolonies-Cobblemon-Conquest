@@ -1,4 +1,4 @@
-Minecolonies - Cobblemon Conquest -  1.5.3 Changelog
+Minecolonies - Cobblemon Conquest -  2.0.0 Changelog
 
 
 - Updated to Neoforge 21.1.209
@@ -8,6 +8,7 @@ Mods Added
 
 
 - Backpacked
+- Pylons
 
 
 
@@ -36,6 +37,7 @@ Mods Updated
 - Balm
 - Bookshelf
 - Byzantine Styles Pack for Minecolonies
+- Cobblemon Challenge
 - Cobbleloots: Loot Balls and More!
 - Cobblemon Fight or Flight Reborn
 - Cobblemon: Legendary Monuments
@@ -55,6 +57,7 @@ Mods Updated
 - Eternal Starlight
 - ForgeEndertech
 - Forgified Fabric API
+- Framework
 - FTB Chunks
 - FTB Essentials
 - FTB Filter System
@@ -85,6 +88,7 @@ Mods Updated
 - Productive Bees
 - Radical Cobblemon Trainers
 - Radical Cobblemon Trainers API
+- Security Craft
 - Sinytra Connecto
 - Structures Tweakerr
 - Stylecolonies
