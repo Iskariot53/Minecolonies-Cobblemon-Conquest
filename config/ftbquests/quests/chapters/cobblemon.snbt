@@ -1,6 +1,7 @@
 {
 	autofocus_id: "364913280A3CA451"
 	default_hide_dependency_lines: false
+	default_min_width: 2
 	default_quest_shape: ""
 	filename: "cobblemon"
 	group: "4F7311E6BA484B49"
@@ -258,6 +259,7 @@
 			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			id: "222C9B14E10E8E98"
+			size: 2.0d
 			tasks: [{
 				id: "50ED1A4988106180"
 				type: "checkmark"
@@ -3487,7 +3489,10 @@
 			y: 8.5d
 		}
 		{
-			dependencies: ["48FC88FF15242AF9"]
+			dependencies: [
+				"48FC88FF15242AF9"
+				"1129D75FB40DF9D8"
+			]
 			id: "4CAA0224C3ED7451"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -3535,7 +3540,7 @@
 				item: { count: 1, id: "cobblemon:protector" }
 				type: "item"
 			}]
-			x: -13.0d
+			x: -14.0d
 			y: 5.5d
 		}
 		{

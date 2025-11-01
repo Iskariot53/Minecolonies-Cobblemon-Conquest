@@ -38,6 +38,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			icon: {
 				id: "industrialforegoing:machine_frame_pity"

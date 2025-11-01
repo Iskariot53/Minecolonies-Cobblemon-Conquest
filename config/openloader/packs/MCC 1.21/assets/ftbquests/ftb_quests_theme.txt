@@ -1,5 +1,5 @@
 [*]
-background:          mcc:textures/background1.png; color=#DCFFFFFF; tile_size=192
+background:          mcc:textures/background1.png; color=#DCFFFFFF; tile_size=384
 chapter_panel_background:          hollow_rectangle:{{widget_border}}; round_edges + {{background}}; color=#000000; padding=1
 key_reference_background:          ftblibrary:textures/gui/background_squares.png; color=#DCFFFFFF; tile_size=64
 extra_quest_shapes:  diamond, pentagon, hexagon, octagon, heart, gear
@@ -69,7 +69,7 @@ quest_locked_color:                 #232323
 dependency_line_texture:            ftbquests:textures/gui/dependency.png
 dependency_line_completed_color:    #0000FF
 dependency_line_uncompleted_color:  #FF0000
-dependency_line_unavailable_color:  #040404
+dependency_line_unavailable_color:  #b30000
 dependency_line_requires_color:     #1E90FF
 dependency_line_required_for_color: #FF3333
 dependency_line_selected_speed:     1.0

@@ -40,6 +40,7 @@
 			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			id: "5888DE243650135E"
+			size: 1.5d
 			tasks: [{
 				dimension: "aether:the_aether"
 				id: "18624798F81AE083"

@@ -942,7 +942,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["4FA8A47B669B78FE"]
@@ -960,7 +960,7 @@
 				id: "30BA68BE263AFFBA"
 				type: "checkmark"
 			}]
-			x: -4.5d
+			x: -4.0d
 			y: 16.0d
 		}
 		{
@@ -979,7 +979,7 @@
 				id: "4BCD975914AA9F87"
 				type: "checkmark"
 			}]
-			x: -5.5d
+			x: -6.0d
 			y: 16.0d
 		}
 		{
@@ -996,8 +996,8 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "26286B757CDFEC8D"
-				item: { count: 1, id: "mekanismgenerators:hohlraum" }
+				id: "33B12902068824E6"
+				item: { components: { "mekanism:chemicals": { chemical_tanks: [{ amount: 10L, id: "mekanismgenerators:fusion_fuel" }] } }, count: 1, id: "mekanismgenerators:hohlraum" }
 				type: "item"
 			}]
 			x: -5.0d
