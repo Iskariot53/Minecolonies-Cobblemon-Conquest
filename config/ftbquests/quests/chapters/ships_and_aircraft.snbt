@@ -35,7 +35,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -2.1428571428571423d
+			y: -1.607142857142847d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -51,8 +51,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(smallships:cogs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.0d
+			x: 0.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -68,8 +68,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(smallships:galleys)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 0.6785714285714306d
+			y: -0.6785714285714164d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -85,8 +85,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(smallships:briggs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 0.0d
+			x: -1.5714285714285765d
+			y: -0.7499999999999929d
 		}
 		{
 			dependencies: ["499639252A07F5FF"]
@@ -102,8 +102,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(smallships:drakkars)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 0.0d
+			x: -1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -111,6 +111,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "0DA9C27ABA56D89F"
+				table_id: 6075743157366826168L
 				type: "loot"
 			}]
 			tasks: [{
@@ -118,8 +119,8 @@
 				item: { count: 1, id: "immersive_aircraft:hull" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 5.5d
+			x: 2.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -140,8 +141,8 @@
 				item: { count: 1, id: "immersive_aircraft:hull_reinforcement" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 6.5d
+			x: -1.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -149,6 +150,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "182A9FC9CEBB87B4"
+				table_id: 6075743157366826168L
 				type: "loot"
 			}]
 			tasks: [{
@@ -156,8 +158,8 @@
 				item: { count: 1, id: "immersive_aircraft:propeller" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 5.5d
+			x: -1.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -178,8 +180,8 @@
 				item: { count: 1, id: "immersive_aircraft:enhanced_propeller" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 6.5d
+			x: -4.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -187,6 +189,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "78F137BDC7355AE3"
+				table_id: 6075743157366826168L
 				type: "loot"
 			}]
 			tasks: [{
@@ -194,8 +197,8 @@
 				item: { count: 1, id: "immersive_aircraft:sail" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 5.5d
+			x: -4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -203,6 +206,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6DFD15EB9B00D7C7"
+				table_id: 6075743157366826168L
 				type: "loot"
 			}]
 			tasks: [{
@@ -210,8 +214,8 @@
 				item: { count: 1, id: "immersive_aircraft:engine" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 5.5d
+			x: 3.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -219,6 +223,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6CEFEE917BE14CB2"
+				table_id: 6075743157366826168L
 				type: "loot"
 			}]
 			tasks: [{
@@ -226,8 +231,8 @@
 				item: { count: 1, id: "immersive_aircraft:boiler" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 5.5d
+			x: 0.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -248,8 +253,8 @@
 				item: { count: 1, id: "immersive_aircraft:steel_boiler" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 6.5d
+			x: -3.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -269,8 +274,8 @@
 				item: { count: 1, id: "immersive_aircraft:eco_engine" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 6.5d
+			x: 0.5d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -290,8 +295,8 @@
 				item: { count: 1, id: "immersive_aircraft:nether_engine" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 7.5d
+			x: 0.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
@@ -307,8 +312,8 @@
 				item: { count: 1, id: "immersive_aircraft:industrial_gears" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 5.5d
+			x: -3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -328,8 +333,8 @@
 				item: { count: 1, id: "immersive_aircraft:sturdy_pipes" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 6.5d
+			x: 3.5d
+			y: 10.0d
 		}
 		{
 			dependencies: [
@@ -349,8 +354,8 @@
 				item: { count: 1, id: "immersive_aircraft:gyroscope" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 5.5d
+			x: 3.5d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -363,13 +368,8 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "01B9AB66F0C8193F"
-					table_id: 7864365139616724351L
-					type: "loot"
-				}
-				{
-					exclude_from_claim_all: true
 					id: "4F04EAEB62E2E61A"
+					table_id: 3332422840333843917L
 					type: "loot"
 				}
 				{
@@ -388,7 +388,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: [
@@ -401,29 +401,19 @@
 			]
 			hide_dependency_lines: true
 			id: "754EC9E8686D3E6B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7959F5EB3D7161E5"
-					type: "loot"
-				}
-				{
-					count: 16
-					id: "424BEF09B3783620"
-					item: {
-						count: 1
-						id: "farmersdelight:chicken_sandwich"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7959F5EB3D7161E5"
+				table_id: 3332422840333843917L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "77805247BB021C36"
 				item: { count: 1, id: "immersive_aircraft:gyrodyne" }
 				type: "item"
 			}]
 			x: 2.5d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: [
@@ -434,19 +424,30 @@
 			]
 			hide_dependency_lines: true
 			id: "3AE9F283C447A2F9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "25BC437974EEE110"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D0E06F072D8F455"
+					table_id: 3332422840333843917L
+					type: "loot"
+				}
+				{
+					count: 8
+					id: "69D019D884E9E557"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "35380045CA76D551"
 				item: { count: 1, id: "immersive_aircraft:airship" }
 				type: "item"
 			}]
 			x: 0.5d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: [
@@ -459,6 +460,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "56E5E6E8C175E9BB"
+					table_id: 3332422840333843917L
 					type: "loot"
 				}
 				{
@@ -477,7 +479,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 10.5d
+			y: 15.0d
 		}
 		{
 			dependencies: [
@@ -493,6 +495,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "75767A36242646E7"
+					table_id: 3332422840333843917L
 					type: "loot"
 				}
 				{
@@ -511,7 +514,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 11.5d
+			y: 16.0d
 		}
 		{
 			dependencies: [
@@ -531,8 +534,8 @@
 				item: { count: 1, id: "immersive_aircraft:improved_landing_gear" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 7.5d
+			x: 3.5d
+			y: 11.0d
 		}
 		{
 			dependencies: [
@@ -547,13 +550,8 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "18CE1AE27CDC14FE"
-					table_id: 7864365139616724351L
-					type: "loot"
-				}
-				{
-					exclude_from_claim_all: true
 					id: "6119749DE84C144D"
+					table_id: 3332422840333843917L
 					type: "loot"
 				}
 				{
@@ -572,19 +570,20 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["704FD1152464AD1B"]
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			id: "5ADB0CD269D43B35"
+			size: 2.0d
 			tasks: [{
 				id: "4239070C7C1534D6"
 				type: "checkmark"
 			}]
 			x: -0.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			can_repeat: false
@@ -599,18 +598,19 @@
 			id: "15EDEA2E3D312AB2"
 			rewards: [
 				{
+					exclude_from_claim_all: true
+					id: "6D322A3B70304466"
+					table_id: 3332422840333843917L
+					type: "loot"
+				}
+				{
 					count: 16
-					id: "25DF8424BB470301"
+					id: "6E512D1D3A33D0B8"
 					item: {
 						count: 1
 						id: "minecraft:coal"
 					}
 					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6D322A3B70304466"
-					type: "loot"
 				}
 			]
 			tasks: [{
@@ -619,7 +619,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 10.5d
+			y: 15.0d
 		}
 		{
 			dependencies: [
@@ -643,8 +643,8 @@
 				item: { count: 1, id: "immersive_aircraft:rotary_cannon" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 6.5d
+			x: 2.0d
+			y: 10.0d
 		}
 		{
 			dependencies: [
@@ -667,19 +667,19 @@
 				item: { count: 1, id: "immersive_aircraft:heavy_crossbow" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 7.5d
+			x: 2.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5ADB0CD269D43B35"]
-			hide_dependency_lines: true
+			hide_dependency_lines: false
 			id: "36146FF5F795E67A"
 			tasks: [{
 				id: "40C53B426F32A07E"
 				type: "checkmark"
 			}]
 			x: -0.5d
-			y: 3.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -693,7 +693,7 @@
 				type: "checkmark"
 			}]
 			x: -0.5d
-			y: 4.5d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -707,7 +707,7 @@
 				type: "checkmark"
 			}]
 			x: -0.5d
-			y: 8.5d
+			y: 12.5d
 		}
 	]
 }
