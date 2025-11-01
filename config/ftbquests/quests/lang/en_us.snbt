@@ -42,6 +42,7 @@
 	quest.0053793E3F98252F.title: "&e&lCapsid Transformation"
 	quest.00561B81705B3506.quest_desc: ["Has a catch rate of 4× when used on Pokémon with 100 or more Base Speed."]
 	quest.00561B81705B3506.title: "&lFast Ball"
+	quest.009919BC54ADF75A.title: "&lPhoenix Chestplate"
 	quest.00B9671338E0E8A4.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r have a &lTON&r of useful and functional upgrades that you can mix and match to satisfy your different needs."
 		"Each upgrade requires an &c&lUpgrade Base&r&r in its crafting recipe."
@@ -80,6 +81,8 @@
 	]
 	quest.027A1CB1D61A6B7B.quest_subtitle: "&0&lAuto-Fishing"
 	quest.027A1CB1D61A6B7B.title: "&lMarine Fisher"
+	quest.027C93AD7E5D0D23.quest_subtitle: "&0&l16 x 16 x 16"
+	quest.027C93AD7E5D0D23.title: "&lMd Spatial Storage Cell"
 	quest.02AB663DE2BC5787.quest_desc: ["The magma mycelial generator converts lava into FE."]
 	quest.02AB663DE2BC5787.quest_subtitle: "&0&lLava power"
 	quest.02AB663DE2BC5787.title: "&lMagma Mycelial Generator"
@@ -98,17 +101,18 @@
 		""
 		"Items can be dragged into the slots from &aJEI&r even, if you don't actually have any of that item."
 	]
-	quest.03308BA3DDCC5932.quest_subtitle: "filtering and partitioning storage cells"
+	quest.03308BA3DDCC5932.quest_subtitle: "&0&lfiltering and partitioning storage cells"
+	quest.03308BA3DDCC5932.title: "&lCell Workbench"
 	quest.0348661A4898AAAD.quest_desc: ["Using either an ME Chest or an ME drive, cells can be inserted and their contents interacted with manually. Terminals will make this much easier, providing a dedicated access point for storage mediums."]
-	quest.0348661A4898AAAD.quest_subtitle: "Cells go here"
-	quest.0348661A4898AAAD.title: "ME Chests and Drives"
+	quest.0348661A4898AAAD.quest_subtitle: "&0&lCells go here"
+	quest.0348661A4898AAAD.title: "&lME Chests and Drives"
 	quest.034FBE8B8E8651BC.quest_desc: ["The &lGraveyard&r&r &9requires research&r at the University&r to be built, and is where the &lUndertaker&r&r will bury your deceased citizens. "]
 	quest.034FBE8B8E8651BC.quest_subtitle: "&0&lGraveyard"
 	quest.034FBE8B8E8651BC.title: "&lUndertakers"
 	quest.035E5B628D21FA20.quest_desc: ["Zombees will spawn and take space in any advanced hive placed in too dark of an area."]
 	quest.035E5B628D21FA20.quest_subtitle: "&0&lKeep your hives lit or these guys will take over!"
 	quest.035E5B628D21FA20.title: "&lZombees"
-	quest.03C85DC2F154684B.quest_desc: ["The &e&lStorage Terminal&r&r allows you to access the inventory of any block that can hold items, such as chests or crates by simply placing it on the inventory block."]
+	quest.03C85DC2F154684B.quest_desc: ["The &lStorage Terminal&r&r allows you to access the inventory of any block that can hold items, such as chests or crates by simply placing it on the inventory block."]
 	quest.03C85DC2F154684B.title: "&lStorage Terminal"
 	quest.04212C3B06B4A71B.quest_desc: ["Breed a Magmatic Bee with a Coal Bee."]
 	quest.04212C3B06B4A71B.quest_subtitle: "&0&lBee Breeding"
@@ -127,7 +131,8 @@
 	quest.054DC93067884DA6.quest_subtitle: "&0&lIron Sword + Nether Bricks"
 	quest.054DC93067884DA6.title: "&lNether Brick Nest"
 	quest.05607C56B0320CD7.quest_desc: ["The IO Port allows you to rapidly fill or empty storage cells to or from network storage."]
-	quest.05607C56B0320CD7.quest_subtitle: "Input/Output"
+	quest.05607C56B0320CD7.quest_subtitle: "&0&lInput/Output"
+	quest.05607C56B0320CD7.title: "&lME/IO Port"
 	quest.05747711CC03281C.quest_desc: [
 		"The &lEnchanter's Tower&r&r is where the &lEnchanter&r&r will create enchanted books, as long as they have &9&lAncient Tomes&r&r. The Enchanter will observe other workers throughout their daily routines in order to collect experience to create enchanted books. The higher their Mana level, the more XP they will collect per trip. They will &cnot&r apply the enchanted books to tools and armor, you must do that yourself. Enchanters do &cnot&r take XP from workers, they simply gain it by &nobserving&r."
 		""
@@ -200,6 +205,8 @@
 	]
 	quest.05CC534A0DE3868A.quest_subtitle: "&0&lNether Mine"
 	quest.05CC534A0DE3868A.title: "&lNether Miners"
+	quest.05E3948832A40209.title: "&l1k ME Item Storage Cell"
+	quest.0607DE029E09BADA.title: "&lPhoenix Gloves"
 	quest.0608AC65FF96325D.quest_desc: ["&e&lIronwood Armor and Tools&r&r are made from Ironwood Ingots."]
 	quest.0608AC65FF96325D.title: "Ironwood Armor and Tools"
 	quest.0653F1F63884FF23.quest_subtitle: "&0&lT2 Circuits"
@@ -210,12 +217,12 @@
 		""
 		"&e&lTorchberries&r&r are an item found by harvesting Torchberry Plants or slaying Skeleton Druids. "
 	]
-	quest.06B12750EF857686.title: "Raven Feather and Torchberries"
+	quest.06B12750EF857686.title: "&lRaven Feather and Torchberries"
 	quest.06F07A733CE7DEC3.title: "&lDefeat Crystal"
 	quest.06F6FB4557C2EFCB.quest_desc: [
-		"Now you can store large amounts of items, but what if you have items in two different areas and want to access both from a single terminal? This is where the &e&lInventory Cable&r&r and &e&lInventory Cable Connector&r&r come into play!"
+		"Now you can store large amounts of items, but what if you have items in two different areas and want to access both from a single terminal? This is where the &lInventory Cable&r&r and &lInventory Cable Connector&r&r come into play!"
 		""
-		"Place the &e&lInventory Cable Connector&r&r on the storage block, then connect it to the &c&lInventory Connector block&r&r using &e&lInventory Cables&r&r. Repeat this for as many storage blocks as needed, and all of them will be accessible through the terminal."
+		"Place the &lInventory Cable Connector&r&r on the storage block, then connect it to the &c&lInventory Connector block&r&r using &lInventory Cables&r. Repeat this for as many storage blocks as needed, and all of them will be accessible through the terminal."
 	]
 	quest.06F6FB4557C2EFCB.title: "&lInventory Cables and Cable Connectors"
 	quest.070B9E78D5273338.quest_subtitle: "&9A central HUD for black holes"
@@ -238,6 +245,7 @@
 	quest.07A1ABE59F38F2BD.quest_subtitle: "&0&lGlassblower's Hut"
 	quest.07A1ABE59F38F2BD.title: "&lGlassblowers"
 	quest.07B6E0D563D68B7B.quest_desc: ["              Enter the &3Otherside&r."]
+	quest.07B6E0D563D68B7B.title: "&lThe Otherside"
 	quest.07FED65149F877AA.quest_desc: [
 		"The &lGuard Tower&r&r will employ and house one &lGuard&r&r to protect your colony. The new Guard will need a bed in a house in order to spawn. However, once they are hired at the Guard Tower, that becomes their &9new residence&r and the bed in the house will open up for another new citizen. Colonists like to feel safe, so building Guard Towers close to colonists' work and homes can improve their happiness. Additionally, if you place Guard Towers near your colony border and level them up, your border will &9expand&r."
 		""
@@ -252,6 +260,8 @@
 	]
 	quest.0811E7EF963242D8.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.0812E5105296350A.quest_desc: ["To get started, you will need to locate a portal frame within the world, as pictured in the quest book. "]
+	quest.082856DCE7FE2C38.quest_subtitle: "&0&l2 x 2 x 2"
+	quest.082856DCE7FE2C38.title: "&lSm Spatial Storage Cell"
 	quest.087056D7E6E82FB3.quest_desc: ["Breed an iron bee and a coal bee."]
 	quest.087056D7E6E82FB3.quest_subtitle: "&0&lBee Breeding"
 	quest.087056D7E6E82FB3.title: "&lAcquire a Steel Bee"
@@ -259,8 +269,10 @@
 	quest.0895EF6E5296A1E8.quest_desc: ["The powered centrifuge uses &cRF&r to process materials at higher speeds&r."]
 	quest.0895EF6E5296A1E8.quest_subtitle: "&0&lFaster and Better"
 	quest.0895EF6E5296A1E8.title: "&lPowered Centrifuge"
+	quest.089EC148C8AAF1EC.title: "&lMemory Card"
 	quest.08B34DE812C3235B.quest_desc: ["Even across dimensions!"]
-	quest.08B34DE812C3235B.quest_subtitle: "Unlimited Range"
+	quest.08B34DE812C3235B.quest_subtitle: "&0&lUnlimited Range"
+	quest.08B34DE812C3235B.title: "&lQuantum Bridge Card"
 	quest.08E01458A79686AA.quest_desc: [
 		"The &l&2Twilight Forest&r&r realm is an expansive world, similar to other Minecraft dimensions, but it is densely forested. This dimension has a distinct enchanted, fairy tale, and mythological atmosphere, setting it apart from the Overworld. As you explore the Twilight Forest, you'll encounter a variety of dungeons, bosses, structures, trees, and numerous unique items. There is much to discover in this magical realm."
 		""
@@ -363,8 +375,9 @@
 		"Meaning all content within the modpack, including &l&eQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
 	]
 	quest.0AF777F2B7D0443A.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.0B27108E7BE7DE33.title: "&lValkyrie Helmet"
 	quest.0B443B43E4D59AC2.quest_desc: ["Craft a Reinforced Echo Shard"]
-	quest.0B443B43E4D59AC2.title: "Reinforced Echo Shard"
+	quest.0B443B43E4D59AC2.title: "&lReinforced Echo Shard"
 	quest.0B4C800E8E16784C.quest_subtitle: "Round 1"
 	quest.0B4C800E8E16784C.title: "&lDefeat Cedrick"
 	quest.0B6BDA8A076A819E.quest_subtitle: "Doubles format"
@@ -402,10 +415,12 @@
 	quest.0BCA00285412FC60.quest_desc: ["Use a honey treat on a &lstone or reed&r nest to spawn a mason bee if you cannot find one."]
 	quest.0BCA00285412FC60.quest_subtitle: "&0&lStone or reed nests"
 	quest.0BCA00285412FC60.title: "&lMason Bee"
+	quest.0BEDE2CAAE120668.title: "&lEcho Sword"
 	quest.0C4065E442FF26E2.quest_desc: ["The Alpha upgrade will increase the number of combs produced by any given bee per trip by %120."]
 	quest.0C4065E442FF26E2.quest_subtitle: "&0&lNow we're talking production."
 	quest.0C4065E442FF26E2.title: "&lUpgrade: Productivity Alpha"
 	quest.0C4F6DA05C52758E.quest_desc: ["The &3Sonorous Staff&r is capable of releasing sound blasts at will. It can only be crafted using primarily materials unique to mobs found in the &7Otherside&r. "]
+	quest.0C4F6DA05C52758E.title: "&lSonorous Staff"
 	quest.0C6C61B9BBC08F04.title: "&lCraft a Revolver"
 	quest.0C764519B69116BD.quest_desc: [
 		"Flux Networks&r is a very useful mod for moving energy and even stress around the world. Multiple players can share a network allowing for 1 person to handle production of power while another handles a build that consumes it and more."
@@ -445,6 +460,7 @@
 		"The Samurai is a loyal companion that will protect you from harm. They can wield different types of weapons and armor, growing stronger over time as they fight alongside you."
 		"They live in the mountains and like eating healthy apples."
 	]
+	quest.0DA8CD1F89C5DC34.title: "&lMEGA Item Cell Housing"
 	quest.0DBCC30F9C51929A.quest_desc: ["The crimed mycelial generator converts mushrooms and mushroom by-products into FE."]
 	quest.0DBCC30F9C51929A.quest_subtitle: "&0&lMushroom power"
 	quest.0DBCC30F9C51929A.title: "&lCrimed Mycelial Generator"
@@ -497,6 +513,7 @@
 	quest.0EFD80C0B8872BD2.quest_desc: ["Once you have found a portal frame, you must challenge and defeat its Gatekeeper to proceed."]
 	quest.0EFD80C0B8872BD2.title: "&lDefeat the Gatekeeper"
 	quest.0F0C0F27BE3D34D6.title: "&lDefeat Big Mo"
+	quest.0F4282501ED109B5.title: "&lME Fluid Cell Housing"
 	quest.0F4965D65EBCC091.quest_desc: ["&e&lIronwood Armor and Tools&r&r are made from Ironwood Ingots."]
 	quest.0F4965D65EBCC091.title: "Ironwood Armor and Tools"
 	quest.0F6C2FF38AC5FF1B.title: "&l2x Induction Port"
@@ -555,6 +572,7 @@
 	quest.10C6AA32FD92C5E6.quest_desc: ["Breed an iron bee with a mason bee."]
 	quest.10C6AA32FD92C5E6.quest_subtitle: "&0&lBee Breeding"
 	quest.10C6AA32FD92C5E6.title: "&lAcquire a Silver Bee"
+	quest.10E94F3EEB4BD905.title: "&l256k ME Storage Component"
 	quest.10EB55AA16BF6C7A.quest_desc: ["The Enchantment Sorter will accept input of any item, including non-enchantable items, and filter the enchanted items into the top row of output slots while non-enchanted items are pushed to the bottom output slots. Each set of output slots can be assigned a different face of the machine for extraction via pipes or hoppers."]
 	quest.10EB55AA16BF6C7A.quest_subtitle: "&0&lSorting enchanted items"
 	quest.10EB55AA16BF6C7A.title: "&lEnchantment Sorter"
@@ -625,6 +643,7 @@
 	quest.1226C7680942E087.title: "&lWand of Symmetry"
 	quest.122EE295102E98A8.quest_desc: ["Crafting units simply fill space in a CPU in order to make it a solid rectangular prism, Which &oIS&r a requirement for the multi block to form, if you don't have enough of the other components. They are also a base ingredient in the other components."]
 	quest.122EE295102E98A8.quest_subtitle: "Optional"
+	quest.122EE295102E98A8.title: "&lCrafting Unit"
 	quest.124ACDE07700F485.quest_desc: [
 		"The Sack of Sating is a unique utility item that stores hunger values from food. Players can drag food items onto the sack to have it promptly devour them, saving their hunger value for later."
 		""
@@ -660,6 +679,7 @@
 		"The map’s magical focus detects major landmarks with distinct icons, making it easy for explorers to navigate and plan their journey in the Twilight Forest."
 	]
 	quest.135ADCF4DD9867EF.quest_desc: ["The Seeking Eye can be used to locate specific bosses, as long as the associated item is also held in the off-hand."]
+	quest.135ADCF4DD9867EF.title: "&lSeeking Eye"
 	quest.135B76E092E8171D.quest_desc: ["Allows you to check for the spawns of any 'Mons you have encountered."]
 	quest.135B76E092E8171D.quest_subtitle: "Checking spawns in the area"
 	quest.135B76E092E8171D.title: "&lPokeNav"
@@ -680,7 +700,8 @@
 	quest.14251EA8EF4DA3D6.quest_desc: ["The &lStone Smeltery&r&r &9requires research&r at the University&r to be built, and is where the &lStone Smelter&r&r will smelt different types of stone. The Stone Smelter will only work when they have been taught the recipe, receive a request from another worker, and have the needed materials."]
 	quest.14251EA8EF4DA3D6.quest_subtitle: "&0&lStone Smeltery"
 	quest.14251EA8EF4DA3D6.title: "&lStone Smelter"
-	quest.1446C0690EC5B754.quest_subtitle: "Energy cell 2.0"
+	quest.1446C0690EC5B754.quest_subtitle: "&0&lEnergy cell 2.0"
+	quest.1446C0690EC5B754.title: "&lDense Energy Cell"
 	quest.1456A9EF30A6F0D0.title: "&e&lFind an End City"
 	quest.1472219EF437D964.quest_subtitle: "Round 3"
 	quest.1472219EF437D964.title: "&lDefeat Lucian"
@@ -718,11 +739,13 @@
 	quest.15BEA77F7610BACA.quest_desc: ["&e&lFiery Armor&r&r is armor made from Fiery Ingots and has the innate skill to burn attackers."]
 	quest.15BEA77F7610BACA.title: "Fiery Armor"
 	quest.15EDEA2E3D312AB2.quest_desc: ["This three seater is amphibious and powerfull. great for going anywhere espesially upgraded!"]
-	quest.15EDEA2E3D312AB2.quest_subtitle: "Craft or Obtain a Bamboo Hopper"
+	quest.15EDEA2E3D312AB2.quest_subtitle: "&0&lCraft or Obtain a Bamboo Hopper"
+	quest.15EDEA2E3D312AB2.title: "&lBamboo Hopper"
 	quest.15FA9A479EE5E88C.quest_desc: ["The &e&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
 	quest.16472E640D0FCB50.title: "&lFoundry"
 	quest.1665F1A15B6A0F53.quest_desc: ["The &lRallying Banner&r&r will summon your &9Guards&r to you when used. It's especially useful in &craids&r, as Guards don't automatically know where to find the raiders."]
 	quest.1665F1A15B6A0F53.title: "&lRallying Banner"
+	quest.169A7960FD5096E2.title: "&lEcho Helmet"
 	quest.16C59B6311832A6D.title: "&lNetherite Ingot"
 	quest.16D00A9DF240EDF5.quest_desc: [
 		"Standing over the desolate glaciers, the &e&lAurora Palace&r&r is a striking sight for adventurers in the Twilight Forest, with walls that constantly shift in various colors. However, dangers within will fiercely defend their magical home."
@@ -742,6 +765,7 @@
 		"The &l&eTwilight Lich&r&r, or simply the Lich, resides at the top of the tower. It appears as a tall humanoid skeleton wearing a purple cape and a large golden crown, surrounded by a wall of shields that may be breakable."
 	]
 	quest.17126C997D141E79.title: "&2&lSlay The Lich"
+	quest.174615075009CBC9.title: "&lMEGA Fluid Cell Housing"
 	quest.176584A2D866EA9E.title: "&e&lLeather Armor"
 	quest.177356502AE1B924.title: "&l32xTreated Wood Planks"
 	quest.17B7C61B3BA03A8A.quest_desc: ["The Primordial Caves are limestone-laden caverns isolated for millions of years, resulting in unique prehistoric geology, flora, and fauna. Ambersol clusters illuminate the caves from above, creating a daytime-like brightness that supports large plants such as Pewen Trees, Ancient Jungle Trees, Cycads, Flytraps, and Curly Ferns. The ground is mossy, with muddy lakes scattered throughout. Despite lacking monsters, the caves are not entirely safe."]
@@ -751,8 +775,8 @@
 	quest.17E0353A98922300.title: "&lChicken Farmers"
 	quest.181477D6F7B604B9.title: "&lDefeat Maxima"
 	quest.18247C2CCD71DF3D.quest_desc: ["You can go the route of in-world transformation, or if you have already set up for bee keeping, this will probably be a better route than growing and harvesting crystals the old fashioned way, it's up to you."]
-	quest.18247C2CCD71DF3D.quest_subtitle: "#1 of 2 easier ways to obtain certus"
-	quest.18247C2CCD71DF3D.title: "Spatial (certus) Bee"
+	quest.18247C2CCD71DF3D.quest_subtitle: "&0&l An easier way to obtain certus"
+	quest.18247C2CCD71DF3D.title: "&lSpatial (certus) Bee"
 	quest.18379C88D93F18F6.quest_desc: ["has a 2x catch rate on Pokémon that were caught via a Poké Rod."]
 	quest.18379C88D93F18F6.title: "&lLure Ball"
 	quest.183AE610FA1BB0A2.quest_desc: [
@@ -766,11 +790,13 @@
 	quest.18637DEC415FBBB9.quest_subtitle: "&0&lMaking machine frames and upgrades"
 	quest.18637DEC415FBBB9.title: "&lDissolution Chamber"
 	quest.189C41B813576760.title: "&lDefeat Emerald"
-	quest.18B57B5E721F69CC.quest_subtitle: "I once was blind, but now I see"
+	quest.18B57B5E721F69CC.quest_subtitle: "&0&lI once was blind, but now I see"
+	quest.18B57B5E721F69CC.title: "&lWarden Helmet"
 	quest.18E742B005126239.quest_desc: ["A specially made home for draconic bees to harvest dragons breath."]
 	quest.18E742B005126239.quest_subtitle: "&0&lA specially made hive, carved from the egg of the ends ruler."
 	quest.18E742B005126239.title: "&lDragon Egg Hive"
 	quest.191299BE6CF98EBE.title: "&lVerdant Ball"
+	quest.19384E1C40343004.title: "&lBiplane"
 	quest.193EDF94D10B984B.quest_desc: ["The &e&lSeeker Bow&r&r is one of two bows that can drop from the Snow Queen. Arrows fired from this bow will attempt to hone in onto nearby targets. Seeker arrows cannot land critical hits."]
 	quest.1942BEDE7ADF7123.quest_desc: [
 		"Has a catch rate of anywhere from 1× to 4×. This rate increases based on how much higher the player's Pokémon level is compared to the target."
@@ -792,6 +818,7 @@
 		"Meaning all content within the modpack, including &l&eQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
 	]
 	quest.1954E44EEC89DE39.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.1979909709DE2135.title: "&lPhoenix Bow"
 	quest.199F66770B165AAF.title: "&e&lStone Tools"
 	quest.19BAB83CEDFD003A.quest_subtitle: "Round 2"
 	quest.19BAB83CEDFD003A.title: "&lDefeat Rocket Admin Ariana"
@@ -892,9 +919,11 @@
 	quest.1C22393987BDFBCC.title: "&2&lVisit The Twilight Forest"
 	quest.1C366079E2966438.title: "&lPrometheum Battleaxe"
 	quest.1C761E69DB39289E.quest_desc: ["Crafted by causing a reaction between Ender Dust and a Singularity. Any explosive force should work to trigger the reaction, tiny tnt has a radius the provides minimal risk of accidental damage and is sufficient to create the reaction. They can be labeled with things like an anvil to help keep track of which to are linked (entangled) to which."]
-	quest.1C761E69DB39289E.quest_subtitle: "1 singularity will make 2 Q.E singularities"
+	quest.1C761E69DB39289E.quest_subtitle: "&0&l1 singularity will make 2 Q.E singularities"
+	quest.1C761E69DB39289E.title: "&lQuantum Entangled Singularity"
 	quest.1C8087BC08CB0C4B.quest_desc: ["&e&lKnightmetal Tools and Weapons&r&r are made from Knightmetal Ingots."]
 	quest.1C8087BC08CB0C4B.title: "Knightmetal Tools and Weapons"
+	quest.1C9428D558A18865.title: "&lEcho Ingot"
 	quest.1CB4E504B2A12845.quest_desc: [
 		"Resembling a large Hollow Hill, the &e&lHydra Lair&r&r rises from the flat swamplands, providing a home for the multi-headed Hydra in the Fire Swamp. The Hydra has hollowed out the hill for shelter, forcing challengers to approach head-on in an area devoid of cover."
 		""
@@ -910,6 +939,7 @@
 	]
 	quest.1CC5B5C8271FEC0E.quest_subtitle: "&0&lBees love these"
 	quest.1CC5B5C8271FEC0E.title: "&lHoney Treat"
+	quest.1CCF84C68FCC71B6.title: "&lBasic Card"
 	quest.1CE4C8613F27A00D.title: "&lDefeat Byron"
 	quest.1CF9938083C7A2CB.quest_desc: ["The &e&lScepter of Life Draining&r&r drains life energy from any mob it right-clicks, producing pink particle effects. To use it, hold right-click while looking at an enemy, causing them to float and transferring energy to the user for faster healing. If interrupted, the enemy gets the Slowness debuff and approaches slowly, allowing the player to recharge the scepter. It does not work against the Ender Dragon."]
 	quest.1D31FD9F17FFCB02.title: "&lDefeat Red"
@@ -1032,7 +1062,8 @@
 		""
 		"This can also be accomplished via tesla coil charging if you prefer the Create route!"
 	]
-	quest.1F8E11D7CAFA5B63.quest_subtitle: "Charging certus"
+	quest.1F8E11D7CAFA5B63.quest_subtitle: "&0&lCharging certus"
+	quest.1F8E11D7CAFA5B63.title: "&lCharger"
 	quest.1F9BFADE9C87C0C1.title: "&3&lEther Chicken"
 	quest.1FA0FF08715F6E77.quest_desc: ["Breed a sweat bee with an iron bee."]
 	quest.1FA0FF08715F6E77.quest_subtitle: "&0&lBee Breeding"
@@ -1042,6 +1073,7 @@
 	quest.1FD8BF9F8FD76037.quest_subtitle: "&0&lT3 Circuits"
 	quest.1FD8BF9F8FD76037.title: "&lElite Control Circuit"
 	quest.1FE3A50001C967F7.title: "&lDefeat Vega"
+	quest.200C91AA7F8AA55F.title: "&lEnergy Card"
 	quest.204CFC5D7297B511.quest_desc: ["A Timer Ball is a third tier Poké Ball and grants a cumulative catch rate of about 0.3× per turn passed in battle, up to a maximum catch rate of 4×."]
 	quest.204CFC5D7297B511.title: "&lTimer Ball"
 	quest.2050242522D202DD.quest_desc: ["Feed sculk to a digger bee."]
@@ -1051,6 +1083,7 @@
 	quest.20635A3C82EA9451.quest_desc: ["Use a honey treat on a slimy nest to spawn a slimy bee if you cannot find one."]
 	quest.20635A3C82EA9451.quest_subtitle: "&0&lew... it's sticky"
 	quest.20635A3C82EA9451.title: "&lSlimy Bee"
+	quest.20810DF768F285DF.title: "&l4k ME Storage Component"
 	quest.20C5100BB55383D1.title: "&lDefeat Jupiter"
 	quest.20DF26B506B5FC96.quest_desc: ["Breed a crystalline bee with an ashy mining bee."]
 	quest.20DF26B506B5FC96.quest_subtitle: "&0&lBee Breeding"
@@ -1067,7 +1100,8 @@
 		""
 		"Dense cables slightly override the \"shortest path\" behavior of channels, channels will always prioritize the shortest path to a dense cable, and then the shortest path through that dense cable to a controller."
 	]
-	quest.215FAC2FA6D64DD5.quest_subtitle: "x64 Channels"
+	quest.215FAC2FA6D64DD5.quest_subtitle: "&0&lx64 Channels"
+	quest.215FAC2FA6D64DD5.title: "&lFluix ME Dense Covered Cable"
 	quest.21ABDD6D68F783DC.title: "&lDefeat Volkner"
 	quest.21B569AA8CE5C012.title: "&lBuild a Fermenter"
 	quest.21B93CF5EABF9DFF.quest_desc: ["The culinary mycelial generator convert food stuffs into FE."]
@@ -1133,8 +1167,8 @@
 		"The &e&lNaga&r&r is a serpent that lurks in the courtyard, appearing as a massive green snake-like creature with a human-like face and subtly colored scales."
 	]
 	quest.224C2A4CAABD226E.title: "&2&lSlay The Naga"
-	quest.22891E06BE664695.quest_desc: ["Made with 16x &7iron ingots&r, 4 stone and 1 precision mechanism."]
-	quest.22891E06BE664695.quest_subtitle: "Mechanical Crafting"
+	quest.22891E06BE664695.quest_desc: [""]
+	quest.22891E06BE664695.title: "&lInscriber Calculation Press"
 	quest.228B0FF44D9EFB8F.title: "&lDefeat Admin Matt"
 	quest.22B6D3A956C1306D.quest_desc: ["can be attached to contraptions and used for interfacing with tanks and any inventory that accepts fluids."]
 	quest.22B6D3A956C1306D.quest_subtitle: "&0&lContraption fluid transfer"
@@ -1158,7 +1192,8 @@
 	quest.2399827CAECFF568.quest_subtitle: "&0&lIndustrial mob farming"
 	quest.2399827CAECFF568.title: "&lMob Duplicator"
 	quest.23B66F4C381C1019.quest_desc: ["Covered cables offer no &oreal&r benefits over the Fluix ME Glass Cable. It can be used as an alternate aesthetic choice if you prefer the covered/colored look."]
-	quest.23B66F4C381C1019.quest_subtitle: "x16 Channels"
+	quest.23B66F4C381C1019.quest_subtitle: "&0&lx16 Channels"
+	quest.23B66F4C381C1019.title: "&lFluix ME Covered Cable"
 	quest.23C4B66B177FC645.quest_desc: [
 		"Block breakers are the counterpart to placers, and will break and collect any block placed in front of their working face (black spot)."
 		""
@@ -1179,12 +1214,15 @@
 	quest.244084798F9E0DBE.quest_subtitle: "Round 1"
 	quest.244084798F9E0DBE.title: "&lDefeat Bertha"
 	quest.2441FF4C4F7E3AB4.quest_desc: ["Mine all types of giant blocks using the &e&lGiant's Pickaxe&r&r."]
+	quest.249AE9211DE6DCCB.title: "&l16k ME Storage Component"
 	quest.24A854ACF67A1E2D.quest_desc: ["Craft and Equip a full set of Enchanted Gravitite armor"]
-	quest.24A854ACF67A1E2D.title: "Enchanted Gravitite Armor"
+	quest.24A854ACF67A1E2D.title: "&lEnchanted Gravitite Armor"
 	quest.24D145B0880BBBA8.title: "&l2x Overcharged Crystal"
 	quest.24D263576EA9EAB9.quest_desc: ["Sugarbag bees have a very small chance to spawn inside of cocoa bean pods&r, grow and break as many pods as you can and you should *eventually* spawn at least 1. They produce a comb very useful as an early game food supply. provided you have chosen an origin that allows you to eat it."]
 	quest.24D263576EA9EAB9.quest_subtitle: "&0&lThis one can be quick, can take a while."
 	quest.24D263576EA9EAB9.title: "&lSugarbag Bee"
+	quest.25081612033803DC.title: "&l &l1M Storage Component"
+	quest.254EB17F7639562B.title: "&lGyroscope"
 	quest.258415D7EE6AC489.quest_desc: [
 		"It is highly recommended not to visit the &7Otherside&r until you have some decent gear. Meaning at least armor comparable to or better than enchanted netherite and some means of storing loot, be it wireless terminal or ender chest."
 		""
@@ -1192,8 +1230,8 @@
 		""
 		"Remember where the portal frame is if you do not have a means to teleport to and from. Portals are few and far between, found only in the lower levels of &bAncient Temples&r."
 	]
-	quest.258415D7EE6AC489.quest_subtitle: "First things first"
-	quest.258415D7EE6AC489.title: "Welcome to Deeper and Darker!"
+	quest.258415D7EE6AC489.quest_subtitle: "&0&lFirst things first"
+	quest.258415D7EE6AC489.title: "&lWelcome to Deeper and Darker!"
 	quest.2589B379F20B8F80.title: "&lDefeat Katy"
 	quest.258CDFBFFA8E1585.quest_desc: ["The Candy Cavity is a mysterious underground biome that defies all logic and expectation. This deeply unnatural place would be unsettling were it not for its overwhelming sugary sweetness. Made nearly entirely out of candy, this biome is a truly bizarre and mesmerizing sight to behold."]
 	quest.258CDFBFFA8E1585.title: "&e&lCandy Cavity"
@@ -1221,6 +1259,7 @@
 	quest.25E6D46400D0EECF.quest_subtitle: "&0&lItem transfer"
 	quest.25E6D46400D0EECF.title: "&lAndesite Funnel"
 	quest.25EB20A8288B050F.title: "&lEnderic Lens"
+	quest.265EBBF34CA13F2A.title: "&lHull Reinforcement"
 	quest.2663A3D3CA0E33D3.quest_subtitle: "&0&lApply max upgrades to your backpack"
 	quest.2691B9D1ADE66445.quest_desc: ["The &e&lLamp of Cinders&r&r is a tool found in the central vault of the Troll Caves, which requires the Giant's Pickaxe to open. It is used to burn through the Thorns that fill the Thornlands biome. The lamp can be used in two ways: it can burn individual blocks by clicking on them, or it can be \"charged\" by holding the button to burn an entire area. The Lamp of Cinders has no usage limit."]
 	quest.2691B9D1ADE66445.title: "&2&lLamp of Cinders"
@@ -1290,6 +1329,7 @@
 	quest.28CB240B7943AC7B.quest_desc: ["Feed some snow or ice to a sweat bee."]
 	quest.28CB240B7943AC7B.quest_subtitle: "&0&lBee Conversion"
 	quest.28CB240B7943AC7B.title: "&lAcquire a Frosty Bee"
+	quest.28CC089AF7A0CB59.title: "&l &l4M Storage Component"
 	quest.28CC4CC1AA47B5E5.title: "&lDefeat Diamond"
 	quest.28F619ABF0BF4904.quest_desc: ["Mechanical arms can be used to move items quickly and efficiently, they can also be programmed and filtered to grab from and deposit in different locations depending on the filters. This is another device to \"ponder&r\" in &aJEI&r."]
 	quest.28F619ABF0BF4904.quest_subtitle: "&0&lA helping hand"
@@ -1298,15 +1338,18 @@
 	quest.2923456767E589E6.quest_subtitle: "Summon the Void Worm"
 	quest.2923456767E589E6.title: "&e&lMysterious Worm"
 	quest.295D1A6D6FA719F9.quest_subtitle: "&0&lApply max upgrades to your Revolver"
+	quest.29678ACD6A10421E.title: "&lEcho Leggings"
 	quest.2980CB66A334CB6E.quest_desc: ["Place the Hohlraum in the center slot of a Chemical Infuser in which you have made D-T Fuel in order to fill it."]
 	quest.2980CB66A334CB6E.title: "&lHohlraum"
+	quest.29845B4E040A1F1F.title: "&lME Quantum Ring"
 	quest.29931EF1A1C9AED7.title: "&lBuild a Metal Press"
+	quest.2999CDCCF71DD600.title: "&lEnchanted Gravitite"
 	quest.299D05F28A850C5D.quest_desc: [
 		"Once you've found an&3 Ancient City&r and passed through to the &7Otherside&r. Next we need to locate an &3Ancient Temple&r within the Deeplands. "
 		""
 		"Obtaining a Warden Helmet&r will make this endeavor much easier, negating the darkness."
 	]
-	quest.299D05F28A850C5D.title: "Locate an Ancient Temple"
+	quest.299D05F28A850C5D.title: "&lLocate an Ancient Temple"
 	quest.29AE625461ED44FC.title: "&e&lShulker Shells"
 	quest.29F07B06C83C5211.quest_desc: [
 		"Tremorzilla is a colossal, player-created, neutral mob empowered by radiation. It can be tamed and ridden, but only after hatching its egg using a Nuclear Bomb or Nucleeper explosion. The egg, crafted from legendary monster remains, spawns the beast as a baby."
@@ -1325,6 +1368,7 @@
 	]
 	quest.29F7B7015D4DE8F1.quest_subtitle: "&0&lLibrary"
 	quest.29F7B7015D4DE8F1.title: "&lLibrary Students"
+	quest.2A0134E9C3AA3473.title: "&l64k ME Storage Component"
 	quest.2A35C705654D3740.title: "Craft Sheet Metal"
 	quest.2A3FEE4FB40227DD.quest_subtitle: "&0&lHealing Cobblemon"
 	quest.2A3FEE4FB40227DD.title: "&lHealing Machine"
@@ -1359,6 +1403,7 @@
 	quest.2BA4FD9CCA6D20BD.title: "&lDefeat Wayne"
 	quest.2BC383AAEC8C05B4.quest_desc: ["&e&lKnightmetal Armor&r&r is an armor set made from Knightmetal Ingots."]
 	quest.2BC383AAEC8C05B4.title: "Knightmetal Armor"
+	quest.2BCAACB6CB8B834F.title: "&lDrakkars"
 	quest.2BCF41D9DE57B627.quest_subtitle: "&0&lApply max upgrades to your drill"
 	quest.2BD82237222F42B6.quest_desc: ["Derived from a rare ore only obtainable in &dThe End&r."]
 	quest.2BD82237222F42B6.quest_subtitle: "Obtained from The End"
@@ -1377,6 +1422,7 @@
 	quest.2C5A91D10FE18DC5.quest_desc: ["&e&lIce Bow&r&r is a weapon that can be found in the Aurora Palace. The Ice Bow acts like a normal bow, but when an arrow from an Ice Bow hits a target, they will be covered in ice and inflicted with Frosted III for 10 seconds. This bow is useful to slow down moving targets or make escape from a monster easy. Ice Bows cannot be crafted, but they can be repaired with any type of Ice using an Anvil."]
 	quest.2C82BD462E7022F6.title: "&e&lElytra"
 	quest.2CA7DD0CAA9FE690.quest_desc: ["Defeat the Final Boss. Ending the eternal daylight and finally bringing balance back to The Aether."]
+	quest.2CA7DD0CAA9FE690.title: "Defeat The Sun God"
 	quest.2CB1B84AC28EA6D1.title: "&e&lNetherite Ingots"
 	quest.2CB5522D82980ED3.quest_desc: ["The nether star mycelial generator converts nether stars into FE."]
 	quest.2CB5522D82980ED3.quest_subtitle: "&0&lNether star power"
@@ -1394,8 +1440,9 @@
 	quest.2D29DD10C5DB8910.title: "&lDefeat Silver"
 	quest.2D2D4477513F252F.quest_subtitle: "Round 3"
 	quest.2D2D4477513F252F.title: "&lDefeat Cynthia"
-	quest.2D39E7FA50C2CB08.quest_subtitle: "&lDefeat the Silver Dungeon and its boss"
-	quest.2D39E7FA50C2CB08.title: "The Silver Dungeon"
+	quest.2D331886B1E79797.title: "&l &l256M Storage Component"
+	quest.2D39E7FA50C2CB08.quest_subtitle: "&0&lDefeat the Silver Dungeon and its boss"
+	quest.2D39E7FA50C2CB08.title: "&lThe Silver Dungeon"
 	quest.2D547A267D6CCB94.title: "&lLarge Energy Storage"
 	quest.2D5FB1453CD6A687.quest_desc: ["The Enginners Goggles allows you to see the stats of any given stress source, shaft, contraption, etc. they are very handy for troubleshooting problems."]
 	quest.2D5FB1453CD6A687.quest_subtitle: "&0&lSee the numbers"
@@ -1458,6 +1505,7 @@
 		"&lCalipers:&r&r Measure lines, surfaces, and areas."
 	]
 	quest.2EA4E0B05E242FC2.title: "&lUseful Tools"
+	quest.2EBBF9242B6B8B3B.title: "&lPhoenix Leggings"
 	quest.2ED038A81358A49E.quest_desc: [
 		"Getting started with Applied Energistics 2, from here on referred to as \"ae2\", start by crafting yourself a quartz wrench, If you haven't already located a meteorite, craft yourslef a meteorite compass to locate one and you will find all the information needed to start your storage network within this chapter."
 		""
@@ -1467,14 +1515,15 @@
 		""
 		"Dense ME cable can support up to 64 channels . "
 	]
-	quest.2ED038A81358A49E.quest_subtitle: "Advanced Logistics Solutions."
-	quest.2ED038A81358A49E.title: "Welcome to Applied Energistics 2!"
+	quest.2ED038A81358A49E.quest_subtitle: "&0&lAdvanced Logistics Solutions."
+	quest.2ED038A81358A49E.title: "&lWelcome to Applied Energistics 2!"
 	quest.2ED8D6121ABADC02.quest_desc: [
 		"The Starlight Story is an integral part of experiencing the mod, it is due to this that we will not be &oruining&r that experience by adding a questline."
 		""
 		"Complaints will be ignored, if you do not want to read the book then you do not want to play the mod, it &o&nreally is&r&r that simple :)"
 	]
 	quest.2ED8D6121ABADC02.quest_subtitle: "Use the book"
+	quest.2ED8D6121ABADC02.title: "&lGlimmering Tablet"
 	quest.2EDBA01D646B9A9E.title: "&l2x Thermal Evaporation Valve"
 	quest.2EF32806E1739F1A.quest_desc: [
 		"Once centrifuged into singular gene samples, you will want to feed these genes into an indexer."
@@ -1502,6 +1551,7 @@
 		"&e&lSteeleaf&r&r is found in Labyrinth, Hollow Hill, and Dark Tower chests."
 	]
 	quest.2F2BA092915A7910.title: "Steeleaf Armor and Tools"
+	quest.2F413BEACBF5135B.title: "&lAcceleration Card"
 	quest.2F5B1536B8F289FF.quest_desc: [
 		"The hose pulley is a retractable hose that can extract and transport any number of fluids. "
 		""
@@ -1528,6 +1578,7 @@
 	quest.2F8DF91E3EE7D3FA.quest_subtitle: "&0&lTry it in your off-hand"
 	quest.2F8DF91E3EE7D3FA.title: "&lPokefinder"
 	quest.2FA0F6A8A7F2E240.title: "&lSuper AI Chip"
+	quest.2FB8449D86862A5A.title: "&lValkyrie Leggings"
 	quest.2FD5852E556DCF16.quest_desc: [
 		"Standing over the desolate glaciers, the &e&lAurora Palace&r&r is a striking sight for adventurers in the Twilight Forest, with walls that constantly shift in various colors. However, dangers within will fiercely defend their magical home."
 		""
@@ -1548,6 +1599,7 @@
 	quest.3036F5CAE085055D.quest_subtitle: "&0&lGathering Mint Seeds"
 	quest.3036F5CAE085055D.title: "&lMint Seeds"
 	quest.303A1680BED04583.title: "&lElectromagnetic Coil"
+	quest.303A967311EDE94C.title: "&lZanite Gemstone"
 	quest.303E5FEBA512547F.quest_desc: ["Advanced hives placed in dark, unlit areas, will naturally spawn both &lzombees&r and &lskeletal&r bees. While you will most likely want a &ofew&r skeletal bees at some point, the undead bees are typically a nuisance in general more than anything as they spawn and take up the space of the bees you do want to access the hives. Keeping your bee keeping area well lit is a very easy way to solve any problems caused by them, if they are spawning in an area you do not want them in, this is because at least 1 of the hives in the area is &lnot lit well enough&r."]
 	quest.303E5FEBA512547F.quest_subtitle: "&0&lUndead and unwanted visitors"
 	quest.303E5FEBA512547F.title: "&lLight up your Hives!"
@@ -1599,6 +1651,7 @@
 		""
 		"When the crumble horn is used in a &eDispenser&r, it will attempt to crumble the block in front of it. This action takes one durability to complete. Unlike other damageable items that can be used in the dispenser, the crumble horn will not break when depleted. If the durability hits zero it will instead refuse to fire again."
 	]
+	quest.31F9DFD0F505AE02.title: "&lCrumble Horn"
 	quest.32037B9970FC3DF2.quest_desc: [
 		"Type-gems, bottle caps, and masterballs are the only items the cobble merchants who deal in cobbledollars will buy. Sales are performed using the \"Bank\" tab, the merchant does not actually have a banking option (take that one up with the mod creator.)"
 		""
@@ -1705,6 +1758,7 @@
 	quest.34DA943BEA48EC06.quest_desc: ["When supplied with fermented ore meat and sand, the fluid sieving machine will then produce dust of the respective ore."]
 	quest.34DA943BEA48EC06.quest_subtitle: "&0&lOre meat processing"
 	quest.34DA943BEA48EC06.title: "&lFluid Sieving Machine"
+	quest.351D5A61F479F3F5.title: "&lPropeller"
 	quest.3529BF2321A4EC4E.quest_desc: ["The pressurized reaction chamber intakes solids, fluids and gases which it then converts into a new solid with gaseous byproduct."]
 	quest.3529BF2321A4EC4E.quest_subtitle: "&0&lThe \"PRC\""
 	quest.3529BF2321A4EC4E.title: "&lPressurized Reaction Chamber"
@@ -1718,7 +1772,7 @@
 	quest.35947D9A5AF50325.title: "&lDefeat Cynthia"
 	quest.35DE3F29E9962F80.title: "&lArcane Research Station"
 	quest.36146FF5F795E67A.quest_desc: ["These Quests are tied to the core components that are used as materials"]
-	quest.36146FF5F795E67A.quest_subtitle: "Parts"
+	quest.36146FF5F795E67A.quest_subtitle: "&0&lParts"
 	quest.3626B316AFAF5C3B.title: "&lPrometheum Pickaxe"
 	quest.363597FAD27A6827.quest_subtitle: "Round 2"
 	quest.363597FAD27A6827.title: "&lDefeat Saturn"
@@ -1803,7 +1857,8 @@
 	quest.377C36AD367DB60D.title: "&lStonemasons"
 	quest.37A7F746888E7B30.quest_subtitle: "Doubles format"
 	quest.37A7F746888E7B30.title: "&lDefeat Marlon and Grunt"
-	quest.37B0F1A299218255.quest_subtitle: "Crafting Facades and Cable Anchors"
+	quest.37B0F1A299218255.quest_subtitle: "&0&lCrafting Facades and Cable Anchors"
+	quest.37B0F1A299218255.title: "&lCertus Quartz Cutting Knife"
 	quest.37C818A6876BE461.quest_desc: [
 		"Ever dreamed of starting your own &lTown&r&r, taking the lead, and watching your creation grow and prosper? Well, this is the perfect mod for you!"
 		""
@@ -1863,7 +1918,8 @@
 		"The maximum size a controller multi block can be is 7x7x7, otherwise it will turn red."
 		"A controller can have 2 adjacent blocks in at most 1 axis; if a block violates this rule, it will disable and turn red."
 	]
-	quest.38A8DAD3A173256D.quest_subtitle: "The heart of every major network"
+	quest.38A8DAD3A173256D.quest_subtitle: "&0&lThe heart of every major network"
+	quest.38A8DAD3A173256D.title: "&lME Controller"
 	quest.38BAA7A6AF7E809D.title: "&lDefeat Candice"
 	quest.38DA4F61DF968BFC.title: "&l3x Fusion Reactor Port"
 	quest.38FEAC55F958F1AF.quest_subtitle: "&0&lT4 Circuits"
@@ -1906,10 +1962,12 @@
 	quest.3A3D554D791A7DC0.title: "&2&lSlay The Hydra"
 	quest.3A59DE29C1BF9EBD.quest_subtitle: "Round 2"
 	quest.3A59DE29C1BF9EBD.title: "&lDefeat Lucian"
+	quest.3A6584785944AF27.title: "&lME P2P Tunnel"
 	quest.3A9686C2CF872006.quest_desc: ["While not an actual feeding trough. The feeder will automatically feed any mobs within its working range, when provided with the appropriate food to feed them."]
 	quest.3A9686C2CF872006.quest_subtitle: "&0&lAuto-Feeding (kinda)"
 	quest.3A9686C2CF872006.title: "&lAnimal Feeder"
 	quest.3AD4822420F51539.quest_desc: ["&e&lIce Bow&r&r is a weapon that can be found in the Aurora Palace. The Ice Bow acts like a normal bow, but when an arrow from an Ice Bow hits a target, they will be covered in ice and inflicted with Frosted III for 10 seconds. This bow is useful to slow down moving targets or make escape from a monster easy. Ice Bows cannot be crafted, but they can be repaired with any type of Ice using an Anvil."]
+	quest.3AE9F283C447A2F9.title: "&lAirship"
 	quest.3B0D000773C23181.quest_desc: ["The Pokédex is a tool used to scan and track your seen and captured Pokémon."]
 	quest.3B0D000773C23181.quest_subtitle: "&0&lThe Dex"
 	quest.3B0D000773C23181.title: "&lYour Cobblemon Catalogue"
@@ -1940,7 +1998,8 @@
 	quest.3BD0465731814040.title: "&2&lSlay The Minoshroom"
 	quest.3BFEF224932A283F.title: "&lAncient Feather Ball"
 	quest.3C14DEF222D49021.quest_desc: ["Wireless terminals are portable versions of the regular wired terminals. They have the exact same GUIs as their wired counterparts, except instead of slots for view cells, they have slots for upgrade cards."]
-	quest.3C14DEF222D49021.quest_subtitle: "Curios and hotkey compatible!"
+	quest.3C14DEF222D49021.quest_subtitle: "&0&lCurios and hotkey compatible!"
+	quest.3C14DEF222D49021.title: "&lWireless Terminal"
 	quest.3C3300BBF37E580C.quest_desc: [
 		"The Rooster may not look dangerous, but it will bravely give its life to protect you. It can also carry a weapon, like a sword, to deal additional damage in battle."
 		"They live in the plains and enjoy eating wheat seeds."
@@ -1954,6 +2013,7 @@
 	]
 	quest.3C387C2D733BFED3.quest_subtitle: "&0&lApiary"
 	quest.3C387C2D733BFED3.title: "&lApiarists (Beekeepers)"
+	quest.3C52AC318FE488E4.title: "&lImproved Landing Gear"
 	quest.3CA9ADFA18726CF2.quest_desc: ["&e&lIce Bow&r&r is a weapon that can be found in the Aurora Palace. The Ice Bow acts like a normal bow, but when an arrow from an Ice Bow hits a target, they will be covered in ice and inflicted with Frosted III for 10 seconds. This bow is useful to slow down moving targets or make escape from a monster easy. Ice Bows cannot be crafted, but they can be repaired with any type of Ice using an Anvil."]
 	quest.3CB0AECD7D7FB955.quest_desc: ["Copper sheets will be need for making &9fluid tanks&r, which are needed for utilizing steam engines&r and storing fluid."]
 	quest.3CB0AECD7D7FB955.quest_subtitle: "&0&lFirst steps towards fluid containment"
@@ -1978,7 +2038,8 @@
 	quest.3D1F1E0886471AE8.title: "&lPressure Disperser"
 	quest.3D24BA08A1F6F341.quest_desc: ["Summon your own powerful Zombies with the &l&eZombie Scepter&r&r! These Zombies are strong, fast, immune to sunlight, and ready to attack. They follow you and target enemies but self-immolate after about a minute. Unlike regular Zombies, they are not undead, are affected by potions, and can be targeted by the Wither. Summoned Zombies do not scare, target, or corrupt Villagers, and baby or chicken jockey variants do not exist."]
 	quest.3D36143AECED6DDC.quest_desc: ["&3Quartz fiber&r is used to share power between networks, while keeping them separate. This allows you to power subnetworks without needing to put energy acceptors and power cables everywhere. It can also be used to keep cables from connecting, although using cables of differing colors, or using a&8 Cable Anchor&r is cheaper and more effective."]
-	quest.3D36143AECED6DDC.quest_subtitle: "Cable Sub-Parts"
+	quest.3D36143AECED6DDC.quest_subtitle: "&0&lCable Sub-Parts"
+	quest.3D36143AECED6DDC.title: "&lQuartz Fiber"
 	quest.3D4155EE85E93B3E.quest_desc: ["Used in many, MANY recipes... Plastic production is going to be a major basis for your progression through out the entirety of the mods tech tree. "]
 	quest.3D4155EE85E93B3E.quest_subtitle: "&0&lA staple of tech progression"
 	quest.3D4155EE85E93B3E.title: "&lPlastic"
@@ -1987,9 +2048,12 @@
 	quest.3D7F0641EB55CA01.quest_desc: ["Use a fishing rod to catch an oily bee."]
 	quest.3D7F0641EB55CA01.quest_subtitle: "&0&lOffshore oily bee"
 	quest.3D7F0641EB55CA01.title: "&lOily Bee"
+	quest.3D7FD67B166B0E04.quest_subtitle: "&0&l128 x 128 x 128"
+	quest.3D7FD67B166B0E04.title: "&lLg Spatial Storage Cell"
 	quest.3D80E0453827CB27.quest_desc: ["The home of the &lender&r bee."]
 	quest.3D80E0453827CB27.quest_subtitle: "&0&lIron Sword + End Stone"
 	quest.3D80E0453827CB27.title: "&lEnd Stone Nest"
+	quest.3D8BF8264390A0AD.title: "&lPhoenix Helmet"
 	quest.3D9DDD66467A4815.quest_desc: [
 		"The&8 Flux Controller&r is the brain of your Flux Network. It is where you control who has access, what gets charged in your inventory and more. "
 		""
@@ -2003,7 +2067,9 @@
 		""
 		"These are where and how you store your recipes for autocrafting and the like."
 	]
+	quest.3E0EF49EEAB907C3.title: "&lBlank Pattern"
 	quest.3E0FADE857DB0FD3.quest_desc: ["On top of providing armor, the Soul Elytra periodically provides a boost as if the wearer had used a rocket, although the boost is somewhat random. it is typically enough to all but eliminate the need for rockets."]
+	quest.3E0FADE857DB0FD3.title: "&lSoul Elytra"
 	quest.3E395C11C42C28B6.quest_desc: [
 		"There are five types of status conditions, all of which have a self-explanatory effect: Burn, Freeze, Paralysis, Poison, and Sleep."
 		""
@@ -2020,9 +2086,11 @@
 	quest.3EA4F9F9E66E884C.title: "&lQuick Ball"
 	quest.3EB80D11558A6345.title: "&lRotational Complex"
 	quest.3EC49822628FE9B3.quest_desc: ["&e&lMagic Map Focus&r&r is an item crafted from a Raven Feather, Torchberries and Glowstone Dust."]
+	quest.3EE52C0078B1039C.title: "&lEcho Chestplate"
 	quest.3EEA72AEAF2BD6D4.quest_desc: ["The Speedometer displays the current rotational &aspeed&r of attached contraptions and devices."]
 	quest.3EEA72AEAF2BD6D4.quest_subtitle: "&0&lSpeed gauge"
 	quest.3EEA72AEAF2BD6D4.title: "&lSpeedometer"
+	quest.3F2AEC0EACEA9DF0.title: "&lWarden Sword"
 	quest.3F5BCA61AD7EA94B.title: "&lBuild a Blast Furnace"
 	quest.3F6E3D9433313B68.quest_subtitle: "Round 1"
 	quest.3F6E3D9433313B68.title: "&lDefeat Cyrus"
@@ -2038,7 +2106,7 @@
 	quest.3FF7EDC74F634A45.quest_subtitle: "Round 1"
 	quest.3FF7EDC74F634A45.title: "&lDefeat Aaron"
 	quest.400692BBCCA73100.quest_desc: ["&lDefeat the Golden Dungeon and its boss"]
-	quest.400692BBCCA73100.title: "The Gold Dungeon"
+	quest.400692BBCCA73100.title: "&lThe Gold Dungeon"
 	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
 	quest.40207980D0FD3F59.title: "&lDefeat Giovanni"
 	quest.40924A4D8EC9FA22.title: "&lAncient Gigaton Ball"
@@ -2061,6 +2129,7 @@
 		"Meaning all content within the modpack, including &l&eQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
 	]
 	quest.40C87C5FCCCC61E3.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.40E2ED2EB351A209.title: "&lSturdy Pipes"
 	quest.41000C72DEA60A93.quest_desc: [
 		"&e&lMagic Beans&r&r are a collection of colorful beans can be found in smaller vaults in the Troll Caves. A Diamond Pickaxe or a pickaxe of similar strength is normally needed to crack the vault open and claim the beans. You may also get Magic Beans as a very lucky drop from killing &eTrolls&r."
 		""
@@ -2082,6 +2151,7 @@
 	quest.426C6E9A3E8A1474.quest_desc: ["Cogwheels, when partnered with shafts, can be used to transfer \"&7stress&r\" units, which can in-turn be used to power various contraptions and machines. It's going to take some effort and infrastructure to get there, but It can even be used to generate &eelectricity&r!"]
 	quest.426C6E9A3E8A1474.quest_subtitle: "&0&l... And these"
 	quest.426C6E9A3E8A1474.title: "&lCogwheels"
+	quest.426DD8D50FA443F9.title: "&lSteel Boiler"
 	quest.4289B527CE755314.quest_desc: ["The &e&lCharm of Life II&r&r will heal the player fully, and activate Regeneration IV, Resistance and Fire Resistance for the next 30 seconds."]
 	quest.42BD70F1AE532EAD.quest_desc: ["The &e&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
 	quest.42C80D0976448974.title: "&lBuild a Refinery"
@@ -2095,14 +2165,14 @@
 		""
 		"These gentle creatures live on beaches and love to munch on sea grass."
 	]
-	quest.43313C5DC0B1A869.quest_desc: ["The &e&lWireless Terminal&r&r extends your range, allowing you to interact with any terminal within &c16&r blocks or less, as long as it is &ein your line of sight&r."]
+	quest.43313C5DC0B1A869.quest_desc: ["The &lWireless Terminal&r&r extends your range, allowing you to interact with any terminal within &c16&r blocks or less, as long as it is &lin your line of sight&r."]
 	quest.43313C5DC0B1A869.title: "&lWireless Terminal"
 	quest.433193A517886CAD.title: "&lBox Link"
 	quest.43353EB782A1A5DF.quest_desc: ["Feed a polonium pellet to a radioactive bee."]
 	quest.43353EB782A1A5DF.quest_subtitle: "&0&lBee Conversion"
 	quest.43353EB782A1A5DF.title: "&lAcquire a Wasted Radioactive Bee"
 	quest.435C54AD8C9189A4.quest_desc: ["The &e&lDiamond Minotaur Axe&r&r is a unique axe that is dropped when the Minoshroom is killed. The Diamond Minotaur Axe is unique in that it has extra charge damage, meaning that when it is used while the player is sprinting, extra damage will be dealt to whatever monster it attacks."]
-	quest.43763E012BBF5951.quest_desc: ["&e&lInventory Trims&r&r work similarly to &cInventory Cables&r. Place Inventory Trims between an Inventory Connector block and any storage block to access it through the terminal."]
+	quest.43763E012BBF5951.quest_desc: ["&lInventory Trims&r&r work similarly to &cInventory Cables&r. Place Inventory Trims between an Inventory Connector block and any storage block to access it through the terminal."]
 	quest.43763E012BBF5951.title: "&lInventory Trims"
 	quest.439EE8098C13A7AA.quest_desc: [
 		"When filled with cages, the catcher will automatically catch any bees that fly over it or within range when upgraded, "
@@ -2114,6 +2184,7 @@
 	quest.439EE8098C13A7AA.title: "&lCatcher"
 	quest.43A5B24A6DB91DDF.title: "&lDefeat Grunt Lithio"
 	quest.43BAA3B7D7839C3D.quest_desc: ["Obtain the Valkyrie Lance from within the Bronze Dungeon, allowing you to challenge the Silver Dungeon."]
+	quest.43BAA3B7D7839C3D.title: "&lValkyrie Lance"
 	quest.43BDD55DCEB4D8F6.quest_desc: [
 		"The Lizard is a simple companion that will follow you on your journey. While it doesn’t possess any special abilities, it’s easy to handle and a joy to have around."
 		"They live in deserts, jungles, swamps, and badlands, and they enjoy eating berries."
@@ -2161,6 +2232,7 @@
 	quest.45C5145795B1BD29.quest_desc: ["The isotopic centrifuge will convert nuclear waste into plutonium gas, which does not decay. The plutonium pellets made from processing this gas will be needed on the way to producing and processing antimatter."]
 	quest.45C5145795B1BD29.quest_subtitle: "&0&lProcessing nuclear waste"
 	quest.45C5145795B1BD29.title: "&lIsotopic Centrifuge"
+	quest.45CFEAD5C63639D5.title: "&lOverflow Destruction Card"
 	quest.46028668D25936A3.title: "&lNetherite Pokeball Frame"
 	quest.460C61BD9A3C6AEE.quest_desc: ["You'll notice while attempting to keep the grid stable that certain generators generate different amounts of FE at different rates. Depending on where you are at in set up and what you have at your disposal to work with at the time, sometimes voiding excess is an easy method to keep certain things running. This is especially important considering the reactor only activates if all generators are currently running."]
 	quest.460C61BD9A3C6AEE.quest_subtitle: "&0&lNo small feat"
@@ -2173,6 +2245,8 @@
 		"At the top of the Dark Tower flies the &l&eUr-Ghast&r&r, a large supernatural creature with many waving tentacles, covered in what may be blood or Carminite. It resembles the Carminite Ghastguard in stalking players and the Nether-exclusive Ghasts but is much larger and more dangerous."
 	]
 	quest.468C2F78D22B0036.title: "&2&lSlay The Ur-Ghast"
+	quest.46AB36D56A181DC9.title: "&lEcho Boots"
+	quest.46FE8D96751CBBE6.title: "&lCrafting Card"
 	quest.471B64372CB87717.quest_desc: ["The frosty mycelial generator converts snow and ice products into FE."]
 	quest.471B64372CB87717.quest_subtitle: "&0&lIce power"
 	quest.471B64372CB87717.title: "&lFrosty Mycelial Generator"
@@ -2187,7 +2261,8 @@
 	]
 	quest.47552A2EF958932A.title: "&lAncient Tome"
 	quest.475840187805136F.quest_desc: ["Used to increase the range of the wireless access point."]
-	quest.475840187805136F.quest_subtitle: "More range, please"
+	quest.475840187805136F.quest_subtitle: "&0&lMore range, please"
+	quest.475840187805136F.title: "&lWireless Booster"
 	quest.4778A74D490AA74A.title: "&lDefeat Mel"
 	quest.478E1BF5B6177DF1.quest_desc: [
 		"The &e&lCharm of Keeping&r&r is a small item resembling a lock. When the player dies, the charm will activate and attempt to preserve a portion of the player's inventory and give it to the player once they respawn. The charm is consumed in this process."
@@ -2204,6 +2279,7 @@
 	quest.47B549546A02C8F5.quest_desc: ["The &lShepherd's Hut&r&r is where the Shepherd&r will &9breed and butcher sheep&r for food and wool. You will have to capture and bring in two sheep to the Shepherd's Hut, as the Shepherd will &cnot&r catch and bring in any sheep."]
 	quest.47B549546A02C8F5.quest_subtitle: "&0&lShepherd's Hut"
 	quest.47B549546A02C8F5.title: "&lShepherds"
+	quest.47B6C3FACCEF2DC4.title: "&lValkyrie Boots"
 	quest.47BA0E1A6FEDB61B.title: "&e&lNetherite Armor"
 	quest.47CE8EA36B4FBECD.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r have a &lTON&r of useful and functional upgrades that you can mix and match to satisfy your different needs."
@@ -2215,13 +2291,13 @@
 	quest.47F1D527F27D77EF.title: "&lResin Bee"
 	quest.480555FA75B189A0.title: "&lCraft your Z-Ring"
 	quest.480754D635A66A50.quest_desc: [
-		"An &e&lItem Filter&r&r allows you to filter multiple items, damage and NBT data."
+		"An &lItem Filter&r&r allows you to filter multiple items, damage and NBT data."
 		""
-		"A &e&lTag Item Filter&r&r allows you to filter items based on a tag."
+		"A &lTag Item Filter&r&r allows you to filter items based on a tag."
 		""
-		"A &e&lPolymorphic Item Filter&r&r only allow inserting items that already exist in the inventory."
+		"A &lPolymorphic Item Filter&r&r only allow inserting items that already exist in the inventory."
 		""
-		"After setting up a Filter, click with it on the &e&lBasic Inventory Hopper&r&r to use it."
+		"After setting up a Filter, click with it on the &lBasic Inventory Hopper&r&r to use it."
 	]
 	quest.480754D635A66A50.title: "&lHopper Filters"
 	quest.482DA8042A4B1801.quest_desc: [
@@ -2236,13 +2312,14 @@
 		""
 		"Right-click with a fluid container (like a bucket, fluid tank, etc) to set that fluid as a filter instead of the bucket or tank item."
 	]
-	quest.482DA8042A4B1801.quest_subtitle: "Sub-Part - Sends Things FROM Your Network"
+	quest.482DA8042A4B1801.quest_subtitle: "&0&lSub-Part - Sends Things FROM Your Network"
+	quest.482DA8042A4B1801.title: "&lME Export Bus"
 	quest.483153D5181940D0.quest_desc: [
-		"The &e&lBasic Inventory Hopper&r&r allows you to pull items from an inventory and send them elsewhere in the network. Simply place the Inventory Hopper against the storage block and connect it with cables. You can also set a &efilter&r by right-clicking on the hopper with an item or filter. To remove the filter, shift-right-click on the hopper."
+		"The &lBasic Inventory Hopper&r&r allows you to pull items from  inventory and send them elsewhere in the network. Simply place the Inventory Hopper against the storage block and connect it with cables. You can also set a filter by right-clicking on the hopper with an item or filter. To remove the filter, shift-right-click on the hopper."
 		""
-		"If you want to send specific items to certain chests, use a &l&eFiltered Inventory Cable Connector&r&r. Place it against the storage block and connect it with inventory cables. To &efilter&r the items allowed into the storage block, right-click on the connector and you can assign up to nine different items."
+		"If you want to send specific items to certain chests, use a &lFiltered Inventory Cable Connector&r&r. Place it against the storage block and connect it with inventory cables. To &lfilter&r the items allowed into the storage block, right-click on the connector and you can assign up to nine different items."
 		""
-		"Now that you've created a simple auto-sorting setup, you can easily sort items from something like a skeleton farm for example. However, you might face one problem: skeletons also drop bows and armor, which you may not want in your system. This is where the &e&lOpen Crate&r&r comes in play. The &e&lOpen Crate&r&r will automatically pull out any items from the system and drop them on the ground if they can't be sorted into any chests. You can place it with some lava in front of it to burn unwanted items. (&l&cMake sure there's something to destroy the items the Open Crate drops, or else a large number of item entities on the ground could cause significant lag!&r&r)"
+		"Now that you've created a simple auto-sorting setup, you can easily sort items from something like a skeleton farm for example. However, you might face one problem: skeletons also drop bows and armor, which you may not want in your system. This is where the &lOpen Crate&r comes in play. The &lOpen Crate&r&r will automatically pull out any items from the system and drop them on the ground if they can't be sorted into any chests. You can place it with some lava in front of it to burn unwanted items. (&l&cMake sure there's something to destroy the items the Open Crate drops, or else a large number of item entities on the ground could cause significant lag!&r&r)"
 	]
 	quest.483153D5181940D0.title: "&lA Simple Setup to Auto-Sort Items"
 	quest.4835EF94F7E12320.quest_desc: ["            Kill the Ender Dragon."]
@@ -2254,9 +2331,11 @@
 	quest.483D3EC791231340.title: "&lPolished Rose Quartz"
 	quest.4845CBF20535FDB7.quest_subtitle: "&0&lYet another belt/pipe option"
 	quest.4845CBF20535FDB7.title: "&lConveyor Belt"
+	quest.485A1A76167DDEA7.title: "&lNether Engine"
 	quest.48705BF9AF5EFAD7.title: "&lDefeat Blue"
 	quest.487D3AFE8C49C03A.quest_desc: ["Upon defeating the Gatekeeper, talk to them to be rewarded with the \"Orb of Prophecy\", which can then be used to light the portal. Use the orb on the frame just as you would use a flint and steel on a nether portal frame."]
-	quest.487D3AFE8C49C03A.title: "Obtain the Orb of Prophecy"
+	quest.487D3AFE8C49C03A.title: "&lObtain the Orb of Prophecy"
+	quest.48857938BE064AC9.title: "&lIndustrial Gears"
 	quest.48A06D2929CADF5E.quest_desc: ["The planter sower will automatically plant seeds and saplings provided to it. You will notice in the GUI that the input is divided into 9 sections, this corresponds with the sowers working area, which is also divided into 9 sections. Seeds and saplings planted in any given section of the input will only be planted inthe corresponding section of working area, allowing you to separate and cultivate multiple things from one block with little fuss."]
 	quest.48A06D2929CADF5E.quest_subtitle: "&0&lAuto-Planting"
 	quest.48A06D2929CADF5E.title: "&lPlant Sower"
@@ -2270,7 +2349,8 @@
 	quest.48FC88FF15242AF9.title: "&lKeystone"
 	quest.49047754AA84D5FF.title: "&lDefeat Milo"
 	quest.4919B6B0995D6092.quest_desc: ["Obtain the Hammer of Kingbdogz from within the Bronze Dungeon."]
-	quest.4919B6B0995D6092.title: "The Hammer of Kingbdogz"
+	quest.4919B6B0995D6092.title: "&lThe Hammer of Kingbdogz"
+	quest.4930DBC5A42062C8.title: "&lWarship"
 	quest.4940CD32B0802508.title: "&e&lCraft an Eye of Ender"
 	quest.49735C24C8F46C97.quest_desc: [
 		"To start your way down the road of Productive Bees&r, we will first need to acquire some resources from their vanilla counterparts."
@@ -2288,6 +2368,7 @@
 	quest.498613C3ED5FE24A.quest_desc: ["Breed a magmatic bee with a sweat bee."]
 	quest.498613C3ED5FE24A.quest_subtitle: "&0&lBee Breeding"
 	quest.498613C3ED5FE24A.title: "&lAcquire an Obsidian Bee"
+	quest.499639252A07F5FF.title: "&lSail"
 	quest.499B398F25A88F68.title: "&lDefeat Misty"
 	quest.49A96C03DAB07DC0.quest_desc: [
 		"The &e&lCrumble Horn&r&r is one of the rewards for completing the Questing Ram's quest. If the quest is completed, this (along with one of each of the resource blocks) will be given to the player by the Quest Ram."
@@ -2296,9 +2377,11 @@
 		""
 		"When the crumble horn is used in a &eDispenser&r, it will attempt to crumble the block in front of it. This action takes one durability to complete. Unlike other damageable items that can be used in the dispenser, the crumble horn will not break when depleted. If the durability hits zero it will instead refuse to fire again."
 	]
+	quest.49F6D9EDDD2AC3CF.title: "&lStratus Armor"
 	quest.49F76BDDF2D28E43.quest_desc: ["What if a &e&lMaze Map&r&r could see through stone to reveal hidden treasures? With an upgrade, the &e&lOre Map&r&r can. Though pricey, it detects ores above or below its layer and displays them in their respective colors. Starting blank, users must activate it to reveal the map. A useful trick is to create it on a layer with rare ores and navigate above ground to uncover what lies beneath."]
 	quest.4A02F6F1822B0F69.quest_desc: ["Mine all types of giant blocks using the &e&lGiant's Pickaxe&r&r."]
 	quest.4A39112DA1F46AD8.quest_desc: ["The &e&lMoonworm Queen&r&r is a peculiar green insect found in some Hollow Hill and Lich Tower chests. It contains Moonworm eggs that can attach to walls or any solid surface. By holding the button like a bow, the Queen can fire Moonworms as projectiles that stick upon landing. It can also shoot Moonworms through a Dispenser when powered with a Moonworm Queen inside."]
+	quest.4A4381D8FD417066.title: "&lWarden Boots"
 	quest.4A719341AA53B1CC.quest_desc: [
 		"&dFluix crystals&r are going to be one of the most important resources for building your network. Fluix is used for crafting &3network cabling&r as well as most components and machines."
 		""
@@ -2306,8 +2389,8 @@
 		""
 		"To make your first batch of &dfluix crystals&r, throw &7nether quartz&r, &credstone dust&r and a &3charged certus crystal&r into water."
 	]
-	quest.4A719341AA53B1CC.quest_subtitle: "Automate this"
-	quest.4A719341AA53B1CC.title: "Fluix"
+	quest.4A719341AA53B1CC.quest_subtitle: "&0&lAutomate this"
+	quest.4A719341AA53B1CC.title: "&lFluix"
 	quest.4AAAC0241B45AA06.quest_desc: ["Breed an ender bee with a crystalline bee."]
 	quest.4AAAC0241B45AA06.quest_subtitle: "&0&lBee Breeding"
 	quest.4AAAC0241B45AA06.title: "&lAcquire a Spatial Bee"
@@ -2339,6 +2422,7 @@
 	quest.4B45E51554FC438B.quest_desc: ["&e&lTransformation Powder&r&r is a bright blue magical item found in Hollow Hills treasure chests. It can transform Twilight items into dimensional items and change otherworldly creatures into Twilight Forest creatures and vice versa. This powder can alter the environment or help escape dangerous creatures by turning them into harmless mobs."]
 	quest.4B48777DE8DC80B2.quest_desc: ["The &e&lPeacock Feather Fan&r&r is a unique item found in Lich Towers and Medium Hollow Hills in the Twilight Forest. When used, it pushes entities in front of the player backwards, including mobs, dropped items, blocks, and even the player. The fan’s strong winds can uproot flowers and grasses. If the player runs and jumps while using the fan, it produces a high-jump effect."]
 	quest.4B63759E555F2946.quest_desc: ["Obtain the Regeneration Stone and Proceed to the Final Dungeon."]
+	quest.4B63759E555F2946.title: "&lRegeneration Stone"
 	quest.4B7797941C20496E.quest_desc: ["The &lHospital&r&r &9requires research&r at the University&r to be built, and is where &cinjured&r or &csick&r citizens go. The &lHealer&r&r will heal them with various items."]
 	quest.4B7797941C20496E.quest_subtitle: "&0&lHospital"
 	quest.4B7797941C20496E.title: "&lHealers"
@@ -2365,6 +2449,7 @@
 	]
 	quest.4C8A24C2E2C2E995.quest_subtitle: "&0&lNeed more babees?"
 	quest.4C8A24C2E2C2E995.title: "&lUpgrade: BaBee"
+	quest.4C8D4A3A21BFB4EB.title: "&lRedstone Card"
 	quest.4CAA0224C3ED7451.title: "&lCraft your Mega Bracelet"
 	quest.4CB0DED7495F9891.quest_desc: ["Your variety of &oCheap flight."]
 	quest.4CB0DED7495F9891.quest_subtitle: "\"PFFFFFT Screw Gravity\" ASDF guy"
@@ -2428,7 +2513,8 @@
 		""
 		"Their main use is in conjunction with pattern providers. Pattern providers have special behavior in this case, and will send information about the relevant pattern along with the ingredients to adjacent assemblers. Since assemblers auto-eject the results of crafts to adjacent inventories (and thus into the return slots of the pattern provider), an assembler and a pattern provider is all that is needed to automate crafting patterns."
 	]
-	quest.4E9DB7997DD4EDF7.quest_subtitle: "Not Optional"
+	quest.4E9DB7997DD4EDF7.quest_subtitle: "&0&lNot Optional"
+	quest.4E9DB7997DD4EDF7.title: "&lMolecular Assembler"
 	quest.4EA048C35F3DDF3D.quest_desc: ["Use a honey treat on a snow nest to spawn a sweat bee if you cannot find one."]
 	quest.4EA048C35F3DDF3D.quest_subtitle: "&0&lCold areas"
 	quest.4EA048C35F3DDF3D.title: "&lSweat Bee"
@@ -2482,7 +2568,8 @@
 		""
 		"in short &cdo not&r try to power your storage system components directly with FE/RF. Feed power into an energy acceptor&r or directly into the controller(s). Then connect and power the rest of the network from there."
 	]
-	quest.4F9B5850D630B7C2.quest_subtitle: "Powering your first network"
+	quest.4F9B5850D630B7C2.quest_subtitle: "&0&lPowering your first network"
+	quest.4F9B5850D630B7C2.title: "&lEnergy Acceptor"
 	quest.4FA8A47B669B78FE.quest_desc: ["The electrolytic separator can be used to both separate water into hydrogen and oxygen, as well as, separating brine into chlorine and sodium."]
 	quest.4FA8A47B669B78FE.quest_subtitle: "&0&lFluid separation"
 	quest.4FA8A47B669B78FE.title: "&lElectrolytic Separator"
@@ -2500,9 +2587,11 @@
 	quest.505CB5D419E6E4AF.quest_subtitle: "&0&lThis quest leg is a courtesy, not a feature."
 	quest.505CB5D419E6E4AF.title: "&lNo Bug Reports on this one&r&r"
 	quest.5061E1B09E417A9A.title: "&lUltimate Machine Core"
+	quest.50661F8E42D7DCA0.title: "&lSpatial IO Port"
 	quest.506D3D14BC08BEDF.quest_desc: ["Optional but you want these. Crafting co-processors make the system send out ingredient batches from pattern providers more frequently. This allows them to keep up with machines that process quickly. An example of this is a pattern provider surrounded by molecular assemblers being able to push ingredients faster than a single assembler can process, and thus distributing the ingredient batches between the surrounding assemblers rather than only supplying ingredients quickly enough to feed the single assembler, as it otherwise would have."]
-	quest.506D3D14BC08BEDF.quest_subtitle: "Optional... Kinda"
-	quest.5071993FEB516DF2.quest_desc: ["The &e&lLevel Emitter&r&r emits a redstone signal based on the contents of the inventory. For example, you can place one on top of an &eInventory Connector&r and configure it to emit a redstone signal when your diamonds fill up an entire chest."]
+	quest.506D3D14BC08BEDF.quest_subtitle: "&0&lOptional... Kinda"
+	quest.506D3D14BC08BEDF.title: "&lCrafting Co-Processing Unit"
+	quest.5071993FEB516DF2.quest_desc: ["The &lLevel Emitter&r&r emits a redstone signal based on the contents of the inventory. For example, you can place one on top of an &lInventory Connector&r and configure it to emit a redstone signal when your diamonds fill up an entire chest."]
 	quest.5071993FEB516DF2.title: "&lLevel Emitter"
 	quest.50D8DD3B3BA3F86F.title: "&lProcessing Unit"
 	quest.50DA579150018EFD.title: "&e&lIron Armor"
@@ -2523,12 +2612,15 @@
 		"&e&lMaze Map Focus&r&r is an item found in chests and rarely dropped by Minotaurs. Adventurers are most likely to find a Maze Map Focus by searching chests in a Labyrinth. It is used to craft a Maze Map."
 	]
 	quest.5220FB0D131C6F95.title: "&2&lMaze Map"
+	quest.5229BFF03FEBB44F.title: "&lEnhanced Propeller"
 	quest.5244DA4A140BE6BD.quest_desc: ["The separator can be used to separate babies from adults, handy when you need to maintain a supply of breeding stock and only want to harvest/slaughter from the extras produced from breeding."]
 	quest.5244DA4A140BE6BD.quest_subtitle: "&0&lPretty self explanatory"
 	quest.5244DA4A140BE6BD.title: "&lAnimal Baby Separator"
 	quest.525A1E65E686A172.title: "&lRoseate Ball"
 	quest.527D99B5715B3DAE.quest_desc: ["As your network grows, the power demands will inevitably grow with it. You'll notice that the network itself only holds a small amount of energy, adding a controller increases this. However, your network will almost certainly reach a point of demanding more power than it is capable of buffering at any given time. This is where we introduce the energy cell, allowing your network to buffer more power and avoid periodic network drops due to spikes in consumption."]
-	quest.527D99B5715B3DAE.quest_subtitle: "Network power buffer"
+	quest.527D99B5715B3DAE.quest_subtitle: "&0&lNetwork power buffer"
+	quest.527D99B5715B3DAE.title: "&lEnergy Cell"
+	quest.5291487F5D94210D.title: "&lWarden Leggings"
 	quest.529CC0F5C0BDCEC2.title: "&lBuild an Excavator"
 	quest.52AE104474C902F2.quest_desc: ["Use a honey treat on a &lreed&r nest to spawn a reed bee if you sannot find one."]
 	quest.52AE104474C902F2.quest_subtitle: "&0&lLook near rivers"
@@ -2554,7 +2646,8 @@
 		""
 		"In fact, it doesn't even care if the ingredients make any sense in relation to the result. You could tell it \"1 oak fence = 1 echo shard\" and have your warden farm kill a warden upon an oak fence input trigger... and yes, it will still work."
 	]
-	quest.52EE3999CFEDA9B4.quest_subtitle: "Baby Steps"
+	quest.52EE3999CFEDA9B4.quest_subtitle: "&0&lBaby Steps"
+	quest.52EE3999CFEDA9B4.title: "&lSome Pointers"
 	quest.530CF7FEE254EBE8.quest_desc: ["The potion mycelial generator converts potions into FE."]
 	quest.530CF7FEE254EBE8.quest_subtitle: "&0&lPotion power"
 	quest.530CF7FEE254EBE8.title: "&lPotion Mycelial Generator"
@@ -2574,9 +2667,11 @@
 		"&o\"DAKA DAKA DAKA\""
 		"Ammunition type: Gunpowder"
 	]
-	quest.53348D435700DDCF.quest_subtitle: "Craft A Rotary Cannon Upgrade"
+	quest.53348D435700DDCF.quest_subtitle: "&0&lCraft a Rotary Cannon upgrade"
+	quest.53348D435700DDCF.title: "&lRotary Cannon"
 	quest.534342E42661CBBB.title: "Defend Your Title!"
 	quest.534B4F74DA1EF827.title: "&lDefeat Ruin Agent Vega"
+	quest.5380C4E7728B6C91.title: "&lAltar"
 	quest.5392A8DC9F2C3D5C.quest_desc: ["With the mechanical press you can now make your sheet metals much more efficiently, at 1 ingot per."]
 	quest.5392A8DC9F2C3D5C.quest_subtitle: "&0&lMUCH better"
 	quest.5392A8DC9F2C3D5C.title: "&lAutomated Sheet Metals"
@@ -2594,6 +2689,7 @@
 	quest.54321F1DFF5E20C0.title: "Fiery Sword and Pickaxe"
 	quest.54496CB5F8242511.quest_desc: ["When 2 ditto are bred together you can receive a random egg. These eggs can contain literally any species in the game. Mythicals, Legendaries, Paradox Pokémon... or you might just meet your 1,000th Rattata. You never know, for all intents and purposes they are weighted equally and it is a true random lottery."]
 	quest.54496CB5F8242511.title: "&lCatch 2x Ditto"
+	quest.544DA5259949B3C7.title: "&l1k ME Storage Component"
 	quest.5458ED1325250C81.quest_desc: ["The &e&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
 	quest.545DC16674DB782A.title: "&lElectrum Ingot"
 	quest.546060A7E7AA9A09.quest_subtitle: "&0&lForm the Metal Press multi-block structure"
@@ -2625,9 +2721,11 @@
 		""
 		"Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item."
 	]
-	quest.54B6C8FA074658E3.quest_subtitle: "Sub-Part - Pulls Things INTO Your Network."
+	quest.54B6C8FA074658E3.quest_subtitle: "&0&lSub-Part - Pulls Things INTO Your Network."
+	quest.54B6C8FA074658E3.title: "&lME Import Bus"
 	quest.54BCA40AC19FF61D.quest_desc: ["ME dense smart cable provides all the functionalities ove previous tiers of cables. Except lines representing channels on these cables represent multiple channels each."]
-	quest.54BCA40AC19FF61D.quest_subtitle: "Smart Cable, But Thicker "
+	quest.54BCA40AC19FF61D.quest_subtitle: "&0&lSmart Cable, But Thicc"
+	quest.54BCA40AC19FF61D.title: "&lFluix ME Dense Smart Cable"
 	quest.54C397636A7BE97F.title: "&lCitrine Ball"
 	quest.550C209EFC0E5633.title: "&lDefeat Ryme"
 	quest.550EF247784B7BCE.quest_desc: [
@@ -2649,6 +2747,7 @@
 	]
 	quest.55AF42C3B7045412.title: "&2&lSlay The Snow Queen"
 	quest.55B45DFB8B74400C.quest_desc: ["Certus quartz is the primary resource utilized by the mod, at least in the early stages. Now that you have access to certus crystals and therefor dust, now it's time to work towards charging it."]
+	quest.55B45DFB8B74400C.title: "&lCertus Quartz Crystal"
 	quest.55D2A095F821FACF.quest_desc: ["Use a honey treat on a dirt&r nest to spawn a leafcutter bee if you cannot find one."]
 	quest.55D2A095F821FACF.quest_subtitle: "&0&lDirt nests"
 	quest.55D2A095F821FACF.title: "&lLeafcutter Bee"
@@ -2663,6 +2762,7 @@
 	quest.55E454F7D7A5B62E.quest_subtitle: "&0&lSteam Power"
 	quest.55E454F7D7A5B62E.title: "&lSteam Engine"
 	quest.55F6D39B18CE35DF.title: "&e&lIron Ingots"
+	quest.56093D2875CA3AE1.title: "&lMEGA Chemical Cell Housing"
 	quest.5621AE84794108A1.quest_desc: ["Tritium is created by putting Lithium into a Solar Neutron Activator. It can be put directly into a Fusion Reactor or combined with Deuterium in a Chemical Infuser to make D-T Fuel."]
 	quest.5621AE84794108A1.title: "&lTritium"
 	quest.564F6F789443F4C0.title: "&lDefeat Erika"
@@ -2685,7 +2785,8 @@
 	]
 	quest.573E7D05673F4899.title: "&2&lSlay The Minoshroom"
 	quest.575E5EC43B9012E9.title: "&lDefeat Marlon"
-	quest.576308F3B27FC0DC.quest_subtitle: "In-world transformation"
+	quest.576308F3B27FC0DC.quest_subtitle: "&0&lIn-world transformation"
+	quest.576308F3B27FC0DC.title: "&lSky Steel Ingot"
 	quest.57658F49AF2CB840.quest_desc: ["&e&lNaga Scale Armor&r&r is armor made from Naga Scales. This armor set consists of only Chestplate and Leggings."]
 	quest.57658F49AF2CB840.title: "Naga Scale Armor"
 	quest.577157EC84D7C846.quest_desc: [
@@ -2711,13 +2812,14 @@
 		"The &e&llevel I charm&r&r is bronze and will keep the player's armor, currently selected item, and the off-hand item. It can be found in some treasure chests, or as a rare drop from Maze Slimes."
 	]
 	quest.5862BF0408DBDFEA.title: "&lMint Leaf"
+	quest.58666599CFB277C2.title: "&lInverter Card"
 	quest.586835F71B623971.quest_desc: ["Obtain a redstone bee spawn egg, and use it as a flower in a feeding slab for an obsidian bee, the obsidian bee will eventually convert the egg into a flux dust bee spawn egg."]
 	quest.586835F71B623971.quest_subtitle: "&0&lBee Conversion"
 	quest.586835F71B623971.title: "&lAcquire a Flux Dust Bee"
 	quest.587A49AE94970205.quest_subtitle: "Round 2"
 	quest.587A49AE94970205.title: "&lDefeat Aklove"
-	quest.5888DE243650135E.quest_desc: ["Using &eGlowstone&r, build a portal frame just as you would a nether portal. Next place a bucket of water into the portal frame just as you would if you were lighting it with a flint and steel."]
-	quest.5888DE243650135E.title: "Enter The Aether"
+	quest.5888DE243650135E.quest_desc: ["Using &lGlowstone&r, build a portal frame just as you would a nether portal. Next place a bucket of water into the portal frame just as you would if you were lighting it with a flint and steel."]
+	quest.5888DE243650135E.title: "&lEnter The Aether"
 	quest.588A876AC676836F.title: "&lMetal Press Mold: Wire"
 	quest.589823025F8C78D2.quest_desc: ["The home of the &lglowing&r bee."]
 	quest.589823025F8C78D2.quest_subtitle: "&0&lWooden Sword + Glowstone"
@@ -2734,6 +2836,7 @@
 	]
 	quest.58BCD239183B28AD.quest_subtitle: "&0&lRaising babees and making spawn eggs."
 	quest.58BCD239183B28AD.title: "&lBaBee Incubator"
+	quest.58C28D344CDF635E.title: "&lGalleys"
 	quest.58D3A958203633AF.quest_desc: [
 		"The Firefly will light up your path, even in the darkest places. They are easy to spot at night and will accompany you as long as you take care of them."
 		"They live in the plains and swamps and enjoy eating honeycombs."
@@ -2758,7 +2861,7 @@
 	quest.5975E292A7528076.quest_desc: [
 		"Are you looking for a better storage system that offers a ton of functionality while remaining simple and easy to understand? You've come to the right place!"
 		""
-		"&l&eTom's Simple Storage&r&r, as the name suggests, is a simple vanilla style storage mod that provides a straightforward and easy-to-use network for all of your storage needs."
+		"&lTom's Simple Storage&r&r, as the name suggests, is a simple vanilla style storage mod that provides a straightforward and easy-to-use network for all of your storage needs."
 	]
 	quest.5975E292A7528076.title: "&lWelcome to Tom's Simple Storage!"
 	quest.597D483650F3C0F9.quest_desc: ["The Induction Matrix is a highly configurable multi-block energy storage structure. It is built using Induction Casing and Induction Ports for the casing. Any combination of Air, Induction Providers and Induction Cells can be used to occupy the inside of the multi-block, but it must contain at least 1 cell and 1 provider, the tiers do not need to match."]
@@ -2789,6 +2892,7 @@
 		"Only the powerful &eLamp of Cinders&r can burn the Thorns and stop their rapid regeneration, clearing a path to the Final Plateau and the Final Castle beyond."
 	]
 	quest.5A72CC3BC6D41D64.title: "&2&lVisit The Thornlands"
+	quest.5ACAFFA907824F1E.title: "&lEqual Distribution Card"
 	quest.5AF7AD2AFE15D5FD.quest_desc: ["The home of the &lslimy&r bee."]
 	quest.5AF7AD2AFE15D5FD.quest_subtitle: "&0&lIron Sword + Slime Block"
 	quest.5AF7AD2AFE15D5FD.title: "&lSlimy Nest"
@@ -2809,6 +2913,7 @@
 	quest.5B698AB7FE032025.quest_subtitle: "All-in-one"
 	quest.5B698AB7FE032025.title: "&lThe Smartphone"
 	quest.5B7C670915E05F23.title: "&lEther Bee"
+	quest.5B9ED16A573F5409.title: "&lCapacity Card"
 	quest.5BBE97CFD87ABEE9.title: "&e&lWater and Lava"
 	quest.5BF30AA21250A283.quest_subtitle: "&0&lOn our way to netherite"
 	quest.5BF30AA21250A283.title: "&lDiamond Pickaxe"
@@ -2821,6 +2926,7 @@
 	quest.5C400DCED8BC884F.title: "&lBrass Tunnel"
 	quest.5C4A28A38685CE36.quest_desc: ["Summon your own powerful Zombies with the &l&eZombie Scepter&r&r! These Zombies are strong, fast, immune to sunlight, and ready to attack. They follow you and target enemies but self-immolate after about a minute. Unlike regular Zombies, they are not undead, are affected by potions, and can be targeted by the Wither. Summoned Zombies do not scare, target, or corrupt Villagers, and baby or chicken jockey variants do not exist."]
 	quest.5C5AA522A01CA426.title: "&lDefeat Saturn"
+	quest.5C7D9826EB556806.title: "&lSpatial Anchor"
 	quest.5C88FE2CEEB99169.title: "&lDefeat Vega"
 	quest.5CD9F6B3696657B7.quest_desc: ["A Poké Ball is one of the 7 basic Poké Balls, and has a base catch rate of 1x."]
 	quest.5CD9F6B3696657B7.quest_subtitle: "&0&l1x Catch rate"
@@ -2830,6 +2936,7 @@
 	quest.5D4B24E537733A07.quest_desc: ["&e&lIronwood Armor and Tools&r&r are made from Ironwood Ingots."]
 	quest.5D4B24E537733A07.title: "Ironwood Armor and Tools"
 	quest.5D53BAF9E45AC381.title: "&lIncandescent Light Bulb"
+	quest.5D58607AE6F39E34.title: "&lAdvanced Card"
 	quest.5D59D6E285A0AA44.quest_desc: [
 		"Resembling a large Hollow Hill, the &e&lHydra Lair&r&r rises from the flat swamplands, providing a home for the multi-headed Hydra in the Fire Swamp. The Hydra has hollowed out the hill for shelter, forcing challengers to approach head-on in an area devoid of cover."
 		""
@@ -2839,6 +2946,7 @@
 	quest.5D755842C77190EF.title: "&lCraft a Mining Drill"
 	quest.5DAA3195EB5F14B7.title: "&lHeisenberg Compensator"
 	quest.5DB9063A0C07CFC3.quest_desc: ["Mounted Crossbows for your craft."]
+	quest.5DB9063A0C07CFC3.title: "&lHeavy Crossbow"
 	quest.5DDCDC6AA7C673EE.quest_subtitle: "&0&lGuaranteed Capture"
 	quest.5DDCDC6AA7C673EE.title: "&lMasterball"
 	quest.5DDF026229B0862F.title: "&lAncient Leaden Ball"
@@ -2904,6 +3012,7 @@
 		"While this quest line will provide a basic overview... As in the mainline games, the breeding mechanics can get somewhat complex and lengthy to describe, it is highly advisable to search for the basics of breeding on a site such as Bulbapedia for a more in depth explanation on mechanics such as traits, destiny knots etc. or else this chapter might never end."
 	]
 	quest.5F496A6A0F1632AE.title: "&lThe Pasture Block"
+	quest.5F8047EB6FA4AA24.title: "&l &l16M Storage Component"
 	quest.5F9076D1056A4053.title: "&e&lPlace Your Starter Hut"
 	quest.5F9274D638DBEFAA.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r have a &lTON&r of useful and functional upgrades that you can mix and match to satisfy your different needs."
@@ -2916,7 +3025,8 @@
 	quest.5FA58A68858C6A9A.quest_subtitle: "&0&lBee Conversion"
 	quest.5FA58A68858C6A9A.title: "&lAcquire a Silicon Bee"
 	quest.5FA7113B0E256602.quest_desc: ["Made with 256k items or buckets in a Matter Condenser in singularity mode."]
-	quest.5FA7113B0E256602.quest_subtitle: "super dense ball of matter "
+	quest.5FA7113B0E256602.quest_subtitle: "&0&lsuper dense ball of matter "
+	quest.5FA7113B0E256602.title: "&lSingularity"
 	quest.5FB52EDB5E4E48BC.quest_desc: [
 		"The &e&lNaga Courtyard&r&r is a large, walled structure made of various stones and Nagastone. Inside, there are hedges of Twilight Oak Leaves, pillars of Polished Andesite and Etched Nagastone, and decorative features. At the center is a Boss Spawner for the Naga."
 		""
@@ -2950,7 +3060,8 @@
 		""
 		"Your basic terminal, allows you to do little more than view and access the contents of your network's storage and request things from your autocrafting setup though. to do more, you will need to upgrade it."
 	]
-	quest.6012663645C252FB.quest_subtitle: "Viewing your network"
+	quest.6012663645C252FB.quest_subtitle: "&0&lViewing your network"
+	quest.6012663645C252FB.title: "&lME Terminal"
 	quest.601D7A24E4335E1F.title: "&lDefeat Jax"
 	quest.60588B07B58E3782.quest_desc: ["The &e&lScepter of Fortification&r&r summons five shields around the player or target entity and produces a popping sound when used. These shields resemble those of the Lich but break upon damage, except from drowning, falling, or void damage. They can be restored after the scepter's cooldown, indicated by the remaining shields, but only five can be active at once."]
 	quest.60B129F3B89230BC.quest_desc: [
@@ -2997,7 +3108,8 @@
 		""
 		"They are cable subparts."
 	]
-	quest.616671B7D9F1058F.quest_subtitle: "Doesn't Use Any Channels"
+	quest.616671B7D9F1058F.quest_subtitle: "&0&lDoesn't Use Any Channels"
+	quest.616671B7D9F1058F.title: "&lME Level Emitters"
 	quest.618CFF667CD21E02.quest_desc: ["Eat &5&lALL&r&r of the Food exclusive to the Twilight Forest."]
 	quest.61CE044637D55EE3.quest_desc: ["The storage interface component can be used in builds and contraptions to attach to most storage containers. For example it can be used for item drop off and pick up."]
 	quest.61CE044637D55EE3.quest_subtitle: "&0&lItem transfer component"
@@ -3062,6 +3174,7 @@
 	quest.62BB492DEB62CA4A.quest_desc: ["Use a honey treat on a dark oak&r, &dcherry&r or &cacacia&r nest to spawn a blue banded bee if you cannot find one."]
 	quest.62BB492DEB62CA4A.quest_subtitle: "&0&lDark oak, cherry and acacia nests"
 	quest.62BB492DEB62CA4A.title: "&lBlue Banded Bee"
+	quest.62CF6DAE6B93FF66.title: "&lME Chemical Cell Housing"
 	quest.6309FE4A7E04A924.quest_desc: ["The &e&lTri-bow&r&r is one of two bows dropped by the Snow Queen upon defeat. When fired, it shoots three vertically aligned arrows at once, similar to the Multishot enchantment on crossbows, but it only uses one arrow and reduces durability by one. This bow is highly effective against single targets if all shots hit, as well as against multiple targets."]
 	quest.631758525E8CB77C.quest_desc: [
 		"The &e&lTree of Time&r&r is a magical tree that cannot be found naturally in the Forest and must be grown from a Tree of Time Sapling, which can be found in \"tree dungeons\" within massive Twilight Oak trees."
@@ -3113,14 +3226,15 @@
 		""
 		"R-click one to bring up its crafting status UI where you can check the progress on the crafting job the CPU is handling at any given moment.."
 	]
-	quest.63F3D98D3B56C193.quest_subtitle: " The brain of every major network "
-	quest.63F3D98D3B56C193.title: "Crafting CPUs and Auto-crafting Basics"
+	quest.63F3D98D3B56C193.quest_subtitle: " &0&lThe brain of every major network "
+	quest.63F3D98D3B56C193.title: "&lCrafting CPUs and Auto-crafting Basics"
 	quest.63FE47CB67984AFC.quest_desc: ["The ender mycelial generator converts ender pearls and eyes into FE."]
 	quest.63FE47CB67984AFC.quest_subtitle: "&0&lEnder power"
 	quest.63FE47CB67984AFC.title: "&lEnder Mycelial Generator"
 	quest.63FF059CC9C89167.title: "&lDefeat Big Mo"
 	quest.64011532D6F5F6B6.quest_desc: [""]
-	quest.64011532D6F5F6B6.quest_subtitle: "Do Not Use Excessively."
+	quest.64011532D6F5F6B6.quest_subtitle: "&0&lDo Not Use Excessively."
+	quest.64011532D6F5F6B6.title: "&lME Storage Bus"
 	quest.6410DD17441D06C6.quest_desc: ["Casings can be made by placing a log into the world, stripping it, then applying andesite alloy to them. This is another task we are probably going to want to automate at some point."]
 	quest.6410DD17441D06C6.quest_subtitle: "&0&lEncase, just in case"
 	quest.6410DD17441D06C6.title: "&lYour first casings"
@@ -3141,6 +3255,7 @@
 	quest.64C7CCAD15697CAF.title: "&lEnriched Carbon"
 	quest.64DD92F5431960BC.title: "&e&lVisit a Bastion Remnant"
 	quest.64E666DD442C33C6.title: "&lDefeat Wake"
+	quest.64F517F758847C50.title: "&lValkyrie Gloves"
 	quest.65010D52DC567C8F.quest_desc: [
 		"The Magnetic Caves are a breathtaking and otherworldly biome, characterized by enormous Neodymium crystals that emerge from a terrain composed of Galena, an iron-rich stone. These crystals, the namesake of the cave, come in two distinct varieties: Scarlet Neodymium and Azure Neodymium."
 		""
@@ -3149,6 +3264,7 @@
 		"The Magnetic Caves also feature floating clusters of Galena that hover mysteriously within the cavern itself. These clusters are held aloft by the latent magnetic forces that permeate the biome, giving the caves their uniquely surreal structure."
 	]
 	quest.65010D52DC567C8F.title: "&e&lMagnetic Caves"
+	quest.654756E8A407CEDC.title: "&lCable Anchor"
 	quest.65611CA18916BA84.quest_desc: [
 		"Breed a lumber bee with a sweat bee to obtain a rancher bee."
 		""
@@ -3156,6 +3272,7 @@
 	]
 	quest.65611CA18916BA84.quest_subtitle: "&0&lMob farming bee."
 	quest.65611CA18916BA84.title: "&lRancher Bee"
+	quest.6566069D2D6DDB34.title: "&lHull"
 	quest.65691D446C8CA98C.quest_desc: ["The Sweetish Fish is one of the many curious creatures found in the Candy Cavity. It comes in multiple color variations, adding to its vibrant, whimsical nature. If slain and cooked, a Sweetish Fish transforms into Gelatin, a common crafting ingredient."]
 	quest.65691D446C8CA98C.title: "Sweetish Fish"
 	quest.657BF3CA6C6AE395.title: "&lFind any Apricorn"
@@ -3184,9 +3301,10 @@
 	]
 	quest.65BDC745BA8DBD4D.title: "&lTrainer Card"
 	quest.65E2FC8F97E67B93.quest_desc: ["Find the Bronze Dungeon and defeat the Bronze Boss."]
-	quest.65E2FC8F97E67B93.title: "The Bronze Dungeon"
+	quest.65E2FC8F97E67B93.title: "&lThe Bronze Dungeon"
+	quest.65EAA584EE12D3D9.title: "&lAnnihilation Core"
 	quest.660A6932CF8171B1.quest_desc: ["Make your Aircraft Better!"]
-	quest.660A6932CF8171B1.quest_subtitle: "\"Upgrades People, Upgrades\""
+	quest.660A6932CF8171B1.quest_subtitle: "&0&l\"Upgrades People, Upgrades\""
 	quest.660CF547B8328F09.quest_desc: ["The Thermal Evaporation Plant is a multi-block structure used in the production of brine and Liquid Lithium. Brine is used in the ore refining process and to create various chemicals, such as Chlorine. Liquid Lithium is used in the creation of Tritium, which is used with Deuterium as the Fuel in a Fusion Reactor."]
 	quest.660CF547B8328F09.title: "&l32x Thermal Evaporation Block"
 	quest.661BB2E3C98A16DC.quest_subtitle: "Round 2"
@@ -3213,7 +3331,7 @@
 	quest.6786B6A8692C67A5.quest_subtitle: "Double"
 	quest.6786B6A8692C67A5.title: "&lDefeat Rocket Admins Archer and Ariana"
 	quest.67A0460FFBF3D9AB.title: "&lDefeat Mel"
-	quest.67A58B04577F0602.quest_desc: ["&e&lFramed Inventory Cables&r&r and &e&lFramed Inventory Cable Connectors&r&r are used to create a storage system without compromising the aesthetics of your base. When these items are placed, you can use a &l&ePaint Kit&r&r. Simply shift-right-click any full-sized block with the &l&ePaint Kit&r&r, then right-click your cables and connectors to transform them into any other block, ensuring your building's appearance remains intact."]
+	quest.67A58B04577F0602.quest_desc: ["&lFramed Inventory Cables&r&r and &lFramed Inventory Cable Connectors&r&r are used to create a storage system without compromising the aesthetics of your base. When these items are placed, you can use a &lPaint Kit&r&r. Simply shift-right-click any full-sized block with the &lPaint Kit&r&r, then right-click your cables and connectors to transform them into any other block, ensuring your building's appearance remains intact."]
 	quest.67A58B04577F0602.title: "&lFramed Cables and Cable Connectors"
 	quest.67C1B1AABD91D7BE.quest_desc: [
 		"Once processed in a processing unit, tiny dry rubber is then crafted into dry rubber, which is in turn smelted into plastic&r."
@@ -3238,6 +3356,7 @@
 	quest.6801E2AC958DCC92.title: "&l4x Prometheum"
 	quest.6805DA60D91DD16F.quest_subtitle: "Round 3"
 	quest.6805DA60D91DD16F.title: "&lDefeat Cedrick"
+	quest.681C82AB83A616E3.title: "&lQuadrocopter"
 	quest.682179B547AC48A5.quest_desc: ["The anti-teleportation upgrade will stop any bees that live within the hive that it is installed in from teleporting anymore."]
 	quest.682179B547AC48A5.quest_subtitle: "&0&lLet's see them get out now"
 	quest.682179B547AC48A5.title: "&lUpgrade: Anti Teleportation"
@@ -3262,6 +3381,7 @@
 	quest.68F15E8270BCA001.title: "&lRepeat Ball"
 	quest.68FF8E56E6CDF0C5.quest_desc: ["Sometimes Roots form strange, ore-like clusters, called &l&eLiveroots&r&r. Liveroots appear as roots webbed with a bright yellow-green color. They typically appear in clusters of between 4 and 8 blocks and can be found anywhere underground in the Twilight Forest. Breaking Liveroots without silk touch gives Liveroot, which forms a key ingredient in the creation of &l&eRaw Ironwood&r&r."]
 	quest.68FF8E56E6CDF0C5.title: "Liveroot"
+	quest.690205FC04560718.title: "&lBriggs"
 	quest.6933F31C26EB3393.quest_desc: [
 		"While everything has been designed so that you do not &orequire&r one, a colony will be capable of making your Cobblemon journey much easier in many ways. Once fully established it can be looked at as your Cobblemon cheat code, generating everything from free balls and bottle caps to half cost Master Balls! "
 		""
@@ -3278,6 +3398,7 @@
 	]
 	quest.693B69D43BE2CC18.quest_subtitle: "&0&lItem collection via bee"
 	quest.693B69D43BE2CC18.title: "&lCollector Bee"
+	quest.694FCAA0B346E166.title: "&lEco Engine"
 	quest.697B6370E74AE21A.quest_desc: [
 		"The Magnetron is a rare and powerful being encountered in the Magnetic Caves. It is a machine of mysterious origins, originally designed to extract resources from the biome."
 		""
@@ -3290,10 +3411,12 @@
 		""
 		"You can also paint cables with any forge compatible paint brush in world."
 	]
-	quest.69AF46B1490B34C4.quest_subtitle: "Your Basic ME Cable"
+	quest.69AF46B1490B34C4.quest_subtitle: "&0&lYour Basic ME Cable"
+	quest.69AF46B1490B34C4.title: "&lFluix ME Glass Cable"
 	quest.69C5F275670C361A.title: "&lEngineer's Wire Cutters"
 	quest.6A0BD8F84EDD02DF.title: "&lGargantuan Flux Storage"
 	quest.6A2072648BBBEDAA.quest_desc: ["The &e&lCharm of Life II&r&r will heal the player fully, and activate Regeneration IV, Resistance and Fire Resistance for the next 30 seconds."]
+	quest.6A5D6BBBFA288CA9.title: "&lSail"
 	quest.6A689230C3DAA15F.title: "&lEngineer's Crafting Table"
 	quest.6A7FC4CEC03AC1F8.quest_subtitle: "Round 2"
 	quest.6A7FC4CEC03AC1F8.title: "&lDefeat Ivory"
@@ -3363,7 +3486,8 @@
 		"{@pagebreak}"
 		"Quantum Rings are built by surrounding an ME Quantum Link Chamber with ME Quantum Ring blocks and can be built either horizontally or vertically. Then take 2 Quantum Entangled Singularities, place one each within the link chambers of 2 rings you would like to link together. For example one ring for your main storage, linked to a second ring at a resource producing outpost you've built to support your base."
 	]
-	quest.6C30B8D7568F7ABA.quest_subtitle: "Loooong distance logistics"
+	quest.6C30B8D7568F7ABA.quest_subtitle: "&0&lLoooong distance logistics"
+	quest.6C30B8D7568F7ABA.title: "&lME Quantum Network Bridge"
 	quest.6C762190D8B99779.title: "&l Unholy Intelligence"
 	quest.6C7C99CA68DE0223.quest_desc: [
 		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &eAll Rights Reserved&r."
@@ -3373,9 +3497,9 @@
 	quest.6C7C99CA68DE0223.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.6C80392E1736FE46.title: "&lDefeat Archie"
 	quest.6CE068D4A1B95EB9.quest_desc: [
-		"Now that you know how to connect a single chest or crate to your terminal, how do you connect multiple to expand your storage? You can do this with an &e&lInventory Connector&r&r block! "
+		"Now that you know how to connect a single chest or crate to your terminal, how do you connect multiple to expand your storage? You can do this with an &lInventory Connector&r&r block! "
 		""
-		"Simply place the &e&lInventory Connector&r&r block against a storage block like a chest or crate, then attach the terminal to the Inventory Connector. You can stack chests or crates on top of each other or side by side to increase storage, and access all of them through the terminal."
+		"Simply place the &lInventory Connector&r&r block against a storage block like a chest or crate, then attach the terminal to the Inventory Connector. You can stack chests or crates on top of each other or side by side to increase storage, and access all of them through the terminal."
 	]
 	quest.6CE068D4A1B95EB9.title: "&lInventory Connector"
 	quest.6D09FA6FE768A4D1.quest_desc: ["&e&lEnder Bow&r&r is a weapon that can be found in Aurora Palaces. The Ender Bow fires like a normal Bow, but if the arrow from the Ender Bow hits a creature then both the user and creature will swap places."]
@@ -3394,7 +3518,8 @@
 		""
 		"Pattern providers have a special interaction with interfaces on subnets: if the interface is unmodified (nothing in the request slots) the provider will skip the interface entirely and push directly to that subnet's storage, skipping the interface and not filling it with recipe batches, and more importantly, not inserting the next batch until there's space in the machine. This works correctly with blocking mode, the provider will monitor the slots in the machine for ingredients, instead of the slots in the interface. This will push both the thing to be smelted and the fuel directly into the corresponding slots in the furnace. You can use this to pattern provide into multiple sides of a machine, or multiple machines, as an example."
 	]
-	quest.6D9CCDB12FF5B518.quest_subtitle: "Not Optional"
+	quest.6D9CCDB12FF5B518.quest_subtitle: "&0&lNot Optional"
+	quest.6D9CCDB12FF5B518.title: "&lME Pattern Provider"
 	quest.6DB899AD90BA263C.title: "&lAdamant Ingot"
 	quest.6DC065159F905D68.quest_desc: ["Used for the most advanced machine frames, and therefor the most advanced IF machines. "]
 	quest.6DC065159F905D68.title: "&lSupreme Machine Frame"
@@ -3415,7 +3540,8 @@
 		""
 		"A network can have any number of wireless access points with any number of Wireless Booster in each one, allowing you to optimize power usage and range by altering your setup. Requires a channel to function and is used to bind wireless terminals to the network as well."
 	]
-	quest.6E3C73A89BE9CB85.quest_subtitle: "Going wireless"
+	quest.6E3C73A89BE9CB85.quest_subtitle: "&0&lGoing wireless"
+	quest.6E3C73A89BE9CB85.title: "&lME Wireless Access Point"
 	quest.6E40224494C4BA3B.quest_desc: ["Has a catch rate of 3.5× if the target is in light level 0 and 3× if the target is in light level 1-7."]
 	quest.6E40224494C4BA3B.title: "&lDusk Ball"
 	quest.6E429A2355447D79.title: "&lBuild a Silo"
@@ -3500,6 +3626,7 @@
 		"Berries can also be attached to a Poké Rod as bait, providing varying effects depending on the berry used."
 	]
 	quest.7078E004A4888746.title: "&lBerry useful crops"
+	quest.70A09FD217BB2840.title: "&lPhoenix Boots"
 	quest.70A0D3C54C40A377.title: "&lDefeat Alice"
 	quest.70A9E656D699BE49.quest_desc: [
 		"Mine Guardians are dangerous and often difficult to spot in the Abyssal Chasm. These sentinels are chained to an anchor on the seafloor, often near Abyssal Ruins. They periodically open their single eye to scan for targets. If a target is detected within close range, the Mine Guardian will begin to float toward it and suddenly explode upon contact."
@@ -3515,6 +3642,7 @@
 	quest.71070D1348F6EBF2.title: "&lWelcome to Mekanism!"
 	quest.710D89FA1F75916C.title: "&lDestroyer Block"
 	quest.71202542A4487393.title: "&lCraft a Railgun"
+	quest.71435E557A36A721.title: "&lCargo Airship"
 	quest.7147B61F4F154EE2.quest_desc: [
 		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &eAll Rights Reserved&r."
 		""
@@ -3522,6 +3650,7 @@
 	]
 	quest.7147B61F4F154EE2.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.7153C4C7A653C645.title: "&lDefeat Blue"
+	quest.71637054BBF9B99B.title: "&l &l64M Storage Component"
 	quest.7185032FDE001F31.quest_subtitle: "Round 1"
 	quest.7185032FDE001F31.title: "&lDefeat Mars"
 	quest.718CFC6D4D3C7824.title: "&lMold Pokeball Frame"
@@ -3545,6 +3674,7 @@
 	quest.71EC8771E073828D.quest_subtitle: "&0&lBlending all the things"
 	quest.71EC8771E073828D.title: "&lMechanical Mixer"
 	quest.722B2F33DC07D827.title: "&lDefeat Admin Tabitha"
+	quest.7238CF5401D6F5F6.title: "&lWarden Chestplate"
 	quest.7250895C2EBE25DF.title: "&lDefeat Blaine"
 	quest.725855014BA78449.quest_subtitle: "&0&l1.5 Catch rate"
 	quest.725855014BA78449.title: "&lGreat Ball"
@@ -3569,7 +3699,8 @@
 	quest.72C623D8277F52A2.quest_desc: ["The &e&lGlass Sword&r&r is a weapon that can occasionally be found in Aurora Palaces. Glass Swords cannot be crafted, and have no skills."]
 	quest.72DCC1B8F79DDF5D.title: "&lEnriched Diamond"
 	quest.72F3A7D842D84C6A.quest_desc: ["While bearing some similarity to Fluix ME Covered Cable in appearance, they provide diagnostic functions and troubleshooting help by allowing you actually see the channel usage on the cables, the channels appear as lit colored lines that run along the black stripe on the cables giving you an understanding of how your channels are currently being routed through your network. For regular smart cables, the first four channels show as lines matching the color of the cable, the next four show as white lines, etc."]
-	quest.72F3A7D842D84C6A.quest_subtitle: "Cable, But Smarter"
+	quest.72F3A7D842D84C6A.quest_subtitle: "&0&lCable, But Smarter"
+	quest.72F3A7D842D84C6A.title: "&lFluix ME Smart Cable"
 	quest.73020AD2811D63D7.quest_desc: [
 		"You can &l&ccolor&r&r your backpack in the crafting table similar to &ncoloring leather armor&r, except backpacks can have &ctwo&r colors - &emain&r and &eaccent&r!"
 		"Dyes to the &cleft&r of the backpack in the crafting grid apply to the &cmain&r color. Dyes to the &cright&r of the backpack apply to the &caccent&r color. Dyes in the &csame column&r as the backpack apply to &cboth main and accent&r."
@@ -3653,12 +3784,14 @@
 	]
 	quest.7504687C5D231DB3.title: "Raven Feather and Torchberries"
 	quest.7509CF6EA1077A41.quest_desc: ["The crafting monitor displays the job the CPU is handling at the moment. The screen can be colored with a Color Applicator."]
-	quest.7509CF6EA1077A41.quest_subtitle: "Optional"
+	quest.7509CF6EA1077A41.quest_subtitle: "&0&lOptional"
+	quest.7509CF6EA1077A41.title: "&lCrafting Monitor"
+	quest.754EC9E8686D3E6B.title: "&lGyrodyne"
 	quest.7551EF4FE53DDAC8.quest_desc: ["If you need them for converting you can easily obtain skeletal bees by placing an advanced bee hive in the dark and waiting. Light the area around the hive sufficiently to stop them from spawning."]
 	quest.7551EF4FE53DDAC8.quest_subtitle: "&0&lKeep the hive nice and dark!"
 	quest.7551EF4FE53DDAC8.title: "&lSkeletal Bee"
-	quest.757A217506F440A2.quest_desc: ["Made with 16x gold ingots&r, 4 stone and 1 precision mechanism."]
-	quest.757A217506F440A2.quest_subtitle: "Mechanical Crafting"
+	quest.757A217506F440A2.quest_desc: [""]
+	quest.757A217506F440A2.title: "&lInscriber Logic Press"
 	quest.75A50203D06244F8.quest_desc: ["&e&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.75A50203D06244F8.title: "Phantom Armor"
 	quest.75E9703033C927B5.title: "&lDefeat Red"
@@ -3680,7 +3813,7 @@
 	quest.761A33FBB322E5C3.title: "&lGarden Cloche"
 	quest.762A1DFE1B379C05.quest_subtitle: "&0&l2.0 Catch rate"
 	quest.762A1DFE1B379C05.title: "&lUltra Ball"
-	quest.76B211025E5ACC90.title: "&2&lHollow Hills"
+	quest.76B211025E5ACC90.title: "&lHollow Hills"
 	quest.76D9A2260275CEDD.quest_desc: ["The &e&llevel II charm&r&r is silver and will keep the player's armor and full hotbar."]
 	quest.76F5F1498B72D329.quest_desc: [
 		"&e&lRed Thread&r&r is a placeable item found in Labyrinth chests, serving as a navigation tool."
@@ -3701,6 +3834,8 @@
 	quest.774B7AAAD1A84617.quest_desc: ["Obtain a spatial bee spawn egg, then throw it and a skysteel block into a lava source block."]
 	quest.774B7AAAD1A84617.quest_subtitle: "&0&lIn-World Transformation"
 	quest.774B7AAAD1A84617.title: "&lAcquire a Sky Steel Bee"
+	quest.776835B618035847.title: "&lFuzzy Card"
+	quest.776A91A6F52188D3.title: "&lBoiler"
 	quest.776BCAC6DB50C3E3.title: "&lDefeat Sabrina"
 	quest.77725E6278D26E36.quest_desc: [
 		"The Gum Worm is a colossal creature, stretching many tens of blocks long. Composed of hard candy segments held together by sticky gum, this titanic beast burrows through the layers of chocolate and cake that form the sediment of the Candy Cavity."
@@ -3734,6 +3869,7 @@
 	]
 	quest.7815EFD9800BE9C5.title: "&lTime for an upgrade?"
 	quest.7862C2708A5A89CE.title: "&e&lDiamonds"
+	quest.78D8DB9123C10BC1.title: "&lValkyrie Cape"
 	quest.78DB561AC5365AAC.quest_desc: ["For all intents and purposes tools function exactly as you are used to with a few minor exceptions. Primarily around enchanting. The &dArcane Catalyst&r is currently the only way to apply certain enchantments to certain items (like mending to a pickaxe). If you are wondering why \"X\" enchantment cannot be applied to \"Y\" item, the answer is probably that you need a catalyst to do it."]
 	quest.78DB561AC5365AAC.quest_subtitle: "&0&lYou know the drill"
 	quest.78DB561AC5365AAC.title: "&lIron Pickaxe"
@@ -3756,6 +3892,7 @@
 	quest.7983E26A4F558799.quest_desc: ["Using a &8Flux Point&r You can extract power from any number of energy generating blocks and structures, if it makes FE, this will probably accept it."]
 	quest.7983E26A4F558799.quest_subtitle: "&0&lPulls energy IN to the network"
 	quest.7983E26A4F558799.title: "&lFlux Plug"
+	quest.79C898659FF3D75A.title: "&lStratus Ingot"
 	quest.79D9541D4D3A31BF.quest_desc: [
 		"&e&lAlpha Yeti Fur&r&r is an item that is always dropped by the Alpha Yeti. "
 		""
@@ -3764,9 +3901,9 @@
 	quest.79D9541D4D3A31BF.title: "Yeti Armor"
 	quest.79E999312E62A197.quest_desc: ["&e&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.79E999312E62A197.title: "Phantom Armor"
-	quest.7A33AF5CD7476775.quest_desc: ["Along with &dfluix crystals&r, processors&r are going to be used in &clarge quatities&r, you are going to want to automate the production process. Just as how fluix crystals are required for most things cable related, processors of one kind or another are going to be required for almost &eevery network component you will build&r."]
-	quest.7A33AF5CD7476775.quest_subtitle: "This too!"
-	quest.7A33AF5CD7476775.title: "Processing processors"
+	quest.7A33AF5CD7476775.quest_desc: ["Along with &dfluix crystals&r, processors&r are going to be used in &clarge quatities&r, you are going to want to automate the production process. Just as how fluix crystals are required for most things cable related, processors of one kind or another are going to be required for almost every network component you will build&r."]
+	quest.7A33AF5CD7476775.quest_subtitle: "&0&lThis too!"
+	quest.7A33AF5CD7476775.title: "&lProcessing processors"
 	quest.7A4231E1D13D27A9.quest_desc: [
 		"Before anything can be built, you need a &lBuilder&r&r. The Builder must construct their own &lBuilder's Hut&r&r before building any other huts, and they cannot &nbuild or upgrade&r a hut to a higher level than their own hut's level. Craft the Builder's Hut block and place it down, following the previous example, to begin the construction process."
 		""
@@ -3783,11 +3920,12 @@
 		""
 		"as well as..."
 		""
-		"inscribing&e circuits&r and &9processors&r. "
+		"inscribing &lcircuits and processors.&r"
 		""
 		"To do this you will need to insert the prerequisite press for the circuit or processor needed. It is advisable to set up a dedicated inscriber for each, at least early on."
 	]
-	quest.7A4FF3976EB91CEB.quest_subtitle: "Dusts, circuits and processors"
+	quest.7A4FF3976EB91CEB.quest_subtitle: "&0&lDusts, circuits and processors"
+	quest.7A4FF3976EB91CEB.title: "&lInscriber"
 	quest.7A65FBE803BAA7AF.quest_desc: [
 		"&e&lArctic Fur&r&r is an item dropped by Yetis and Winter Wolves."
 		""
@@ -3805,7 +3943,8 @@
 	quest.7AA37760F9C6BA7D.quest_subtitle: "&0&lStart Your Colony"
 	quest.7AA37760F9C6BA7D.title: "&lThe heartbeat of every community"
 	quest.7AB6131A2890E8E4.quest_desc: ["Crafting storages are available in all cell sizes (1k, 4k, etc.). They store the ingredients and intermediate ingredients involved in a craft, so larger or more storages are required for the CPU to handle crafting jobs with more ingredients. Intermediate ingredients are the things made \"in -between\" the starting recipe ingredients and final product of a complex string of recipes. "]
-	quest.7AB6131A2890E8E4.quest_subtitle: "Not Optional"
+	quest.7AB6131A2890E8E4.quest_subtitle: "&0&lNot Optional"
+	quest.7AB6131A2890E8E4.title: "&l1k Crafting Storage"
 	quest.7AC247633CD97DF3.quest_desc: [
 		"Tumblestone can be found as loot inside of ruins structures. It can also be obtained by mining a tumblestone cluster, yielding 1 if not fully grown or 4 if fully grown, they are used to craft Ancient Poké Balls."
 		""
@@ -3813,11 +3952,11 @@
 	]
 	quest.7AC247633CD97DF3.title: "&lTumblestone"
 	quest.7AF413345F4556FF.quest_desc: [
-		"The &e&lAdvanced Wireless Terminal&r&r is an upgraded version of the &eWireless Terminal&r, allowing you to access the terminal's inventory from up to &c64&r blocks away. Shift + right-click your storage terminal to bind your wireless terminal to it."
+		"The &lAdvanced Wireless Terminal&r&r is an upgraded version of the Wireless Terminal&r, allowing you to access the terminal's inventory from up to &c64&r blocks away. Shift + right-click your storage terminal to bind your wireless terminal to it."
 		""
-		"Building a &elevel 1 beacon&r within range of the regular terminal will let you access its inventory from &9anywhere in the same dimension&r."
+		"Building a level 1 beacon within range of the regular terminal will let you access its inventory from &9anywhere in the same dimension&r."
 		""
-		"Building a &elevel 4 beacon&r within range of the regular terminal will let you access its inventory from &9anywhere across any dimension&r."
+		"Building a level 4 beacon within range of the regular terminal will let you access its inventory from &9anywhere across any dimension&r."
 	]
 	quest.7AF413345F4556FF.title: "&lAdvanced Wireless Terminal"
 	quest.7B1F40183EB020C1.quest_desc: [
@@ -3841,6 +3980,7 @@
 	quest.7C44A46BACAF715C.quest_desc: ["Sometimes Roots form strange, ore-like clusters, called &l&eLiveroots&r&r. Liveroots appear as roots webbed with a bright yellow-green color. They typically appear in clusters of between 4 and 8 blocks and can be found anywhere underground in the Twilight Forest. Breaking Liveroots without silk touch gives Liveroot, which forms a key ingredient in the creation of &l&eRaw Ironwood&r&r."]
 	quest.7C44A46BACAF715C.title: "Liveroot"
 	quest.7C462577B430B679.title: "&lDefeat Maxie"
+	quest.7C545842235F9DFF.title: "&lSpatial Pylon"
 	quest.7C5D0AE22D26CD8D.quest_desc: [
 		"Ancient and forlorn, the &e&lGoblin Knight Strongholds&r&r lie among the dense canopy of the Dark Forest. They are difficult to spot in the darkness, with little above ground aside from broken walls and cracked bricks. However, beneath the surface is a vast complex of rooms, hallways, and tombs. Some explorers have noted similarities to the labyrinths beneath the Twilight Swamp, but these fortresses offer a different challenge."
 		""
@@ -3850,7 +3990,7 @@
 	quest.7C61A098A7937030.quest_desc: ["The &e&lOre Magnet&r&r is a treasure found in Hollow Hill chests. To use it, point the magnet at the ground or a wall, charge it up, and release. If you’re lucky, it will pull anything from an ore block to an entire vein to the surface, bringing up to 24 blocks, plus a few extra."]
 	quest.7C839D34371C6A13.quest_desc: ["Find an &e&lInactive Thorncutter&r&r inside a chest atop the Final Castle within the purple forcefield. When &e&lThorncutter&r&r is completed, you can harvest Thorns."]
 	quest.7C89224D386AB3CF.title: "&lDefeat Champion Terry"
-	quest.7C8E2FFA1BD65AE6.quest_desc: ["The &e&lInventory Proxy block&r&r allows you to extend the face of a block. Each block has &c6 sides&r by default, but if you have a machine that requires power, an input, an output, fluid input, fluid output, and redstone control, you may run into a problem if you need another side. This block enables you to extend it, providing an additional &c4 sides&r for use with your machine."]
+	quest.7C8E2FFA1BD65AE6.quest_desc: ["The &lInventory Proxy block&r&r allows you to extend the face of a block. Each block has &c6 sides&r by default, but if you have a machine that requires power, an input, an output, fluid input, fluid output, and redstone control, you may run into a problem if you need another side. This block enables you to extend it, providing an additional &c4 sides&r for use with your machine."]
 	quest.7C8E2FFA1BD65AE6.title: "&lInventory Proxy"
 	quest.7C8E366ADCCD0580.quest_desc: ["Mine all types of giant blocks using the &e&lGiant's Pickaxe&r&r."]
 	quest.7CAD868DA2720D7B.quest_desc: ["Chutes are great for moving items. In the same way belts move your items horizontally, chutes move them vertically. "]
@@ -3869,6 +4009,7 @@
 	quest.7D02AB190EBF3251.quest_desc: ["When provided with RF and raw ore meat, the fermentation station is used to ferment raw ore meat into the selected type."]
 	quest.7D02AB190EBF3251.quest_subtitle: "&0&lProcessing raw ore meat"
 	quest.7D02AB190EBF3251.title: "&lFermentation Station"
+	quest.7D07C4357DA7C2A5.title: "&lCogs"
 	quest.7D214A4E9FBE9A89.quest_desc: [
 		"While ME networks are also constructed of adjacent ME-capable devices and machines, cables are the primary way of extending an ME network over longer distances."
 		""
@@ -3887,7 +4028,8 @@
 		""
 		"These are not item or fluid or energy pipes. They have no internal inventory, pattern providers and machines do not \"push\" or \"pull\" things into them, all they do is connect AE2 network components together into an actual network. To import or export items, fluids, etc into or out of this network, you need specific components for this, such as &aimporters&r, &9exporters&r and &estorage buses&r."
 	]
-	quest.7D214A4E9FBE9A89.quest_subtitle: "Some Basics"
+	quest.7D214A4E9FBE9A89.quest_subtitle: "&0&lSome Basics"
+	quest.7D214A4E9FBE9A89.title: "&lGeneral Cable Information"
 	quest.7D2462E72B5DCF40.quest_desc: [
 		"Storage Cells are one of the primary methods of storage in Applied Energistics. They go in ME Drives or ME Chests."
 		""
@@ -3905,7 +4047,8 @@
 		""
 		"Storage components can be removed from the housing if the cell is empty by shift-right clicking with the cell in your hand."
 	]
-	quest.7D2462E72B5DCF40.quest_subtitle: "The hoarding begins"
+	quest.7D2462E72B5DCF40.quest_subtitle: "&0&lThe hoarding begins"
+	quest.7D2462E72B5DCF40.title: "&lME Item Cell Housing"
 	quest.7D2778F1C2BD996B.title: "&lAtomic Forge"
 	quest.7DA2480976B8950C.quest_desc: ["Blaze cakes can be used to fuel and super heat &cblaze burners&r, required for some of the more advanced recipes."]
 	quest.7DA2480976B8950C.quest_subtitle: "&0&lProbably not edible"
@@ -3928,8 +4071,10 @@
 	quest.7E0E6F25AC0882AF.title: "&lDefeat Flint"
 	quest.7E1CF7ACBD6043AB.quest_desc: ["&e&lKnightmetal Tools and Weapons&r&r are made from Knightmetal Ingots."]
 	quest.7E1CF7ACBD6043AB.title: "Knightmetal Tools and Weapons"
+	quest.7E2C5C3483A9E51A.title: "&lFormation Core"
 	quest.7E3BCBEE527734ED.quest_subtitle: "Round 3"
 	quest.7E3BCBEE527734ED.title: "&lDefeat Aklove"
+	quest.7E40EDE45D1B6CC1.title: "&lME Quantum Link Chamber"
 	quest.7E53C02DE7996C0C.quest_desc: ["The furnace mycelial generator will take any number of smeltable items (you'd be surprised what it accepts) and in turn produce FE."]
 	quest.7E53C02DE7996C0C.quest_subtitle: "&0&lSmelting power"
 	quest.7E53C02DE7996C0C.title: "&lFurnace Mycelial Generator"
@@ -3950,15 +4095,17 @@
 		""
 		"To get started, you must first create a special portal. This portal is made by forming a 2×2 pool of water, only 1 block deep. The pool must then be surrounded by any naturally generated plants (flowers for example). Once surrounded, the portal is activated by throwing a diamond into the water. The water will turn purple, and a bolt of lightning will strike the portal, dealing minor damage to nearby players."
 	]
-	quest.7EE137CFDCBB88DF.title: "&2&lVisit The Twilight Forest"
-	quest.7EF66B49E69B57E0.quest_desc: ["Made with 16x&3 nether quartz&r, 4 stone and 1 precision mechanism."]
-	quest.7EF66B49E69B57E0.quest_subtitle: "Mechanical Crafting"
+	quest.7EE137CFDCBB88DF.title: "&lVisit The Twilight Forest"
+	quest.7EE6463C2946ABDC.title: "&lValkyrie Chestplate"
+	quest.7EF66B49E69B57E0.quest_desc: [""]
+	quest.7EF66B49E69B57E0.title: "&lInscriber Logic Press"
 	quest.7EF793431CB519F0.quest_desc: ["The omega upgrade. The pinnacle of bee production. it grants a %260 bonus to production as well as functions as BOTH a simulator AND a block upgrade."]
 	quest.7EF793431CB519F0.quest_subtitle: "&0&lMOAR"
 	quest.7EF793431CB519F0.title: "&lUpgrade: Productivity Omega"
 	quest.7F085E77EC823069.quest_desc: ["The rocket mycelial generator converts rockets into FE."]
 	quest.7F085E77EC823069.quest_subtitle: "&0&lFirework power"
 	quest.7F085E77EC823069.title: "&lRocket Mycelial Generator"
+	quest.7F096B0103F4BD61.title: "&lEngine"
 	quest.7F23B52CD0488C38.quest_desc: ["Copper casings will be used to craft and create the next type of machines and is used in many early components and contraptions involving fluids and steam."]
 	quest.7F23B52CD0488C38.quest_subtitle: "&0&lA slightly nicer casing"
 	quest.7F23B52CD0488C38.title: "&lCopper Casing"
@@ -3982,8 +4129,8 @@
 	quest.7F546D55D60D0161.quest_subtitle: "&0&lOutputting fluids into the world"
 	quest.7F546D55D60D0161.title: "&lFluid Placer"
 	quest.7F5F699B2D362D62.title: "&lAncient Verdant Ball"
-	quest.7F7D5A012187CF4F.quest_desc: ["Made with 16x &bdiamonds&r, 4 stone and 1 precision mechanism."]
-	quest.7F7D5A012187CF4F.quest_subtitle: "Mechanical Crafting"
+	quest.7F7D5A012187CF4F.quest_desc: [""]
+	quest.7F7D5A012187CF4F.title: "&lInscriber Engineering Press"
 	quest.7F8AD0BECEF17D93.quest_desc: ["The &lBakery&r&r will craft bread dough, cookie dough, cake dough, and raw pumpkin pie, then bake&r these in a furnace to create bread, cookies, cakes, and pumpkin pies. They will only do this &nupon request&r, whether from the Cook&r, the Postbox&r, or as a minimum stock in the Warehouse&r."]
 	quest.7F8AD0BECEF17D93.quest_subtitle: "&0&lBakery"
 	quest.7F8AD0BECEF17D93.title: "&lBakery"
@@ -4042,7 +4189,7 @@
 	task.08BD2CD08566394B.title: "Acquire a pure bee"
 	task.09EE3EA1E53CA986.title: "Acquire a hellfire bee"
 	task.0A59C8619A366F3E.title: "Pokefinder"
-	task.0BAA34164BD288AD.title: "Any #smallships:drakkars"
+	task.0BAA34164BD288AD.title: "Drakkars"
 	task.0BDEE1CB4A7D1E26.title: "Acquire a zinc bee"
 	task.0C3255F70AD00F63.title: "&l&eTame Raptor (Pink)"
 	task.0C42913BCE2CEC5F.title: "Tinker's Citadel"
@@ -4095,7 +4242,7 @@
 	task.1ABAA9AD59E1E5E6.title: "&l&eTame (Spotted)"
 	task.1B0511A0BC0B1552.title: "Acquire a Sulfur Bee"
 	task.1B15B4A1AD7F65C8.title: "&l&eTame Raptor (Dark Green)"
-	task.1B99CA948A040562.title: "Any #smallships:briggs"
+	task.1B99CA948A040562.title: "Briggs"
 	task.1D0FBDDF8E1FE67F.title: "Z-Rings"
 	task.1D30DDF02CF449F5.title: "&l&eTame Small Slime (Light Blue)"
 	task.1D474902C502C04F.title: "Thornborn Towers"
@@ -4118,7 +4265,7 @@
 	task.23CB96896BC8519D.title: "Bathhouse"
 	task.267719275AC1D996.title: "Acquire a silky bee"
 	task.269E6D08E6396407.title: "Acquire a refined obsidian bee"
-	task.26D4F88905FEE2D8.title: "Any #smallships:cogs"
+	task.26D4F88905FEE2D8.title: "Cogs"
 	task.26D6081DAEDF9DFB.title: "&l&eTame Welsh Corgi (Mixed)"
 	task.273CB2B798BDED16.title: "Breed a Wasted Radioactive Bee"
 	task.277A91A9BD3E98BA.title: "Acquire a bismuth bee"
@@ -4158,13 +4305,13 @@
 	task.331682D58E3A532F.title: "Bastion Remnant"
 	task.331F3B9B48514A05.title: "Acquire a prismalium bee"
 	task.3348ED1D5842E723.title: "Acquire a fluix bee"
-	task.334BAE232C58C82F.title: "Upgrades"
+	task.334BAE232C58C82F.title: "&lUpgrades"
 	task.33559FB8C6634DC3.title: "Acquire a rose quartz bee"
 	task.33C46E0CC2F814AA.title: "Acquire an iron bee"
 	task.34698AB199FE7411.title: "Minka Village"
 	task.350558F7FA871759.title: "Monastery Tower"
 	task.35105D1AD5EA447C.title: "EVs"
-	task.354EF0ABCCCD0B0E.title: "Welcome to Eternal Starlight!"
+	task.354EF0ABCCCD0B0E.title: "&lWelcome to Eternal Starlight!"
 	task.358D5AC1C21B17DB.title: "Other id"
 	task.364190D730B02EFB.title: "Heavenly Rider"
 	task.36D9F8B943A2E47B.title: "Heavenly Challenger"
@@ -4192,15 +4339,15 @@
 	task.3E538E3B1EDACB28.title: "Old Fort"
 	task.3F6DCAA272338625.title: "Abyssal Chasm"
 	task.3F7A56447B9E50D0.title: "Airship Village"
-	task.40C53B426F32A07E.title: "Components"
+	task.40C53B426F32A07E.title: "&lComponents"
 	task.4136C7309693053E.title: "Apothecary Abode"
 	task.418B7CBFE8ABF7B2.title: "Find a crystalline bee"
 	task.41F6B75B65C4D9FA.title: "Acquire a diamond bee"
-	task.4239070C7C1534D6.title: "Welcome to Ships and Aircraft!"
+	task.4239070C7C1534D6.title: "&lWelcome to Ships and Aircraft!"
 	task.429EA9201EBB532C.title: "Find a Medium Hollow Hill"
 	task.432D579FC873A547.title: "Acquire a wasted radioactive bee"
 	task.4362569E21D6B35E.title: "Mint Seeds"
-	task.43B0A31AD059CDDF.title: "Make a certus bee"
+	task.43B0A31AD059CDDF.title: "Obtain a Spatial Bee"
 	task.43EF9DD0BE50803A.title: "Welcome to Porductive Bees!"
 	task.447863D3BAABE95F.title: "Some Pointers"
 	task.44CF995335A65849.title: "Pillager Fortress"
@@ -4290,7 +4437,7 @@
 	task.67378F8E6D51954F.title: "&l&eTame Samurai (Black)"
 	task.678BCA56B861AD8D.title: "Acquire a quarry bee"
 	task.67D4EC0C86CE8362.title: "Acquire a lead bee"
-	task.67E45CB91EF1BAF5.title: "&2&lThe Quest Ram"
+	task.67E45CB91EF1BAF5.title: "&lThe Quest Ram"
 	task.687DED5542577E85.title: "Find a Medium Hollow Hill"
 	task.6A4047F541E97841.title: "Find a Large Hollow Hill"
 	task.6A4B835D63076AAC.title: "Find a digger bee"
@@ -4301,7 +4448,7 @@
 	task.6C37CD3119223FB1.title: "Acquire a gold bee"
 	task.6C4CA4462DADF477.title: "TMs"
 	task.6C59AFEED74211BE.title: "Find a blue banded bee"
-	task.6D1E6F9412ABEF00.title: "Any #smallships:galleys"
+	task.6D1E6F9412ABEF00.title: "Galleys"
 	task.6DFBB31CAB1E8E22.title: "Keep Kayra"
 	task.6F69740D0B0A6D11.title: "Tree of Wisdom"
 	task.6FB3D4A7ABE43AB3.title: "Winter Wagon"

@@ -55,13 +55,13 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "19657C2EA448894C"
+					id: "5F077F21B2C51AEF"
 					table_id: 6535411216744351324L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
-					id: "50B7C127CE326075"
+					id: "4885D7A0C6E44A23"
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
@@ -461,6 +461,7 @@
 		{
 			dependencies: ["2D39E7FA50C2CB08"]
 			id: "3259F770ACC8B63B"
+			invisible: true
 			rewards: [
 				{
 					exclude_from_claim_all: true

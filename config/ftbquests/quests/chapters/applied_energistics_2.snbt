@@ -901,8 +901,8 @@
 				item: { count: 1, id: "ae2:item_storage_cell_1k" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 12.0d
+			x: 1.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["10E94F3EEB4BD905"]
@@ -1348,8 +1348,8 @@
 				item: { count: 1, id: "ae2:fluid_cell_housing" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 13.0d
+			x: 1.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["7D2462E72B5DCF40"]
@@ -1366,8 +1366,8 @@
 				item: { count: 1, id: "appmek:chemical_cell_housing" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 14.0d
+			x: 1.5d
+			y: 13.0d
 		}
 		{
 			dependencies: ["576308F3B27FC0DC"]
@@ -1400,8 +1400,8 @@
 				item: { count: 1, id: "megacells:mega_fluid_cell_housing" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 13.0d
+			x: 2.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["62CF6DAE6B93FF66"]
@@ -1417,8 +1417,8 @@
 				item: { count: 1, id: "megacells:mega_chemical_cell_housing" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 14.0d
+			x: 2.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["38A8DAD3A173256D"]
