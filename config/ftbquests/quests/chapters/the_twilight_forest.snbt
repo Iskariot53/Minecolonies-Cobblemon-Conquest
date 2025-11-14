@@ -1041,7 +1041,6 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
-			hide_dependency_lines: true
 			id: "6AB19CF23F9B5A16"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1059,7 +1058,6 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
-			hide_dependency_lines: true
 			id: "622B8EEE00C9F620"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1243,7 +1241,6 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
-			hide_dependency_lines: true
 			id: "2B596E2520D0539D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1261,7 +1258,6 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
-			hide_dependency_lines: true
 			id: "6D09FA6FE768A4D1"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1279,7 +1275,6 @@
 		}
 		{
 			dependencies: ["0CDBF9C116B9F573"]
-			hide_dependency_lines: true
 			id: "5E48E915C1B4ABE9"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1384,26 +1379,23 @@
 			hide_text_until_complete: false
 			hide_until_deps_visible: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "architects_palette:hazard_sign"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersiveengineering:warning_sign_attention"
 			}
 			icon_scale: 2.0d
-			id: "7978B818B5BA9207"
+			id: "0372DC1FB9773393"
 			invisible: true
 			optional: true
 			tasks: [
 				{
-					id: "290A3ECBA9DEE1CA"
+					id: "49CE2515240C3F7C"
 					type: "checkmark"
 				}
 				{
-					id: "1AD27FAF9998F4A6"
+					id: "21A20B905F9D0151"
 					type: "checkmark"
 				}
 				{
-					id: "315A91B92B29EFC8"
+					id: "400F7B44198FEC5F"
 					type: "checkmark"
 				}
 			]

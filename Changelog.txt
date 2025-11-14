@@ -1,111 +1,14 @@
-Minecolonies - Cobblemon Conquest -  2.0.0 Changelog
-
-
-- Updated to Neoforge 21.1.209
-
-
-Mods Added
-
-
-- Backpacked
-- Pylons
-- WATERViSION: Videoplayer
-
-
-
-Mods Removed
-
-
-- Create Contraption Terminals
-- Sophisticated Backpacks
-- Sophisticated Core
-- Sophisticated Storage
-- Sophisticated Storage Create Integration
-- YetAnotherConfigLib
+Minecolonies - Cobblemon Conquest -  2.0.1 Changelog
 
 
 Mods Updated
 
 
-- Accessories
-- Accessories Compatibility Layer
-- AdvancedAE
-- The Aether
-- Amplified Nether
-- Applied Energistics 2
-- Applied Mekanistics
-- BaguetteLib
-- Balm
-- Bookshelf
-- Byzantine Styles Pack for Minecolonies
-- Cobblemon Challenge
-- Cobbleloots: Loot Balls and More!
-- Cobblemon Fight or Flight Reborn
-- Cobblemon: Legendary Monuments
-- Cobblemon: Parting Gifts
-- Cobblemon Pokenav
-- Collective
-- Connectivity
-- Cooking for Blockheads
-- Corpse
-- Corpse x Curios API Compat
-- Creae: Deep Dark
-- Create Crafts & Additions
-- Create: Filters Anywhere
-- Create: Hypertubes
-- CreativeCore
-- Default Options
-- Eternal Starlight
-- ForgeEndertech
-- Forgified Fabric API
-- Framework
-- FTB Chunks
-- FTB Essentials
-- FTB Filter System
-- FTB Library
-- FTB Quests
-- FTB Teams
-- FTB Ultimine
-- FTB XMod Compat
-- Fusion (Connected Textures)
-- GeckoLib
-- Glassential Renewed
-- GuideME
-- Immersive Aircraft
-- Industrial Foregoing
-- Just Enough Immersive Multiblocks
-- Just Enough Mekanism Multiblocks
-- KeybindsPurger
-- Kotlin for Forge
-- Mekanism
-- Mekanism Generators
-- Mekanism Tools
-- Moonlight Lib
-- MoreCobblemonTweaks
-- Nullscape
-- Oritech
-- Ping Wheel
-- Prickle
-- Productive Bees
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- Security Craft
-- Sinytra Connecto
-- Structures Tweakerr
-- Stylecolonies
-- Supplementaries
-- Twilight's Flavors & Delight
-- Underground Villages, Stoneholm
-- WATERFrAMES: Multimedia Displays
-- WATERMeDIA: Multimedia API
-- Waystones
+-
 
 
 
 Changes
 
 
-- Removed sophosticated mods and quests.
-- Fixed some quest points failing due to tag issues.
-- Multiple quest lines/rewards updated as well as updated visually.
-- Spawn pools update for balance, isolated issues were causing certain spawns to effectively "drown out" others.
+- Pylons should now work in all dimensions.

@@ -312,26 +312,23 @@
 			hide_text_until_complete: false
 			hide_until_deps_visible: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "architects_palette:hazard_sign"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersiveengineering:warning_sign_attention"
 			}
 			icon_scale: 2.0d
-			id: "6C7C99CA68DE0223"
+			id: "1313D0399DFDB3BF"
 			invisible: true
 			optional: true
 			tasks: [
 				{
-					id: "7FB9C78D0420BE9B"
+					id: "564DF04B0313CBE7"
 					type: "checkmark"
 				}
 				{
-					id: "17CEA0136E403707"
+					id: "1F3D114641755DE7"
 					type: "checkmark"
 				}
 				{
-					id: "644AE0D933A004E5"
+					id: "1630AD0315414470"
 					type: "checkmark"
 				}
 			]

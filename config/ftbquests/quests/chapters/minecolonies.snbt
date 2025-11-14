@@ -1154,38 +1154,6 @@
 			y: 9.0d
 		}
 		{
-			disable_toast: true
-			hide_details_until_startable: false
-			hide_text_until_complete: false
-			hide_until_deps_visible: true
-			icon: {
-				components: {
-					"ftbquests:missing_item": "architects_palette:hazard_sign"
-				}
-				id: "ftbquests:missing_item"
-			}
-			icon_scale: 2.0d
-			id: "5FFAE085A16FD0C1"
-			invisible: true
-			optional: true
-			tasks: [
-				{
-					id: "3A1E0AB2A2821FA8"
-					type: "checkmark"
-				}
-				{
-					id: "3D60CE769F032945"
-					type: "checkmark"
-				}
-				{
-					id: "4B5150BFC7BC2B7C"
-					type: "checkmark"
-				}
-			]
-			x: 30.0d
-			y: 30.0d
-		}
-		{
 			dependencies: ["505CB5D419E6E4AF"]
 			id: "05B069F1635948FB"
 			min_width: 400
@@ -1239,6 +1207,35 @@
 			}]
 			x: 6.5d
 			y: 9.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				id: "immersiveengineering:warning_sign_attention"
+			}
+			icon_scale: 2.0d
+			id: "3DB46110DF3F6EB8"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "376518094B23ABCE"
+					type: "checkmark"
+				}
+				{
+					id: "0E28D9C10144721B"
+					type: "checkmark"
+				}
+				{
+					id: "04CA36754D940614"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
 		}
 	]
 }

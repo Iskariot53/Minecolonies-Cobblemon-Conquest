@@ -121,12 +121,6 @@
 	quest.04508C6A24E3F210.title: "&lDefeat Grunt Micah"
 	quest.04B40ADBC34786F5.title: "&lBuild a Diesel Generator"
 	quest.04BD05DC51EA23C9.title: "&l21x Reactor Glass"
-	quest.04DDEFA8BA558E67.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.04DDEFA8BA558E67.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.051BE464085D88A3.title: "&lEngineer's Workbench"
 	quest.054DC93067884DA6.quest_desc: ["The home of the &lmagmatic&r bee."]
 	quest.054DC93067884DA6.quest_subtitle: "&0&lIron Sword + Nether Bricks"
@@ -255,11 +249,11 @@
 	quest.07FED65149F877AA.quest_subtitle: "&0&lGuard Tower"
 	quest.07FED65149F877AA.title: "&lGuards"
 	quest.0811E7EF963242D8.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.0811E7EF963242D8.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.0811E7EF963242D8.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.0812E5105296350A.quest_desc: ["To get started, you will need to locate a portal frame within the world, as pictured in the quest book. "]
 	quest.082856DCE7FE2C38.quest_subtitle: "&0&l2 x 2 x 2"
 	quest.082856DCE7FE2C38.title: "&lSm Spatial Storage Cell"
@@ -372,11 +366,11 @@
 	]
 	quest.0AE99618EA839336.title: "&2&lSlay A Giant Miner"
 	quest.0AF777F2B7D0443A.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.0AF777F2B7D0443A.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.0AF777F2B7D0443A.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.0B27108E7BE7DE33.title: "&lValkyrie Helmet"
 	quest.0B443B43E4D59AC2.quest_desc: ["Craft a Reinforced Echo Shard"]
 	quest.0B443B43E4D59AC2.title: "&lReinforced Echo Shard"
@@ -621,11 +615,11 @@
 	quest.11F38F627F49DCAE.quest_subtitle: "&0&lBee Breeding"
 	quest.11F38F627F49DCAE.title: "&lAcquire a Lapis Bee"
 	quest.1200B54CA89592B3.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.1200B54CA89592B3.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.1200B54CA89592B3.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.1226C7680942E087.quest_desc: [
 		"It has many fancy sounding settings, but long story short it allows you to build on multiple axis at once, placing multiple blocks at a time."
 		""
@@ -816,12 +810,6 @@
 		"If none of the above conditions are met, the Level Ball modifier defaults to 1.0."
 	]
 	quest.1942BEDE7ADF7123.title: "&lLevel Ball"
-	quest.1954E44EEC89DE39.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.1954E44EEC89DE39.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.1979909709DE2135.title: "&lPhoenix Bow"
 	quest.199F66770B165AAF.title: "&l&lStone Tools"
 	quest.19BAB83CEDFD003A.quest_subtitle: "Round 2"
@@ -2135,11 +2123,11 @@
 	quest.40BD61CC9716E495.quest_subtitle: "&0&lAutomatic anvil"
 	quest.40BD61CC9716E495.title: "&lEnchantment Applicator"
 	quest.40C87C5FCCCC61E3.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.40C87C5FCCCC61E3.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.40C87C5FCCCC61E3.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.40E2ED2EB351A209.title: "&lSturdy Pipes"
 	quest.41000C72DEA60A93.quest_desc: [
 		"&l&lMagic Beans&r&r are a collection of colorful beans can be found in smaller vaults in the Troll Caves. A Diamond Pickaxe or a pickaxe of similar strength is normally needed to crack the vault open and claim the beans. You may also get Magic Beans as a very lucky drop from killing &lTrolls&r."
@@ -2350,12 +2338,6 @@
 	quest.48A06D2929CADF5E.quest_desc: ["The planter sower will automatically plant seeds and saplings provided to it. You will notice in the GUI that the input is divided into 9 sections, this corresponds with the sowers working area, which is also divided into 9 sections. Seeds and saplings planted in any given section of the input will only be planted inthe corresponding section of working area, allowing you to separate and cultivate multiple things from one block with little fuss."]
 	quest.48A06D2929CADF5E.quest_subtitle: "&0&lAuto-Planting"
 	quest.48A06D2929CADF5E.title: "&lPlant Sower"
-	quest.48FB41365EDA6B4D.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.48FB41365EDA6B4D.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.48FC88FF15242AF9.quest_desc: ["Keystones can be found within Megaroids, found in Geode-like structures deep underground. They have also been made craftable in the case of busy servers where everything has been picked clean, or if for some reason you may just be having a hard time finding one, you can always craft it."]
 	quest.48FC88FF15242AF9.title: "&lKeystone"
 	quest.49047754AA84D5FF.title: "&lDefeat Milo"
@@ -2785,11 +2767,11 @@
 	quest.566F3B5361936B1A.quest_subtitle: "&0&lBelt exclusive item transfer"
 	quest.566F3B5361936B1A.title: "&lAndesite Tunnel"
 	quest.56B2594056283E43.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.56B2594056283E43.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.56B2594056283E43.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.56F4D8B339DD18B0.quest_desc: ["What if a &l&lMaze Map&r&r could see through stone to reveal hidden treasures? With an upgrade, the &l&lOre Map&r&r can. Though pricey, it detects ores above or below its layer and displays them in their respective colors. Starting blank, users must activate it to reveal the map. A useful trick is to create it on a layer with rare ores and navigate above ground to uncover what lies beneath."]
 	quest.57205C2E097F6B3B.quest_desc: [""]
 	quest.57205C2E097F6B3B.title: "AUTOFOCUS"
@@ -2805,11 +2787,11 @@
 	quest.57658F49AF2CB840.quest_desc: ["&l&lNaga Scale Armor&r&r is armor made from Naga Scales. This armor set consists of only Chestplate and Leggings."]
 	quest.57658F49AF2CB840.title: "Naga Scale Armor"
 	quest.577157EC84D7C846.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.577157EC84D7C846.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.577157EC84D7C846.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.579409C3F3A2F2F0.quest_desc: ["The centrifuge is used to process combs into various resources as well as separating genes from squashed bee material."]
 	quest.579409C3F3A2F2F0.quest_subtitle: "&0&lThe work horse of any apiary."
 	quest.579409C3F3A2F2F0.title: "&lCentrifuge"
@@ -3007,11 +2989,11 @@
 	quest.5EB495D8571A9118.title: "&lUpgrade: Range"
 	quest.5EEF7B760D5F8B33.title: "&lSmall Berry Pouch"
 	quest.5EFF8F2CA747D6BF.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.5EFF8F2CA747D6BF.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.5EFF8F2CA747D6BF.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.5F496A6A0F1632AE.quest_desc: [
 		"Pasture Blocks are blocks that let you select Cobblemon from your PC and let them roam around and even socialize with others. If you put compatible Cobblemon inside, they may lay an egg which will appear in the bottom section of the block. You can collect it by right clicking the egg or they may also be extracted via hopper or pipe."
 		""
@@ -3062,12 +3044,6 @@
 	quest.5FED14B9DEAF9CC6.title: "&lEngineer's Circuit Workbench"
 	quest.5FF83440512A3495.quest_desc: ["&l&lKnightmetal Armor&r&r is an armor set made from Knightmetal Ingots."]
 	quest.5FF83440512A3495.title: "Knightmetal Armor"
-	quest.5FFAE085A16FD0C1.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.5FFAE085A16FD0C1.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.60094B10C4A8C6FB.quest_desc: [
 		"Fairies are magical creatures with a variety of abilities. They will heal you and your group throughout your journey and will even learn new abilities over time."
 		"They live in the flower forest and enjoy eating cakes."
@@ -3363,11 +3339,11 @@
 	quest.67EBDCC6D760A2D9.quest_desc: ["&l&lFiery Sword and Pickaxe&r&r are made from Fiery Ingots and have the ability to burn attackers, and auto-smelt blocks."]
 	quest.67EBDCC6D760A2D9.title: "Fiery Sword and Pickaxe"
 	quest.67FB8C7FC797BC3F.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.67FB8C7FC797BC3F.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.67FB8C7FC797BC3F.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.67FD5A56321F707A.quest_desc: [
 		"&l&lMagic Beans&r&r are a collection of colorful beans can be found in smaller vaults in the Troll Caves. A Diamond Pickaxe or a pickaxe of similar strength is normally needed to crack the vault open and claim the beans. You may also get Magic Beans as a very lucky drop from killing &lTrolls&r."
 		""
@@ -3512,12 +3488,6 @@
 	quest.6C30B8D7568F7ABA.quest_subtitle: "&0&lLoooong distance logistics"
 	quest.6C30B8D7568F7ABA.title: "&lME Quantum Network Bridge"
 	quest.6C762190D8B99779.title: "&l Unholy Intelligence"
-	quest.6C7C99CA68DE0223.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.6C7C99CA68DE0223.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.6C80392E1736FE46.title: "&lDefeat Archie"
 	quest.6CE068D4A1B95EB9.quest_desc: [
 		"Now that you know how to connect a single chest or crate to your terminal, how do you connect multiple to expand your storage? You can do this with an &lInventory Connector&r&r block! "
@@ -3670,11 +3640,11 @@
 	quest.71202542A4487393.title: "&lCraft a Railgun"
 	quest.71435E557A36A721.title: "&lCargo Airship"
 	quest.7147B61F4F154EE2.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.7147B61F4F154EE2.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.7147B61F4F154EE2.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.7153C4C7A653C645.title: "&lDefeat Blue"
 	quest.71637054BBF9B99B.title: "&l &l64M Storage Component"
 	quest.7185032FDE001F31.quest_subtitle: "Round 1"
@@ -3714,12 +3684,6 @@
 	quest.7269437C9234F086.title: "&l&lPlayer Companions"
 	quest.72939EDA3489CBA8.quest_subtitle: "End Cities"
 	quest.72939EDA3489CBA8.title: "&lMasterwork Blueprint"
-	quest.72B5D6F1688F7946.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.72B5D6F1688F7946.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.72BE5D51B75EAB98.quest_desc: ["&l&lFiery Sword and Pickaxe&r&r are made from Fiery Ingots and have the ability to burn attackers, and auto-smelt blocks."]
 	quest.72BE5D51B75EAB98.title: "&lFiery Sword and Pickaxe"
 	quest.72C623D8277F52A2.quest_desc: ["The &l&lGlass Sword&r&r is a weapon that can occasionally be found in Aurora Palaces. Glass Swords cannot be crafted, and have no skills."]
@@ -3909,12 +3873,6 @@
 	quest.79161CA712E9F7D0.title: "&lGetting our vanilla bees set up"
 	quest.794D846686D3A832.title: "&lWasted Radioactive Bee"
 	quest.7970434416C0A2D4.quest_desc: ["The &l&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
-	quest.7978B818B5BA9207.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
-		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
-	]
-	quest.7978B818B5BA9207.title: "&lQuests by TeamMCC for the MCC Modpack"
 	quest.797CDED396DBB958.quest_desc: ["The &l&lMazebreaker&r&r is a special kind of Pickaxe only found in Labyrinth treasure vaults, viewable with a Maze Map. The Mazebreaker can mine through all types of Mazestone while only losing one durability point, whereas breaking Mazestone with any other pickaxe will lower that pickaxe's durability 16x faster. By default, the Mazebreaker is enchanted with Efficiency IV, Unbreaking III and Fortune II."]
 	quest.7983E26A4F558799.quest_desc: ["Using a &8Flux Point&r You can extract power from any number of energy generating blocks and structures, if it makes FE, this will probably accept it."]
 	quest.7983E26A4F558799.quest_subtitle: "&0&lPulls energy IN to the network"
@@ -4164,11 +4122,11 @@
 	quest.7F8AD0BECEF17D93.title: "&lBakery"
 	quest.7FA5A27AEE650D7D.title: "&lDefeat Solenk"
 	quest.7FB856B9C55BD2DA.quest_desc: [
-		"The &lMinecolonies - Create and Conquer&r&r Modpack is licensed under &lAll Rights Reserved&r."
+		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
-		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lTeamMCC&r&r without explicit permission from the creators."
+		"Meaning all content within the modpack, including &l&lQuests&r&r, is protected. As such, this content may &n&l&cNOT&r&r&r be reused or redistributed in any public modpacks not released by &lModluix Nebula&r&r without explicit permission from the creators."
 	]
-	quest.7FB856B9C55BD2DA.title: "&lQuests by TeamMCC for the MCC Modpack"
+	quest.7FB856B9C55BD2DA.title: "&lQuests by Modluix Nebula for the MCC Modpack"
 	quest.7FBE66237F787128.quest_desc: ["The &l&llevel III charm&r&r is gold and will keep a player's entire inventory. "]
 	quest.7FE1E8AD3B941CDA.quest_desc: [
 		"The &l&lLabyrinth&r&r is a major landmark that appears as an unremarkable hill in the Twilight Swamp, leading to an underground structure of sprawling maze passages. Deep within, a fenced-off room contains a Boss Spawner for the Minoshroom."

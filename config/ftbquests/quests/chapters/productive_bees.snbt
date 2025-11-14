@@ -1132,6 +1132,7 @@
 			tasks: [{
 				id: "752D03B3DC22BECA"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:pepto_bismol" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: -9.0d
@@ -1144,6 +1145,7 @@
 			tasks: [{
 				id: "21B3699DE25396D0"
 				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:wanna" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: -11.0d
@@ -1237,7 +1239,7 @@
 				to_observe: "productivebees:copper"
 				type: "observation"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: 17.5d
 		}
 		{
@@ -1262,7 +1264,7 @@
 				to_observe: "productivebees:coal"
 				type: "observation"
 			}]
-			x: -6.0d
+			x: -5.5d
 			y: 16.5d
 		}
 		{
@@ -1287,7 +1289,7 @@
 				to_observe: "productivebees:obsidian"
 				type: "observation"
 			}]
-			x: -5.5d
+			x: -5.0d
 			y: 17.5d
 		}
 		{
@@ -1312,7 +1314,7 @@
 				to_observe: "productivebees:blazing"
 				type: "observation"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 16.5d
 		}
 		{
@@ -1333,7 +1335,7 @@
 				to_observe: "productivebees:creeper_bee"
 				type: "observation"
 			}]
-			x: -4.0d
+			x: -3.5d
 			y: 16.5d
 		}
 		{
@@ -1358,7 +1360,7 @@
 				to_observe: "productivebees:silky"
 				type: "observation"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 17.5d
 		}
 		{
@@ -1380,8 +1382,8 @@
 				to_observe: "productivebees:sculk"
 				type: "observation"
 			}]
-			x: 6.0d
-			y: 16.5d
+			x: 5.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -1405,7 +1407,7 @@
 				to_observe: "productivebees:redstone"
 				type: "observation"
 			}]
-			x: -3.0d
+			x: -2.5d
 			y: 16.5d
 		}
 		{
@@ -1430,7 +1432,7 @@
 				to_observe: "productivebees:lapis"
 				type: "observation"
 			}]
-			x: -4.5d
+			x: -4.0d
 			y: 17.5d
 		}
 		{
@@ -1455,8 +1457,8 @@
 				to_observe: "productivebees:zinc"
 				type: "observation"
 			}]
-			x: 4.5d
-			y: 17.5d
+			x: 3.5d
+			y: 18.5d
 		}
 		{
 			dependencies: [
@@ -1480,8 +1482,8 @@
 				to_observe: "productivebees:brass"
 				type: "observation"
 			}]
-			x: 5.5d
-			y: 17.5d
+			x: 4.5d
+			y: 18.5d
 		}
 		{
 			dependencies: [
@@ -1505,7 +1507,7 @@
 				to_observe: "productivebees:iron"
 				type: "observation"
 			}]
-			x: -4.0d
+			x: -3.5d
 			y: 18.5d
 		}
 		{
@@ -1527,7 +1529,7 @@
 				to_observe: "productivebees:frosty"
 				type: "observation"
 			}]
-			x: -2.5d
+			x: -2.0d
 			y: 17.5d
 		}
 		{
@@ -1629,7 +1631,7 @@
 				to_observe: "productivebees:withered"
 				type: "observation"
 			}]
-			x: 5.0d
+			x: 5.5d
 			y: 16.5d
 		}
 		{
@@ -1651,7 +1653,7 @@
 				to_observe: "productivebees:flux"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 16.5d
 		}
 		{
@@ -1676,7 +1678,7 @@
 				to_observe: "productivebees:silicon"
 				type: "observation"
 			}]
-			x: -0.5d
+			x: 0.0d
 			y: 17.5d
 		}
 		{
@@ -1698,7 +1700,7 @@
 				to_observe: "productivebees:rose_quartz"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: 0.5d
 			y: 16.5d
 		}
 		{
@@ -1723,7 +1725,7 @@
 				to_observe: "productivebees:spacial"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: -0.5d
 			y: 16.5d
 		}
 		{
@@ -1765,7 +1767,7 @@
 				to_observe: "productivebees:fluix"
 				type: "observation"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: 17.5d
 		}
 		{
@@ -1790,7 +1792,7 @@
 				to_observe: "productivebees:bronze"
 				type: "observation"
 			}]
-			x: -5.0d
+			x: -4.5d
 			y: 18.5d
 		}
 		{
@@ -1815,7 +1817,7 @@
 				to_observe: "productivebees:gold"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 18.5d
 		}
 		{
@@ -1840,7 +1842,7 @@
 				to_observe: "productivebees:silver"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 1.5d
 			y: 18.5d
 		}
 		{
@@ -1865,8 +1867,8 @@
 				to_observe: "productivebees:platinum"
 				type: "observation"
 			}]
-			x: 3.0d
-			y: 18.5d
+			x: -1.0d
+			y: 19.5d
 		}
 		{
 			dependencies: [
@@ -1890,7 +1892,7 @@
 				to_observe: "productivebees:lead"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: -0.5d
 			y: 18.5d
 		}
 		{
@@ -1915,7 +1917,7 @@
 				to_observe: "productivebees:uranium"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: 0.5d
 			y: 18.5d
 		}
 		{
@@ -1940,7 +1942,7 @@
 				to_observe: "productivebees:tin"
 				type: "observation"
 			}]
-			x: -3.0d
+			x: -2.5d
 			y: 18.5d
 		}
 		{
@@ -1965,7 +1967,7 @@
 				to_observe: "productivebees:nickel"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 18.5d
 		}
 		{
@@ -1990,7 +1992,7 @@
 				to_observe: "peoductivebees:steel"
 				type: "observation"
 			}]
-			x: -4.5d
+			x: -3.0d
 			y: 19.5d
 		}
 		{
@@ -2012,7 +2014,7 @@
 				to_observe: "productivebees:sky_steel"
 				type: "observation"
 			}]
-			x: -3.5d
+			x: -2.0d
 			y: 19.5d
 		}
 		{
@@ -2033,7 +2035,7 @@
 				to_observe: "productivebees:ancient"
 				type: "observation"
 			}]
-			x: 3.0d
+			x: 3.5d
 			y: 16.5d
 		}
 		{
@@ -2058,7 +2060,7 @@
 				to_observe: "productivebees:diamond"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 1.5d
 			y: 16.5d
 		}
 		{
@@ -2083,7 +2085,7 @@
 				to_observe: "productivebees:emerald"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 16.5d
 		}
 		{
@@ -2108,8 +2110,8 @@
 				to_observe: "productivebees:refined_glowstone"
 				type: "observation"
 			}]
-			x: 4.0d
-			y: 18.5d
+			x: 0.0d
+			y: 19.5d
 		}
 		{
 			dependencies: [
@@ -2133,8 +2135,8 @@
 				to_observe: "productivebees:refined_obsidian"
 				type: "observation"
 			}]
-			x: 5.0d
-			y: 18.5d
+			x: 1.0d
+			y: 19.5d
 		}
 		{
 			dependencies: ["0DDC127F1CB70026"]
@@ -2155,7 +2157,7 @@
 				to_observe: "productivebees:wasted_radioactive"
 				type: "observation"
 			}]
-			x: -1.5d
+			x: 3.0d
 			y: 19.5d
 		}
 		{
@@ -2180,7 +2182,7 @@
 				to_observe: "productivebees:osmium"
 				type: "observation"
 			}]
-			x: 3.5d
+			x: 4.0d
 			y: 17.5d
 		}
 		{
@@ -2199,7 +2201,7 @@
 				to_observe: "productivebees:amber"
 				type: "observation"
 			}]
-			x: -2.5d
+			x: 2.0d
 			y: 19.5d
 		}
 		{
@@ -2224,7 +2226,7 @@
 				to_observe: "productivebees:aluminum"
 				type: "observation"
 			}]
-			x: 2.5d
+			x: 3.0d
 			y: 17.5d
 		}
 		{
@@ -2320,7 +2322,7 @@
 				to_observe: "productivebees:experience"
 				type: "observation"
 			}]
-			x: -1.5d
+			x: -1.0d
 			y: 17.5d
 		}
 		{
@@ -2357,10 +2359,7 @@
 			hide_text_until_complete: false
 			hide_until_deps_visible: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "architects_palette:hazard_sign"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersiveengineering:warning_sign_attention"
 			}
 			icon_scale: 2.0d
 			id: "0811E7EF963242D8"
@@ -2402,7 +2401,7 @@
 				to_observe: "productivebees:sulfur"
 				type: "observation"
 			}]
-			x: -5.0d
+			x: -4.5d
 			y: 16.5d
 		}
 	]

@@ -714,5 +714,34 @@
 			x: -3.0d
 			y: 3.5d
 		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				id: "immersiveengineering:warning_sign_attention"
+			}
+			icon_scale: 2.0d
+			id: "221E1CE03B0DF961"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "4F4A6F9059506ADC"
+					type: "checkmark"
+				}
+				{
+					id: "6E60E357C453789E"
+					type: "checkmark"
+				}
+				{
+					id: "0B7329E4695AE45A"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
+		}
 	]
 }
