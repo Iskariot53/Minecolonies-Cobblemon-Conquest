@@ -1,0 +1,5 @@
+# Funnelling related properties
+[funnelling]
+	# The maximum amount of filters that can be configured
+	# Valid range: 1 to 256 (inclusive)
+	maxFilters = 32
