@@ -191,10 +191,10 @@
 		scanBlocksCooldown = 2000
 		# Default: 8
 		# Range: > 1
-		scanBlocksMaxFreeRadius = 8
+		scanBlocksMaxFreeRadius = 32
 		# Default: 16
 		# Range: > 1
-		scanBlocksMaxCostRadius = 16
+		scanBlocksMaxCostRadius = 64
 		# Default: 0.17
 		# Range: 0.1 ~ 1.7976931348623157E308
 		scanBlocksExtraBlockCost = 0.17

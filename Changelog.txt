@@ -13,6 +13,7 @@ Mods Updated
 
 
 - Advanced Peripherals
+- CC:Tweaked
 - Create
 - Create: Applied Kinetics
 - Create Crafts & Additions

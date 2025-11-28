@@ -25,7 +25,9 @@
 	  "Saved footprint progress data for",
 	  "Saved worlds:",
 	  "Discarding @Unique public method",
-	  "sending packet"
+	  "sending packet",
+	  "Lua Method",
+	  "Gateway client error"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -52,7 +54,9 @@
 	  "Saved footprint progress data for",
 	  "Saved worlds:",
 	  "Discarding @Unique public method",
-	  "sending packet"
+	  "sending packet",
+	  "Lua Method",
+	  "Gateway client error"
 	  
     ]
   }
