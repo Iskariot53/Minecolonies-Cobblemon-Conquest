@@ -231,6 +231,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "41432FBF344A1A1B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			size: 1.5d
 			tasks: [
@@ -278,6 +283,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "5D3D46D9B9113E95"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "deeperdarker:main/enter_otherside"
@@ -313,6 +323,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "59F6BB1621438C54"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "deeperdarker:main/obtain_reinforced_echo_shard"
@@ -339,6 +354,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "13178DEE3D64F9D7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "4D48C3CE9CD4E43A"
@@ -363,6 +383,11 @@
 					id: "369ABF88B13B6B94"
 					table_id: 6168209418652817445L
 					type: "loot"
+				}
+				{
+					id: "341D7EEC281C838F"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -389,6 +414,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "6B2B9DD7CAD335FF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "28F60CD90D33AF23"
@@ -414,6 +444,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "0369638648E7991B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "07CE3E8963ABB486"
@@ -438,6 +473,11 @@
 					id: "372BFC4068F4D2B4"
 					table_id: 6168209418652817445L
 					type: "loot"
+				}
+				{
+					id: "30DBFD3F6AAEC8FB"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -473,6 +513,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "5FCA9E6B034DD6B4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "743E3F1AB5C518CC"
@@ -500,6 +545,11 @@
 					id: "3CB621FC1EF773AD"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "657BCD23227BD05B"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			size: 1.5d
@@ -530,6 +580,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "6A8F32D05355E418"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "5C4FB9CBBE46A8EB"
@@ -557,6 +612,11 @@
 					id: "1F113A9378E5EEC9"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "63CF3B82EF020C47"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -586,6 +646,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "01072AD1DD8AC135"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "3360FA435C4EA866"
@@ -613,6 +678,11 @@
 					id: "66DA7E4E9FBC7BFB"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "578713CFE9AEC704"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -648,6 +718,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "525AA7210EC724E0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "deeperdarker:main/find_ancient_temple"
@@ -677,6 +752,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "778D04C08AF9F57D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "709B510B5692E730"
@@ -705,6 +785,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "53842518AA29A2B3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "2063DDCD291A33F0"
@@ -726,6 +811,11 @@
 			id: "221E1CE03B0DF961"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "4407CF7A62967EC1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "4F4A6F9059506ADC"

@@ -270,12 +270,19 @@
 		{
 			dependencies: ["222C9B14E10E8E98"]
 			id: "657BF3CA6C6AE395"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "04C02E23190C7DBC"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "04C02E23190C7DBC"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "09292E8CFD532804"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "20BB49FE65333616"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -287,12 +294,19 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "3B0D000773C23181"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "68784E9A3E50128D"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68784E9A3E50128D"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "2CB8A7DFA5E89F22"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "32B4A22EF36E233D"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:pokedex)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -304,12 +318,19 @@
 		{
 			dependencies: ["222C9B14E10E8E98"]
 			id: "65BDC745BA8DBD4D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "19EED59B6DE3D91C"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19EED59B6DE3D91C"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1D09511CEE8AB522"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "60299BAECD763ACC"
 				item: { count: 1, id: "rctmod:trainer_card" }
@@ -321,12 +342,19 @@
 		{
 			dependencies: ["222C9B14E10E8E98"]
 			id: "0A1CA85957B045FC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "427EC52130E21CFB"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "427EC52130E21CFB"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "21D54E8DF2376E40"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "616F9E31F8E17F36"
 				item: { count: 1, id: "rctmod:trainer_spawner" }
@@ -339,12 +367,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "02C28EADBE69CA9A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50AC8CAE8E23E84C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50AC8CAE8E23E84C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "7AC46024B45191AC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_any"
 				criterion: ""
@@ -358,12 +393,19 @@
 			dependencies: ["02C28EADBE69CA9A"]
 			dependency_requirement: "one_started"
 			id: "483B482CC112C494"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6062007A6119752B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6062007A6119752B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "40F823C464E34F99"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_brock"
 				criterion: ""
@@ -377,12 +419,19 @@
 			dependencies: ["483B482CC112C494"]
 			dependency_requirement: "one_started"
 			id: "0BC132C441FC7598"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2D9DEDE2E13A9D16"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D9DEDE2E13A9D16"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "06E294E17C37AB1E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rocket_admin_archer_1"
 				criterion: ""
@@ -395,12 +444,19 @@
 		{
 			dependencies: ["0BC132C441FC7598"]
 			id: "2241A9BBD6153119"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "49C58D4F922147AF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49C58D4F922147AF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "425419D179761B52"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_terry_1"
 				criterion: ""
@@ -413,12 +469,19 @@
 		{
 			dependencies: ["2241A9BBD6153119"]
 			id: "499B398F25A88F68"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7AE5D28CB2C6F554"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7AE5D28CB2C6F554"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "15F1BFE8850E0699"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_misty"
 				criterion: ""
@@ -431,12 +494,19 @@
 		{
 			dependencies: ["499B398F25A88F68"]
 			id: "7425ABFB2D688DB8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4E05BF610942C022"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E05BF610942C022"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "451511FDBF2A803E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_brendan_1"
 				criterion: ""
@@ -450,12 +520,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "39DAC28F62C0107F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "73B35BF9D95301C1"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "73B35BF9D95301C1"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "5AD8F3C628012BCA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "606D8421688F694F"
 				item: { count: 1, id: "cobblemon:pc" }
@@ -468,12 +545,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2A3FEE4FB40227DD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50EC2697566456DC"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50EC2697566456DC"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "124CD4BB65894AFA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "7B5D5B251386980D"
 				item: { count: 1, id: "cobblemon:healing_machine" }
@@ -485,12 +569,19 @@
 		{
 			dependencies: ["5862BF0408DBDFEA"]
 			id: "127A9CE351F8E89A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "29ED13E2135020FB"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "29ED13E2135020FB"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "6C7FD2BE6D47DE4B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "4EDB1EB9FC2BB782"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mints)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -503,12 +594,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "28467C18C3459289"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "24FFA551C98E64A9"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "24FFA551C98E64A9"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "171A0F55E4D63188"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "4362569E21D6B35E"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -520,12 +618,19 @@
 		{
 			dependencies: ["28467C18C3459289"]
 			id: "5862BF0408DBDFEA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "751039A6A95AA7F3"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "751039A6A95AA7F3"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "30EDE35ED9F85982"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "508B5822C2DFE033"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_leaf)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -538,12 +643,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "7078E004A4888746"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7187AE410E03AE72"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7187AE410E03AE72"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "06B5DCA79C3CCD4B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "66AAFECE9D90B08C"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:berries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -558,12 +670,19 @@
 				"1AD71F6AED87A500"
 			]
 			id: "6496A7D271CED34A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E490C8503A26FB7"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E490C8503A26FB7"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3C612799C7F38C9E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "76743D5A09000B46"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:vitamins)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -576,12 +695,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "0F6F23ECCD9BEC3F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50E90F14F5A74B4C"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50E90F14F5A74B4C"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1A6D052E1F4ACD04"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "09DCBA0E7A17487B"
 				item: { count: 1, id: "cobblemon:medicinal_leek" }
@@ -593,12 +719,19 @@
 		{
 			dependencies: ["0F6F23ECCD9BEC3F"]
 			id: "1AD71F6AED87A500"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "72CC51CD1A13530E"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "72CC51CD1A13530E"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "030D44FCF45A0960"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "3D3E4DAEF526B89A"
 				item: { count: 1, id: "cobblemon:medicinal_brew" }
@@ -614,12 +747,19 @@
 				id: "brendons_bottlecaps:goldencap"
 			}
 			id: "0D02A273BDFC0880"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "661FBDBBE528CDA7"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "661FBDBBE528CDA7"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "77461F6F3F307E05"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "63E97663311EB81B"
 				type: "checkmark"
@@ -633,6 +773,11 @@
 				"657BF3CA6C6AE395"
 			]
 			id: "5CD9F6B3696657B7"
+			rewards: [{
+				id: "63FB48C8FE9E4D62"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "15A0FEECE4178A9A"
 				item: { count: 1, id: "cobblemon:poke_ball" }
@@ -647,6 +792,11 @@
 				"657BF3CA6C6AE395"
 			]
 			id: "5A0C1BEAEAA73654"
+			rewards: [{
+				id: "2EEDB75C1DA2A610"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "7ECEFD3BC8E8058F"
 				item: { count: 1, id: "cobblemon:great_ball" }
@@ -661,6 +811,11 @@
 				"657BF3CA6C6AE395"
 			]
 			id: "4D923C6A898E849A"
+			rewards: [{
+				id: "72FE12D2DCD1E00D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			tasks: [{
 				id: "02386A49DFD6B9DD"
 				item: { count: 1, id: "cobblemon:ultra_ball" }
@@ -672,6 +827,11 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "3EA4F9F9E66E884C"
+			rewards: [{
+				id: "5C0D192F8431C9DC"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "6EF8F36F34603FCA"
 				item: { count: 1, id: "cobblemon:quick_ball" }
@@ -683,6 +843,11 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "204CFC5D7297B511"
+			rewards: [{
+				id: "346B0585B743D5B0"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "339492D30FF42129"
 				item: { count: 1, id: "cobblemon:timer_ball" }
@@ -694,6 +859,11 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "364913280A3CA451"
+			rewards: [{
+				id: "0A86F3CD61113FDA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "767AE2B958DFA87E"
 				item: { count: 1, id: "cobblemon:safari_ball" }
@@ -705,6 +875,11 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "34CD25F44A1D9879"
+			rewards: [{
+				id: "4D47A76867F6D0A3"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "7D6DDCE011313689"
 				type: "checkmark"
@@ -716,6 +891,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "00561B81705B3506"
+			rewards: [{
+				id: "63AB9EBD51152CE1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "0D8AAC2AA202DD24"
 				item: { count: 1, id: "cobblemon:fast_ball" }
@@ -728,6 +908,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "1942BEDE7ADF7123"
+			rewards: [{
+				id: "47024CB69CE26C89"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "55DB7482B353534E"
 				item: { count: 1, id: "cobblemon:level_ball" }
@@ -740,6 +925,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "18379C88D93F18F6"
+			rewards: [{
+				id: "5AEAB3795D1C1575"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "0C9CCB03BC8E697A"
 				item: { count: 1, id: "cobblemon:lure_ball" }
@@ -752,6 +942,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "736A1870C544012D"
+			rewards: [{
+				id: "6E494CA06E41B1AF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "39032835EC70CD5D"
 				item: { count: 1, id: "cobblemon:heavy_ball" }
@@ -764,6 +959,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "36D3DAC16DEB5AD6"
+			rewards: [{
+				id: "3C9075E8A56D9541"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "21AB47053F5F3F46"
 				item: { count: 1, id: "cobblemon:love_ball" }
@@ -776,6 +976,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "77A2104354AFC6BF"
+			rewards: [{
+				id: "1792D4FD9AC31E25"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "163DD1545D5475B0"
 				item: { count: 1, id: "cobblemon:friend_ball" }
@@ -788,6 +993,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "6E83DF1E8C3419F8"
+			rewards: [{
+				id: "464A6125B3D9473C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "04A801465B17DA56"
 				item: { count: 1, id: "cobblemon:moon_ball" }
@@ -800,6 +1010,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "75F67AE518C2DA9B"
+			rewards: [{
+				id: "44CC09DD876655A2"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "66CFB363099D992B"
 				item: { count: 1, id: "cobblemon:sport_ball" }
@@ -812,6 +1027,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "097D9D942864EA04"
+			rewards: [{
+				id: "69723772ADA1C7C7"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "2FE327A1072CC682"
 				item: { count: 1, id: "cobblemon:park_ball" }
@@ -824,6 +1044,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "119B4B3AFE7945FF"
+			rewards: [{
+				id: "6F770C5844C49ECB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "7D24FD4A5227DC93"
 				item: { count: 1, id: "cobblemon:net_ball" }
@@ -836,6 +1061,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "3673C1903B0CE671"
+			rewards: [{
+				id: "1E1DB679E8D012C1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "22FB2717BB4883DA"
 				item: { count: 1, id: "cobblemon:dive_ball" }
@@ -848,6 +1078,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "17016A1F9EE209F8"
+			rewards: [{
+				id: "17B47FA37831E6DB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "04E200A6B98204AE"
 				item: { count: 1, id: "cobblemon:nest_ball" }
@@ -860,6 +1095,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "68F15E8270BCA001"
+			rewards: [{
+				id: "00B6D6CFB4B6D598"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "71BCB126D343F3A7"
 				item: { count: 1, id: "cobblemon:repeat_ball" }
@@ -872,6 +1112,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "090637FD2F27EF38"
+			rewards: [{
+				id: "321503F8C2221C77"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "578FA05B273FF8E2"
 				item: { count: 1, id: "cobblemon:luxury_ball" }
@@ -884,6 +1129,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "6E40224494C4BA3B"
+			rewards: [{
+				id: "6FABFB5F824A4736"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "024697CD9F7E87C1"
 				item: { count: 1, id: "cobblemon:dusk_ball" }
@@ -896,6 +1146,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "3154C557DCBBED72"
+			rewards: [{
+				id: "65C127FD0FD2F987"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "6EAC3EDCFF0C6E1A"
 				item: { count: 1, id: "cobblemon:heal_ball" }
@@ -908,6 +1163,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "14E08AC6E6BD7900"
+			rewards: [{
+				id: "44B9E169E57CD5E1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "734F8354AB2C35A3"
 				item: { count: 1, id: "cobblemon:dream_ball" }
@@ -920,6 +1180,11 @@
 			dependencies: ["657BF3CA6C6AE395"]
 			hide_dependency_lines: true
 			id: "33DBC8506A6C8C05"
+			rewards: [{
+				id: "663BB04788D73C97"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			tasks: [{
 				id: "1CC1903461B163AC"
 				item: { count: 1, id: "cobblemon:beast_ball" }
@@ -931,12 +1196,19 @@
 		{
 			dependencies: ["657BF3CA6C6AE395"]
 			id: "7AC247633CD97DF3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "609CFD29C71A7097"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "609CFD29C71A7097"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "62C8F207F0657E94"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "006778971AE841F2"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tumblestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -949,6 +1221,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "5C2DB8593D1CC71E"
+			rewards: [{
+				id: "77294FBE12C740D8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "084DE124034FB2B9"
 				item: { count: 1, id: "cobblemon:ancient_poke_ball" }
@@ -961,6 +1238,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "2DD5628BA71289FB"
+			rewards: [{
+				id: "1573A389C8694E94"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "6A4E48F34EB5406A"
 				item: { count: 1, id: "cobblemon:ancient_citrine_ball" }
@@ -973,6 +1255,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "7F5F699B2D362D62"
+			rewards: [{
+				id: "4F1BE3AC5B9B868F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "2EAFE98F2B538D58"
 				item: { count: 1, id: "cobblemon:ancient_verdant_ball" }
@@ -985,6 +1272,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "135D4ED2385076F3"
+			rewards: [{
+				id: "606398AA100CAAE8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "71930E85A87DE0A0"
 				item: { count: 1, id: "cobblemon:ancient_azure_ball" }
@@ -997,6 +1289,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "11EDF87A42BEF706"
+			rewards: [{
+				id: "2F3CFB988DFDE254"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "3A0799FA1A4494A5"
 				item: { count: 1, id: "cobblemon:ancient_roseate_ball" }
@@ -1009,6 +1306,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "3256D2B1A3443339"
+			rewards: [{
+				id: "4766C6262710BA57"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "461B7D139B4594FB"
 				item: { count: 1, id: "cobblemon:ancient_slate_ball" }
@@ -1021,6 +1323,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "71AEEAE69486D4B7"
+			rewards: [{
+				id: "5869C21CD07DC96A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "30A7E58373F6A5F2"
 				item: { count: 1, id: "cobblemon:ancient_ivory_ball" }
@@ -1033,6 +1340,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "44DC61C79AB908AA"
+			rewards: [{
+				id: "348A02C7B2BE9696"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "4C17F28203E69936"
 				item: { count: 1, id: "cobblemon:ancient_great_ball" }
@@ -1045,6 +1357,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "0BC4C12CC74F0A09"
+			rewards: [{
+				id: "37F0A56CF1EC0662"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			tasks: [{
 				id: "3452E4CA1BF5419B"
 				item: { count: 1, id: "cobblemon:ancient_ultra_ball" }
@@ -1057,6 +1374,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "3BFEF224932A283F"
+			rewards: [{
+				id: "0D215C2108443F00"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "07C6E8A5EFE5B71E"
 				item: { count: 1, id: "cobblemon:ancient_feather_ball" }
@@ -1069,6 +1391,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "2E55EFC259702CE6"
+			rewards: [{
+				id: "473B5F4D3FA0F730"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "1A04D1E363264118"
 				item: { count: 1, id: "cobblemon:ancient_wing_ball" }
@@ -1081,6 +1408,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "71C7AD0347F0F209"
+			rewards: [{
+				id: "2A1B7A3C94B79A86"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			tasks: [{
 				id: "33C90F4A34C5C5E1"
 				item: { count: 1, id: "cobblemon:ancient_jet_ball" }
@@ -1093,6 +1425,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "27F847C4D972FA86"
+			rewards: [{
+				id: "68980E1670223454"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "0C76655714522008"
 				item: { count: 1, id: "cobblemon:ancient_heavy_ball" }
@@ -1105,6 +1442,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "5DDF026229B0862F"
+			rewards: [{
+				id: "043F06C8A41495BB"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
 			tasks: [{
 				id: "6B8A39A519C4EEED"
 				item: { count: 1, id: "cobblemon:ancient_leaden_ball" }
@@ -1117,6 +1459,11 @@
 			dependencies: ["7AC247633CD97DF3"]
 			hide_dependency_lines: true
 			id: "40924A4D8EC9FA22"
+			rewards: [{
+				id: "66547643BF2F23F7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			tasks: [{
 				id: "3D9DAF2E10B69027"
 				item: { count: 1, id: "cobblemon:ancient_gigaton_ball" }
@@ -1135,12 +1482,19 @@
 				id: "cobblemon_smartphone:red_smartphone"
 			}
 			id: "5B698AB7FE032025"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "32C1EC06E4D9F025"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32C1EC06E4D9F025"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "220B569ED7E30FED"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				id: "2641EC9BD598F1AB"
@@ -1153,12 +1507,19 @@
 		{
 			dependencies: ["39DAC28F62C0107F"]
 			id: "433193A517886CAD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3205F8B1F9139B08"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3205F8B1F9139B08"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "610966C3DE0B58F0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "71574C3A5629B60B"
 				item: { count: 1, id: "cobblemonboxlink:box_link" }
@@ -1170,12 +1531,19 @@
 		{
 			dependencies: ["7425ABFB2D688DB8"]
 			id: "4DD64B7322641A51"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "235F39F6B135FFA8"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "235F39F6B135FFA8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "4A600F6D5D11199C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_lt_surge"
 				criterion: ""
@@ -1188,12 +1556,19 @@
 		{
 			dependencies: ["4DD64B7322641A51"]
 			id: "564F6F789443F4C0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FF62B48FC3E5D2E"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FF62B48FC3E5D2E"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "0B720F96834324B5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_erika"
 				criterion: ""
@@ -1206,12 +1581,19 @@
 		{
 			dependencies: ["564F6F789443F4C0"]
 			id: "0ED97CF11E7335CA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "682BBCE6A2EAF74F"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "682BBCE6A2EAF74F"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "49106B91844A8F3B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
 				criterion: ""
@@ -1224,12 +1606,19 @@
 		{
 			dependencies: ["0ED97CF11E7335CA"]
 			id: "6E98D8C6C0F182FA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6051FA53FCE0BE4E"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6051FA53FCE0BE4E"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "5C30C923F5A2FCD0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_terry_2"
 				criterion: ""
@@ -1242,12 +1631,19 @@
 		{
 			dependencies: ["6E98D8C6C0F182FA"]
 			id: "6786B6A8692C67A5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2CD3FDE42C9FA37C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2CD3FDE42C9FA37C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "6D5F3EBC3EBD831C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rocket_admin_archer_and_ariana"
 				criterion: ""
@@ -1260,12 +1656,19 @@
 		{
 			dependencies: ["6786B6A8692C67A5"]
 			id: "114DD047A53F75D8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3BCA5FDFC8C90D41"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3BCA5FDFC8C90D41"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "30E0DE0865155DDA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
 				criterion: ""
@@ -1278,12 +1681,19 @@
 		{
 			dependencies: ["114DD047A53F75D8"]
 			id: "776BCAC6DB50C3E3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7B94F03FC1F796F1"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7B94F03FC1F796F1"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "70D69EA0A0663DC9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_sabrina"
 				criterion: ""
@@ -1296,12 +1706,19 @@
 		{
 			dependencies: ["776BCAC6DB50C3E3"]
 			id: "2BA23752F0416D72"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6240BF5CFCB5D5AD"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6240BF5CFCB5D5AD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "6DF573F976D2A14E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_brendan_2"
 				criterion: ""
@@ -1314,12 +1731,19 @@
 		{
 			dependencies: ["2BA23752F0416D72"]
 			id: "0F9AD5E4642D02F1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6DEE56A8F659F69F"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6DEE56A8F659F69F"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "58BFF090FAF85AA1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_koga"
 				criterion: ""
@@ -1332,12 +1756,19 @@
 		{
 			dependencies: ["0F9AD5E4642D02F1"]
 			id: "0DE569E88A846A8C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7A51BAA2E67AF148"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A51BAA2E67AF148"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3DDC976637B6ED8C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_may"
 				criterion: ""
@@ -1350,12 +1781,19 @@
 		{
 			dependencies: ["0DE569E88A846A8C"]
 			id: "7250895C2EBE25DF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1D2382DFEF808642"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D2382DFEF808642"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "2224F68656787102"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_blaine"
 				criterion: ""
@@ -1368,12 +1806,19 @@
 		{
 			dependencies: ["7250895C2EBE25DF"]
 			id: "73CB7A93841ACD3F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "013CCED5B224F0F5"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "013CCED5B224F0F5"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "0705EB5D67EEE4C6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rocket_admin_archer_3"
 				criterion: ""
@@ -1386,12 +1831,19 @@
 		{
 			dependencies: ["73CB7A93841ACD3F"]
 			id: "19BAB83CEDFD003A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "411F2F0F1F73FC61"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "411F2F0F1F73FC61"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "00BECFE7D82D5B85"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_2"
 				criterion: ""
@@ -1404,12 +1856,19 @@
 		{
 			dependencies: ["19BAB83CEDFD003A"]
 			id: "40207980D0FD3F59"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1F24245138FAFB7D"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F24245138FAFB7D"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "02863B9E373048D1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_boss_giovanni_3"
 				criterion: ""
@@ -1422,12 +1881,19 @@
 		{
 			dependencies: ["40207980D0FD3F59"]
 			id: "7CC9ED75384138EB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "19735A3DD8109702"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19735A3DD8109702"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "448D071C1CB24DC3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_clair"
 				criterion: ""
@@ -1440,12 +1906,19 @@
 		{
 			dependencies: ["7CC9ED75384138EB"]
 			id: "623CBDB7698DEEA8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2AD011D2A1AF5A53"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AD011D2A1AF5A53"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "1D75F1C60B3C644C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_terry_4"
 				criterion: ""
@@ -1459,12 +1932,19 @@
 			dependencies: ["623CBDB7698DEEA8"]
 			hide_dependent_lines: true
 			id: "66903E18B867271C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FAFD2B90C2DCC1B"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FAFD2B90C2DCC1B"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "0032A6AF35C383A0"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_brendan_3"
 				criterion: ""
@@ -1494,6 +1974,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "354E151AB1543034"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_kanto"
@@ -1522,6 +2007,11 @@
 						id: "cobblemon:master_ball"
 					}
 					type: "item"
+				}
+				{
+					id: "1176D0C5E2B697A7"
+					type: "xp_levels"
+					xp_levels: 5
 				}
 			]
 			tasks: [{
@@ -1553,6 +2043,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "0F66AF307A366861"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_all_rival"
@@ -1567,12 +2062,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "135B76E092E8171D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "644D1A0367DDC111"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "644D1A0367DDC111"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "103510C2EDDEB431"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0DDEFEAAEDEA5F75"
 				item: { count: 1, id: "cobblenav:pokenav_item_base" }
@@ -1585,12 +2087,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2F8DF91E3EE7D3FA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5565D9B614EE816B"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5565D9B614EE816B"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "3D913A0E398AD419"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0A59C8619A366F3E"
 				item: { components: { "ftbfiltersystem:filter": "only_one(item(cobblenav:pokefinder_item_black)item(cobblenav:pokefinder_item_blue)item(cobblenav:pokefinder_item_green)item(cobblenav:pokefinder_item_pink)item(cobblenav:pokefinder_item_red)item(cobblenav:pokefinder_item_white)item(cobblenav:pokefinder_item_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1603,12 +2112,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "4EACDF4E649E7C2B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "47C73044AE0B6014"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "47C73044AE0B6014"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1BC840FEAA0CCD09"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0596C5DD48511946"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:type_gems)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1719,12 +2235,19 @@
 				id: "simpletms:tm_blank"
 			}
 			id: "127DFD0A8EEEF780"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7C6F3D8EB8A9276B"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C6F3D8EB8A9276B"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1CFE755086C6425B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "6C4CA4462DADF477"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simpletms:tm_items)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1736,12 +2259,19 @@
 		{
 			dependencies: ["66903E18B867271C"]
 			id: "2DA26BC74C28375E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5D1DC22481C769F5"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5D1DC22481C769F5"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "0ED621A64002C827"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_bruno"
 				criterion: ""
@@ -1754,12 +2284,19 @@
 		{
 			dependencies: ["66903E18B867271C"]
 			id: "62664023E1CCCB39"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2DF7B1B78ABA2AC1"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2DF7B1B78ABA2AC1"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "3E33722C9BF77650"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lorelei"
 				criterion: ""
@@ -1772,12 +2309,19 @@
 		{
 			dependencies: ["66903E18B867271C"]
 			id: "3F7693D865C29FE9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5731C441C6AB3C89"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5731C441C6AB3C89"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "468EF8030FDE18E0"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_agatha"
 				criterion: ""
@@ -1790,12 +2334,19 @@
 		{
 			dependencies: ["66903E18B867271C"]
 			id: "4ED2CF94627F2171"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3374B1D7A0A21A9B"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3374B1D7A0A21A9B"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "757C010AC932D521"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lance"
 				criterion: ""
@@ -1829,6 +2380,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "24713F6F40F0CBC1"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_terry"
@@ -1843,12 +2399,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "1F01A614F4704FFF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7BCAD97A1CD20FC9"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7BCAD97A1CD20FC9"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "45F6267E762E2AAB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
 				criterion: ""
@@ -1861,12 +2424,19 @@
 		{
 			dependencies: ["0FF0BA3DB92A2A26"]
 			id: "0B4C800E8E16784C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3E35002CEF950775"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E35002CEF950775"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "6ABB987391D454F1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_1"
 				criterion: ""
@@ -1879,12 +2449,19 @@
 		{
 			dependencies: ["0B4C800E8E16784C"]
 			id: "0171597E016DB310"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3956064932AB8AA5"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3956064932AB8AA5"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "49D6F934F5CD985A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_maylene_1"
 				criterion: ""
@@ -1897,12 +2474,19 @@
 		{
 			dependencies: ["0171597E016DB310"]
 			id: "64E666DD442C33C6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "78F3D2407025CEB7"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "78F3D2407025CEB7"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1E0E0E8BA9308466"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_wake_1"
 				criterion: ""
@@ -1915,12 +2499,19 @@
 		{
 			dependencies: ["64E666DD442C33C6"]
 			id: "4103C7FA751AC743"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "03EADCE8305F76FF"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "03EADCE8305F76FF"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "7451055687623C3B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_2"
 				criterion: ""
@@ -1933,12 +2524,19 @@
 		{
 			dependencies: ["4103C7FA751AC743"]
 			id: "6691B35A4356BF59"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "47CFD181AE2257E6"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "47CFD181AE2257E6"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "66A53E134D0BEC32"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_fantina_1"
 				criterion: ""
@@ -1951,12 +2549,19 @@
 		{
 			dependencies: ["6691B35A4356BF59"]
 			id: "6805DA60D91DD16F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5B9FBAF94D049152"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B9FBAF94D049152"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "799F1FFEAB5D9494"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_3"
 				criterion: ""
@@ -1969,12 +2574,19 @@
 		{
 			dependencies: ["6805DA60D91DD16F"]
 			id: "1CE4C8613F27A00D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2937AA38120C037B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2937AA38120C037B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "2AFBBB195E536C17"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_byron_1"
 				criterion: ""
@@ -1987,12 +2599,19 @@
 		{
 			dependencies: ["1CE4C8613F27A00D"]
 			id: "5C5AA522A01CA426"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "527033CBDBFA3392"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "527033CBDBFA3392"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "7E3F925D44C88000"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_saturn_1"
 				criterion: ""
@@ -2005,12 +2624,19 @@
 		{
 			dependencies: ["5C5AA522A01CA426"]
 			id: "516D2E86DC009C4B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "33A6CEF26E41A3EE"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "33A6CEF26E41A3EE"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "250927122A3A6BCA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_2"
 				criterion: ""
@@ -2023,12 +2649,19 @@
 		{
 			dependencies: ["516D2E86DC009C4B"]
 			id: "38BAA7A6AF7E809D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "10D84C0AC659F09F"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "10D84C0AC659F09F"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "605D3866218400AF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_candice_1"
 				criterion: ""
@@ -2041,12 +2674,19 @@
 		{
 			dependencies: ["38BAA7A6AF7E809D"]
 			id: "3F6E3D9433313B68"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "48958A10117A70AB"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48958A10117A70AB"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "5F6B155284B842F7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_1"
 				criterion: ""
@@ -2059,12 +2699,19 @@
 		{
 			dependencies: ["3F6E3D9433313B68"]
 			id: "363597FAD27A6827"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "067D8B3CC1E02207"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "067D8B3CC1E02207"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "4C489D2613FFFFE9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_saturn_2"
 				criterion: ""
@@ -2077,12 +2724,19 @@
 		{
 			dependencies: ["363597FAD27A6827"]
 			id: "0B6BDA8A076A819E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "795B530A7DAC0439"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "795B530A7DAC0439"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "08182F1ABAF39048"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_jupiter"
 				criterion: ""
@@ -2095,12 +2749,19 @@
 		{
 			dependencies: ["0B6BDA8A076A819E"]
 			id: "4C03A9D46FB62E81"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "04D029621EC81444"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "04D029621EC81444"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "136399AC0147738A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_2"
 				criterion: ""
@@ -2113,12 +2774,19 @@
 		{
 			dependencies: ["4C03A9D46FB62E81"]
 			id: "21ABDD6D68F783DC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4B153276B776FBCD"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4B153276B776FBCD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "332184FC6D916FFA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_volkner_1"
 				criterion: ""
@@ -2131,12 +2799,19 @@
 		{
 			dependencies: ["21ABDD6D68F783DC"]
 			id: "4C7FDCFC6E37B494"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "61A4CA6973FABF91"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61A4CA6973FABF91"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "57116702D701527E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_4"
 				criterion: ""
@@ -2149,12 +2824,19 @@
 		{
 			dependencies: ["4C7FDCFC6E37B494"]
 			id: "3FF7EDC74F634A45"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "072BE2E6255646B4"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "072BE2E6255646B4"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "1DDE6E0B0560F505"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_aaron_1"
 				criterion: ""
@@ -2167,12 +2849,19 @@
 		{
 			dependencies: ["3FF7EDC74F634A45"]
 			id: "244084798F9E0DBE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "072F27EBA87B7F15"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "072F27EBA87B7F15"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "4A72ADC97E42D20C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_bertha_1"
 				criterion: ""
@@ -2185,12 +2874,19 @@
 		{
 			dependencies: ["244084798F9E0DBE"]
 			id: "7E0E6F25AC0882AF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1C089E3638AF951B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1C089E3638AF951B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "41579104857C42BE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_flint_1"
 				criterion: ""
@@ -2203,12 +2899,19 @@
 		{
 			dependencies: ["7E0E6F25AC0882AF"]
 			id: "23FD1B8B06B4EAA1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3C921D63A24925CD"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3C921D63A24925CD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "0B7B0FAA823EBA7D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lucian_1"
 				criterion: ""
@@ -2221,12 +2924,19 @@
 		{
 			dependencies: ["23FD1B8B06B4EAA1"]
 			id: "35947D9A5AF50325"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4106CD00DD25D9DB"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4106CD00DD25D9DB"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "6901574FF19864F9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_cynthia_1"
 				criterion: ""
@@ -2239,12 +2949,19 @@
 		{
 			dependencies: ["35947D9A5AF50325"]
 			id: "5217A5CBD2F70CB0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "68F4BBEBC1BA5358"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68F4BBEBC1BA5358"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "1F92C7AB4417F305"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_aaron_2"
 				criterion: ""
@@ -2257,12 +2974,19 @@
 		{
 			dependencies: ["004434351BAEB17D"]
 			id: "329AFA37DACB1C66"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "412FCCC985D39116"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "412FCCC985D39116"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "50524F48042E2092"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_aaron_3"
 				criterion: ""
@@ -2275,12 +2999,19 @@
 		{
 			dependencies: ["5217A5CBD2F70CB0"]
 			id: "742989BC047BC1D4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "37373D433F9CC18B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37373D433F9CC18B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "212E01E65CB82FAF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_bertha_2"
 				criterion: ""
@@ -2293,12 +3024,19 @@
 		{
 			dependencies: ["329AFA37DACB1C66"]
 			id: "19F75866A075439D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5829C5EC43F7E2F4"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5829C5EC43F7E2F4"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "1CF0748613650AFC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_bertha_3"
 				criterion: ""
@@ -2311,12 +3049,19 @@
 		{
 			dependencies: ["742989BC047BC1D4"]
 			id: "678416D377935356"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "39D36F12F1294F4C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "39D36F12F1294F4C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "30D983B5EC839336"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_flint_2"
 				criterion: ""
@@ -2329,12 +3074,19 @@
 		{
 			dependencies: ["19F75866A075439D"]
 			id: "6B7B565AA76C60C4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "44699DDC13AD0220"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "44699DDC13AD0220"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "3739B4700254B2E3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_flint_3"
 				criterion: ""
@@ -2347,12 +3099,19 @@
 		{
 			dependencies: ["678416D377935356"]
 			id: "3A59DE29C1BF9EBD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5234E8E29F0F3AB8"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5234E8E29F0F3AB8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "55C742F2538826FE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lucian_2"
 				criterion: ""
@@ -2365,12 +3124,19 @@
 		{
 			dependencies: ["6B7B565AA76C60C4"]
 			id: "1472219EF437D964"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0AD6027B08DF2346"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0AD6027B08DF2346"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "6582B346E0B90A7E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lucian_3"
 				criterion: ""
@@ -2383,12 +3149,19 @@
 		{
 			dependencies: ["3A59DE29C1BF9EBD"]
 			id: "004434351BAEB17D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1D84A2B8D5EA7F39"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D84A2B8D5EA7F39"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "72A071CCD5ED7CF4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_cynthia_2"
 				criterion: ""
@@ -2416,6 +3189,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "0A380B7285378344"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_cynthia_3"
@@ -2434,12 +3212,19 @@
 			]
 			hide_dependency_lines: true
 			id: "2BA4FD9CCA6D20BD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "16403257A22A4DF2"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16403257A22A4DF2"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "03CBD7EA42107EEB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_wayne_1"
 				criterion: ""
@@ -2452,12 +3237,19 @@
 		{
 			dependencies: ["2BA4FD9CCA6D20BD"]
 			id: "4D1BC9C3857360CD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "526D579F243323F3"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "526D579F243323F3"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "7CA5E38BD94E4121"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_mirskle"
 				criterion: ""
@@ -2470,12 +3262,19 @@
 		{
 			dependencies: ["4D1BC9C3857360CD"]
 			id: "37A7F746888E7B30"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "747AE9CB156D9146"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "747AE9CB156D9146"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "1D4608B7AD646671"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_grunt"
 				criterion: ""
@@ -2488,12 +3287,19 @@
 		{
 			dependencies: ["37A7F746888E7B30"]
 			id: "6129AE04B5E61F30"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "56B0AED95C67A6D5"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56B0AED95C67A6D5"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "423646A896E8E575"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_1"
 				criterion: ""
@@ -2506,12 +3312,19 @@
 		{
 			dependencies: ["6129AE04B5E61F30"]
 			id: "5C88FE2CEEB99169"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0D15721688D6158C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D15721688D6158C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "07FBEA8F3BDBEFAB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_vega"
 				criterion: ""
@@ -2524,12 +3337,19 @@
 		{
 			dependencies: ["5C88FE2CEEB99169"]
 			id: "37E7C99E91B8B37D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "66E7D6983191140F"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "66E7D6983191140F"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "02D31B5AF4C0B6F1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_1"
 				criterion: ""
@@ -2542,12 +3362,19 @@
 		{
 			dependencies: ["37E7C99E91B8B37D"]
 			id: "385C5D1F98711D3C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0A856612DF8FE834"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A856612DF8FE834"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3AD49CC6F747FA74"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_boss_zeph_1"
 				criterion: ""
@@ -2560,12 +3387,19 @@
 		{
 			dependencies: ["385C5D1F98711D3C"]
 			id: "68D63DD63EF11BBA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6E0DEAE325D63F33"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6E0DEAE325D63F33"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "61C74B0D4FBE4BCD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_wayne_2"
 				criterion: ""
@@ -2578,12 +3412,19 @@
 		{
 			dependencies: ["68D63DD63EF11BBA"]
 			id: "70A0D3C54C40A377"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3E8DC9E4FB43EB00"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E8DC9E4FB43EB00"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "740519358081C0A4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_alice"
 				criterion: ""
@@ -2596,12 +3437,19 @@
 		{
 			dependencies: ["70A0D3C54C40A377"]
 			id: "67A0460FFBF3D9AB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0707C50EC8F4D4FF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0707C50EC8F4D4FF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "7C79EF3AE882907B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_mel"
 				criterion: ""
@@ -2614,12 +3462,19 @@
 		{
 			dependencies: ["67A0460FFBF3D9AB"]
 			id: "7F4C296861FA32D6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2066D7D223F058B5"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2066D7D223F058B5"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "430E649479D0CB66"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_grunt"
 				criterion: ""
@@ -2632,12 +3487,19 @@
 		{
 			dependencies: ["7F4C296861FA32D6"]
 			id: "6A7FC4CEC03AC1F8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7388BED16F41312C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7388BED16F41312C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "373F9E33464A80A5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_2"
 				criterion: ""
@@ -2650,12 +3512,19 @@
 		{
 			dependencies: ["6A7FC4CEC03AC1F8"]
 			id: "181477D6F7B604B9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "457C9EADB9CE901B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "457C9EADB9CE901B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "78472654F7B6DEAD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_sucessor_maxima"
 				criterion: ""
@@ -2668,12 +3537,19 @@
 		{
 			dependencies: ["181477D6F7B604B9"]
 			id: "4B35AFA7E106D8AA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0F65F04E9AE406BF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F65F04E9AE406BF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "64B0E4A22C5F64B8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_2"
 				criterion: ""
@@ -2686,12 +3562,19 @@
 		{
 			dependencies: ["4B35AFA7E106D8AA"]
 			id: "761547BAA6CFC6B9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "43F2A40EAD569C02"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43F2A40EAD569C02"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "09AF7F2814E1FF91"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_wayne_3"
 				criterion: ""
@@ -2704,12 +3587,19 @@
 		{
 			dependencies: ["761547BAA6CFC6B9"]
 			id: "6FFE64324C0D4FB4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "55FA4D9EA180F5CE"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "55FA4D9EA180F5CE"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3DA02B77F8D5BF20"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_galavan"
 				criterion: ""
@@ -2722,12 +3612,19 @@
 		{
 			dependencies: ["6FFE64324C0D4FB4"]
 			id: "534B4F74DA1EF827"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0013B719D195ECE2"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0013B719D195ECE2"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "10CB9215B08C4FA0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_light_of_ruin_vega"
 				criterion: ""
@@ -2740,12 +3637,19 @@
 		{
 			dependencies: ["534B4F74DA1EF827"]
 			id: "661BB2E3C98A16DC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "19EF0BB0F7F97708"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19EF0BB0F7F97708"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "390AA3BE88E3349D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_boss_zeph_2"
 				criterion: ""
@@ -2758,12 +3662,19 @@
 		{
 			dependencies: ["661BB2E3C98A16DC"]
 			id: "3112842479774CA0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2EE2ADEFCA930CA9"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2EE2ADEFCA930CA9"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "56BEC01BF2DAEAE5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_1"
 				criterion: ""
@@ -2776,12 +3687,19 @@
 		{
 			dependencies: ["3112842479774CA0"]
 			id: "63FF059CC9C89167"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "166E2B83661E84BF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "166E2B83661E84BF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "39127B3A2BDA018A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_big_mo"
 				criterion: ""
@@ -2794,12 +3712,19 @@
 		{
 			dependencies: ["63FF059CC9C89167"]
 			id: "78FE754F2BDD07DC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0D0AF886FACCB267"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D0AF886FACCB267"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "5717BC9AF5017A7A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_tessy"
 				criterion: ""
@@ -2812,12 +3737,19 @@
 		{
 			dependencies: ["78FE754F2BDD07DC"]
 			id: "73EC84D1F1502430"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7B112AC89824F804"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7B112AC89824F804"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "2A4CECECD05E9D63"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_rival_wayne_4"
 				criterion: ""
@@ -2830,12 +3762,19 @@
 		{
 			dependencies: ["73EC84D1F1502430"]
 			id: "4F89A2237F765025"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0EF1D96BC1A3E278"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EF1D96BC1A3E278"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "11EAEF236176ABA3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_light_of_ruin_admin_ivory_3"
 				criterion: ""
@@ -2848,12 +3787,19 @@
 		{
 			dependencies: ["4F89A2237F765025"]
 			id: "587A49AE94970205"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "342DC84A00E11300"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "342DC84A00E11300"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "7399AD307EECE869"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_2"
 				criterion: ""
@@ -2866,12 +3812,19 @@
 		{
 			dependencies: ["587A49AE94970205"]
 			id: "39D0E87A3CA1FA8A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4F4D340C6A3D59ED"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F4D340C6A3D59ED"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "598A617CD0906867"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_3"
 				criterion: ""
@@ -2884,12 +3837,19 @@
 		{
 			dependencies: ["39D0E87A3CA1FA8A"]
 			id: "14020DAD5C2BC991"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "031A72770BFB028A"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "031A72770BFB028A"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "006DA1A3D3538AC5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_leader_benjamin"
 				criterion: ""
@@ -2902,12 +3862,19 @@
 		{
 			dependencies: ["14020DAD5C2BC991"]
 			id: "77E39A74C01F7509"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0F58F40A4AD0E9E9"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F58F40A4AD0E9E9"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "7645C57A707E6ED3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_moleman"
 				criterion: ""
@@ -2920,12 +3887,19 @@
 		{
 			dependencies: ["77E39A74C01F7509"]
 			id: "2C55F60B816B8277"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E38528E01491B2F"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E38528E01491B2F"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "65AB3E37107ECBDA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_arabella"
 				criterion: ""
@@ -2938,12 +3912,19 @@
 		{
 			dependencies: ["2C55F60B816B8277"]
 			id: "031C42F72D657118"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "71043C874CAEC43D"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "71043C874CAEC43D"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "11D1C84D467FFCF4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_penny"
 				criterion: ""
@@ -2956,12 +3937,19 @@
 		{
 			dependencies: ["031C42F72D657118"]
 			id: "14F956CE2A84763D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "124E5E73A5716452"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "124E5E73A5716452"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "2EA1F47CDC756ECF"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_elias"
 				criterion: ""
@@ -2988,6 +3976,11 @@
 						id: "cobblemon:master_ball"
 					}
 					type: "item"
+				}
+				{
+					id: "7DE4F850F25BA8E6"
+					type: "xp_levels"
+					xp_levels: 4
 				}
 			]
 			tasks: [{
@@ -3017,6 +4010,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "18A848A8B9FC16D0"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_3"
@@ -3030,12 +4028,19 @@
 		{
 			dependencies: ["7E3BCBEE527734ED"]
 			id: "111B3613C8184C05"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "180BD38E4A6B8FF3"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "180BD38E4A6B8FF3"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "74C636E757A7546D"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_rival_wayne"
 				criterion: ""
@@ -3048,12 +4053,19 @@
 		{
 			dependencies: ["7E3BCBEE527734ED"]
 			id: "49047754AA84D5FF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6E75CFE11958155A"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6E75CFE11958155A"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "00F04BDAE3624CD8"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_milo"
 				criterion: ""
@@ -3066,12 +4078,19 @@
 		{
 			dependencies: ["7E3BCBEE527734ED"]
 			id: "7FA5A27AEE650D7D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3E3A407FC883799F"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E3A407FC883799F"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "30B87F42BC7E4B0B"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_solenk"
 				criterion: ""
@@ -3084,12 +4103,19 @@
 		{
 			dependencies: ["7E3BCBEE527734ED"]
 			id: "1B406F662CCC35C3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4C993B5D92A1D15C"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4C993B5D92A1D15C"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "0B6A589A1261E09A"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_zeph"
 				criterion: ""
@@ -3102,12 +4128,19 @@
 		{
 			dependencies: ["7E3BCBEE527734ED"]
 			id: "575E5EC43B9012E9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1560C03CCE1CBA40"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1560C03CCE1CBA40"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "2146E520EE2C883E"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_marlon"
 				criterion: ""
@@ -3142,6 +4175,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "2A8E69FF50969059"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_title_defense_borrius"
@@ -3155,12 +4193,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "7B5958FFC5B03478"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6C719DBCB359D9D9"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C719DBCB359D9D9"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "29ED481E0FDA3D38"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_alice"
 				criterion: ""
@@ -3173,12 +4218,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "075380BCAD8DD19C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "38C2190174DE4F2A"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "38C2190174DE4F2A"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "017C17D73DC3810A"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_benjamin"
 				criterion: ""
@@ -3191,12 +4243,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "0F0C0F27BE3D34D6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "492C363556B15DD1"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "492C363556B15DD1"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "2ED7253D50ADB256"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_big_mo"
 				criterion: ""
@@ -3209,12 +4268,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "4778A74D490AA74A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3A20A65EDB49897C"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A20A65EDB49897C"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "7AFF485F213EB96F"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_mel"
 				criterion: ""
@@ -3227,12 +4293,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "33F9A883BE1C7C5C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "400309F21AD386FC"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "400309F21AD386FC"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "7057B6E01B10D543"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_mirskle"
 				criterion: ""
@@ -3245,12 +4318,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "5B590E2B1E8C19EC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5DE4AA0AC50DEF43"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5DE4AA0AC50DEF43"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "117C6BEA7CC3262A"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_tessy"
 				criterion: ""
@@ -3263,12 +4343,19 @@
 		{
 			dependencies: ["534342E42661CBBB"]
 			id: "1FE3A50001C967F7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "279D530021D3439E"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "279D530021D3439E"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "78EB502B1EDFC3C2"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_vega"
 				criterion: ""
@@ -3305,6 +4392,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "177D3063F0EB0499"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_battleground_borrius"
@@ -3334,6 +4426,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "69C3F3D22B1F816E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
 			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_blue"
@@ -3347,12 +4444,19 @@
 		{
 			dependencies: ["1F01A614F4704FFF"]
 			id: "7185032FDE001F31"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5518560F48E1D708"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5518560F48E1D708"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "28932A9E68344231"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_1"
 				criterion: ""
@@ -3365,12 +4469,19 @@
 		{
 			dependencies: ["7185032FDE001F31"]
 			id: "20C5100BB55383D1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "073CEA18966C9182"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "073CEA18966C9182"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "3F80C2A54BBDC874"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_jupiter_1"
 				criterion: ""
@@ -3383,12 +4494,19 @@
 		{
 			dependencies: ["20C5100BB55383D1"]
 			id: "0FF0BA3DB92A2A26"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4ECC46324C4104BB"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4ECC46324C4104BB"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "110323B8F3D86022"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_1"
 				criterion: ""
@@ -3402,12 +4520,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "48FC88FF15242AF9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "623392AA5272BA50"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "623392AA5272BA50"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "11C5E1404CA38840"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "1CA70197D609525C"
 				item: { count: 1, id: "mega_showdown:keystone" }
@@ -3420,12 +4545,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2AA3BE4ECEB355D0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "68308A25FEDEA418"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68308A25FEDEA418"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "5979425121EF38AE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "569D619FAD3C3372"
 				item: { count: 1, id: "mega_showdown:max_mushroom" }
@@ -3437,12 +4569,19 @@
 		{
 			dependencies: ["2AA3BE4ECEB355D0"]
 			id: "63881E92CD5F4A96"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2CED97CA2B9FF5B3"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2CED97CA2B9FF5B3"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "79D77E6019FBA5DA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0521BDE3DE3F638D"
 				item: { count: 1, id: "mega_showdown:max_honey" }
@@ -3454,12 +4593,19 @@
 		{
 			dependencies: ["2AA3BE4ECEB355D0"]
 			id: "4F75E68A95260E99"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "500424C5148BE173"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "500424C5148BE173"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "5C1ED32C748DBE19"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "6FAFC6EDA4A84AE0"
 				item: { count: 1, id: "mega_showdown:max_soup" }
@@ -3474,12 +4620,19 @@
 				"63881E92CD5F4A96"
 			]
 			id: "68B6DDF1B126BBB6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4328B3E17A8F23AE"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4328B3E17A8F23AE"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "73A9171CC11EDF3F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0A45635A8D93227B"
 				item: { count: 1, id: "mega_showdown:sweet_max_soup" }
@@ -3494,12 +4647,19 @@
 				"1129D75FB40DF9D8"
 			]
 			id: "4CAA0224C3ED7451"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6F5FC3AA91AC5BED"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6F5FC3AA91AC5BED"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "64A1130F908DEAFA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "52296AF3B69F7754"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:mega_bracelet)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -3511,12 +4671,19 @@
 		{
 			dependencies: ["1129D75FB40DF9D8"]
 			id: "480555FA75B189A0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7986A4A9AF655823"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7986A4A9AF655823"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "15A71EE449E188F9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "1D0FBDDF8E1FE67F"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mega_showdown:z_ring)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -3529,12 +4696,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "1129D75FB40DF9D8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4D342CE873401183"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D342CE873401183"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "19769698D258EED7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "69B9B6D0581AFB73"
 				item: { count: 1, id: "cobblemon:protector" }
@@ -3547,12 +4721,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "5F496A6A0F1632AE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5727494D296F664C"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5727494D296F664C"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "2E108D05A41E101A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5E15AFEC28D3CC9E"
@@ -3565,12 +4746,19 @@
 		{
 			dependencies: ["5F496A6A0F1632AE"]
 			id: "342EDCCAFD398CC5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "56C82EE45DD67D4A"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56C82EE45DD67D4A"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "2E9642E20B82CAC2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				action: "catch"
 				amount: 1L
@@ -3598,12 +4786,19 @@
 		{
 			dependencies: ["5F496A6A0F1632AE"]
 			id: "54496CB5F8242511"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4FA96AB3B5BB7823"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4FA96AB3B5BB7823"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "60D7709E97234D5C"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				action: "catch"
@@ -3632,12 +4827,19 @@
 		{
 			dependencies: ["7078E004A4888746"]
 			id: "5EEF7B760D5F8B33"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3A29EA3A84493BCF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A29EA3A84493BCF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "523857E0E283F67A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "2E0B44B45F4AD363"
 				item: { count: 1, id: "berrypouch:berry_pouch_30" }
@@ -3649,12 +4851,19 @@
 		{
 			dependencies: ["5EEF7B760D5F8B33"]
 			id: "309CCEE8CB0A9BB5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3B27FE4E0684A404"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B27FE4E0684A404"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "7B2AD33C5359ABF0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "23CD8506030D2F4B"
 				item: { count: 1, id: "berrypouch:berry_pouch_69" }
@@ -3667,12 +4876,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "0B8193EBEAC0D301"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "08656EED6D8E0C3E"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "08656EED6D8E0C3E"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "0332DA47842821EE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_yellow"
 				criterion: ""
@@ -3685,12 +4901,19 @@
 		{
 			dependencies: ["0B8193EBEAC0D301"]
 			id: "06F07A733CE7DEC3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "78BC28CB2FC8F6FB"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "78BC28CB2FC8F6FB"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "629980D3EA243264"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_crystal"
 				criterion: ""
@@ -3703,12 +4926,19 @@
 		{
 			dependencies: ["0B8193EBEAC0D301"]
 			id: "28CC4CC1AA47B5E5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "57AE6CCEA6BC1FC5"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "57AE6CCEA6BC1FC5"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1C305C6CF507AFCF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_diamond"
 				criterion: ""
@@ -3721,12 +4951,19 @@
 		{
 			dependencies: ["0B8193EBEAC0D301"]
 			id: "4DFE2469814E0BEA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "09E04BCF748F32D6"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "09E04BCF748F32D6"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "2248DDB903BB439B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_ruby"
 				criterion: ""
@@ -3739,12 +4976,19 @@
 		{
 			dependencies: ["06F07A733CE7DEC3"]
 			id: "1AE4EFBD26296D6F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7066C0449FD8C2EF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7066C0449FD8C2EF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "07EBE50927BB5AF8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_gold"
 				criterion: ""
@@ -3757,12 +5001,19 @@
 		{
 			dependencies: ["4DFE2469814E0BEA"]
 			id: "4FC72D293EEB7E19"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4ABE0B62B05963C9"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4ABE0B62B05963C9"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "637F0FD1A7FD9161"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_sapphire"
 				criterion: ""
@@ -3775,12 +5026,19 @@
 		{
 			dependencies: ["28CC4CC1AA47B5E5"]
 			id: "36CDDF9F13834BF4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6013DB07129BD2A8"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6013DB07129BD2A8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "55E7129E298B5AF2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_pearl"
 				criterion: ""
@@ -3793,12 +5051,19 @@
 		{
 			dependencies: ["1AE4EFBD26296D6F"]
 			id: "2D29DD10C5DB8910"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "18F63C3A0E58141D"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18F63C3A0E58141D"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "0EC2ED92A78355CD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_silver"
 				criterion: ""
@@ -3811,12 +5076,19 @@
 		{
 			dependencies: ["4FC72D293EEB7E19"]
 			id: "189C41B813576760"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "74DA25E56EC27AED"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "74DA25E56EC27AED"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3C0A931FDE1BDB3D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_emerald"
 				criterion: ""
@@ -3829,12 +5101,19 @@
 		{
 			dependencies: ["36CDDF9F13834BF4"]
 			id: "2D7A42570EE8645C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1BEB6A91AF6683D0"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BEB6A91AF6683D0"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "16D2C271B58D1DF7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_platinum"
 				criterion: ""
@@ -3847,12 +5126,19 @@
 		{
 			dependencies: ["2D29DD10C5DB8910"]
 			id: "24339D2FEDEBC53E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "33C36BBC2842628C"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "33C36BBC2842628C"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "698D3A223B8990CD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_green"
 				criterion: ""
@@ -3865,12 +5151,19 @@
 		{
 			dependencies: ["189C41B813576760"]
 			id: "75E9703033C927B5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6EDB8DF3BCAA86D3"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6EDB8DF3BCAA86D3"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "64C21BD78B1ACDD9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_red"
 				criterion: ""
@@ -3883,12 +5176,19 @@
 		{
 			dependencies: ["2D7A42570EE8645C"]
 			id: "7153C4C7A653C645"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "460A00181A72D392"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "460A00181A72D392"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "05EC3BBA1D148B31"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokespe_blue"
 				criterion: ""
@@ -3905,12 +5205,19 @@
 				"24339D2FEDEBC53E"
 			]
 			id: "412096DBAA158854"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1C86BAF5524E0BD8"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1C86BAF5524E0BD8"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "504915376F565F24"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_all_mangatrainers"
 				criterion: ""
@@ -3924,12 +5231,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2058E990EDF9DE3B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "020F0D3CFFDC9A77"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "020F0D3CFFDC9A77"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "0DA31DDD1C555E5E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_grunt_male_ignio"
 				criterion: ""
@@ -3942,12 +5256,19 @@
 		{
 			dependencies: ["2058E990EDF9DE3B"]
 			id: "28AE37156FFC0864"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1361CA0D927917D5"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1361CA0D927917D5"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "270E086205A6BD1B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_grunt_female_sandy"
 				criterion: ""
@@ -3960,12 +5281,19 @@
 		{
 			dependencies: ["28AE37156FFC0864"]
 			id: "43A5B24A6DB91DDF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3DE00B010561BA84"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3DE00B010561BA84"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "1858F7AE5587205F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_grunt_male_lithio"
 				criterion: ""
@@ -3978,12 +5306,19 @@
 		{
 			dependencies: ["43A5B24A6DB91DDF"]
 			id: "04508C6A24E3F210"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5C41D0FE94301593"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C41D0FE94301593"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "3FAA2FC88563864C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_grunt_female_micah"
 				criterion: ""
@@ -3996,12 +5331,19 @@
 		{
 			dependencies: ["04508C6A24E3F210"]
 			id: "1EDCBB697FD22EC4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6F9236405A33E7E4"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6F9236405A33E7E4"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "5214E5DC7C2704FA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_admin_blaise"
 				criterion: ""
@@ -4014,12 +5356,19 @@
 		{
 			dependencies: ["1EDCBB697FD22EC4"]
 			id: "33FB0278FB91DB1B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FA44A9E00E03A29"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FA44A9E00E03A29"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "34C2748F0509A6DD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_admin_courtney"
 				criterion: ""
@@ -4032,12 +5381,19 @@
 		{
 			dependencies: ["33FB0278FB91DB1B"]
 			id: "722B2F33DC07D827"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "606F6C66B77D726F"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "606F6C66B77D726F"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "5AD0489FDE7E512C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_admin_tabitha"
 				criterion: ""
@@ -4050,12 +5406,19 @@
 		{
 			dependencies: ["722B2F33DC07D827"]
 			id: "7C462577B430B679"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7551B0C326B8AEA6"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7551B0C326B8AEA6"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "60D3961F188A5693"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_magma_leader_maxie"
 				criterion: ""
@@ -4069,12 +5432,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "58099EBA6DF608F9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "18D4782A4CC02311"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18D4782A4CC02311"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "294EBC16030860C6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_grunt_male_ray"
 				criterion: ""
@@ -4087,12 +5457,19 @@
 		{
 			dependencies: ["58099EBA6DF608F9"]
 			id: "0011D2F506607E60"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "457A970CC603B262"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "457A970CC603B262"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "372F30C3512C4CB4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_grunt_female_octo"
 				criterion: ""
@@ -4105,12 +5482,19 @@
 		{
 			dependencies: ["0011D2F506607E60"]
 			id: "2D845A03711CD66D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "435595147E3D7FAD"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "435595147E3D7FAD"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "46053CDE737EE348"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_grunt_male_manta"
 				criterion: ""
@@ -4123,12 +5507,19 @@
 		{
 			dependencies: ["2D845A03711CD66D"]
 			id: "212646BB1F4277DF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5775D6D3F6B36E27"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5775D6D3F6B36E27"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "08ABA8E0F416E9A1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_grunt_female_inky"
 				criterion: ""
@@ -4141,12 +5532,19 @@
 		{
 			dependencies: ["212646BB1F4277DF"]
 			id: "7777498E5877D4E5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "41C946C101F8834E"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41C946C101F8834E"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "3369124367D1D970"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_admin_amber"
 				criterion: ""
@@ -4159,12 +5557,19 @@
 		{
 			dependencies: ["7777498E5877D4E5"]
 			id: "228B0FF44D9EFB8F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4D251616451A8FFF"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D251616451A8FFF"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "4A642F915354B43E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_admin_matt"
 				criterion: ""
@@ -4177,12 +5582,19 @@
 		{
 			dependencies: ["228B0FF44D9EFB8F"]
 			id: "0C997B3AE2E3906C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "395D3FEB3E2D38D8"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "395D3FEB3E2D38D8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "0F60AED80FF50B79"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_admin_shelly"
 				criterion: ""
@@ -4195,12 +5607,19 @@
 		{
 			dependencies: ["0C997B3AE2E3906C"]
 			id: "6C80392E1736FE46"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "26D8FF4BFE9DC6FD"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "26D8FF4BFE9DC6FD"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "59506E69721F6EB3"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_aqua_leader_archie"
 				criterion: ""
@@ -4214,12 +5633,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2589B379F20B8F80"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "689995B943E3BC98"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "689995B943E3BC98"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "666D6A0A6E3CA4E7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_katy"
 				criterion: ""
@@ -4232,12 +5658,19 @@
 		{
 			dependencies: ["2589B379F20B8F80"]
 			id: "44DAD6B6D2ED3ABE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5FAC7A29255436C4"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5FAC7A29255436C4"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "2BAB4E39E7EC994D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_brassius"
 				criterion: ""
@@ -4250,12 +5683,19 @@
 		{
 			dependencies: ["44DAD6B6D2ED3ABE"]
 			id: "6D72D135DA5A161F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0AD29D0F7FE7A656"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0AD29D0F7FE7A656"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "7F70E448D1C89F72"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_iono"
 				criterion: ""
@@ -4268,12 +5708,19 @@
 		{
 			dependencies: ["6D72D135DA5A161F"]
 			id: "3FDF7F05BCB5BBAC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1835F3113E3C6DEB"
-				table_id: 6023277112220077259L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1835F3113E3C6DEB"
+					table_id: 6023277112220077259L
+					type: "loot"
+				}
+				{
+					id: "5C422644F13CEE7F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_kofu"
 				criterion: ""
@@ -4286,12 +5733,19 @@
 		{
 			dependencies: ["3FDF7F05BCB5BBAC"]
 			id: "5518B2F365F88973"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "089C7A666D0AE366"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "089C7A666D0AE366"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "510CFAD8CFA09D27"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_larry"
 				criterion: ""
@@ -4304,12 +5758,19 @@
 		{
 			dependencies: ["5518B2F365F88973"]
 			id: "550C209EFC0E5633"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "62A06368EECCCB9B"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "62A06368EECCCB9B"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "103FCF492DDD4826"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_ryme"
 				criterion: ""
@@ -4322,12 +5783,19 @@
 		{
 			dependencies: ["550C209EFC0E5633"]
 			id: "7B5FA6AE8A0EB987"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "718DF59F0E0F4CB8"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "718DF59F0E0F4CB8"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "4285162C90056879"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_tulip"
 				criterion: ""
@@ -4340,12 +5808,19 @@
 		{
 			dependencies: ["7B5FA6AE8A0EB987"]
 			id: "23E6E2B684668025"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "269E404781EC05BD"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "269E404781EC05BD"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "36ED35A6DC1297F9"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldealeader_grusha"
 				criterion: ""
@@ -4358,12 +5833,19 @@
 		{
 			dependencies: ["23E6E2B684668025"]
 			id: "3E49E14350481944"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1A6DDFB80A2CEF4A"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A6DDFB80A2CEF4A"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "283526066B74BB4C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_paldeachampion_geeta"
 				criterion: ""
@@ -4377,12 +5859,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "72939EDA3489CBA8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "04FA805C60659AE3"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "04FA805C60659AE3"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "29C2BD21000D7B84"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "40705F75644F8A35"
 				item: { count: 1, id: "cobblemonparts:masterwork_blueprint" }
@@ -4397,12 +5886,19 @@
 				"72939EDA3489CBA8"
 			]
 			id: "2F7167AFDCDF3DBC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "38DA8B4F93AB22FA"
-				table_id: 354101158214531596L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "38DA8B4F93AB22FA"
+					table_id: 354101158214531596L
+					type: "loot"
+				}
+				{
+					id: "4900B724F049A940"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "52643DBC03981207"
 				item: { count: 1, id: "cobblemonparts:master_worked_metal" }
@@ -4415,12 +5911,19 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			id: "2BD82237222F42B6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "79832882C7C2B42D"
-				table_id: 6168209418652817445L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79832882C7C2B42D"
+					table_id: 6168209418652817445L
+					type: "loot"
+				}
+				{
+					id: "722E632B425B3432"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "2A8F29DD0C9C38A2"
 				item: { count: 1, id: "cobblemonparts:ambiguous_shard" }
@@ -4441,6 +5944,11 @@
 			id: "19464FAA13B7173E"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "2DAA2B2A035F7640"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "1345D246501F6044"
@@ -4457,6 +5965,22 @@
 			]
 			x: 30.0d
 			y: 30.0d
+		}
+		{
+			dependencies: ["7AC247633CD97DF3"]
+			id: "41AEE5044CD4EC4C"
+			rewards: [{
+				id: "491DB51AED248DCF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7A9552BAE837EC0B"
+				item: { count: 1, id: "cobblemon:ancient_origin_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
 		}
 	]
 }

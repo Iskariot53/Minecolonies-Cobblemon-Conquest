@@ -33,14 +33,21 @@
 			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			id: "0812E5105296350A"
-			rewards: [{
-				id: "37AE18863B7357C8"
-				item: {
-					count: 1
-					id: "eternal_starlight:book"
+			rewards: [
+				{
+					id: "37AE18863B7357C8"
+					item: {
+						count: 1
+						id: "eternal_starlight:book"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "720105E49093D655"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "354EF0ABCCCD0B0E"
 				type: "checkmark"
@@ -51,6 +58,11 @@
 		{
 			dependencies: ["0812E5105296350A"]
 			id: "0EFD80C0B8872BD2"
+			rewards: [{
+				id: "6319BDE2179D7E68"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				advancement: "eternal_starlight:challenge_gatekeeper"
 				criterion: ""
@@ -63,6 +75,11 @@
 		{
 			dependencies: ["0EFD80C0B8872BD2"]
 			id: "487D3AFE8C49C03A"
+			rewards: [{
+				id: "05D8B901FECA8C1A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				advancement: "eternal_starlight:obtain_orb_of_prophecy"
 				criterion: ""
@@ -75,6 +92,11 @@
 		{
 			dependencies: ["487D3AFE8C49C03A"]
 			id: "135ADCF4DD9867EF"
+			rewards: [{
+				id: "35740C5DCBF0EA77"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "5078A812C991333A"
 				item: { count: 1, id: "eternal_starlight:seeking_eye" }
@@ -86,6 +108,11 @@
 		{
 			dependencies: ["0EFD80C0B8872BD2"]
 			id: "2ED8D6121ABADC02"
+			rewards: [{
+				id: "21EF657F094A0C43"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "718266FFA73B287F"
 				item: { count: 1, id: "eternal_starlight:book" }
@@ -106,6 +133,11 @@
 			id: "26DD185FE30F354A"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "707AC7A25934AC62"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "228DBDD6EEC91CD6"

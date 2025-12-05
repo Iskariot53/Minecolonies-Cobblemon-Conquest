@@ -40,6 +40,11 @@
 			dependencies: ["704FD1152464AD1B"]
 			hide_until_deps_complete: true
 			id: "5888DE243650135E"
+			rewards: [{
+				id: "609F7651C8811A2B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			size: 1.5d
 			tasks: [{
 				dimension: "aether:the_aether"
@@ -64,6 +69,11 @@
 					id: "4885D7A0C6E44A23"
 					table_id: 6023277112220077259L
 					type: "loot"
+				}
+				{
+					id: "6FB9A5DFD8CD421C"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -90,6 +100,11 @@
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
+				{
+					id: "3641A6C1AC22AA2E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "42A7601974C75F89"
@@ -115,6 +130,11 @@
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
+				{
+					id: "1994DF266FAF9E0D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "5B29FC32F0EDA107"
@@ -139,6 +159,11 @@
 					id: "6D2F5C3C474D4407"
 					table_id: 6023277112220077259L
 					type: "loot"
+				}
+				{
+					id: "4966F2C26C0556A0"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -169,6 +194,11 @@
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
+				{
+					id: "6738D57282684387"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "deep_aether:stratus_armor"
@@ -195,6 +225,11 @@
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
+				{
+					id: "01FE336330E7C5ED"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "504E36B4A0841BCE"
@@ -219,6 +254,11 @@
 					id: "0226F1E4545DE887"
 					table_id: 6023277112220077259L
 					type: "loot"
+				}
+				{
+					id: "232524EDAA97D16A"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -246,6 +286,11 @@
 					table_id: 6023277112220077259L
 					type: "loot"
 				}
+				{
+					id: "434E918D9857D6A9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "aether:hammer_loot"
@@ -271,6 +316,11 @@
 					id: "44CBC09AA1C25306"
 					table_id: 6023277112220077259L
 					type: "loot"
+				}
+				{
+					id: "6DF3F429C18F724B"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -298,6 +348,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "488392A55ECB09EB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "aether:silver_dungeon"
@@ -324,6 +379,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "20819DAED9BAF29D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "616C00526FA72817"
@@ -348,6 +408,11 @@
 					id: "54F4B7DAA764222B"
 					table_id: 6168209418652817445L
 					type: "loot"
+				}
+				{
+					id: "772A2A0166C135F5"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -374,6 +439,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "74FAE6617ABD11C0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "7E8817D133AAED1B"
@@ -398,6 +468,11 @@
 					id: "502F2E916BE0FC17"
 					table_id: 6168209418652817445L
 					type: "loot"
+				}
+				{
+					id: "58135466EEFB156D"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -424,6 +499,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "681C5FF48E62CB4F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "3D7B96E5A67A6279"
@@ -448,6 +528,11 @@
 					id: "2516F68D6ED82F49"
 					table_id: 6168209418652817445L
 					type: "loot"
+				}
+				{
+					id: "10F0ECE385745F2D"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -475,6 +560,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "5711B2A95566D3D6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "aether:valkyrie_hoe"
@@ -501,6 +591,11 @@
 					table_id: 6168209418652817445L
 					type: "loot"
 				}
+				{
+					id: "4936278249F60D4D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "2EA664C5B863339E"
@@ -525,6 +620,11 @@
 					id: "745BEFAE7AE823B1"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "7B00A3001BDE4E81"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -552,6 +652,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "7C36C9EC9BAACA76"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "68F9FA57A571659C"
@@ -576,6 +681,11 @@
 					id: "78FBF2CEC7721E00"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "786DD3ED4FD1A2AE"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -602,6 +712,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "4D32D52BC2A44B68"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "1D8088EEE0D41F78"
@@ -626,6 +741,11 @@
 					id: "3D2A91D506B7AEBA"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "4EEAE959C5E4FC3F"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -652,6 +772,11 @@
 					table_id: 354101158214531596L
 					type: "loot"
 				}
+				{
+					id: "292E87C9EE1F1E3F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				id: "096CBD93049098E3"
@@ -676,6 +801,11 @@
 					id: "5C512093AE9CDA6C"
 					table_id: 354101158214531596L
 					type: "loot"
+				}
+				{
+					id: "59DC6AA7C9EEA569"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			tasks: [{
@@ -715,6 +845,11 @@
 					}
 					type: "item"
 				}
+				{
+					id: "44867FE432BCEEE6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
 				advancement: "aether:aether_sleep"
@@ -737,6 +872,11 @@
 			id: "792B39386FF9F3DE"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "7D1A1413B44DAEBC"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "3D832ED59A80C839"

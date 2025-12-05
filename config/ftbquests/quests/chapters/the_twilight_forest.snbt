@@ -28,12 +28,19 @@
 			}
 			icon_scale: 2.0d
 			id: "7EE137CFDCBB88DF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0358337A608099D2"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0358337A608099D2"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6A8AD687A4A53798"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				dimension: "twilightforest:twilight_forest"
@@ -53,12 +60,19 @@
 				id: "twilightforest:naga_trophy"
 			}
 			id: "224C2A4CAABD226E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0F4F2EA0AD2300C1"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F4F2EA0AD2300C1"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "10343EA9B94B27C7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				advancement: "twilightforest:progress_naga"
@@ -72,12 +86,19 @@
 		{
 			dependencies: ["224C2A4CAABD226E"]
 			id: "238BA4DDD4B10E64"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "025F104608CEAB75"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "025F104608CEAB75"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7E1FB61BA35A2807"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				advancement: "twilightforest:progress_lich"
@@ -95,12 +116,19 @@
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_until_deps_complete: true
 			id: "5F702BEE6C1C9852"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5744FF9A01CBC43F"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5744FF9A01CBC43F"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7BC676B8134FB140"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "twilightforest:quest_ram"
 				criterion: ""
@@ -116,12 +144,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "0CDBF9C116B9F573"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6B9EDD91A646E68D"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6B9EDD91A646E68D"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "5E5BD344D0AC1019"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				entity: "twilightforest:minoshroom"
@@ -138,12 +173,19 @@
 		{
 			dependencies: ["0CDBF9C116B9F573"]
 			id: "63EF394154FAD7C5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "44D23B429F7CA15F"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "44D23B429F7CA15F"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7867739521F4FCDF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				advancement: "twilightforest:progress_labyrinth"
 				criterion: ""
@@ -156,12 +198,19 @@
 		{
 			dependencies: ["63EF394154FAD7C5"]
 			id: "39A8F24D2A4A03A0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E2A5B2C4B01B02C"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E2A5B2C4B01B02C"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "3B2ABA3F21BFF0E6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				advancement: "twilightforest:progress_hydra"
@@ -175,12 +224,19 @@
 		{
 			dependencies: ["39A8F24D2A4A03A0"]
 			id: "6ACE6710E64ACF68"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4C63CEBDE649E528"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4C63CEBDE649E528"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "76D561AF20319FEC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				entity: "twilightforest:knight_phantom"
@@ -197,12 +253,19 @@
 		{
 			dependencies: ["6ACE6710E64ACF68"]
 			id: "7264C093510330F7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "134FF34CA41B7AA0"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "134FF34CA41B7AA0"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "0955F1B613A3A887"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				entity: "twilightforest:ur_ghast"
@@ -222,12 +285,19 @@
 				id: "twilightforest:alpha_yeti_trophy"
 			}
 			id: "43F71D97827116DD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "327502D30EA799B7"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "327502D30EA799B7"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "2BE1004B66234C4B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				entity: "twilightforest:alpha_yeti"
@@ -244,12 +314,19 @@
 		{
 			dependencies: ["43F71D97827116DD"]
 			id: "1B3CAAFB0ED99518"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0D48695B8EAE5A91"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D48695B8EAE5A91"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "52F97A5B3A0F9F60"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				advancement: "twilightforest:progress_glacier"
@@ -263,12 +340,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "4D7F9BE3FE00F696"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "720D50ED21EB1C8E"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "720D50ED21EB1C8E"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "4ACED79245C598CB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [
 				{
@@ -289,12 +373,19 @@
 		{
 			dependencies: ["4D7F9BE3FE00F696"]
 			id: "353A06EAE19F5598"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1A2F26C7DC06365F"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A2F26C7DC06365F"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "2EB654F6D9614B09"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				advancement: "twilightforest:giants"
@@ -308,12 +399,19 @@
 		{
 			dependencies: ["353A06EAE19F5598"]
 			id: "3704ECA09DAC9D7A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7E18C012F6634460"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E18C012F6634460"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "0AF8F69E908EEA2F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				id: "6793D5B94A2B1CFF"
@@ -326,12 +424,19 @@
 		{
 			dependencies: ["3704ECA09DAC9D7A"]
 			id: "4E6C6EC0F82818A0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "06F84FF6F13E3ED7"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06F84FF6F13E3ED7"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "48A7766E9A320DFC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				biome: "twilightforest:thornlands"
@@ -348,12 +453,19 @@
 			dependencies: ["4E6C6EC0F82818A0"]
 			hide_dependency_lines: false
 			id: "031BF5A5DDEA7DDF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "56BB2382C42B806A"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56BB2382C42B806A"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "43CEE02B0C2CF0EB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				icon: {
@@ -370,12 +482,19 @@
 			dependencies: ["224C2A4CAABD226E"]
 			hide_until_deps_complete: false
 			id: "63C1EC8559D1E68B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50BC77D518512B42"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50BC77D518512B42"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "71B41DCA264BDA4E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "3986606C28A52102"
@@ -394,12 +513,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "6F765560F3AF0737"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1872C29252703629"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1872C29252703629"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "2E63AA65377748F2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "500485E27FE91067"
 				item: { count: 1, id: "twilightforest:twilight_scepter" }
@@ -411,12 +537,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "1D34C364554673D1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5B5C51C690993500"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B5C51C690993500"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7476E81AD0356834"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "779AA4B03637EEE1"
 				item: { count: 1, id: "twilightforest:lifedrain_scepter" }
@@ -428,12 +561,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "3D24BA08A1F6F341"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3D0C6F46E6F859AC"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D0C6F46E6F859AC"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7F831292285D1C1E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "68B0D96C51334572"
 				item: { count: 1, id: "twilightforest:zombie_scepter" }
@@ -445,12 +585,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "0E8B64CE67FC2ED6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "18CFBE3313D15FAF"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18CFBE3313D15FAF"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "5137CE89A459F520"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "1CDD38A4005A5702"
 				item: { count: 1, id: "twilightforest:fortification_scepter" }
@@ -462,12 +609,19 @@
 		{
 			dependencies: ["0CDBF9C116B9F573"]
 			id: "61F6FCB0EA0E6EE3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "413FECD6DCBC7D19"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "413FECD6DCBC7D19"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "3C4C1848161AFF89"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "4CDDCC9877E3598B"
 				item: { count: 1, id: "twilightforest:diamond_minotaur_axe" }
@@ -479,12 +633,19 @@
 		{
 			dependencies: ["39A8F24D2A4A03A0"]
 			id: "5E22B54E7749BB31"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2888F1E4C68F3726"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2888F1E4C68F3726"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7696B167BC042808"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "76D4850461DB7B4B"
@@ -513,12 +674,19 @@
 		{
 			dependencies: ["39A8F24D2A4A03A0"]
 			id: "72BE5D51B75EAB98"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7278353997CD688A"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7278353997CD688A"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "5F7986197C40A670"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "19D217B1380602B8"
@@ -537,12 +705,19 @@
 		{
 			dependencies: ["6ACE6710E64ACF68"]
 			id: "3B62B0D9334A609C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "260646BBA85C1F0B"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "260646BBA85C1F0B"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6BB7BB8744F0D971"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "3B352BD27D21978F"
@@ -561,12 +736,19 @@
 		{
 			dependencies: ["6ACE6710E64ACF68"]
 			id: "2BC383AAEC8C05B4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0539A28A66627122"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0539A28A66627122"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "0A3B518417888D0D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "5D73B556C6B844C8"
@@ -595,12 +777,19 @@
 		{
 			dependencies: ["6ACE6710E64ACF68"]
 			id: "7E1CF7ACBD6043AB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "11A23F4FAB165579"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "11A23F4FAB165579"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "2DA8894C367B4A79"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "3D70C5E144048184"
@@ -634,12 +823,19 @@
 		{
 			dependencies: ["43F71D97827116DD"]
 			id: "79D9541D4D3A31BF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "79335BBE473FD521"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79335BBE473FD521"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "5CAF8A4D2AC0D23E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "71BEBBF0EB5C990B"
@@ -668,12 +864,19 @@
 		{
 			dependencies: ["43F71D97827116DD"]
 			id: "40B42B2D21A31F1A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0C8182F14CAA6369"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0C8182F14CAA6369"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "050A8495FA196B11"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "67B65C83EE13A192"
@@ -702,12 +905,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "5F9BCB81EDC7B5CC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "75363CFD5A522350"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75363CFD5A522350"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "614C25A646355D26"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "02042FE7D80BBF77"
 				item: { count: 1, id: "twilightforest:seeker_bow" }
@@ -719,12 +929,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "02056C28AB828C96"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "08047EA6A3F8C1BC"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "08047EA6A3F8C1BC"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "367DCD3C5F9EB8B3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "2D678382BF9CCFA8"
 				item: { count: 1, id: "twilightforest:triple_bow" }
@@ -737,12 +954,19 @@
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_until_deps_complete: true
 			id: "06B12750EF857686"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3BC0AD2A5B725830"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3BC0AD2A5B725830"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "151B493D2278FD19"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "3D3708ED39883BC7"
@@ -762,12 +986,19 @@
 			dependencies: ["06B12750EF857686"]
 			hide_until_deps_complete: false
 			id: "3EC49822628FE9B3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5C4ACE56E15828B0"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C4ACE56E15828B0"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6F217192F3175E8C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "5C737728AB7B7349"
 				item: { count: 1, id: "twilightforest:magic_map_focus" }
@@ -780,12 +1011,19 @@
 			dependencies: ["3EC49822628FE9B3"]
 			hide_until_deps_complete: false
 			id: "0E15E3DEA2EF1D63"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3701FF721F451327"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3701FF721F451327"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "266C923022FE67CD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "35851EA8E338F8F3"
 				item: { count: 1, id: "twilightforest:magic_map" }
@@ -797,12 +1035,19 @@
 		{
 			dependencies: ["238BA4DDD4B10E64"]
 			id: "5220FB0D131C6F95"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2B1D79D55E92CF11"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2B1D79D55E92CF11"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "055C95B728165C6A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "456BD2A11C1A7ED7"
 				item: { count: 1, id: "twilightforest:maze_map" }
@@ -814,12 +1059,19 @@
 		{
 			dependencies: ["5220FB0D131C6F95"]
 			id: "49F76BDDF2D28E43"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1AABADFC8FB748E3"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1AABADFC8FB748E3"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "12BD54D5C69B1D02"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "18517B7848BD3B23"
 				item: { count: 1, id: "twilightforest:ore_map" }
@@ -831,12 +1083,19 @@
 		{
 			dependencies: ["5220FB0D131C6F95"]
 			id: "707871C62A831E84"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "63F9F59DCAC6D3C7"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "63F9F59DCAC6D3C7"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "4B13F193DA079DD5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "36D51666418F423D"
 				item: { count: 1, id: "twilightforest:mazebreaker_pickaxe" }
@@ -849,12 +1108,19 @@
 			dependencies: ["5F702BEE6C1C9852"]
 			hide_until_deps_complete: false
 			id: "31F9DFD0F505AE02"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "119F1D0953CA5F1D"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "119F1D0953CA5F1D"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "47D685685EDB603E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "5349FCC0B668128B"
 				item: { count: 1, id: "twilightforest:crumble_horn" }
@@ -872,12 +1138,19 @@
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
 			id: "2F2BA092915A7910"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7946749AB1576A6F"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7946749AB1576A6F"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "5BB94000764900C0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "30C542215FAAA8A3"
@@ -931,12 +1204,19 @@
 		{
 			dependencies: ["7DFA298A49BB99F4"]
 			id: "0E88C9364E12FEB3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7384CC7BDDF073BA"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7384CC7BDDF073BA"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "658D4E7E821F4FD5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "54F25AB34AD26D43"
@@ -990,12 +1270,19 @@
 		{
 			dependencies: ["353A06EAE19F5598"]
 			id: "4A02F6F1822B0F69"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "69E0FFF6582357BF"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69E0FFF6582357BF"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "01CA52F6CB8FA96C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "6044204A19D784D1"
@@ -1025,12 +1312,19 @@
 			dependencies: ["76B211025E5ACC90"]
 			hide_dependency_lines: true
 			id: "2EFA532622EB7946"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "376789A5D2223C5E"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "376789A5D2223C5E"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "053C44BE5F6F967C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "77BAC60C50FCEA8B"
 				item: { count: 1, id: "twilightforest:ore_magnet" }
@@ -1042,12 +1336,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "6AB19CF23F9B5A16"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4651D1828F2B9966"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4651D1828F2B9966"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "3E58C8A4CDE21DF9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0244E5FA1A507A7A"
 				item: { count: 1, id: "twilightforest:glass_sword" }
@@ -1059,12 +1360,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "622B8EEE00C9F620"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "045DD9CEF276B03A"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "045DD9CEF276B03A"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6438826E38A6FBCA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "5010B5469342BC4B"
 				item: { count: 1, id: "twilightforest:ice_sword" }
@@ -1081,12 +1389,19 @@
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
 			id: "64587A7056D3BE7D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2E2B2474B7B61029"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E2B2474B7B61029"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "229D62107554FF3B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "53C5EE16D8C2A34A"
 				item: { count: 1, id: "twilightforest:peacock_feather_fan" }
@@ -1099,12 +1414,19 @@
 			dependencies: ["76B211025E5ACC90"]
 			hide_dependency_lines: true
 			id: "09FD0BBC59643076"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5EAAD63C2E0BD88D"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5EAAD63C2E0BD88D"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7C5AEE263F35554E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "621A9451721C2F52"
 				item: { count: 1, id: "twilightforest:transformation_powder" }
@@ -1116,12 +1438,19 @@
 		{
 			dependencies: ["5220FB0D131C6F95"]
 			id: "4D66C8BBEDAD4A2F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "300CE3AC7230729E"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "300CE3AC7230729E"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "3D2FD7D78FAE0D9F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "19A2B07DB6943B55"
 				item: { count: 1, id: "twilightforest:charm_of_keeping_1" }
@@ -1133,12 +1462,19 @@
 		{
 			dependencies: ["4D66C8BBEDAD4A2F"]
 			id: "76D9A2260275CEDD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2F263C23F7AE870B"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2F263C23F7AE870B"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6F0410D877725802"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "34C1486125D81EB3"
 				item: { count: 1, id: "twilightforest:charm_of_keeping_2" }
@@ -1150,12 +1486,19 @@
 		{
 			dependencies: ["76D9A2260275CEDD"]
 			id: "5458ED1325250C81"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50704F9E006AAD8C"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50704F9E006AAD8C"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "4E5AAE1E7AFDB7A2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "2C6F8B218B616508"
 				item: { count: 1, id: "twilightforest:charm_of_keeping_3" }
@@ -1168,12 +1511,19 @@
 			dependencies: ["76B211025E5ACC90"]
 			hide_dependency_lines: true
 			id: "7F3DA56DAB79AC1E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0594C669CF444E5D"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0594C669CF444E5D"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "1A6C9325833D8121"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "20AC8340F7F700D1"
 				item: { count: 1, id: "twilightforest:charm_of_life_1" }
@@ -1185,12 +1535,19 @@
 		{
 			dependencies: ["7F3DA56DAB79AC1E"]
 			id: "6A2072648BBBEDAA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "16EFEA103817DF64"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16EFEA103817DF64"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "353A107C685DAFB6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "0BA10308B18C1680"
 				item: { count: 1, id: "twilightforest:charm_of_life_2" }
@@ -1203,12 +1560,19 @@
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_dependency_lines: true
 			id: "631758525E8CB77C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7108C50F3B720F11"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7108C50F3B720F11"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "1463E16D139E4786"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "2E2001777F6CAF6E"
 				item: { count: 1, id: "twilightforest:time_sapling" }
@@ -1225,12 +1589,19 @@
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
 			id: "3CB4CE1D7B55CD2B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "255DA5B5BF305312"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "255DA5B5BF305312"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "0A46CE8C7227C9D1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "3A8C39ED36748B69"
 				item: { count: 1, id: "twilightforest:moonworm_queen" }
@@ -1242,12 +1613,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "2B596E2520D0539D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "409800843171B617"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "409800843171B617"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "631BF4CC3CC1C9E5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "5B87021D3C4607BF"
 				item: { count: 1, id: "twilightforest:ice_bow" }
@@ -1259,12 +1637,19 @@
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
 			id: "6D09FA6FE768A4D1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "305063809BE15798"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "305063809BE15798"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "6669A15E7010C23A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "1BD7D62D38DDC76F"
 				item: { count: 1, id: "twilightforest:ender_bow" }
@@ -1276,12 +1661,19 @@
 		{
 			dependencies: ["0CDBF9C116B9F573"]
 			id: "5E48E915C1B4ABE9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3EA2E48FB857F63B"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3EA2E48FB857F63B"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "3BC09ED429D17161"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				id: "579043BFDABB97EA"
 				item: { count: 1, id: "twilightforest:red_thread" }
@@ -1294,12 +1686,19 @@
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_until_deps_complete: true
 			id: "76B211025E5ACC90"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FBDD5AE2DE72DF6"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FBDD5AE2DE72DF6"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "4D637BB47F2D5584"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					icon: {
@@ -1333,12 +1732,19 @@
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_dependency_lines: true
 			id: "7DFA298A49BB99F4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2074BB4B4513624D"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2074BB4B4513624D"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "70D86723E6F9687C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [{
 				count: 10L
 				id: "5FA5260598FF2006"
@@ -1357,12 +1763,19 @@
 			icon_scale: 2.0d
 			id: "3DDCBD68E14BE832"
 			invisible: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "41451A92A78A2EF8"
-				table_id: 7864365139616724351L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41451A92A78A2EF8"
+					table_id: 7864365139616724351L
+					type: "loot"
+				}
+				{
+					id: "7E07B33B11B8114E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				advancement: "twilightforest:twilight_dinner"
@@ -1385,6 +1798,11 @@
 			id: "0372DC1FB9773393"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "563412365FF4BA1A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "49CE2515240C3F7C"
