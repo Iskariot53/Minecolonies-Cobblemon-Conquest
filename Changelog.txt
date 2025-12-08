@@ -1,29 +1,22 @@
-Minecolonies - Cobblemon Conquest -  2.0.2 Changelog
+Minecolonies - Cobblemon Conquest -  2.0.3 Changelog
 
 
 
 Mods Added
 
 
-- More Dragon Eggs
+- Personality
 
 
 
 Mods Updated
 
 
-- Advanced Peripherals
-- CC:Tweaked
-- Create
-- Create: Applied Kinetics
-- Create Crafts & Additions
-- Create: Filters Anywhere
-- Create Railways Navigator
+- 
 
 
 
 Changes
 
 
-- Pylons should now work in all dimensions.
-- fixed recipe unification issue with biosteel.
+- Fixed missing item in Oritech's quest reward table.

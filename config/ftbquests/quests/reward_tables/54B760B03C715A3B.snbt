@@ -16,11 +16,8 @@
 			count: 12
 			id: "3F3CB817B129BA32"
 			item: {
-				components: {
-					"ftbquests:missing_item": "oritech:insulated_wire"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "oritech:carbon_fibre_strands"
 			}
 			weight: 4.0f
 		}
