@@ -272,6 +272,101 @@
 		"nastyplot",
 		"tailglow"
 	],
+	// Moves that is similar to Quick Attack. Approaching target quickly and attack.
+	"quick_attack_like_move": [
+		"quickattack",
+		"extremespeed",
+		"feint",
+		"machpunch",
+		"bulletpunch",
+		"accelerock",
+		"jetpunch"
+	],
+	// Area of Effect that is created at the target's position and deal the damage after a short period of time.
+	"delayed_aoe_at_target_position": [
+		"firespin",
+		"whirlpool",
+		"sandtomb",
+		"magmastorm",
+		"thundercage",
+		"hurricane",
+		"heatwave",
+		"petalblizzard",
+		"gust",
+		"blizzard",
+		"aeroblast",
+		"twister",
+		"fairywind",
+		"silverwind",
+		"leafstorm",
+		"springtidestorm",
+		"bleakwindstorm",
+		"wlidboltstorm",
+		"sandsearstorm",
+		"thunder",
+		"earthpower"
+	],
+	// Area of Effect that can be created in the air
+	"delayed_aoe_can_float": [
+		"hurricane",
+		"heatwave",
+		"petalblizzard",
+		"gust",
+		"blizzard",
+		"aeroblast",
+		"twister",
+		"fairywind",
+		"silverwind",
+		"leafstorm",
+		"springtidestorm",
+		"bleakwindstorm",
+		"wlidboltstorm",
+		"sandsearstorm"
+	],
+	// Area of Effect that will rise up from the ground and become a small tornado when activated
+	"delayed_aoe_rise_up_tornado": [
+		"magmastorm",
+		"hurricane",
+		"heatwave",
+		"petalblizzard",
+		"gust",
+		"blizzard",
+		"aeroblast",
+		"twister",
+		"fairywind",
+		"silverwind",
+		"leafstorm",
+		"springtidestorm",
+		"bleakwindstorm",
+		"wlidboltstorm",
+		"sandsearstorm"
+	],
+	// Area of Effect that will rise up from the ground and become a small tornado when activated
+	"delayed_aoe_bounding_whirlpool": [
+		"firespin",
+		"whirlpool",
+		"sandtomb",
+		"thundercage"
+	],
+	// Area of effect listed here will stop being activated after its activation.
+	"delayed_aoe_is_instant": [
+		"hurricane",
+		"heatwave",
+		"petalblizzard",
+		"gust",
+		"blizzard",
+		"aeroblast",
+		"twister",
+		"fairywind",
+		"silverwind",
+		"leafstorm",
+		"springtidestorm",
+		"bleakwindstorm",
+		"wlidboltstorm",
+		"sandsearstorm",
+		"thunder",
+		"earthpower"
+	],
 	// Do Pokemon grief(only explosions currently)?
 	"pokemon_griefing": false,
 	// Fire type attack(only explosions currently) should burn the ground

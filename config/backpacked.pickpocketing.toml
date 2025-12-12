@@ -3,11 +3,11 @@
 # in order to pickpocket. A smaller range prevents the player from accessing
 # the backpack from the side.
 # Valid range: 0 to 90 (inclusive)
-maxAngleRange = 0
+maxAngleRange = 80.0
 # If enabled, allows players to access the backpack of another player by interacting
 # with the visible backpack on their back.
 # Valid values: true, false
 enabledPickpocketing = false
 # The maximum reach distance of a player to interact with another player's backpack.
 # Valid range: 0 to 4 (inclusive)
-maxReachDistance = 0
+maxReachDistance = 2.0

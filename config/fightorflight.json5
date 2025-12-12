@@ -129,15 +129,13 @@
 	"do_pokemon_defend_proactive": true,
 	// 0 zero means follow the same rule as Iron Golem. 1 means ignores neutral mobs that are not aiming at the player.
 	"pokemon_proactive_level": 1,
-	// The enemy detection radius for the pokemon to defend its owner.
-	"pokemon_defend_proactive_radius": 8.0,
 	// Do player Pokemon defend their owners from Creepers proactively?(Iron Golems won't attack Creeper proactively.
 	"do_pokemon_defend_creeper_proactive": false,
-	// If the player's cat pokemon will attack the creeper proactively(LivelierPokemon required) 
+	// If the player's cat pokemon will attack the creeper proactively(LivelierPokemon required, this one is not functioning anymore currently) 
 	"do_cat_pokemon_defend_creeper_proactive": true,
-	// Can player Pokemon target other players? (EXPERIMENTAL)
+	// Can player Pokemon target other players?
 	"do_player_pokemon_attack_other_players": false,
-	// Can player Pokemon target other player's Pokemon? (EXPERIMENTAL)
+	// Can player Pokemon target other player's Pokemon?
 	"do_player_pokemon_attack_other_player_pokemon": false,
 	// Will the wild pokemon cries for several times when angered,set to false so the pokemon will only cry one time when it's angered
 	"multiple_cries": true,
@@ -237,8 +235,10 @@
 	"ice_type_super_effective_dmg_multiplier": 2.0,
 	// Poison type damage will be not very effective against undead mobs.(set to 0 if you want a complete immune)
 	"poison_type_no_effect_dmg_multiplier": 0.10000000149011612,
-	// If the original updateMaxHealth() will be replaced by my version. Pokemons outside of battle will use the hp stat instead of the base hp stat. The following configurations needs this one to work.
-	"shouldOverrideUpdateMaxHealth": true,
+	// If you want to use FOF health mechanic. A different curve that was used in FOF previously. The following configurations needs this one to work.
+	"shouldOverrideHealthMechanic": true,
+	// If you want to use the FOF style hp calculation.
+	"use_fof_style_hp_calculation": true,
 	// If health sync will work on the wild pokemon, set to false will heal them on standard pokemon battle start if they were damaged before.
 	"enable_health_sync_for_wild_pokemon": false,
 	// The minimum hp of a pokemon outside standard pokemon battle,shedinja is set to 1.0 and can't be changed.
@@ -253,6 +253,8 @@
 	"mid_HP_required_stat": 160,
 	// HP stat needed to get maximum HP outside standard pokemon battle. The max hp of a Blissey is 714.
 	"max_HP_required_stat": 500,
+	// If Poke Staff can be used.
+	"can_use_poke_staff": true,
 	// The Pokemon stays still after finishing the move command.
 	"stay_after_move_command": true,
 	// If the player need to hold a Poke Staff to use the command keybind
@@ -266,5 +268,11 @@
 	// If the player's pokemon can hurt ender dragon
 	"player_pokemon_can_hurt_ender_dragon": true,
 	// If the wild poekmon can hurt ender dragon
-	"wild_pokemon_can_hurt_ender_dragon": false
+	"wild_pokemon_can_hurt_ender_dragon": false,
+	// If you want to use the FOF style melee attack?
+	"use_fof_style_melee": true,
+	// If you want to use range attack from FOF
+	"use_range_attack": true,
+	// If you want to set willDefendOwner to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that the Pokemon added by the datapacks can't attack.
+	"force_enable_defend_owner": true
 }

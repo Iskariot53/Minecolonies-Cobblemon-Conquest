@@ -1,24 +1,42 @@
 {
-  "eggCheckTicks": 6000,
-  "eggCheckChance": 0.5,
+  "minBreedingTimeInTicks": 8000,
+  "maxBreedingTimeInTicks": 14000,
+  "mirrorHerbTimeInTicks": 600,
   "eggHatchMultiplier": 1.0,
-  "shinyMethod": [
-    "masuda"
-  ],
-  "shinyMultiplier": 4.0,
+  "shinyMethod": {
+    "masuda": 4.0,
+    "crystal": 1.0,
+    "always": 1.0
+  },
   "hiddenAbilitiesEnabled": true,
   "forcedAbilitiesEnabled": false,
-  "dittoAndDittoRandomEgg": true,
-  "dittoAndDittoAllowLegendary": true,
-  "dittoAndDittoAllowParadox": true,
-  "dittoAndDittoAllowUltraBeast": true,
-  "dittoAndDittoAllowUndiscovered": true,
-  "customColors": true,
+  "dittoAndDittoRandomEgg": false,
+  "dittoAndDittoAllowLegendary": false,
+  "dittoAndDittoAllowParadox": false,
+  "dittoAndDittoAllowUltraBeast": false,
+  "dittoAndDittoAllowUndiscovered": false,
+  "customColors": false,
   "allowHoppersToPullFromPastureBlock": true,
-  "blacklistedAspects": [
-    "shiny",
-    "male",
-    "female",
-    "sheared"
-  ]
+  "inheritedFeatures": [
+    "bagworm_cloak",
+    "color",
+    "dance_style",
+    "fish_stripes",
+    "striped",
+    "magikarp_jump",
+    "mooshtank",
+    "region_bias",
+    "alolan",
+    "galarian",
+    "hisuian",
+    "paldean",
+    "bull_breed",
+    "tatsugiri_texture",
+    "whiscash_nero",
+    "wooper_heart"
+  ],
+  "maxNumberOfActivatedPasturePerPlayer": -1,
+  "pastureInventorySize": 5,
+  "eggEncryptionEnabled": true,
+  "cobblemonSizeVariationsCompatEnabled": true
 }

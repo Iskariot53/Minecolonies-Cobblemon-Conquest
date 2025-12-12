@@ -32,6 +32,7 @@ loot_ball:
   xp:
     enabled: true
   disabled:
+    loot_balls: []
     dimensions:
       generation: []
       spawning: []

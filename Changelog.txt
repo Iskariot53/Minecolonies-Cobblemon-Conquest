@@ -1,22 +1,79 @@
-Minecolonies - Cobblemon Conquest -  2.0.3 Changelog
+Minecolonies - Cobblemon Conquest -  2.1.0 Changelog
+
+
+Updated to NeoForge 21.1.214
 
 
 
 Mods Added
 
 
+- Entangled
+- Mob Grinding Utils
 - Personality
+
+
+
+Mods Removed
+
+
+- Cobblemon: Ride On!
 
 
 
 Mods Updated
 
 
-- 
+- Backpacked
+- Berry Pouch
+- CobbleFurnies
+- Cobbleloots: Loot Balls and More!
+- Cobblemon
+- Cobblemon Box Link
+- Cobblemon Capture XP
+- Cobblemon Challenge
+- Cobblemon Fight or Flight Reborn
+- Cobblemon Integrations
+- Cobblemon: Mega Showdown
+- Cobblemon Move Inspector
+- Cobblemon: Parting Gifts
+- Cobblemon Pokenav
+- Cobblemon Poképedia: Cobblepedia
+- Cobblemon Quests
+- Cobblemon: SafePastures
+- Cobblemon Smartphone
+- Cobblemon Spawn Notification
+- Cobblemon Tim Core
+- Cobbreeding
+- Create: Copycats+
+- Create: Hypertubes
+- Eternal Starlight
+- Framework
+- FTB Chunks
+- FTB Essentials
+- FTB Library
+- FTB Quests
+- FTB Teams
+- JEI
+- Large Ore Deposits
+- MoreCobblemonTweaks
+- Oritech
+- Radical Cobblemon Trainers
+- Radical Cobblemon Trainers API
+- SimpleTMs: TMs and TRs for Cobblemon
+- Tomtaru's Cobblemon & Immersive Engineering Tweaks
+- Torchmaster
 
 
 
 Changes
 
 
-- Fixed missing item in Oritech's quest reward table.
+- Quests and rewards updated.
+- Minecolonies specific food restrictions removed for growing.
+- Fixed Missing items in oritech's quest rewards.
+
+
+- FULLY COMPATIBLE WITH OLD WORLD FILES, HOWEVER:
+
+MANY MAJOR CHANGES, INCLUDING ENTIRE CODE BASE RE-WRITES, HAVE TAKEN PLACE WITHIN MULTIPLE CORE MODS THE PACK IS BUILT AROUND. BACK-UP BEFORE UPDATING!

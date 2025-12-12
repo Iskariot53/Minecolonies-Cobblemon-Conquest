@@ -7,7 +7,7 @@
     "#minecraft:is_nether",
 	"#minecolonies:coldbiomes",
 	"#minecolonies:humidbiomes",
-	"#minecolonies:temperatebiomes"
+	"#minecolonies:temperatebiomes",
     "minecraft:badlands",
     "minecraft:desert",
     "minecraft:eroded_badlands",

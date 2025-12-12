@@ -5,11 +5,6 @@
 	# into the world if the slot they are in is now locked. You have been warned.
 	# Valid values: true, false
 	unlockAllEquipableSlots = false
-	# If enabled, backpacks will stay equipped on the player after death (same as the
-	# keepInventory game rule), otherwise backpacks will simply drop on the ground like
-	# regular items.
-	# Valid values: true, false
-	keepOnDeath = false
 	# If true, the first slot will automatically be unlocked by default and for free.
 	# Valid values: true, false
 	unlockFirstEquipableSlot = true

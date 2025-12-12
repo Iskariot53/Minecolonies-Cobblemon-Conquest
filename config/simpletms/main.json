@@ -5,6 +5,8 @@
   "levelMovesLearnable": false,
   "primaryTypeMovesLearnable": false,
   "secondaryTypeMovesLearnable": false,
+  "legacyMovesLearnable": false,
+  "specialMovesLearnable": false,
   "anyMovesLearnableTMs": false,
   "anyMovesLearnableTRs": false,
   "blankTMsUsable": true,
@@ -33,5 +35,7 @@
   "dropFromTmMoveList": true,
   "dropFromTutorMoveList": true,
   "dropFromEggMoveList": true,
+  "dropFromLegacyMoveList": false,
+  "dropFromSpecialMoveList": false,
   "allowCustomMovesAndEditing": false
 }

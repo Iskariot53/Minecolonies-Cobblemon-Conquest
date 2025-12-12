@@ -68,7 +68,7 @@ craftingTable.addJsonRecipe("cobblemon_conquest.blank_z",
     },
     "result": {
         "count": 1,
-        "id": "mega_showdown:blank-z"
+        "id": "mega_showdown:blank_z"
     }
 });
 craftingTable.remove(<item:brendons_bottlecaps:goldencap>);
@@ -547,8 +547,6 @@ craftingTable.addJsonRecipe("cobblemon_conquest.tera_orb_water",
         "id": "mega_showdown:tera_orb"
     }
 });
-craftingTable.removeByName("cobblemon:red_orb");
-craftingTable.removeByName("cobblemon:blue_orb");
 craftingTable.addShaped("cobblemon_conquest.masterwork_blueprint", <item:cobblemonparts:masterwork_blueprint> * 2, [
     [<item:cobblemonparts:ambiguous_shard>, <item:cobblemonparts:masterwork_blueprint>, <item:cobblemonparts:ambiguous_shard>],
     [<item:cobblemonparts:ambiguous_shard>, <item:minecraft:end_stone>, <item:cobblemonparts:ambiguous_shard>],

@@ -27,7 +27,8 @@
 	  "Discarding @Unique public method",
 	  "sending packet",
 	  "Lua Method",
-	  "Gateway client error"
+	  "Gateway client error",
+	  "blacklist config from file"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -56,7 +57,8 @@
 	  "Discarding @Unique public method",
 	  "sending packet",
 	  "Lua Method",
-	  "Gateway client error"
+	  "Gateway client error",
+	  "blacklist config from file"
 	  
     ]
   }

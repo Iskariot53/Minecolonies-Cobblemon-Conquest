@@ -60,6 +60,9 @@
     "workstation": true,
     "timedoor": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -78,6 +81,7 @@
   },
   "cobblemonintegrations": {
     "healer": true,
+    "campfire_pot": true,
     "fossil_analyzer": true,
     "pokemon_entity": true,
     "berry_bush": true
