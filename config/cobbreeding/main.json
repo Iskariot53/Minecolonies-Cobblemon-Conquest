@@ -10,7 +10,7 @@
   },
   "hiddenAbilitiesEnabled": true,
   "forcedAbilitiesEnabled": false,
-  "dittoAndDittoRandomEgg": false,
+  "dittoAndDittoRandomEgg": true,
   "dittoAndDittoAllowLegendary": false,
   "dittoAndDittoAllowParadox": false,
   "dittoAndDittoAllowUltraBeast": false,

@@ -463,7 +463,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 13.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["744BF2D2E55A1511"]
@@ -828,8 +828,8 @@
 				item: { count: 1, id: "mekanism:hdpe_pellet" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 12.5d
+			x: 1.5d
+			y: 13.0d
 		}
 		{
 			dependencies: ["1A54CB7CC678C553"]

@@ -1,18 +1,6 @@
 {
+  "replace": true,
   "values": [
-    "#minecraft:is_jungle",
-    "#c:is_wet/overworld",
-	"#minecolonies:drybiomes",
-	"#minecolonies:coldbiomes",
-	"#minecolonies:temperatebiomes",
-    "minecraft:bamboo_jungle",
-    "minecraft:beach",
-    "minecraft:river",
-    "minecraft:warm_ocean",
-    "minecraft:dripstone_caves",
-    "minecraft:jungle",
-    "minecraft:lush_caves",
-    "minecraft:mangrove_swamp",
-    "minecraft:sparse_jungle"
+	"#mcc:foodlimitssuck"
   ]
 }

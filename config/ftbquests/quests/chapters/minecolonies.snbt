@@ -219,7 +219,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "35AF45CEBE3C3D14"
-					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -251,7 +250,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "054E4491958893C6"
-					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -284,7 +282,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "431230BB1F397A01"
-					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -1491,8 +1488,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 8.0d
+			x: 4.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["7AA37760F9C6BA7D"]
@@ -1524,8 +1521,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 8.0d
+			x: 5.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["7AA37760F9C6BA7D"]
@@ -1557,8 +1554,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 8.0d
+			x: 6.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["7AA37760F9C6BA7D"]
@@ -1582,8 +1579,8 @@
 				item: { count: 1, id: "minecolonies:banner_rally_guards" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 9.0d
+			x: 5.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["7AA37760F9C6BA7D"]
@@ -1608,103 +1605,8 @@
 				item: { count: 1, id: "minecolonies:ancienttome" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["7AA37760F9C6BA7D"]
-			hide_dependency_lines: true
-			id: "2B84931E84D9FEDF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "22F3AFAF809D75EB"
-					table_id: 6535411216744351324L
-					type: "loot"
-				}
-				{
-					id: "31C23F9A6EDDBA5A"
-					team_reward: false
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "7DEAD8F2C6AA7E21"
-				item: { count: 1, id: "colony4cc:colony_peripheral" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["505CB5D419E6E4AF"]
-			id: "05B069F1635948FB"
-			min_width: 400
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1B6ED82085A0E36A"
-					table_id: 6535411216744351324L
-					type: "loot"
-				}
-				{
-					id: "0EEA6A02220A9030"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [
-				{
-					id: "5D2F2ABB30B85879"
-					item: { count: 1, id: "advancedperipherals:me_bridge" }
-					type: "item"
-				}
-				{
-					id: "13BB3FEDA1033B1E"
-					item: { count: 1, id: "advancedperipherals:colony_integrator" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: 10.5d
-		}
-		{
-			dependencies: ["2B84931E84D9FEDF"]
-			icon: {
-				id: "appmek:chemical_p2p_tunnel"
-			}
-			id: "505CB5D419E6E4AF"
-			tasks: [{
-				id: "21F2CE5F4E037B36"
-				type: "checkmark"
-			}]
-			x: 6.5d
-			y: 10.5d
-		}
-		{
-			dependencies: ["2B84931E84D9FEDF"]
-			id: "6754AD270F2F4BD5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "62BA02ED72578FB6"
-					table_id: 6535411216744351324L
-					type: "loot"
-				}
-				{
-					id: "785C5ADE27F34E3F"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "5BC7235ABA66F158"
-				item: { count: 1, id: "colony4cc:colony_wireless_normal" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 9.0d
+			x: 4.5d
+			y: 8.5d
 		}
 		{
 			disable_toast: true

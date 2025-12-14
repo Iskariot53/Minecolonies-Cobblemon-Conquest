@@ -31,6 +31,6 @@
 			}
 			weight: 1.5f
 		}
-		{ id: "77F7B3A07846E1AC", item: { count: 1, id: "mega_showdown:blank-z" } }
+		{ id: "77F7B3A07846E1AC", item: { components: { "ftbquests:missing_item": "mega_showdown:blank-z" }, count: 1, id: "ftbquests:missing_item" } }
 	]
 }
