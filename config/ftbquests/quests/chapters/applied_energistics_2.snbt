@@ -1104,6 +1104,12 @@
 					type: "xp_levels"
 					xp_levels: 1
 				}
+				{
+					exclude_from_claim_all: true
+					id: "4D68B54D1870BCF3"
+					table_id: 4544532081708045868L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "1EF7013A24B25683"
@@ -1127,6 +1133,12 @@
 					id: "06E5903E6BE141A5"
 					type: "xp_levels"
 					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62AA3F785B372CBF"
+					table_id: 4544532081708045868L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1152,6 +1164,12 @@
 					type: "xp_levels"
 					xp_levels: 1
 				}
+				{
+					exclude_from_claim_all: true
+					id: "44537388F9B87086"
+					table_id: 4544532081708045868L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "370E1A5E66E5F03A"
@@ -1176,6 +1194,12 @@
 					type: "xp_levels"
 					xp_levels: 1
 				}
+				{
+					exclude_from_claim_all: true
+					id: "4860D69384A6B8DD"
+					table_id: 4544532081708045868L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "6E778B9BF3E21CAC"
@@ -1199,6 +1223,12 @@
 					id: "1E87548347ECEE9C"
 					type: "xp_levels"
 					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D364C5C41BA806E"
+					table_id: 4544532081708045868L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1250,6 +1280,12 @@
 					id: "09B5FF7B71D217FB"
 					type: "xp_levels"
 					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "046B26D2CA29690F"
+					table_id: 4544532081708045868L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1893,6 +1929,12 @@
 					id: "512CD13677FFBBD8"
 					type: "xp_levels"
 					xp_levels: 1
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78C631467DEF22CD"
+					table_id: 4544532081708045868L
+					type: "loot"
 				}
 			]
 			tasks: [{

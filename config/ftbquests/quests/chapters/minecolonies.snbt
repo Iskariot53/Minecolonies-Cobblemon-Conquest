@@ -219,6 +219,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "35AF45CEBE3C3D14"
+					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -250,6 +251,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "054E4491958893C6"
+					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -282,6 +284,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "431230BB1F397A01"
+					table_id: 8670426509195108449L
 					type: "choice"
 				}
 			]
@@ -315,6 +318,15 @@
 					item: {
 						count: 1
 						id: "minecraft:fishing_rod"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "648CA36CC09F4CA5"
+					item: {
+						count: 1
+						id: "minecraft:salmon"
 					}
 					type: "item"
 				}

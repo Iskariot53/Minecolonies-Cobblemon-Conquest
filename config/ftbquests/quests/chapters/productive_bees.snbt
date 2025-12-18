@@ -234,11 +234,22 @@
 			hide_until_deps_complete: true
 			hide_until_deps_visible: true
 			id: "4745DE7E72238D40"
-			rewards: [{
-				id: "3E5964C9BBA29C74"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
+			rewards: [
+				{
+					id: "3E5964C9BBA29C74"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 8
+					id: "6042F4CD83F5660D"
+					item: {
+						count: 1
+						id: "productivelib:upgrade_base"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F5F2588A452B626"
 				item: { count: 1, id: "productivelib:upgrade_base" }
@@ -1176,11 +1187,22 @@
 				id: "productivebees:bee_cage"
 			}
 			id: "0E890DBF19049A6D"
-			rewards: [{
-				id: "061727975BC2B27D"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
+			rewards: [
+				{
+					id: "061727975BC2B27D"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 16
+					id: "4358464CD07B79A6"
+					item: {
+						count: 1
+						id: "productivebees:draconic_chunk"
+					}
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [
 				{
@@ -1201,6 +1223,7 @@
 				{
 					id: "537BDDA5FB41F747"
 					item: { count: 1, id: "minecraft:dragon_egg" }
+					optional_task: true
 					type: "item"
 				}
 			]

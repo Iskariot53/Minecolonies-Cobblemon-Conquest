@@ -19,8 +19,16 @@
 				count: 1
 				id: "cobblemon:beast_ball"
 			}
+			random_bonus: 2
 		}
-		{ id: "4A6C5653C2DE2CA7", item: { count: 1, id: "cobblemon:ancient_origin_ball" } }
+		{
+			id: "4A6C5653C2DE2CA7"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_origin_ball"
+			}
+			random_bonus: 1
+		}
 		{ id: "333EBECA7957BE76", item: { count: 1, id: "brendons_bottlecaps:goldencap" } }
 		{
 			count: 20
@@ -31,6 +39,7 @@
 			}
 			weight: 1.5f
 		}
-		{ id: "77F7B3A07846E1AC", item: { components: { "ftbquests:missing_item": "mega_showdown:blank-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2C8454E8BCBB6E65", item: { count: 1, id: "mega_showdown:blank_z" } }
+		{ id: "4BD785CDD0651A95", item: { count: 1, id: "mega_showdown:mega_stone" } }
 	]
 }
