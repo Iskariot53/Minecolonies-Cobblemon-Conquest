@@ -1,0 +1,57 @@
+{
+	id: "3F116BD9B093162C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ae2_mega"
+	}
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			id: "1E29266B8C68327C"
+			item: {
+				count: 1
+				id: "megacells:mega_item_cell_housing"
+			}
+			weight: 0.75f
+		}
+		{
+			id: "0DFD3C7E07A0C7E7"
+			item: {
+				count: 1
+				id: "megacells:mega_fluid_cell_housing"
+			}
+			weight: 0.75f
+		}
+		{
+			id: "4E3FD2F4FCDF5C41"
+			item: {
+				count: 1
+				id: "megacells:mega_chemical_cell_housing"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 4
+			id: "3277C2987BFD715D"
+			item: {
+				count: 1
+				id: "megacells:accumulation_processor"
+			}
+			weight: 0.9f
+		}
+		{
+			count: 64
+			id: "05D4372BB3DED8B5"
+			item: {
+				count: 1
+				id: "ae2:sky_dust"
+			}
+		}
+	]
+}
