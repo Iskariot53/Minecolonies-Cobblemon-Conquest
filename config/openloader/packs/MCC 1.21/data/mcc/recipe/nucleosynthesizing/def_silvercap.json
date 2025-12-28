@@ -1,1 +1,1 @@
-{"type":"mekanism:nucleosynthesizing","chemical_input":{"amount":5,"chemical":"mekanism:antimatter"},"duration":1000,"item_input":{"count":5,"item":"cobblemon:iron"},"output":{"count":1,"id":"brendons_bottlecaps:defsilvercap"},"per_tick_usage":false}
+{"type":"mekanism:nucleosynthesizing","chemical_input":{"amount":5,"chemical":"mekanism:antimatter"},"duration":1000,"item_input":{"count":5,"item":"cobblemon:iron"},"output":{"count":1,"id":"obc:bottle_cap_defence"},"per_tick_usage":false}

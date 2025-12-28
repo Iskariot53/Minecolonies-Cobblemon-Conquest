@@ -1,31 +1,31 @@
 {
   "bank": [
     {
-      "item": "brendons_bottlecaps:atksilvercap",
+      "item": "obc:bottle_cap_attack",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:spatksilvercap",
+      "item": "obc:bottle_cap_special_attack",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:defsilvercap",
+      "item": "obc:bottle_cap_defence",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:spdefsilvercap",
+      "item": "obc:bottle_cap_special_defence",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:speedsilvercap",
+      "item": "obc:bottle_cap_speed",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:hpsilvercap",
+      "item": "obc:bottle_cap_hp",
       "price": 25000
     },
     {
-      "item": "brendons_bottlecaps:goldencap",
+      "item": "obc:bottle_cap_gold",
       "price": 175000
     },
 	{

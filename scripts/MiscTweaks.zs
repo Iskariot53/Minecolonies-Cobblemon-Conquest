@@ -71,50 +71,6 @@ craftingTable.addJsonRecipe("cobblemon_conquest.blank_z",
         "id": "mega_showdown:blank_z"
     }
 });
-craftingTable.remove(<item:brendons_bottlecaps:goldencap>);
-craftingTable.addJsonRecipe("cobblemon_conquest.goldencap",
-{
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "ABC",
-        "DEF",
-        "GHI"
-    ],
-    "key": {
-        "A": {
-            "item": "brendons_bottlecaps:atksilvercap"
-        },
-        "B": {
-            "item": "brendons_bottlecaps:spatksilvercap"
-        },
-		"C": {
-            "item": "brendons_bottlecaps:speedsilvercap"
-        },
-		"D": {
-            "item": "minecraft:echo_shard"
-        },
-        "E": {
-            "item": "minecraft:dragon_breath"
-        },
-		"F": {
-            "item": "minecraft:nether_star"
-        },
-		"G": {
-            "item": "brendons_bottlecaps:defsilvercap"
-        },
-		"H": {
-            "item": "brendons_bottlecaps:spdefsilvercap"
-        },
-		"I": {
-            "item": "brendons_bottlecaps:hpsilvercap"
-        }
-		
-    },
-    "result": {
-        "count": 1,
-        "id": "brendons_bottlecaps:goldencap"
-    }
-});
 craftingTable.addJsonRecipe("cobblemon_conquest.warden_upgrade_smithing_template",
 {
     "type": "minecraft:crafting_shaped",

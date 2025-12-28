@@ -28,7 +28,8 @@
 	  "sending packet",
 	  "Lua Method",
 	  "Gateway client error",
-	  "blacklist config from file"
+	  "blacklist config from file",
+	  "Recoverable errors when loading section"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -58,7 +59,8 @@
 	  "sending packet",
 	  "Lua Method",
 	  "Gateway client error",
-	  "blacklist config from file"
+	  "blacklist config from file",
+	  "Recoverable errors when loading section"
 	  
     ]
   }

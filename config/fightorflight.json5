@@ -15,6 +15,8 @@
 	"minimum_attack_level": 5,
 	// The minimum level a Pokemon needs to be to attack unprovoked.
 	"minimum_attack_unprovoked_level": 10,
+	// If this is set to true, player's Pokemon won't attack shiny Pokemon
+	"not_attacking_wild_shiny": true,
 	// If a wild Pokemon's aggro is above this value, it will attack the player proactively
 	"aggressive_threshold": 100.0,
 	// If a wild Pokemon's aggro is above this value and lower than the aggressive_threshold, it will fight back when attacked,if the Pokemon's aggro is lower than this, it will just run away.
@@ -273,6 +275,8 @@
 	"use_fof_style_melee": true,
 	// If you want to use range attack from FOF
 	"use_range_attack": true,
-	// If you want to set willDefendOwner to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that the Pokemon added by the datapacks can't attack.
-	"force_enable_defend_owner": true
+	// If you want to set willDefendOwner to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that player's Pokemon added by the datapacks can't attack.
+	"force_enable_defend_owner": true,
+	// If you want to set willDefendSelf to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that wild Pokemon added by the datapacks can't attack.
+	"force_enable_defend_self": true
 }

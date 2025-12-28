@@ -1,79 +1,72 @@
-Minecolonies - Cobblemon Conquest -  2.1.0 Changelog
-
-
-Updated to NeoForge 21.1.214
-
-
-
-Mods Added
-
-
-- Entangled
-- Mob Grinding Utils
-- Personality
-
+Minecolonies - Cobblemon Conquest -  2.1.3 Changelog
 
 
 Mods Removed
 
 
-- Cobblemon: Ride On!
+- Cobblemon Brendon's Bottlecaps
+
+Mods Added
+
+
+- cobble-gts
+- Cobblemon: Fight First
+- Cobblemon: Living Dex
+- Cobblemon: Max Repel
+- Cobblemon Pokerus
+- Lootrmon: Lootr & Cobblemon Compatibility
+- Only Bottle Caps
 
 
 
 Mods Updated
 
 
+- AdvancedAE
+- AE2: Crafting Tree
+- Applied Energistics 2 Wireless Terminals
 - Backpacked
-- Berry Pouch
-- CobbleFurnies
-- Cobbleloots: Loot Balls and More!
-- Cobblemon
-- Cobblemon Box Link
-- Cobblemon Capture XP
-- Cobblemon Challenge
+- BaguetteLib
+- Balm
+- Bookshelf
 - Cobblemon Fight or Flight Reborn
-- Cobblemon Integrations
 - Cobblemon: Mega Showdown
-- Cobblemon Move Inspector
-- Cobblemon: Parting Gifts
-- Cobblemon Pokenav
-- Cobblemon Poképedia: Cobblepedia
-- Cobblemon Quests
-- Cobblemon: SafePastures
-- Cobblemon Smartphone
 - Cobblemon Spawn Notification
-- Cobblemon Tim Core
-- Cobbreeding
-- Create: Copycats+
-- Create: Hypertubes
-- Eternal Starlight
+- Cobweb
+- Collective
+- CraftTweaker
+- Create Crafts & Additions
+- CreativeCore
+- Create: Deep Dark
+- e4mc
 - Framework
-- FTB Chunks
-- FTB Essentials
-- FTB Library
-- FTB Quests
-- FTB Teams
-- JEI
-- Large Ore Deposits
-- MoreCobblemonTweaks
-- Oritech
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- SimpleTMs: TMs and TRs for Cobblemon
+- Fusion
+- Industrial Foregoing
+- Lios Overhauled Villages
+- Lootr
+- Moonlight Lib
+- Ping Wheel
+- Productive Bees
+- Pylons
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Time in a bottle
+- Tom's Simple Storage Mod
 - Tomtaru's Cobblemon & Immersive Engineering Tweaks
-- Torchmaster
+- Towers of the Wild Modded
+- The Twilight Forest
+- Waystones
 
 
 
 Changes
 
 
-- Quests and rewards updated.
-- Minecolonies specific food restrictions removed for growing.
-- Fixed Missing items in oritech's quest rewards.
-
-
-- FULLY COMPATIBLE WITH OLD WORLD FILES, HOWEVER:
-
-MANY MAJOR CHANGES, INCLUDING ENTIRE CODE BASE RE-WRITES, HAVE TAKEN PLACE WITHIN MULTIPLE CORE MODS THE PACK IS BUILT AROUND. BACK-UP BEFORE UPDATING!
+- Max stress for alternators/motors buffed 16k -> 32k.
+- Adds global economy and sales/trading system implemented, relic coins based, for now at least.
+- Quest updates and fixes, increases/further extends rewards to include more relic coins.
+- Implements replacement bottlecaps, resolving crashes caused by them. Fisher huts are now also a viable means of obtaining them. (not sifter exclusive anymore).
+- Caps added to treasure loot tables (can be found in chests now, rarely)
+- Implements 1k block range for spawn notifications as well as notifs themselves are now actionable again by default. (Still configurable.)
+- Fixed Red Merchant causing server crashes.
+- Adds tags to extend pokemon spawns into twilight forest.

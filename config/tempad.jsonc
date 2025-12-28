@@ -58,12 +58,12 @@
          * The amount of fuel that the Chronometer can store.
          * Type: Integer
          */
-        "capacity": 0,
+        "capacity": 2000,
         /*
          * The amount of time it takes for the Chronometer to generate 1 chronon (in ticks).
          * Type: Integer
          */
-        "generation_rate": 48,
+        "generation_rate": 60,
         /*
          * The amount of chronons generated everytime the Chronometer does a tick of work.
          * Type: Integer

@@ -12,6 +12,11 @@
 	# how many slots will appear when opening the "Equipped Backpacks" menu.
 	# Valid range: 1 to 9 (inclusive)
 	maxEquipable = 5
+	# If enabled, backpacks will stay equipped on the player after death (same as the
+	# keepInventory game rule). Please note that this will make the Recall augment
+	# effectively useless.
+	# Valid values: true, false
+	keepOnDeath = false
 
 	# Cost related properties for equipable slots
 	[equipable.unlockCost]

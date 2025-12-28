@@ -879,7 +879,10 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				id: "productivebees:upgrade_productivity_4"
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
 			}
 			id: "3825DE01F400EA4D"
 			rewards: [{
@@ -1223,7 +1226,6 @@
 				{
 					id: "537BDDA5FB41F747"
 					item: { count: 1, id: "minecraft:dragon_egg" }
-					optional_task: true
 					type: "item"
 				}
 			]

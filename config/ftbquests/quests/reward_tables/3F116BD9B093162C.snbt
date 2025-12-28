@@ -10,7 +10,7 @@
 		string_id: "ae2_mega"
 	}
 	loot_size: 1
-	order_index: 14
+	order_index: 13
 	rewards: [
 		{
 			id: "1E29266B8C68327C"

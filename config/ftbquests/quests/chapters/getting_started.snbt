@@ -768,7 +768,10 @@
 			dependencies: ["6BBE6B0C7DA24F2F"]
 			hide_dependency_lines: true
 			icon: {
-				id: "brendons_bottlecaps:goldencap"
+				components: {
+					"ftbquests:missing_item": "brendons_bottlecaps:goldencap"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "32037B9970FC3DF2"
 			tasks: [{

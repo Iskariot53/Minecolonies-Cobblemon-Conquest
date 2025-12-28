@@ -197,7 +197,7 @@
 		}
 		{
 			height: 1.0d
-			image: "ping-wheel:textures/arrow.png"
+			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 8.5d
@@ -221,7 +221,7 @@
 		}
 		{
 			height: 1.0d
-			image: "ping-wheel:textures/arrow.png"
+			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 10.5d
@@ -237,7 +237,7 @@
 		}
 		{
 			height: 1.0d
-			image: "ping-wheel:textures/arrow.png"
+			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 12.5d
@@ -633,7 +633,7 @@
 			]
 			tasks: [{
 				id: "508B5822C2DFE033"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_leaf)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mint_leaves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -13.0d
@@ -744,7 +744,7 @@
 			dependencies: ["222C9B14E10E8E98"]
 			hide_dependency_lines: true
 			icon: {
-				id: "brendons_bottlecaps:goldencap"
+				id: "obc:bottle_cap"
 			}
 			id: "0D02A273BDFC0880"
 			rewards: [

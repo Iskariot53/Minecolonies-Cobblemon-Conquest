@@ -1107,7 +1107,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "4D68B54D1870BCF3"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1137,7 +1136,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "62AA3F785B372CBF"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1167,7 +1165,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "44537388F9B87086"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1197,7 +1194,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "4860D69384A6B8DD"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1227,7 +1223,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "5D364C5C41BA806E"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1284,7 +1279,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "046B26D2CA29690F"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]
@@ -1933,7 +1927,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "78C631467DEF22CD"
-					table_id: 4544532081708045868L
 					type: "loot"
 				}
 			]

@@ -11,22 +11,22 @@
       "id": "minecraft:sugar_cane"
     },
 	{
-      "id": "brendons_bottlecaps:atksilvercap"
+      "id": "obc:bottle_cap_attack"
     },
     {
-      "id": "brendons_bottlecaps:spatksilvercap"
+      "id": "obc:bottle_cap_special_attack"
     },
     {
-      "id": "brendons_bottlecaps:spdefsilvercap"
+      "id": "obc:bottle_cap_special_defence"
     },
     {
-      "id": "brendons_bottlecaps:speedsilvercap"
+      "id": "obc:bottle_cap_speed"
     },
 	{
-      "id": "brendons_bottlecaps:defsilvercap"
+      "id": "obc:bottle_cap_defence"
     },
     {
-      "id": "brendons_bottlecaps:hpsilvercap"
+      "id": "obc:bottle_cap_hp"
     }
   ],
   "crafter": "sifter_custom",

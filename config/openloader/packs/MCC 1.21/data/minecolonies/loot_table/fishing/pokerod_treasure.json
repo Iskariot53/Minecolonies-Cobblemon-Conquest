@@ -26,27 +26,27 @@
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:atksilvercap"
+          "name": "obc:bottle_cap_attack"
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:spatksilvercap"
+          "name": "obc:bottle_cap_special_attack"
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:spdefsilvercap"
+          "name": "obc:bottle_cap_special_defence"
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:speedsilvercap"
+          "name": "obc:bottle_cap_speed"
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:defsilvercap"
+          "name": "obc:bottle_cap_defence"
         },
 		{
           "type": "minecraft:item",
-          "name": "brendons_bottlecaps:hpsilvercap"
+          "name": "obc:bottle_cap_hp"
         }
       ],
       "rolls": 1.0

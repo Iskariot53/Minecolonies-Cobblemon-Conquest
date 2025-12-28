@@ -841,8 +841,11 @@
 				{
 					id: "459D3D3B15CD8F94"
 					item: {
+						components: {
+							"ftbquests:missing_item": "brendons_bottlecaps:goldencap"
+						}
 						count: 1
-						id: "brendons_bottlecaps:goldencap"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

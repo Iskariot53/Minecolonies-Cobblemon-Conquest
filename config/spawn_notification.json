@@ -1,16 +1,16 @@
 {
-  "broadcastRange": -1,
+  "broadcastRange": 3000,
   "playerLimit": -1,
   "broadcastAcrossDimensions": false,
-  "actionBar": false,
+  "actionBar": true,
   "baseColor": "GRAY",
   "partColors": {
-    "spawn_notification:pokemon_species": "WHITE",
-    "spawn_notification:pokemon_form": "WHITE",
-    "spawn_notification:player_name": "WHITE",
+    "spawn_notification:pokemon_species": "LIME",
+    "spawn_notification:pokemon_form": "GREEN",
+    "spawn_notification:player_name": "BLUE",
     "spawn_notification:biome": "WHITE",
     "spawn_notification:dimension": "WHITE",
-    "spawn_notification:bucket": "WHITE",
+    "spawn_notification:bucket": "PURPLE",
     "spawn_notification:coord_x": "WHITE",
     "spawn_notification:coord_y": "WHITE",
     "spawn_notification:coord_z": "WHITE"

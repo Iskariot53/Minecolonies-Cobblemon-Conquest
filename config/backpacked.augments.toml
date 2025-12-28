@@ -1,3 +1,10 @@
+# A list that contains ids of augments that should be disabled. The augments will be
+# hidden from the popup menu and cannot be selected. Augments applied on existing
+# backpacks will simply be removed. Use advanced tooltips (F3 + H) to discover the IDs
+# of augments.
+# Example: disabledAugments = ["backpacked:recall", "backpacked:lootbound"]
+disabledAugments = []
+
 # Funnelling related properties
 [funnelling]
 	# The maximum amount of filters that can be configured

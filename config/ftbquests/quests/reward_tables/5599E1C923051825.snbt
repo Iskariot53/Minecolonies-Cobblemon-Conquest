@@ -46,12 +46,12 @@
 			}
 		}
 		{ id: "097E625A790CC5DD", item: { count: 1, id: "cobblemon:ability_patch" } }
-		{ id: "085E01A5764A396C", item: { count: 1, id: "brendons_bottlecaps:atksilvercap" } }
-		{ id: "0E29D15581160D90", item: { count: 1, id: "brendons_bottlecaps:spatksilvercap" } }
-		{ id: "0E5DCD314AA59E9E", item: { count: 1, id: "brendons_bottlecaps:spdefsilvercap" } }
-		{ id: "31ED1301D9C0A893", item: { count: 1, id: "brendons_bottlecaps:speedsilvercap" } }
-		{ id: "4A552D2ACB4012C8", item: { count: 1, id: "brendons_bottlecaps:defsilvercap" } }
-		{ id: "76302421F9ED322E", item: { count: 1, id: "brendons_bottlecaps:hpsilvercap" } }
+		{ id: "085E01A5764A396C", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:atksilvercap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0E29D15581160D90", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:spatksilvercap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0E5DCD314AA59E9E", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:spdefsilvercap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "31ED1301D9C0A893", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:speedsilvercap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4A552D2ACB4012C8", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:defsilvercap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "76302421F9ED322E", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:hpsilvercap" }, count: 1, id: "ftbquests:missing_item" } }
 		{
 			count: 3
 			id: "7CFAA96F88E97DCD"
