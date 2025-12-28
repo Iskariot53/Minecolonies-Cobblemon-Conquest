@@ -1,0 +1,1 @@
+{"replace":false,"values":["#minecraft:is_hill","#cobblemon:is_highlands",{"id":"#c:is_hill","required":false},{"id":"#c:is_mountain/slope","required":false},{"id":"#c:is_windswept","required":false},{"id":"twilightforest:oak_savannah","required":false}]}
