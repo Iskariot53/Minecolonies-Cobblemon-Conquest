@@ -1,0 +1,6 @@
+{
+  "expirationTimeHours": 48,
+  "enableDebugLogging": false,
+  "maxListings": 20,
+  "currency": "cobblemon:relic_coin"
+}

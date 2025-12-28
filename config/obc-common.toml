@@ -1,0 +1,20 @@
+# This is to modify the drop chance of the bottle caps in the Minecraft treasure loot pool
+[minecraft-treasure]
+    # Chance of dropping a silver bottle cap
+    # Allowed range: 0.0 ~ 1.0 - Default: 0.27
+    silverBottleCap = 0.27
+
+    # Chance of dropping a gold bottle cap
+    # Allowed range: 0.0 ~ 1.0 - Default: 0.07
+    goldBottleCap = 0.07
+
+# This is to modify the drop chance of the bottle caps in the Cobblemon Pokerod treasure loot pool
+[cobblemon-treasure]
+    # Chance of dropping a silver bottle cap
+    # Allowed range: 0.0 ~ 1.0 - Default: 0.3
+    silverBottleCap = 0.1
+
+    # Chance of dropping a gold bottle cap
+    # Allowed range: 0.0 ~ 1.0 - Default: 0.1
+    goldBottleCap = 0.02
+
