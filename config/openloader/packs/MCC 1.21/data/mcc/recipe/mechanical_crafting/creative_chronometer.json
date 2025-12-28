@@ -1,0 +1,38 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "immersiveengineering:capacitor_hv"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "oritech:overcharged_crystal"
+    },
+	"D": {
+      "item": "mekanism:pellet_polonium"
+    },
+	"E": {
+      "item": "mekanism:pellet_plutonium"
+    },
+	"F": {
+      "item": "tempad:chronometer"
+    }
+	
+  },
+  "pattern": [
+    " ADA ",
+    "ABCBA",
+    "ECFCE",
+    "ABCBA",
+    " ADA "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tempad:creative_chronometer"
+  },
+  "show_notification": false
+}
