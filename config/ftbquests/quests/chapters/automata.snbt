@@ -1,0 +1,340 @@
+{
+	autofocus_id: "05B069F1635948FB"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "automata"
+	group: "7C5E8979F01FD474"
+	icon: {
+		components: {
+			"minecraft:dyed_color": {
+				rgb: 14605932
+				show_in_tooltip: 0b
+			}
+		}
+		id: "computercraft:disk"
+	}
+	id: "51D75F3CA4211807"
+	images: [
+		{
+			height: 10.0d
+			image: "mcc:textures/alice.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 15.5d
+			y: 1.5d
+		}
+		{
+			height: 8.0d
+			image: "mcc:textures/diskdrive.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 24.0d
+			y: 2.0d
+		}
+		{
+			height: 3.0d
+			image: "mcc:textures/automata.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 5.0d
+			y: -5.0d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"7AA37760F9C6BA7D"
+				"749B6CDDAE75B5F3"
+			]
+			hide_dependency_lines: false
+			id: "2B84931E84D9FEDF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "22F3AFAF809D75EB"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					id: "31C23F9A6EDDBA5A"
+					team_reward: false
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "7DEAD8F2C6AA7E21"
+				item: { count: 1, id: "colony4cc:colony_peripheral" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2DA656ACA7C75C65"]
+			id: "6754AD270F2F4BD5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "62BA02ED72578FB6"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					id: "785C5ADE27F34E3F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				advancement: "colony4cc:pocket_colony_wireless_normal"
+				criterion: ""
+				id: "0E4F13D172FABFDC"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2B84931E84D9FEDF"]
+			icon: {
+				id: "advancedperipherals:colony_integrator"
+			}
+			id: "505CB5D419E6E4AF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01AAC1AB586DA77D"
+				table_id: 6535411216744351324L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "28B6BC6C9F0CF36A"
+				item: { count: 1, id: "advancedperipherals:colony_integrator" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2B84931E84D9FEDF"
+				"6A36022310546F15"
+			]
+			dependency_requirement: "one_completed"
+			id: "05B069F1635948FB"
+			min_width: 400
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B6ED82085A0E36A"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					id: "0EEA6A02220A9030"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5D2F2ABB30B85879"
+				item: { count: 1, id: "advancedperipherals:me_bridge" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["704FD1152464AD1B"]
+			id: "749B6CDDAE75B5F3"
+			tasks: [{
+				id: "02059370D87D642C"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"505CB5D419E6E4AF"
+				"05B069F1635948FB"
+			]
+			id: "2FE5070A1C6A7930"
+			rewards: [
+				{
+					id: "5F86557EC3B87E0F"
+					item: {
+						components: {
+							"computercraft:disk_id": 0
+							"minecraft:custom_name": "\"Project: A.L.I.C.E.\""
+							"minecraft:dyed_color": {
+								rgb: 13388876
+								show_in_tooltip: 0b
+							}
+						}
+						count: 1
+						id: "computercraft:disk"
+					}
+					type: "item"
+				}
+				{
+					id: "7E81E69AEB3C51DE"
+					type: "xp_levels"
+					xp_levels: 0
+				}
+			]
+			tasks: [
+				{
+					advancement: "minecolonies:production/build_warehouse"
+					criterion: ""
+					id: "6A749374BBFCC274"
+					type: "advancement"
+				}
+				{
+					advancement: "minecolonies:production/build_delivery_person"
+					criterion: ""
+					id: "31F939C7CA3B8EDF"
+					type: "advancement"
+				}
+				{
+					count: 9L
+					id: "14B9150A821C669F"
+					item: { count: 1, id: "computercraft:monitor_advanced" }
+					type: "item"
+				}
+				{
+					id: "139312201EF0DE31"
+					item: { count: 1, id: "computercraft:computer_advanced" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6754AD270F2F4BD5"]
+			id: "1C219A867928BDAC"
+			tasks: [{
+				advancement: "colony4cc:pocket_colony_wireless_advanced"
+				criterion: ""
+				id: "10E20A62D77E5017"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2B84931E84D9FEDF"]
+			id: "2DA656ACA7C75C65"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5207CDFD08FD4776"
+					table_id: 6535411216744351324L
+					type: "loot"
+				}
+				{
+					id: "1BCB0E3E1E1586B3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				advancement: "colony4cc:pocket_colony"
+				criterion: ""
+				id: "435839CC70B58367"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"2FE5070A1C6A7930"
+				"4EA9D0D1E104DF90"
+			]
+			id: "6FA810ECA66B02CA"
+			rewards: [{
+				id: "456BC7864305A128"
+				type: "xp_levels"
+				xp_levels: 0
+			}]
+			tasks: [{
+				id: "5750DB93433DC479"
+				item: { count: 1, id: "computercraft:disk_drive" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2FE5070A1C6A7930"]
+			id: "6E734FD617A63844"
+			invisible: true
+			tasks: [{
+				id: "3115AA38123A61CF"
+				item: { components: { "computercraft:disk_id": 0, "minecraft:custom_name": "\"Project: A.L.I.C.E.\"", "minecraft:dyed_color": { rgb: 13388876, show_in_tooltip: 0b } }, count: 1, id: "computercraft:disk" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6E734FD617A63844"]
+			id: "773414AB28826F19"
+			tasks: [{
+				id: "497E274CE7894604"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["749B6CDDAE75B5F3"]
+			id: "6A36022310546F15"
+			tasks: [{
+				id: "6B2EC858CF771E2D"
+				item: { count: 1, id: "advancedperipherals:geo_scanner" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"05B069F1635948FB"
+				"6A36022310546F15"
+			]
+			id: "4EA9D0D1E104DF90"
+			tasks: [
+				{
+					count: 9L
+					id: "070A18C43D111B87"
+					item: { count: 1, id: "create:mechanical_crafter" }
+					type: "item"
+				}
+				{
+					id: "72AF5032DB831679"
+					item: { count: 1, id: "computercraft:computer_advanced" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "441AF88C9406E16D"
+					item: { count: 1, id: "computercraft:monitor_advanced" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4BF2FD863469005F"
+					item: { count: 1, id: "create:item_vault" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+	]
+}
