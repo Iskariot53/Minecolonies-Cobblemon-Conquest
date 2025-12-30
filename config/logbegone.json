@@ -29,7 +29,9 @@
 	  "Lua Method",
 	  "Gateway client error",
 	  "blacklist config from file",
-	  "Recoverable errors when loading section"
+	  "Recoverable errors when loading section",
+	  "Key mapping",
+	  "loaded too early"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -60,7 +62,9 @@
 	  "Lua Method",
 	  "Gateway client error",
 	  "blacklist config from file",
-	  "Recoverable errors when loading section"
+	  "Recoverable errors when loading section",
+	  "Key mapping",
+	  "loaded too early"
 	  
     ]
   }

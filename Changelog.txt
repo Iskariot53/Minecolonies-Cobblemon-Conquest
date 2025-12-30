@@ -1,4 +1,4 @@
-Minecolonies - Cobblemon Conquest -  2.1.3 Changelog
+Minecolonies - Cobblemon Conquest -  2.2.0 Changelog
 
 
 Mods Removed
@@ -6,14 +6,18 @@ Mods Removed
 
 - Cobblemon Brendon's Bottlecaps
 
+
+
 Mods Added
 
 
 - cobble-gts
+- Cobblemon additions (previously BCA Data pack)
 - Cobblemon: Fight First
 - Cobblemon: Living Dex
 - Cobblemon: Max Repel
 - Cobblemon Pokerus
+- Fabric Language Kotlin
 - Lootrmon: Lootr & Cobblemon Compatibility
 - Only Bottle Caps
 
@@ -29,6 +33,7 @@ Mods Updated
 - BaguetteLib
 - Balm
 - Bookshelf
+- Byzantine Styles Pack for Minecolonies
 - Cobblemon Fight or Flight Reborn
 - Cobblemon: Mega Showdown
 - Cobblemon Spawn Notification
@@ -70,3 +75,5 @@ Changes
 - Implements 1k block range for spawn notifications as well as notifs themselves are now actionable again by default. (Still configurable.)
 - Fixed Red Merchant causing server crashes.
 - Adds tags to extend pokemon spawns into twilight forest.
+- Form change fixes and well as new megas from ZA.
+- re-introduces custom spawns. eliminating/downsizing the spawns of higher-tier evolutions. (re-introduces - meaning this isn't new and not subject to debate, sorry)
