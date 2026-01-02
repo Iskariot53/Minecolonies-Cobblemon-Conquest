@@ -1,0 +1,56 @@
+{
+	id: "78538AF8E3B46061"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "minecolonies_food"
+	}
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			count: 64
+			id: "03EE24D6F7D01776"
+			item: {
+				count: 1
+				id: "minecolonies:sushi_roll"
+			}
+		}
+		{
+			count: 64
+			id: "28A4A995BA7BCDC7"
+			item: {
+				count: 1
+				id: "minecolonies:steak_dinner"
+			}
+		}
+		{
+			count: 64
+			id: "2D628B5A0E08916A"
+			item: {
+				count: 1
+				id: "minecolonies:ramen"
+			}
+		}
+		{
+			count: 64
+			id: "1CAB7EAD45B2D8AE"
+			item: {
+				count: 1
+				id: "minecolonies:mutton_dinner"
+			}
+		}
+		{
+			count: 64
+			id: "0540C277AA98B58E"
+			item: {
+				count: 1
+				id: "minecolonies:fish_dinner"
+			}
+		}
+	]
+}
