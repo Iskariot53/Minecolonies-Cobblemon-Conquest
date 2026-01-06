@@ -1,79 +1,29 @@
-Minecolonies - Cobblemon Conquest -  2.2.0 Changelog
+Minecolonies - Cobblemon Conquest -  2.2.1 Changelog
 
 
 Mods Removed
-
-
-- Cobblemon Brendon's Bottlecaps
 
 
 
 Mods Added
 
 
-- cobble-gts
-- Cobblemon additions (previously BCA Data pack)
-- Cobblemon: Fight First
-- Cobblemon: Living Dex
-- Cobblemon: Max Repel
-- Cobblemon Pokerus
-- Fabric Language Kotlin
-- Lootrmon: Lootr & Cobblemon Compatibility
-- Only Bottle Caps
+-
 
 
 
 Mods Updated
 
 
-- AdvancedAE
-- AE2: Crafting Tree
-- Applied Energistics 2 Wireless Terminals
-- Backpacked
-- BaguetteLib
-- Balm
-- Bookshelf
-- Byzantine Styles Pack for Minecolonies
-- Cobblemon Fight or Flight Reborn
-- Cobblemon: Mega Showdown
-- Cobblemon Spawn Notification
-- Cobweb
-- Collective
-- CraftTweaker
-- Create Crafts & Additions
-- CreativeCore
-- Create: Deep Dark
-- e4mc
-- Framework
-- Fusion
-- Industrial Foregoing
-- Lios Overhauled Villages
 - Lootr
-- Moonlight Lib
-- Ping Wheel
-- Productive Bees
-- Pylons
-- SuperMartijn642's Core Lib
-- Supplementaries
-- Time in a bottle
-- Tom's Simple Storage Mod
-- Tomtaru's Cobblemon & Immersive Engineering Tweaks
-- Towers of the Wild Modded
+- Modernfix
 - The Twilight Forest
-- Waystones
-
+- Underground Villages, Stoneholm
 
 
 Changes
 
 
-- Max stress for alternators/motors buffed 16k -> 32k.
-- Adds global economy and sales/trading system implemented, relic coins based, for now at least.
-- Quest updates and fixes, increases/further extends rewards to include more relic coins.
-- Implements replacement bottlecaps, resolving crashes caused by them. Fisher huts are now also a viable means of obtaining them. (not sifter exclusive anymore).
-- Caps added to treasure loot tables (can be found in chests now, rarely)
-- Implements 1k block range for spawn notifications as well as notifs themselves are now actionable again by default. (Still configurable.)
-- Fixed Red Merchant causing server crashes.
-- Adds tags to extend pokemon spawns into twilight forest.
-- Form change fixes and well as new megas from ZA.
-- re-introduces custom spawns. eliminating/downsizing the spawns of higher-tier evolutions. (re-introduces - meaning this isn't new and not subject to debate, sorry)
+- Outbreaks no longer have a 10% to drop a bottlecap.
+- Changed drop rates and item rarities for lootr pools, added a few items like pokefinders to blacklist.
+- Changed optmimizations to allow some textures and sprites which were previously failing to load, to load.

@@ -12,6 +12,7 @@ craftingTable.remove(<item:cobblemon_smartphone:blue_smartphone>);
 craftingTable.remove(<item:cobblemon_smartphone:brown_smartphone>);
 craftingTable.remove(<item:cobblemon_smartphone:green_smartphone>);
 craftingTable.remove(<item:cobblemon_smartphone:red_smartphone>);
+craftingTable.remove(<item:cobblemon_smartphone:lime_smartphone>);
 craftingTable.remove(<item:cobblemon_smartphone:black_smartphone>);
 craftingTable.addJsonRecipe("cobblemon_smartphone.white_smartphone",
 {

@@ -107,13 +107,13 @@
 		block_side_attachment = true
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
 		slide_on_fall = true
-		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
-		rope_override = "supplementaries:rope"
 		#Enables horizontal placement of ropes. Disabling will make ropes always non solid
 		horizontal_ropes = true
 		#Use this config to turn allow supplementaries to replace all items tagged as #supplementaries:ropes with supplementaries own rope or turn them to air instead. This is applied to all loot tables (chests and drops)
 		#Allowed Values: REPLACE, NONE, REMOVE
 		replace_in_loot_tables = "NONE"
+		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
+		rope_override = "supplementaries:rope"
 
 	[functional.jar]
 		enabled = true
@@ -280,8 +280,6 @@
 	stone_tile = true
 	blackstone_tile = true
 	bunting = true
-	sconce = true
-	sconce_lever = true
 	pancake = true
 	checker_block = true
 	raked_gravel = true
@@ -293,6 +291,8 @@
 	candle_holder = true
 	fire_pit = true
 	wicker_fence = true
+	sconce = true
+	sconce_lever = true
 
 	[building.blackboard]
 		enabled = true
