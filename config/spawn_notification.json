@@ -2,7 +2,7 @@
   "broadcastRange": 3000,
   "playerLimit": -1,
   "broadcastAcrossDimensions": false,
-  "actionBar": true,
+  "actionBar": false,
   "baseColor": "GRAY",
   "partColors": {
     "spawn_notification:pokemon_species": "LIME",
