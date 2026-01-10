@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.5
 graphicsMode:1
 guiScale:4
@@ -21,7 +21,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 renderDistance:12
 simulationDistance:12
 screenEffectScale:1.0
@@ -48,9 +48,9 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","mod/towntalk:respack","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\AllTheMons R2.1 V1.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\Combee MC Remodel v2.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC Quests.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\Souls Mega Pack-1.3 - 1.6.0.zip","file/infinity","file/CobblecoOST.zip","file/Cobblemon Interface Modded v1.7.0.zip","file/Cobblemon Interface v1.4.0.zip","file/Cobblemon Pokédex SFX Pack v1.0 MC1.21.1.zip","file/CreateSophisticatedBackpacks.zip","file/Created Applied Energistics.zip","file/E19 Cobblemon Minimap Icons.zip","file/Mekanism CTM-Fusion 1.0.zip","file/PokePlaques-Cobblemon.zip","file/RCT Trainers+ [1.6] v1.5.zip","file/Tom\u0027s Simple Storage Revamped.zip","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/megacells:optional_cell_colours","mod/simplylight:optional_fullblock_ctm","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\E19 Cobblemon Minimap Icons.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\PokePlaques-Cobblemon.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\RCT Trainers+ [1.6] v1.5.zip","twilightdelight:shader_compatible_fiery","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC.zip"]
-incompatibleResourcePacks:["openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\AllTheMons R2.1 V1.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\Combee MC Remodel v2.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC Quests.zip","file/CreateSophisticatedBackpacks.zip","file/Created Applied Energistics.zip","file/Mekanism CTM-Fusion 1.0.zip","file/PokePlaques-Cobblemon.zip","file/Tom\u0027s Simple Storage Revamped.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\CreateSophisticatedBackpacks.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\Created Applied Energistics.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\PokePlaques-Cobblemon.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\Tom\u0027s Simple Storage Revamped.zip","twilightdelight:shader_compatible_fiery","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC.zip"]
-lastServer:
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","mod/towntalk:respack","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\ATM x MSD [v3.1.1LM].zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\E19 CMIxMSD [v1.1].zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC 1.21","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\More Series - Resource Pack.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MoreRadicalTextures1.7.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MysticMons x Mega Showdown (for Cobblemon 1.7+).zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\OA_Arsenal.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\PokePlaques-Cobblemon.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\RCT Trainers+ [1.6] v2.0.zip","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\ZAfor1.7.zip","file/Mekanism CTM-Fusion 1.0.zip","file/CobblecoOST.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/Cobblemon Pokedex SFX Pack v1.0 MC1.21.1.zip","file/CobblemonAdvancementPlaques-[1.0.2].zip","file/Created Applied Energistics.zip","file/E19 Cobblemon Minimap Icons.zip","file/Pretty_Pipez_Mekanism_1_21.zip","file/RCT Trainers+ [1.6] v2.1.zip","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms","mod/simplylight:optional_fullblock_ctm","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/mega_showdown:resourcepacks/regionbiasmsd","mod/megacells:optional_cell_colours","file/Tom\u0027s Simple Storage Revamped.zip"]
+incompatibleResourcePacks:["openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\MCC 1.21","openloader/C:\\Users\\tftbe\\curseforge\\minecraft\\Instances\\Minecolonies-Cobblemon-Conquest\\config\\openloader\\packs\\PokePlaques-Cobblemon.zip","file/Mekanism CTM-Fusion 1.0.zip","file/Created Applied Energistics.zip","file/Tom\u0027s Simple Storage Revamped.zip"]
+lastServer:localhost
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -75,9 +75,9 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -88,11 +88,11 @@ telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
-soundCategory_hostile:1.0
+soundCategory_hostile:0.20774647887323944
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0

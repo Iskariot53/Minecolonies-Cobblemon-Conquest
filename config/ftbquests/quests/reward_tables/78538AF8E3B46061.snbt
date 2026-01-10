@@ -10,7 +10,7 @@
 		string_id: "minecolonies_food"
 	}
 	loot_size: 1
-	order_index: 13
+	order_index: 14
 	rewards: [
 		{
 			count: 64
