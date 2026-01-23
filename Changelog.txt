@@ -1,29 +1,13 @@
-Minecolonies - Cobblemon Conquest -  2.2.1 Changelog
+Minecolonies - Cobblemon Conquest -  2.2.2 Changelog
 
-
-Updated to Neoforge 21.1.217
-
-
-
-Mods Added
-
-
-- [Cobblemon] Navas' ZAmega (previously ZA for 1.7 datapack)
 
 
 
 Mods Updated
 
 
-- Lootr
-- Modernfix
-- The Twilight Forest
-- Underground Villages, Stoneholm
-
 
 Changes
 
 
-- Outbreaks no longer have a 10% to drop a bottlecap.
-- Changed drop rates and item rarities for lootr pools, added a few items like pokefinders to blacklist.
-- Changed optmimizations to allow some textures and sprites which were previously failing to load, to load properly.
+- Updated quest rewards for accuracy.

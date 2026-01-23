@@ -508,3 +508,24 @@ craftingTable.addShaped("cobblemon_conquest.masterwork_blueprint", <item:cobblem
     [<item:cobblemonparts:ambiguous_shard>, <item:minecraft:end_stone>, <item:cobblemonparts:ambiguous_shard>],
     [<item:cobblemonparts:ambiguous_shard>, <item:cobblemonparts:ambiguous_shard>, <item:cobblemonparts:ambiguous_shard>]
 ]);
+
+<recipetype:productivebees:bee_conversion>.addJsonRecipe("productivebees.wasted_radioactive_bee_conversion", {
+
+    "type": "productivebees:bee_conversion",
+    "source": "productivebees:radioactive",
+    "result": "productivebees:wasted_radioactive",
+    "item": {
+        "item": "mekanism:pellet_polonium"
+    },
+    "chance": 5,
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:radioactive"
+        },
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:wasted_radioactive"
+        }
+    ]
+});
