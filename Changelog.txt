@@ -1,13 +1,49 @@
 Minecolonies - Cobblemon Conquest -  2.2.2 Changelog
 
 
+Mods Removed
+
+
+- Cobblemon Move Inspector
+
+
+
+Mods Added
+
+
+- Cobblemon Battle Extras
+
 
 
 Mods Updated
 
+
+- Backpacked
+- Byzantine Styles Pack for Minecolonies
+- Cobblemon
+- Cobblemon Box Link
+- Cobblemon Fight or Flight Reborn
+- Cobblemon Integrations
+- Cobblemon: Mega Showdown
+- Cobblemon Pokerus
+- Cobblemon Tim Core
+- Cobblemon Spawn Notification
+- Comforts
+- Framework
+- FTB Teams
+- MineColonies
+- Modular Routers
+- Productive Bees
+- Pylons
+- Radical Cobblemon Trainers API
+- Stylecolonies
+- Xaero's World Map
 
 
 Changes
 
 
 - Updated quest rewards for accuracy.
+- Harvester pylons now support cobblemon related items
+- Default box count increased to 50.
+- 

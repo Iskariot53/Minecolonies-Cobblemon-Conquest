@@ -7,7 +7,7 @@
   "dropAfterDeathAnimation": false,
   "ambientPokemonCryTicks": 1080,
   "defaultKeyItems": [],
-  "defaultBoxCount": 40,
+  "defaultBoxCount": 50,
   "pokemonSaveIntervalSeconds": 30,
   "storageFormat": "nbt",
   "preventCompletePartyDeposit": false,
