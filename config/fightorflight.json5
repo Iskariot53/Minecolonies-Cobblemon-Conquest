@@ -129,12 +129,6 @@
 	"do_pokemon_defend_owner": true,
 	// Do player Pokemon defend their owners proactively? (follows the same rules as Iron Golems!!!)
 	"do_pokemon_defend_proactive": true,
-	// 0 zero means follow the same rule as Iron Golem. 1 means ignores neutral mobs that are not aiming at the player.
-	"pokemon_proactive_level": 1,
-	// Do player Pokemon defend their owners from Creepers proactively?(Iron Golems won't attack Creeper proactively.
-	"do_pokemon_defend_creeper_proactive": false,
-	// If the player's cat pokemon will attack the creeper proactively(LivelierPokemon required, this one is not functioning anymore currently) 
-	"do_cat_pokemon_defend_creeper_proactive": true,
 	// Can player Pokemon target other players?
 	"do_player_pokemon_attack_other_players": false,
 	// Can player Pokemon target other player's Pokemon?
@@ -148,7 +142,7 @@
 	// Your pokemon can gain EV points by killing a pokemon without a battle?
 	"can_gain_ev": true,
 	// If the Pokemon can evolve by using the move out of a Pokemon Battle? For example Primeape can use Rage Fist 20x to evolve without a traditional Pokemon Battle.
-	"can_progress_use_move_evoluiton": true,
+	"can_progress_use_move_evolution": true,
 	// Pokemons should be immune to suffocation damage? (cant die to wall damage, like when sand drops into them)
 	"suffocation_immunity": true,
 	// Should player-owned pokemons be immune to damage from all players?
@@ -187,6 +181,10 @@
 	"max_damage_reduction_multiplier_player": 1.2000000476837158,
 	// The highest defense stat needed to get the highest damage reduction.
 	"defense_stat_limit": 161,
+	// When a player hurts wild pokemon, should a pokemon battle be started?
+	"force_wild_battle_on_player_attack": false,
+	// When a player hurts another player's pokemon, should a pokemon battle be started?
+	"force_player_battle_on_player_attack": false,
 	// When a player owned Pokemon hurts or is hurt by a wild pokemon, should a pokemon battle be started?
 	"force_wild_battle_on_pokemon_hurt": false,
 	// When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started?

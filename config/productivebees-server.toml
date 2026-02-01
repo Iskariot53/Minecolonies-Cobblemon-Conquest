@@ -110,6 +110,8 @@
 	enableResinBeeEncasing = true
 	#Force bee simulation in hives.
 	forceBeeSimulation = false
+	#Setting this to false will completely disable bee breeding. This overwrites any bee breeding recipes and selfbreed settings in the bee files.
+	allowBeeBreeding = true
 
 ["Bee attributes"]
 	#Number of ticks between attribute improvement attempts while leashed

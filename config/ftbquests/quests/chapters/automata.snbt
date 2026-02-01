@@ -165,11 +165,16 @@
 			id: "2FE5070A1C6A7930"
 			rewards: [
 				{
-					id: "5F86557EC3B87E0F"
+					id: "7E81E69AEB3C51DE"
+					type: "xp_levels"
+					xp_levels: 0
+				}
+				{
+					id: "674F656274691EBE"
 					item: {
 						components: {
-							"computercraft:disk_id": 0
-							"minecraft:custom_name": "\"Project: A.L.I.C.E.\""
+							"computercraft:disk_id": 5
+							"minecraft:custom_name": "\"Project: A.L.I.C.E\""
 							"minecraft:dyed_color": {
 								rgb: 13388876
 								show_in_tooltip: 0b
@@ -179,11 +184,6 @@
 						id: "computercraft:disk"
 					}
 					type: "item"
-				}
-				{
-					id: "7E81E69AEB3C51DE"
-					type: "xp_levels"
-					xp_levels: 0
 				}
 			]
 			tasks: [
@@ -275,8 +275,8 @@
 			id: "6E734FD617A63844"
 			invisible: true
 			tasks: [{
-				id: "3115AA38123A61CF"
-				item: { components: { "computercraft:disk_id": 0, "minecraft:custom_name": "\"Project: A.L.I.C.E.\"", "minecraft:dyed_color": { rgb: 13388876, show_in_tooltip: 0b } }, count: 1, id: "computercraft:disk" }
+				id: "112D9066981D7C3E"
+				item: { components: { "computercraft:disk_id": 5, "minecraft:custom_name": "\"Project: A.L.I.C.E\"", "minecraft:dyed_color": { rgb: 13388876, show_in_tooltip: 0b } }, count: 1, id: "computercraft:disk" }
 				type: "item"
 			}]
 			x: 7.0d

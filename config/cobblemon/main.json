@@ -1,5 +1,5 @@
 {
-  "lastSavedVersion": "1.7.1",
+  "lastSavedVersion": "1.7.2",
   "maxPokemonLevel": 100,
   "maxPokemonFriendship": 255,
   "announceDropItems": true,
@@ -97,6 +97,7 @@
   "displayControlSeconds": 0,
   "infiniteRideStamina": false,
   "rememberRidingCamera": false,
+  "enableInFlightDismounting": false,
   "enableDebugKeys": false,
   "despawnerNearDistance": 32.0,
   "despawnerFarDistance": 96.0,

@@ -42,5 +42,6 @@
       ]
     }
   ],
+  "ignoreSpectators": true,
   "debug": false
 }
