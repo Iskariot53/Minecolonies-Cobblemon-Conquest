@@ -211,16 +211,16 @@
 					type: "loot"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "0ADCA6A556C139A7"
+					table_id: 8670426509195108449L
+					type: "loot"
+				}
+				{
 					id: "5C3138BAEF3C10D3"
 					team_reward: false
 					type: "xp_levels"
 					xp_levels: 1
-				}
-				{
-					exclude_from_claim_all: true
-					id: "35AF45CEBE3C3D14"
-					table_id: 8670426509195108449L
-					type: "choice"
 				}
 			]
 			tasks: [{
@@ -243,16 +243,16 @@
 					type: "loot"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "197E7C2303593418"
+					table_id: 8670426509195108449L
+					type: "loot"
+				}
+				{
 					id: "1B45C0BC08503E58"
 					team_reward: false
 					type: "xp_levels"
 					xp_levels: 2
-				}
-				{
-					exclude_from_claim_all: true
-					id: "054E4491958893C6"
-					table_id: 8670426509195108449L
-					type: "choice"
 				}
 			]
 			size: 0.75d
@@ -276,16 +276,16 @@
 					type: "loot"
 				}
 				{
+					exclude_from_claim_all: true
+					id: "516A0AB3517E7323"
+					table_id: 8670426509195108449L
+					type: "loot"
+				}
+				{
 					id: "33A038CAD73A8217"
 					team_reward: false
 					type: "xp_levels"
 					xp_levels: 2
-				}
-				{
-					exclude_from_claim_all: true
-					id: "431230BB1F397A01"
-					table_id: 8670426509195108449L
-					type: "choice"
 				}
 			]
 			size: 0.75d
