@@ -16,28 +16,20 @@
 	id: "51D75F3CA4211807"
 	images: [
 		{
-			height: 10.0d
-			image: "mcc:textures/alice.png"
-			rotation: 0.0d
-			width: 10.0d
-			x: 15.5d
-			y: 1.5d
-		}
-		{
-			height: 8.0d
-			image: "mcc:textures/diskdrive.png"
-			rotation: 0.0d
-			width: 8.0d
-			x: 24.0d
-			y: 2.0d
-		}
-		{
 			height: 3.0d
 			image: "mcc:textures/automata.png"
 			rotation: 0.0d
 			width: 9.0d
 			x: 5.0d
 			y: -5.0d
+		}
+		{
+			height: 20.0d
+			image: "mcc:textures/project_alice.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 18.5d
+			y: 4.5d
 		}
 	]
 	order_index: 6
