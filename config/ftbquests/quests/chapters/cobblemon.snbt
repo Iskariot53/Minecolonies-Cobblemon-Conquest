@@ -16,8 +16,8 @@
 			image: "mcc:textures/radical-trainers-progression.png"
 			rotation: 0.0d
 			width: 9.0d
-			x: -5.5d
-			y: 29.0d
+			x: 0.0d
+			y: 14.0d
 		}
 		{
 			height: 3.0d
@@ -32,15 +32,15 @@
 			image: "mcc:textures/tips-and-tricks.png"
 			rotation: 0.0d
 			width: 12.0d
-			x: 10.5d
-			y: 0.5d
+			x: 11.5d
+			y: 4.5d
 		}
 		{
 			height: 4.0d
 			image: "mcc:textures/bd-sp-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
-			x: 0.0d
+			x: -13.5d
 			y: 13.5d
 		}
 		{
@@ -48,88 +48,64 @@
 			image: "mcc:textures/unbound-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
-			x: 8.5d
-			y: 28.5d
+			x: 13.0d
+			y: 13.5d
 		}
 		{
-			height: 3.0d
-			image: "mcc:textures/manga_trainers.png"
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
-			width: 7.0d
-			x: -12.0d
-			y: 16.0d
+			width: 1.0d
+			x: -19.5d
+			y: 13.5d
 		}
 		{
-			height: 2.0d
-			image: "mcc:textures/team_aqua.png"
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
-			width: 6.0d
-			x: 11.214285714285715d
-			y: 7.5d
+			width: 1.0d
+			x: -7.5d
+			y: 13.5d
 		}
 		{
-			height: 2.0d
-			image: "mcc:textures/team_magma.png"
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
-			width: 6.0d
-			x: 11.17857142857143d
+			width: 1.0d
+			x: -4.0d
 			y: 14.0d
 		}
 		{
-			height: 3.0d
-			image: "mcc:textures/paldean_challenge.png"
+			height: 1.0d
+			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
-			width: 7.0d
-			x: 10.821428571428584d
-			y: 20.5d
+			width: 1.0d
+			x: 4.0d
+			y: 14.0d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_blue"
+			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
-			x: 7.5d
-			y: 20.571428571428584d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_blue"
-			rotation: 0.0d
-			width: 1.0d
-			x: 14.178571428571416d
-			y: 20.500000000000014d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_blue"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.642857142857153d
-			y: 16.035714285714292d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_blue"
-			rotation: 0.0d
-			width: 1.0d
-			x: -15.321428571428584d
-			y: 16.10714285714286d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
+			x: 7.0d
 			y: 13.5d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
+			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
-			x: 6.0d
+			x: 19.0d
 			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "pingwheel:textures/arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
@@ -137,55 +113,39 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 8.5d
-			y: 7.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			image: "cobblemon:item/advancements/cobblemon_logo_blue"
 			rotation: 0.0d
 			width: 1.0d
-			x: 14.0d
-			y: 7.5d
+			x: 10.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.5d
-			y: 14.07142857142857d
+			x: 11.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_green"
+			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
 			width: 1.0d
-			x: 14.0d
-			y: 14.07142857142857d
+			x: 12.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo"
+			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.5d
-			y: 29.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: 29.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: 28.5d
+			x: 13.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
@@ -193,63 +153,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 14.5d
-			y: 28.5d
-		}
-		{
-			height: 1.0d
-			image: "pingwheel:textures/arrow.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 8.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_green"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_blue"
-			rotation: 0.0d
-			width: 1.0d
-			x: 9.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "pingwheel:textures/arrow.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 10.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
-			rotation: 0.0d
-			width: 1.0d
-			x: 11.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "pingwheel:textures/arrow.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 12.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "cobblemon:item/advancements/cobblemon_logo"
-			rotation: 0.0d
-			width: 1.0d
-			x: 13.5d
-			y: 4.0d
+			y: 8.0d
 		}
 	]
 	order_index: 2
@@ -386,8 +290,8 @@
 				id: "43724AD6D8CE6777"
 				type: "advancement"
 			}]
-			x: -9.0d
-			y: 31.5d
+			x: -3.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["02C28EADBE69CA9A"]
@@ -412,8 +316,8 @@
 				id: "492DAEFF6BEDD746"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 31.5d
+			x: -2.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["483B482CC112C494"]
@@ -438,8 +342,8 @@
 				id: "6440CB0B56CD9136"
 				type: "advancement"
 			}]
-			x: -7.0d
-			y: 31.5d
+			x: -1.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0BC132C441FC7598"]
@@ -463,8 +367,8 @@
 				id: "3D0E9BC7AC0550C1"
 				type: "advancement"
 			}]
-			x: -6.0d
-			y: 31.5d
+			x: -0.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2241A9BBD6153119"]
@@ -488,8 +392,8 @@
 				id: "305C4C598A2BFC9C"
 				type: "advancement"
 			}]
-			x: -5.0d
-			y: 31.5d
+			x: 0.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["499B398F25A88F68"]
@@ -513,8 +417,8 @@
 				id: "7FC12351C60934EA"
 				type: "advancement"
 			}]
-			x: -4.0d
-			y: 31.5d
+			x: 1.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -1550,8 +1454,8 @@
 				id: "787EA98F478A9CD1"
 				type: "advancement"
 			}]
-			x: -3.0d
-			y: 31.5d
+			x: 2.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["4DD64B7322641A51"]
@@ -1575,8 +1479,8 @@
 				id: "638CD57315F2E950"
 				type: "advancement"
 			}]
-			x: -2.0d
-			y: 31.5d
+			x: 3.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["564F6F789443F4C0"]
@@ -1600,8 +1504,8 @@
 				id: "3C9A886C52794007"
 				type: "advancement"
 			}]
-			x: -9.0d
-			y: 33.0d
+			x: -3.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0ED97CF11E7335CA"]
@@ -1625,8 +1529,8 @@
 				id: "0DC508BC36E9BA68"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 33.0d
+			x: -2.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["6E98D8C6C0F182FA"]
@@ -1650,8 +1554,8 @@
 				id: "6F07B907B47CFE4B"
 				type: "advancement"
 			}]
-			x: -7.0d
-			y: 33.0d
+			x: -1.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["6786B6A8692C67A5"]
@@ -1675,8 +1579,8 @@
 				id: "7455132F3D1AAF72"
 				type: "advancement"
 			}]
-			x: -6.0d
-			y: 33.0d
+			x: -0.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["114DD047A53F75D8"]
@@ -1700,8 +1604,8 @@
 				id: "5589013C40697249"
 				type: "advancement"
 			}]
-			x: -4.964285714285715d
-			y: 32.9642857142857d
+			x: 0.5357142857142847d
+			y: 17.9642857142857d
 		}
 		{
 			dependencies: ["776BCAC6DB50C3E3"]
@@ -1725,8 +1629,8 @@
 				id: "111A4ACD36300D03"
 				type: "advancement"
 			}]
-			x: -3.9642857142857153d
-			y: 32.9642857142857d
+			x: 1.5357142857142847d
+			y: 17.9642857142857d
 		}
 		{
 			dependencies: ["2BA23752F0416D72"]
@@ -1750,8 +1654,8 @@
 				id: "5534F491E4F87FAC"
 				type: "advancement"
 			}]
-			x: -2.9642857142857153d
-			y: 32.9642857142857d
+			x: 2.5357142857142847d
+			y: 17.9642857142857d
 		}
 		{
 			dependencies: ["0F9AD5E4642D02F1"]
@@ -1775,8 +1679,8 @@
 				id: "42F35073A8BE970A"
 				type: "advancement"
 			}]
-			x: -1.9642857142857153d
-			y: 32.9642857142857d
+			x: 3.5357142857142847d
+			y: 17.9642857142857d
 		}
 		{
 			dependencies: ["0DE569E88A846A8C"]
@@ -1800,8 +1704,8 @@
 				id: "3A0DE6CE3B6ED3FB"
 				type: "advancement"
 			}]
-			x: -8.464285714285722d
-			y: 34.535714285714285d
+			x: -2.9642857142857224d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["7250895C2EBE25DF"]
@@ -1825,8 +1729,8 @@
 				id: "438416476C791396"
 				type: "advancement"
 			}]
-			x: -7.464285714285722d
-			y: 34.535714285714285d
+			x: -1.9642857142857224d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["73CB7A93841ACD3F"]
@@ -1850,8 +1754,8 @@
 				id: "64372E563B837FD4"
 				type: "advancement"
 			}]
-			x: -6.464285714285722d
-			y: 34.535714285714285d
+			x: -0.9642857142857224d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["19BAB83CEDFD003A"]
@@ -1875,8 +1779,8 @@
 				id: "75DE836CBE07C4D6"
 				type: "advancement"
 			}]
-			x: -5.464285714285722d
-			y: 34.535714285714285d
+			x: 0.035714285714277594d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["40207980D0FD3F59"]
@@ -1900,8 +1804,8 @@
 				id: "5EFF2BD23A8AC93C"
 				type: "advancement"
 			}]
-			x: -4.464285714285722d
-			y: 34.535714285714285d
+			x: 1.0357142857142776d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["7CC9ED75384138EB"]
@@ -1925,8 +1829,8 @@
 				id: "5B3FDD9B9B53B59C"
 				type: "advancement"
 			}]
-			x: -3.4642857142857224d
-			y: 34.535714285714285d
+			x: 2.0357142857142776d
+			y: 19.535714285714285d
 		}
 		{
 			dependencies: ["623CBDB7698DEEA8"]
@@ -1951,8 +1855,8 @@
 				id: "4C05CA8D94ECAB9B"
 				type: "advancement"
 			}]
-			x: -2.4285714285714377d
-			y: 34.5357142857143d
+			x: 3.0714285714285623d
+			y: 19.5357142857143d
 		}
 		{
 			dependencies: ["4ED2CF94627F2171"]
@@ -1986,8 +1890,8 @@
 				id: "7B1E52D8545446AF"
 				type: "advancement"
 			}]
-			x: -3.9285714285714377d
-			y: 38.892857142857125d
+			x: 1.5714285714285623d
+			y: 23.892857142857125d
 		}
 		{
 			dependencies: ["7C89224D386AB3CF"]
@@ -2020,8 +1924,8 @@
 				id: "57A0EDC0AA3FD043"
 				type: "advancement"
 			}]
-			x: -5.428571428571431d
-			y: 38.60714285714285d
+			x: 0.0714285714285694d
+			y: 23.607142857142847d
 		}
 		{
 			dependencies: ["7C89224D386AB3CF"]
@@ -2055,8 +1959,8 @@
 				id: "55DC9FBFCBD1648F"
 				type: "advancement"
 			}]
-			x: -6.928571428571438d
-			y: 38.892857142857125d
+			x: -1.4285714285714377d
+			y: 23.892857142857125d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -2144,8 +2048,8 @@
 				id: "0CA5C37334D15CA1"
 				type: "checkmark"
 			}]
-			x: 10.5d
-			y: 2.0d
+			x: 11.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2158,8 +2062,8 @@
 				id: "7C314130097D621D"
 				type: "checkmark"
 			}]
-			x: 8.5d
-			y: 2.0d
+			x: 9.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2172,8 +2076,8 @@
 				id: "35105D1AD5EA447C"
 				type: "checkmark"
 			}]
-			x: 9.5d
-			y: 2.0d
+			x: 10.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2186,8 +2090,8 @@
 				id: "116556C0B3E46BF7"
 				type: "checkmark"
 			}]
-			x: 11.5d
-			y: 2.0d
+			x: 12.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2200,8 +2104,8 @@
 				id: "0E56288B4115AE76"
 				type: "checkmark"
 			}]
-			x: 12.5d
-			y: 2.0d
+			x: 13.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -2211,8 +2115,8 @@
 				id: "182C67230417BBF1"
 				type: "checkmark"
 			}]
-			x: 7.5d
-			y: 2.0d
+			x: 8.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -2225,8 +2129,8 @@
 				id: "0F2DECBFF8AB55CF"
 				type: "checkmark"
 			}]
-			x: 13.5d
-			y: 2.0d
+			x: 14.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -2278,8 +2182,8 @@
 				id: "3AB2DB6C7CA95317"
 				type: "advancement"
 			}]
-			x: -6.928571428571431d
-			y: 35.9642857142857d
+			x: -1.4285714285714306d
+			y: 20.9642857142857d
 		}
 		{
 			dependencies: ["66903E18B867271C"]
@@ -2303,8 +2207,8 @@
 				id: "0FA87F250B0C34F3"
 				type: "advancement"
 			}]
-			x: -5.928571428571431d
-			y: 35.9642857142857d
+			x: -0.4285714285714306d
+			y: 20.9642857142857d
 		}
 		{
 			dependencies: ["66903E18B867271C"]
@@ -2328,8 +2232,8 @@
 				id: "56727D4E4C6DEB52"
 				type: "advancement"
 			}]
-			x: -4.928571428571431d
-			y: 35.9642857142857d
+			x: 0.5714285714285694d
+			y: 20.9642857142857d
 		}
 		{
 			dependencies: ["66903E18B867271C"]
@@ -2353,8 +2257,8 @@
 				id: "71712D8738DD263B"
 				type: "advancement"
 			}]
-			x: -3.9285714285714306d
-			y: 35.9642857142857d
+			x: 1.5714285714285694d
+			y: 20.9642857142857d
 		}
 		{
 			dependencies: [
@@ -2392,8 +2296,8 @@
 				id: "30EE69DB96CEDF16"
 				type: "advancement"
 			}]
-			x: -5.428571428571431d
-			y: 37.10714285714285d
+			x: 0.0714285714285694d
+			y: 22.107142857142847d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]
@@ -2418,7 +2322,7 @@
 				id: "2D3BAD32CB232250"
 				type: "advancement"
 			}]
-			x: -3.5d
+			x: -17.0d
 			y: 15.5d
 		}
 		{
@@ -2443,7 +2347,7 @@
 				id: "2AE4A19BF0F2AC0A"
 				type: "advancement"
 			}]
-			x: 0.5d
+			x: -13.0d
 			y: 15.5d
 		}
 		{
@@ -2468,7 +2372,7 @@
 				id: "248F6307EFC7BFC4"
 				type: "advancement"
 			}]
-			x: 1.5d
+			x: -12.0d
 			y: 15.5d
 		}
 		{
@@ -2493,7 +2397,7 @@
 				id: "044DDD8F93AD80D5"
 				type: "advancement"
 			}]
-			x: 2.5d
+			x: -11.0d
 			y: 15.5d
 		}
 		{
@@ -2518,7 +2422,7 @@
 				id: "2202BC0353343115"
 				type: "advancement"
 			}]
-			x: 3.5d
+			x: -10.0d
 			y: 15.5d
 		}
 		{
@@ -2543,7 +2447,7 @@
 				id: "0650E8DE75ED9D72"
 				type: "advancement"
 			}]
-			x: -3.0d
+			x: -16.5d
 			y: 17.0d
 		}
 		{
@@ -2568,7 +2472,7 @@
 				id: "1ECE6B43B0C7A9D1"
 				type: "advancement"
 			}]
-			x: -2.0d
+			x: -15.5d
 			y: 17.0d
 		}
 		{
@@ -2593,7 +2497,7 @@
 				id: "3E82BEB0121B564E"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: -14.5d
 			y: 17.0d
 		}
 		{
@@ -2618,7 +2522,7 @@
 				id: "6AB6EF1B7DCD8219"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: -13.5d
 			y: 17.0d
 		}
 		{
@@ -2643,7 +2547,7 @@
 				id: "5076B82ADB6AA448"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: -12.5d
 			y: 17.0d
 		}
 		{
@@ -2668,7 +2572,7 @@
 				id: "3E991D2F8C222880"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: -11.5d
 			y: 17.0d
 		}
 		{
@@ -2693,7 +2597,7 @@
 				id: "5089FF027A009185"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: -10.5d
 			y: 17.0d
 		}
 		{
@@ -2718,7 +2622,7 @@
 				id: "1FCA02E7F3ED9428"
 				type: "advancement"
 			}]
-			x: -2.0d
+			x: -15.5d
 			y: 18.5d
 		}
 		{
@@ -2743,7 +2647,7 @@
 				id: "72C59A7E5A9C17B9"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: -14.5d
 			y: 18.5d
 		}
 		{
@@ -2768,7 +2672,7 @@
 				id: "496D28CC02A54787"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: -13.5d
 			y: 18.5d
 		}
 		{
@@ -2793,7 +2697,7 @@
 				id: "085842B9C25BB13C"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: -12.5d
 			y: 18.5d
 		}
 		{
@@ -2818,7 +2722,7 @@
 				id: "1290CAD9200A9DFB"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: -11.5d
 			y: 18.5d
 		}
 		{
@@ -2843,7 +2747,7 @@
 				id: "16FCAB2538BA79CE"
 				type: "advancement"
 			}]
-			x: -2.5d
+			x: -16.0d
 			y: 20.0d
 		}
 		{
@@ -2868,7 +2772,7 @@
 				id: "0DA4AA693ECBDB62"
 				type: "advancement"
 			}]
-			x: -1.5d
+			x: -15.0d
 			y: 20.0d
 		}
 		{
@@ -2893,7 +2797,7 @@
 				id: "758DF6E5AA77F143"
 				type: "advancement"
 			}]
-			x: -0.5d
+			x: -14.0d
 			y: 20.0d
 		}
 		{
@@ -2918,7 +2822,7 @@
 				id: "75B47348E9A99443"
 				type: "advancement"
 			}]
-			x: 0.5d
+			x: -13.0d
 			y: 20.0d
 		}
 		{
@@ -2943,7 +2847,7 @@
 				id: "1336ABBF5FE6B3C8"
 				type: "advancement"
 			}]
-			x: 2.5d
+			x: -11.0d
 			y: 20.0d
 		}
 		{
@@ -2968,7 +2872,7 @@
 				id: "26F28B67D7ED2E32"
 				type: "advancement"
 			}]
-			x: -2.5d
+			x: -16.0d
 			y: 21.5d
 		}
 		{
@@ -2993,7 +2897,7 @@
 				id: "1AD1E821B1551B1D"
 				type: "advancement"
 			}]
-			x: -2.5d
+			x: -16.0d
 			y: 23.0d
 		}
 		{
@@ -3018,7 +2922,7 @@
 				id: "12103778DD49915D"
 				type: "advancement"
 			}]
-			x: -1.5d
+			x: -15.0d
 			y: 21.5d
 		}
 		{
@@ -3043,7 +2947,7 @@
 				id: "0A2C816AFB148F4C"
 				type: "advancement"
 			}]
-			x: -1.5d
+			x: -15.0d
 			y: 23.0d
 		}
 		{
@@ -3068,7 +2972,7 @@
 				id: "2DBCDFD5E74DFE38"
 				type: "advancement"
 			}]
-			x: -0.5d
+			x: -14.0d
 			y: 21.5d
 		}
 		{
@@ -3093,7 +2997,7 @@
 				id: "4EE534B0E413A76A"
 				type: "advancement"
 			}]
-			x: -0.5d
+			x: -14.0d
 			y: 23.0d
 		}
 		{
@@ -3118,7 +3022,7 @@
 				id: "07EAB75FBA19AC82"
 				type: "advancement"
 			}]
-			x: 0.5d
+			x: -13.0d
 			y: 21.5d
 		}
 		{
@@ -3143,7 +3047,7 @@
 				id: "27C53A2469E69DAE"
 				type: "advancement"
 			}]
-			x: 0.5d
+			x: -13.0d
 			y: 23.0d
 		}
 		{
@@ -3168,7 +3072,7 @@
 				id: "6352E3CF4CD70472"
 				type: "advancement"
 			}]
-			x: 2.5d
+			x: -11.0d
 			y: 21.5d
 		}
 		{
@@ -3201,7 +3105,7 @@
 				id: "726A4F8E30B8E0BB"
 				type: "advancement"
 			}]
-			x: 2.5d
+			x: -11.0d
 			y: 23.0d
 		}
 		{
@@ -3231,8 +3135,8 @@
 				id: "56A0EC99959F3808"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 31.0d
+			x: 9.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["2BA4FD9CCA6D20BD"]
@@ -3256,8 +3160,8 @@
 				id: "289F66D28C01012D"
 				type: "advancement"
 			}]
-			x: 5.5d
-			y: 31.0d
+			x: 10.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["4D1BC9C3857360CD"]
@@ -3281,8 +3185,8 @@
 				id: "3820BDFC749FD89C"
 				type: "advancement"
 			}]
-			x: 6.5d
-			y: 31.0d
+			x: 11.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["37A7F746888E7B30"]
@@ -3306,8 +3210,8 @@
 				id: "287FD1BF62AA3825"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 31.0d
+			x: 12.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["6129AE04B5E61F30"]
@@ -3331,8 +3235,8 @@
 				id: "1C65259ACBEB200D"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 31.0d
+			x: 13.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["5C88FE2CEEB99169"]
@@ -3356,8 +3260,8 @@
 				id: "4C7B3FCE6810FAF1"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 31.0d
+			x: 14.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["37E7C99E91B8B37D"]
@@ -3381,8 +3285,8 @@
 				id: "4D27511DE11C0BB0"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 31.0d
+			x: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["385C5D1F98711D3C"]
@@ -3406,8 +3310,8 @@
 				id: "68713B08BF2FCF81"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 31.0d
+			x: 16.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["68D63DD63EF11BBA"]
@@ -3431,8 +3335,8 @@
 				id: "53CE2F11BC4591EE"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 31.0d
+			x: 17.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["70A0D3C54C40A377"]
@@ -3456,8 +3360,8 @@
 				id: "34690A0C06ACC96F"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 32.5d
+			x: 9.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["67A0460FFBF3D9AB"]
@@ -3481,8 +3385,8 @@
 				id: "56E82767668930C5"
 				type: "advancement"
 			}]
-			x: 5.5d
-			y: 32.5d
+			x: 10.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["7F4C296861FA32D6"]
@@ -3506,8 +3410,8 @@
 				id: "212273C5BC4B367A"
 				type: "advancement"
 			}]
-			x: 6.5d
-			y: 32.5d
+			x: 11.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["6A7FC4CEC03AC1F8"]
@@ -3531,8 +3435,8 @@
 				id: "150C9C0F697F33B8"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 32.5d
+			x: 12.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["181477D6F7B604B9"]
@@ -3556,8 +3460,8 @@
 				id: "424FB3738859FEC5"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 32.5d
+			x: 13.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["4B35AFA7E106D8AA"]
@@ -3581,8 +3485,8 @@
 				id: "5BB6A8E85395DD1B"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 32.5d
+			x: 14.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["761547BAA6CFC6B9"]
@@ -3606,8 +3510,8 @@
 				id: "48F5B8DF5DFD1F24"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 32.5d
+			x: 15.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["6FFE64324C0D4FB4"]
@@ -3631,8 +3535,8 @@
 				id: "146024B5E76D86B8"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 32.5d
+			x: 16.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["534B4F74DA1EF827"]
@@ -3656,8 +3560,8 @@
 				id: "436F5288FB7FBCA2"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 32.5d
+			x: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["661BB2E3C98A16DC"]
@@ -3681,8 +3585,8 @@
 				id: "4C1E5AE5CAC1E057"
 				type: "advancement"
 			}]
-			x: 5.0d
-			y: 34.0d
+			x: 9.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["3112842479774CA0"]
@@ -3706,8 +3610,8 @@
 				id: "2BA85B3E3C702CB4"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 34.0d
+			x: 10.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["63FF059CC9C89167"]
@@ -3731,8 +3635,8 @@
 				id: "37CEA8300FA43D95"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 34.0d
+			x: 11.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["78FE754F2BDD07DC"]
@@ -3756,8 +3660,8 @@
 				id: "5B4BE9B0C185935E"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 34.0d
+			x: 12.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["73EC84D1F1502430"]
@@ -3781,8 +3685,8 @@
 				id: "2E52846AF98E5628"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 34.0d
+			x: 13.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["4F89A2237F765025"]
@@ -3806,8 +3710,8 @@
 				id: "663AD32E0DBDA230"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 34.0d
+			x: 14.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["587A49AE94970205"]
@@ -3831,8 +3735,8 @@
 				id: "317C6177E00C49A2"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 34.0d
+			x: 15.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["39D0E87A3CA1FA8A"]
@@ -3856,8 +3760,8 @@
 				id: "2E610C4A46B59130"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 34.0d
+			x: 16.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["14020DAD5C2BC991"]
@@ -3881,8 +3785,8 @@
 				id: "4C5DA6AE726E0C7E"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: 35.5d
+			x: 11.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["77E39A74C01F7509"]
@@ -3906,8 +3810,8 @@
 				id: "1A4E668F4451FFC4"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: 35.5d
+			x: 12.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["2C55F60B816B8277"]
@@ -3931,8 +3835,8 @@
 				id: "1D8895924745FCB2"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 35.5d
+			x: 13.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["031C42F72D657118"]
@@ -3956,8 +3860,8 @@
 				id: "7D3DDAD7F6405ABF"
 				type: "advancement"
 			}]
-			x: 10.0d
-			y: 35.5d
+			x: 14.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["14F956CE2A84763D"]
@@ -3989,8 +3893,8 @@
 				id: "1D6126E9F58D9D08"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 37.0d
+			x: 13.0d
+			y: 22.0d
 		}
 		{
 			dependencies: ["601D7A24E4335E1F"]
@@ -4022,8 +3926,8 @@
 				id: "67403AC945959B04"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 38.5d
+			x: 13.0d
+			y: 23.5d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -4047,8 +3951,8 @@
 				id: "621F4CABA2BF0CC7"
 				type: "advancement"
 			}]
-			x: 6.5d
-			y: 40.0d
+			x: 11.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -4072,8 +3976,8 @@
 				id: "0DAB81E71A8D037D"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 40.0d
+			x: 12.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -4097,8 +4001,8 @@
 				id: "501C2C428C20A61D"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 40.0d
+			x: 13.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -4122,8 +4026,8 @@
 				id: "7C7509C7D315D409"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 40.0d
+			x: 14.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["7E3BCBEE527734ED"]
@@ -4147,8 +4051,8 @@
 				id: "62350748DFE5495B"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 40.0d
+			x: 15.0d
+			y: 25.0d
 		}
 		{
 			dependencies: [
@@ -4187,8 +4091,8 @@
 				id: "233237EAC634DC6E"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 41.5d
+			x: 13.0d
+			y: 26.5d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4212,8 +4116,8 @@
 				id: "5F0575D484BDFF1B"
 				type: "advancement"
 			}]
-			x: 5.5d
-			y: 43.0d
+			x: 10.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4237,8 +4141,8 @@
 				id: "3137CCFD2166A1C1"
 				type: "advancement"
 			}]
-			x: 6.5d
-			y: 43.0d
+			x: 11.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4262,8 +4166,8 @@
 				id: "66E2656044A0EDCF"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 43.0d
+			x: 12.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4287,8 +4191,8 @@
 				id: "63BB80121AD13CCD"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 43.0d
+			x: 13.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4312,8 +4216,8 @@
 				id: "7AF9333230656E41"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 43.0d
+			x: 14.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4337,8 +4241,8 @@
 				id: "4DE3929A3DC2F04F"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 43.0d
+			x: 15.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["534342E42661CBBB"]
@@ -4362,8 +4266,8 @@
 				id: "7DAD57E811267379"
 				type: "advancement"
 			}]
-			x: 11.5d
-			y: 43.0d
+			x: 16.0d
+			y: 28.0d
 		}
 		{
 			dependencies: [
@@ -4404,8 +4308,8 @@
 				id: "4BAE0C7EE416F3BA"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 44.5d
+			x: 13.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["5B1C9839D2E05974"]
@@ -4438,8 +4342,8 @@
 				id: "74FD245A1BB3522A"
 				type: "advancement"
 			}]
-			x: 8.5d
-			y: 46.0d
+			x: 13.0d
+			y: 31.0d
 		}
 		{
 			dependencies: ["1F01A614F4704FFF"]
@@ -4463,7 +4367,7 @@
 				id: "258AC98A3CBD0E3F"
 				type: "advancement"
 			}]
-			x: -2.5d
+			x: -16.0d
 			y: 15.5d
 		}
 		{
@@ -4488,7 +4392,7 @@
 				id: "15264ECD59082A46"
 				type: "advancement"
 			}]
-			x: -1.5d
+			x: -15.0d
 			y: 15.5d
 		}
 		{
@@ -4513,7 +4417,7 @@
 				id: "7BDAB8C1FF063926"
 				type: "advancement"
 			}]
-			x: -0.5d
+			x: -14.0d
 			y: 15.5d
 		}
 		{
@@ -4826,30 +4730,6 @@
 		}
 		{
 			dependencies: ["7078E004A4888746"]
-			id: "5EEF7B760D5F8B33"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3A29EA3A84493BCF"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "523857E0E283F67A"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "2E0B44B45F4AD363"
-				item: { count: 1, id: "berrypouch:berry_pouch_30" }
-				type: "item"
-			}]
-			x: -11.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["5EEF7B760D5F8B33"]
 			id: "309CCEE8CB0A9BB5"
 			rewards: [
 				{
@@ -4866,994 +4746,11 @@
 			]
 			tasks: [{
 				id: "23CD8506030D2F4B"
-				item: { count: 1, id: "berrypouch:berry_pouch_69" }
+				item: { count: 1, id: "berrypouch:berry_pouch" }
 				type: "item"
 			}]
 			x: -11.0d
-			y: 3.5d
-		}
-		{
-			dependencies: ["222C9B14E10E8E98"]
-			hide_dependency_lines: true
-			id: "0B8193EBEAC0D301"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "08656EED6D8E0C3E"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "0332DA47842821EE"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_yellow"
-				criterion: ""
-				id: "1BDF8D2D8FE5F977"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 18.5d
-		}
-		{
-			dependencies: ["0B8193EBEAC0D301"]
-			id: "06F07A733CE7DEC3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "78BC28CB2FC8F6FB"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "629980D3EA243264"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_crystal"
-				criterion: ""
-				id: "1DFCBFC327F62700"
-				type: "advancement"
-			}]
-			x: -13.5d
-			y: 20.0d
-		}
-		{
-			dependencies: ["0B8193EBEAC0D301"]
-			id: "28CC4CC1AA47B5E5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "57AE6CCEA6BC1FC5"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "1C305C6CF507AFCF"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_diamond"
-				criterion: ""
-				id: "12B9A81E95CFAFD3"
-				type: "advancement"
-			}]
-			x: -10.5d
-			y: 20.0d
-		}
-		{
-			dependencies: ["0B8193EBEAC0D301"]
-			id: "4DFE2469814E0BEA"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "09E04BCF748F32D6"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "2248DDB903BB439B"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_ruby"
-				criterion: ""
-				id: "7E69AE2D337FC6E4"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 20.0d
-		}
-		{
-			dependencies: ["06F07A733CE7DEC3"]
-			id: "1AE4EFBD26296D6F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7066C0449FD8C2EF"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "07EBE50927BB5AF8"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_gold"
-				criterion: ""
-				id: "4F23B5622C7BE692"
-				type: "advancement"
-			}]
-			x: -13.5d
-			y: 21.5d
-		}
-		{
-			dependencies: ["4DFE2469814E0BEA"]
-			id: "4FC72D293EEB7E19"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4ABE0B62B05963C9"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "637F0FD1A7FD9161"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_sapphire"
-				criterion: ""
-				id: "7C5AC2BEF93CA04B"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 21.5d
-		}
-		{
-			dependencies: ["28CC4CC1AA47B5E5"]
-			id: "36CDDF9F13834BF4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6013DB07129BD2A8"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "55E7129E298B5AF2"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_pearl"
-				criterion: ""
-				id: "7146DF7710B57465"
-				type: "advancement"
-			}]
-			x: -10.5d
-			y: 21.5d
-		}
-		{
-			dependencies: ["1AE4EFBD26296D6F"]
-			id: "2D29DD10C5DB8910"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "18F63C3A0E58141D"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "0EC2ED92A78355CD"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_silver"
-				criterion: ""
-				id: "3A2701D3CED1D32E"
-				type: "advancement"
-			}]
-			x: -13.5d
-			y: 23.0d
-		}
-		{
-			dependencies: ["4FC72D293EEB7E19"]
-			id: "189C41B813576760"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "74DA25E56EC27AED"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "3C0A931FDE1BDB3D"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_emerald"
-				criterion: ""
-				id: "01C1DFA65E6764BF"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 23.0d
-		}
-		{
-			dependencies: ["36CDDF9F13834BF4"]
-			id: "2D7A42570EE8645C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1BEB6A91AF6683D0"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "16D2C271B58D1DF7"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_platinum"
-				criterion: ""
-				id: "09EBD32BF6D8A91A"
-				type: "advancement"
-			}]
-			x: -10.5d
-			y: 23.0d
-		}
-		{
-			dependencies: ["2D29DD10C5DB8910"]
-			id: "24339D2FEDEBC53E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "33C36BBC2842628C"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "698D3A223B8990CD"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_green"
-				criterion: ""
-				id: "289CD85278A9B413"
-				type: "advancement"
-			}]
-			x: -13.5d
-			y: 24.5d
-		}
-		{
-			dependencies: ["189C41B813576760"]
-			id: "75E9703033C927B5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6EDB8DF3BCAA86D3"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "64C21BD78B1ACDD9"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_red"
-				criterion: ""
-				id: "17888A6AD39AB3B2"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 24.5d
-		}
-		{
-			dependencies: ["2D7A42570EE8645C"]
-			id: "7153C4C7A653C645"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "460A00181A72D392"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "05EC3BBA1D148B31"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_pokespe_blue"
-				criterion: ""
-				id: "2E5614C760FC537C"
-				type: "advancement"
-			}]
-			x: -10.5d
-			y: 24.5d
-		}
-		{
-			dependencies: [
-				"7153C4C7A653C645"
-				"75E9703033C927B5"
-				"24339D2FEDEBC53E"
-			]
-			id: "412096DBAA158854"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1C86BAF5524E0BD8"
-					table_id: 354101158214531596L
-					type: "loot"
-				}
-				{
-					id: "504915376F565F24"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_all_mangatrainers"
-				criterion: ""
-				id: "39AD8064CF3CC4D5"
-				type: "advancement"
-			}]
-			x: -12.0d
-			y: 26.0d
-		}
-		{
-			dependencies: ["222C9B14E10E8E98"]
-			hide_dependency_lines: true
-			id: "2058E990EDF9DE3B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "020F0D3CFFDC9A77"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "0DA31DDD1C555E5E"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_grunt_male_ignio"
-				criterion: ""
-				id: "7D80FC33262C0276"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 16.035714285714285d
-		}
-		{
-			dependencies: ["2058E990EDF9DE3B"]
-			id: "28AE37156FFC0864"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1361CA0D927917D5"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "270E086205A6BD1B"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_grunt_female_sandy"
-				criterion: ""
-				id: "51D8474EFAB96EE9"
-				type: "advancement"
-			}]
-			x: 10.5d
-			y: 16.035714285714285d
-		}
-		{
-			dependencies: ["28AE37156FFC0864"]
-			id: "43A5B24A6DB91DDF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3DE00B010561BA84"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "1858F7AE5587205F"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_grunt_male_lithio"
-				criterion: ""
-				id: "72BC95B548A7302C"
-				type: "advancement"
-			}]
-			x: 12.0d
-			y: 16.035714285714285d
-		}
-		{
-			dependencies: ["43A5B24A6DB91DDF"]
-			id: "04508C6A24E3F210"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5C41D0FE94301593"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "3FAA2FC88563864C"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_grunt_female_micah"
-				criterion: ""
-				id: "6C14F7B682FBDF7F"
-				type: "advancement"
-			}]
-			x: 13.5d
-			y: 16.035714285714285d
-		}
-		{
-			dependencies: ["04508C6A24E3F210"]
-			id: "1EDCBB697FD22EC4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6F9236405A33E7E4"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "5214E5DC7C2704FA"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_admin_blaise"
-				criterion: ""
-				id: "028B610B1DB645D6"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 17.535714285714285d
-		}
-		{
-			dependencies: ["1EDCBB697FD22EC4"]
-			id: "33FB0278FB91DB1B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7FA44A9E00E03A29"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "34C2748F0509A6DD"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_admin_courtney"
-				criterion: ""
-				id: "769B9413CF05E78F"
-				type: "advancement"
-			}]
-			x: 10.5d
-			y: 17.535714285714285d
-		}
-		{
-			dependencies: ["33FB0278FB91DB1B"]
-			id: "722B2F33DC07D827"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "606F6C66B77D726F"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "5AD0489FDE7E512C"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_admin_tabitha"
-				criterion: ""
-				id: "1240DD7335ACAFE2"
-				type: "advancement"
-			}]
-			x: 12.0d
-			y: 17.535714285714285d
-		}
-		{
-			dependencies: ["722B2F33DC07D827"]
-			id: "7C462577B430B679"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7551B0C326B8AEA6"
-					table_id: 354101158214531596L
-					type: "loot"
-				}
-				{
-					id: "60D3961F188A5693"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_magma_leader_maxie"
-				criterion: ""
-				id: "343E8209BA827730"
-				type: "advancement"
-			}]
-			x: 13.5d
-			y: 17.535714285714285d
-		}
-		{
-			dependencies: ["222C9B14E10E8E98"]
-			hide_dependency_lines: true
-			id: "58099EBA6DF608F9"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "18D4782A4CC02311"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "294EBC16030860C6"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_grunt_male_ray"
-				criterion: ""
-				id: "4D281DAD06D7A29A"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 9.464285714285715d
-		}
-		{
-			dependencies: ["58099EBA6DF608F9"]
-			id: "0011D2F506607E60"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "457A970CC603B262"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "372F30C3512C4CB4"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_grunt_female_octo"
-				criterion: ""
-				id: "2F453304F81A55FE"
-				type: "advancement"
-			}]
-			x: 10.5d
-			y: 9.464285714285715d
-		}
-		{
-			dependencies: ["0011D2F506607E60"]
-			id: "2D845A03711CD66D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "435595147E3D7FAD"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "46053CDE737EE348"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_grunt_male_manta"
-				criterion: ""
-				id: "65635C7C8C0D494D"
-				type: "advancement"
-			}]
-			x: 12.0d
-			y: 9.464285714285715d
-		}
-		{
-			dependencies: ["2D845A03711CD66D"]
-			id: "212646BB1F4277DF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5775D6D3F6B36E27"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "08ABA8E0F416E9A1"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_grunt_female_inky"
-				criterion: ""
-				id: "22EB7BE9BDE85234"
-				type: "advancement"
-			}]
-			x: 13.5d
-			y: 9.464285714285715d
-		}
-		{
-			dependencies: ["212646BB1F4277DF"]
-			id: "7777498E5877D4E5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "41C946C101F8834E"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "3369124367D1D970"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_admin_amber"
-				criterion: ""
-				id: "17A598D92092D5DB"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 10.964285714285715d
-		}
-		{
-			dependencies: ["7777498E5877D4E5"]
-			id: "228B0FF44D9EFB8F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4D251616451A8FFF"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "4A642F915354B43E"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_admin_matt"
-				criterion: ""
-				id: "40007A64970BBD03"
-				type: "advancement"
-			}]
-			x: 10.5d
-			y: 10.964285714285715d
-		}
-		{
-			dependencies: ["228B0FF44D9EFB8F"]
-			id: "0C997B3AE2E3906C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "395D3FEB3E2D38D8"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "0F60AED80FF50B79"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_admin_shelly"
-				criterion: ""
-				id: "40CD948B6A902983"
-				type: "advancement"
-			}]
-			x: 12.0d
-			y: 10.964285714285715d
-		}
-		{
-			dependencies: ["0C997B3AE2E3906C"]
-			id: "6C80392E1736FE46"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "26D8FF4BFE9DC6FD"
-					table_id: 354101158214531596L
-					type: "loot"
-				}
-				{
-					id: "59506E69721F6EB3"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_aqua_leader_archie"
-				criterion: ""
-				id: "579199B4412377B9"
-				type: "advancement"
-			}]
-			x: 13.5d
-			y: 10.964285714285715d
-		}
-		{
-			dependencies: ["222C9B14E10E8E98"]
-			hide_dependency_lines: true
-			id: "2589B379F20B8F80"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "689995B943E3BC98"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "666D6A0A6E3CA4E7"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_katy"
-				criterion: ""
-				id: "3A35EBFCCAB68AC1"
-				type: "advancement"
-			}]
-			x: 8.321428571428584d
-			y: 23.0d
-		}
-		{
-			dependencies: ["2589B379F20B8F80"]
-			id: "44DAD6B6D2ED3ABE"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5FAC7A29255436C4"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "2BAB4E39E7EC994D"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_brassius"
-				criterion: ""
-				id: "1775D531CC9DED01"
-				type: "advancement"
-			}]
-			x: 9.821428571428584d
-			y: 23.0d
-		}
-		{
-			dependencies: ["44DAD6B6D2ED3ABE"]
-			id: "6D72D135DA5A161F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0AD29D0F7FE7A656"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "7F70E448D1C89F72"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_iono"
-				criterion: ""
-				id: "2A07842EFB05E886"
-				type: "advancement"
-			}]
-			x: 11.321428571428584d
-			y: 23.0d
-		}
-		{
-			dependencies: ["6D72D135DA5A161F"]
-			id: "3FDF7F05BCB5BBAC"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1835F3113E3C6DEB"
-					table_id: 6023277112220077259L
-					type: "loot"
-				}
-				{
-					id: "5C422644F13CEE7F"
-					type: "xp_levels"
-					xp_levels: 2
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_kofu"
-				criterion: ""
-				id: "48A55BC2D4E918B1"
-				type: "advancement"
-			}]
-			x: 12.821428571428584d
-			y: 23.0d
-		}
-		{
-			dependencies: ["3FDF7F05BCB5BBAC"]
-			id: "5518B2F365F88973"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "089C7A666D0AE366"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "510CFAD8CFA09D27"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_larry"
-				criterion: ""
-				id: "192D57E2F0AA30E0"
-				type: "advancement"
-			}]
-			x: 8.321428571428584d
-			y: 24.5d
-		}
-		{
-			dependencies: ["5518B2F365F88973"]
-			id: "550C209EFC0E5633"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "62A06368EECCCB9B"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "103FCF492DDD4826"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_ryme"
-				criterion: ""
-				id: "312CC3B1A01686CF"
-				type: "advancement"
-			}]
-			x: 9.821428571428584d
-			y: 24.5d
-		}
-		{
-			dependencies: ["550C209EFC0E5633"]
-			id: "7B5FA6AE8A0EB987"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "718DF59F0E0F4CB8"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "4285162C90056879"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_tulip"
-				criterion: ""
-				id: "5D954C1CE5C615A2"
-				type: "advancement"
-			}]
-			x: 11.321428571428584d
-			y: 24.5d
-		}
-		{
-			dependencies: ["7B5FA6AE8A0EB987"]
-			id: "23E6E2B684668025"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "269E404781EC05BD"
-					table_id: 6168209418652817445L
-					type: "loot"
-				}
-				{
-					id: "36ED35A6DC1297F9"
-					type: "xp_levels"
-					xp_levels: 3
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldealeader_grusha"
-				criterion: ""
-				id: "4E385F3C593193B4"
-				type: "advancement"
-			}]
-			x: 12.821428571428584d
-			y: 24.5d
-		}
-		{
-			dependencies: ["23E6E2B684668025"]
-			id: "3E49E14350481944"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1A6DDFB80A2CEF4A"
-					table_id: 354101158214531596L
-					type: "loot"
-				}
-				{
-					id: "283526066B74BB4C"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_paldeachampion_geeta"
-				criterion: ""
-				id: "4F0472B056AF159B"
-				type: "advancement"
-			}]
-			x: 10.607142857142868d
-			y: 26.107142857142875d
+			y: 2.5d
 		}
 		{
 			dependencies: ["222C9B14E10E8E98"]

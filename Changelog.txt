@@ -19,6 +19,8 @@ Mods Updated
 
 
 - Backpacked
+- Balm
+- Berry Pouch [Cobblemon]
 - Byzantine Styles Pack for Minecolonies
 - Cobblemon
 - Cobblemon Box Link
@@ -30,19 +32,27 @@ Mods Updated
 - Cobblemon Tim Core
 - Cobblemon Spawn Notification
 - Comforts
+- Create
+- Create Crafts & Additions
+- Create: Deep Dark
+- Create: Filters Anywhere
 - Eternal Starlight
 - Framework
 - FTB Teams
 - Glassential Renewed
 - MineColonies
 - Modular Routers
+- Navas ZA Megas
+- Oritech
 - Productive Bees
 - Pylons
 - Radical Cobblemon Trainers
 - Radical Cobblemon Trainers API
--Spice of Life: Carrot Edition
+- Spice of Life: Carrot Edition
 - Stylecolonies
+- Tom's Simple Storage Mod
 - Twilight's Flavors & Delight
+- Xaero's Minimap
 - Xaero's World Map
 
 
@@ -52,4 +62,5 @@ Changes
 - Updated quest rewards for accuracy.
 - Harvester pylons now support cobblemon related items
 - Default box count increased to 50.
-- 
+- Removed outdated series.
+- EMPTY ALL BERRY POUCHES BEFORE UPDATING.

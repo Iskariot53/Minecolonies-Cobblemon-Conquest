@@ -8400,5 +8400,7 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_yawn"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_zapcannon"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_zenheadbutt"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_zingzap"},"type":"item_stack"}}
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"simpletms:tr_zingzap"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"cobblemon-additions:pokemon_spawner"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"cobblemon-additions:pokemon_trial_spawner"},"type":"item_stack"}}
 ]

@@ -98,33 +98,6 @@ craftingTable.addJsonRecipe("cobblemon_conquest.warden_upgrade_smithing_template
         "id": "deeperdarker:warden_upgrade_smithing_template"
     }
 });
-craftingTable.remove(<item:berrypouch:berry_pouch_30>);
-craftingTable.addJsonRecipe("cobblemon_conquest.berry_pouch_small",
-{
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " C ",
-        "BDB",
-        " B "
-    ],
-    "key": {
-        "B": {
-            "item": "immersiveengineering:hemp_fabric"
-        },
-		"C": {
-            "tag": "cobblemon:berries"
-        },
-		"D": {
-            "item": "create:item_vault"
-        }
-    },
-    "result": {
-        "count": 1,
-        "id": "berrypouch:berry_pouch_30"
-    }
-});
-craftingTable.remove(<item:berrypouch:berry_pouch_69>);
-smithing.addTransformRecipe("cobblemon_conquest.berry_pouch_large", <item:berrypouch:berry_pouch_69>, <item:eternal_starlight:pungency_fruit_upgrade_smithing_template>, <item:berrypouch:berry_pouch_30>, <item:eternal_starlight:pungency_fruit>);
 craftingTable.addJsonRecipe("cobblemon_conquest.tera_orb_bug",
 {
     "type": "minecraft:crafting_shaped",
