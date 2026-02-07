@@ -259,27 +259,27 @@
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:atksilvercap",
+          "item": "obc:bottle_cap_attack",
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:spatksilvercap",
+          "item": "obc:bottle_cap_special_attack",
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:spdefsilvercap",
+          "item": "obc:bottle_cap_special_defence",
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:speedsilvercap",
+          "item": "obc:bottle_cap_speed",
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:defsilvercap",
+          "item": "obc:bottle_cap_defence",
           "price": 200000
         },
         {
-          "item": "brendons_bottlecaps:hpsilvercap",
+          "item": "obc:bottle_cap_hp",
           "price": 200000
         },
         {

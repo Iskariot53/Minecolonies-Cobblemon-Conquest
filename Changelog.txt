@@ -1,66 +1,32 @@
-Minecolonies - Cobblemon Conquest -  2.2.2 Changelog
-
-
-Mods Removed
-
-
-- Cobblemon Move Inspector
-
-
-
-Mods Added
-
-
-- Cobblemon Battle Extras
-
+Minecolonies - Cobblemon Conquest -  2.2.3 Changelog
 
 
 Mods Updated
 
 
-- Backpacked
-- Balm
 - Berry Pouch [Cobblemon]
-- Byzantine Styles Pack for Minecolonies
-- Cobblemon
-- Cobblemon Box Link
-- Cobblemon Capture XP
-- Cobblemon Fight or Flight Reborn
-- Cobblemon Integrations
+- Cobblemon Battle Extras
+- Cobblemon: Fight First
 - Cobblemon: Mega Showdown
-- Cobblemon Pokerus
-- Cobblemon Tim Core
-- Cobblemon Spawn Notification
-- Comforts
-- Create
-- Create Crafts & Additions
-- Create: Deep Dark
-- Create: Filters Anywhere
-- Eternal Starlight
-- Framework
-- FTB Teams
-- Glassential Renewed
-- MineColonies
-- Modular Routers
-- Navas ZA Megas
-- Oritech
-- Productive Bees
+- Connectivity
+- Fusion (Connected Textures)
+- Immersive Aircraft
+- Lootr (Forge & NeoForge)
+- MEGA Cells
+- Moonlight Lib
+- MoreCobblemonTweaks
+- Multi-Piston
+- Ping Wheel
 - Pylons
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- Spice of Life: Carrot Edition
-- Stylecolonies
-- Tom's Simple Storage Mod
-- Twilight's Flavors & Delight
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Time in a bottle
 - Xaero's Minimap
 - Xaero's World Map
+
 
 
 Changes
 
 
-- Updated quest rewards for accuracy.
-- Harvester pylons now support cobblemon related items
-- Default box count increased to 50.
-- Removed outdated series.
-- EMPTY ALL BERRY POUCHES BEFORE UPDATING.
+- 
