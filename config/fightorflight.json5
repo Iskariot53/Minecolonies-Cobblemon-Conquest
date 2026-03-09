@@ -81,8 +81,14 @@
 	],
 	// The aggression multiplier for natures above.
 	"more_peaceful_nature_multiplier": -2.0,
-	// If the behavior data will work?(Still W.I.P, not avialable yet)
-	"enable_datapack_driven_behavior": true,
+	// Pokemon won't be aggressive in these biomes
+	"peaceful_biome": [
+		"minecraft:deep_dark"
+	],
+	// Pokemon will be neutral in these biomes
+	"neutral_biome": [],
+	// Pokemon will always be aggressive in these biomes
+	"aggressive_biome": [],
 	// Forms that will always be aggressive
 	"always_aggro_aspects": [
 		"alolan"

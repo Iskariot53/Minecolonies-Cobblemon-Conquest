@@ -1,32 +1,62 @@
-Minecolonies - Cobblemon Conquest -  2.2.3 Changelog
+Minecolonies - Cobblemon Conquest -  2.2.4 Changelog
+
+
+Updated to NeoForge 21.1.218
+
+
+
+Mods Removed
+
+- Accessories Compatibility Layer
+- Cobblemon: Legendary Monuments
 
 
 Mods Updated
 
 
-- Berry Pouch [Cobblemon]
+- AdvancedAE
+- Applied Energistics 2 Wireless Terminals
+- Biomes O' Plenty
+- Bookshelf
+- Cobbleloots: Loot Balls and More!
 - Cobblemon Battle Extras
 - Cobblemon: Fight First
+- Cobblemon Integrations
 - Cobblemon: Mega Showdown
-- Connectivity
-- Fusion (Connected Textures)
+- Cobblemon Smartphone
+- Create: Deep Dark
+- Create: Filters Anywhere
+- Create: Hypertubes
+- e4mc
+- Farmer's Delight
+- FerriteCore
 - Immersive Aircraft
-- Lootr (Forge & NeoForge)
-- MEGA Cells
-- Moonlight Lib
+- Industrial Foregoing
+- Just Enough Mekanism Multiblocks
+- KeyBind Bundles
+- Kotlin for Forge
+- Lootr
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- MineColonies
 - MoreCobblemonTweaks
-- Multi-Piston
-- Ping Wheel
-- Pylons
-- SuperMartijn642's Core Lib
+- Navas ZA Megas
+- Oritech
+- Productive Bees
+- Radical Cobblemon Trainers API
+- Simple Voice Chat
+- Structurize
+- Stylecolonies
 - Supplementaries
-- Time in a bottle
+- Tom's Simple Storage Mod
+- Trinkets
+- Twilight's Flavors & Delight
+- WATERMeDIA: Multimedia API
+- Waystones
 - Xaero's Minimap
 - Xaero's World Map
 
-
-
 Changes
 
-
-- 
+Due to the nature of a structure mod having been removed, It is possible if not likely that this update will leave periodic "holes" in the world where legendary monuments used to be. This should be very infrequent but something to be expected on older world files as well as they will no longer generate in the world.
