@@ -9,6 +9,7 @@ Mods Removed
 
 - Accessories Compatibility Layer
 - Cobblemon: Legendary Monuments
+- Trinkets
 
 
 Mods Updated
