@@ -63,18 +63,8 @@
   "entangled": {
     "entangled_block_component": true
   },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
-  },
   "mekanismcovers": {
     "cover_component": true
-  },
-  "oritech": {
-    "machine_core_controller": true
   },
   "ftbquests": {
     "barrier": true
@@ -100,9 +90,6 @@
     "block_properties": false,
     "mod_name": true
   },
-  "balm": {
-    "jade": true
-  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -115,26 +102,12 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "productivebees": {
-    "bee": true,
-    "solitary_nest": true,
-    "canvas_beehive": true,
-    "bee_attributes": true
-  },
-  "modularrouters": {
-    "router": true
-  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
     "fluid": true,
     "energy": true,
     "tooltip_renderer": true
-  },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
   },
   "easy_villagers": {
     "villager": true,
@@ -144,19 +117,8 @@
   "pipez": {
     "pipe": true
   },
-  "twilightforest": {
-    "drying_rack": true,
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
   "waystones": {
     "waystone": true
-  },
-  "corpse": {
-    "corpse": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -166,14 +128,59 @@
     "milk_jar": true,
     "toaster": true
   },
-  "mega_showdown": {
-    "jade": true
-  },
   "securitycraft": {
     "showowner": true,
     "showmodules": true,
     "entity_info": true,
     "block_info": true,
     "showcustomname": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "oritech": {
+    "machine_core_controller": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "productivebees": {
+    "bee": true,
+    "solitary_nest": true,
+    "canvas_beehive": true,
+    "bee_attributes": true
+  },
+  "modularrouters": {
+    "router": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "jadecolonies": {
+    "colony.citizens": true,
+    "colony.visitor_cost": true,
+    "colony.pack": true,
+    "colony.colonist": true,
+    "domum.materials": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "mega_showdown": {
+    "jade": true
   }
 }
