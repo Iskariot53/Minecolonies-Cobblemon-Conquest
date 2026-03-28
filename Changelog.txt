@@ -1,116 +1,47 @@
-Minecolonies - Cobblemon Conquest -  2.2.4 Changelog
-
-
-Updated to NeoForge 21.1.218
-
-
-
-Mods Removed
-
-
-- Accessories Compatibility Layer
-- Cobblemon: Legendary Monuments
-- Trinkets
+Minecolonies - Cobblemon Conquest -  2.2.5 Changelog
 
 
 
 Mods Added
 
 
-- Cobblemon:Colonies
-- DireColonies
-- JadeColonies
-- Project Resonance for MineColonies
-- SmallColonies for Minecolonies
-- Trade Post for MineColonies
+- Cobblemon Battle Tower
+- Cobblemon Raid Dens
+- Crash Assistant
+- Create: Colony Logistics
+- Oracle Index
 
 
 
 Mods Updated
 
 
-- Accessories
-- AdvancedAE
-- AE2 JEI Integration
-- Applied Energistics 2 Wireless Terminals
-- Biomes O' Plenty
-- Bookshelf
-- Cobbleloots: Loot Balls and More!
+- Advanced Peripherals
+- Akashic Tome
+- Byzantine Styles Pack for Minecolonies
 - Cobblemon Battle Extras
-- Cobblemon: Fight First
-- Cobblemon Integrations
-- Cobblemon: Mega Showdown
-- Cobblemon Smartphone
-- Cooking for Blockheads
-- Create: Deep Dark
-- Create: Filters Anywhere
-- Create: Hypertubes
-- Cupboard
-- e4mc
+- Cobblemon:Colonies
+- Entangled
+- Eternal Starlight
 - Farmer's Delight
-- FerriteCore
-- Immersive Aircraft
-- Industrial Foregoing
-- Jade
-- Just Enough Mekanism Multiblocks
-- KeyBind Bundles
-- Kotlin for Forge
-- Lootr
-- Mekanism
-- Mekanism Generators
-- Mekanism Tools
-- MineColonies
-- MoreCobblemonTweaks
-- Navas ZA Megas
+- ForgeEndertech
+- KeybindsPurger
+- Large Ore Deposits
+- MineColonies for ComputerCraft
 - Oritech
-- Productive Bees
+- Patchouli
+- Radical Cobblemon Trainers
 - Radical Cobblemon Trainers API
-- Simple Voice Chat
-- Structurize
 - Stylecolonies
-- Supplementaries
-- Tom's Simple Storage Mod
-- Trinkets
-- Twilight's Flavors & Delight
-- WATERMeDIA: Multimedia API
-- Waystones
-- Xaero's Minimap
-- Xaero's World Map
+- SuperMartijn642's Core Lib
+- Trade Post for MineColonies
+- TrashSlot
+- The Twilight Forest
 
 Changes
 
 
-- Fixed multiple isolated issues with showdown (double battle issues, posers, etc.)
-- Fixed issue causing shader menu to be inaccessible from in-world.
-- Due to the nature of a structure mod having been removed, It is possible if not likely that this update will leave periodic "holes" in the world where legendary monuments used to be. This should be very infrequent but something to be expected on older world files as well as they will no longer generate in the world.
-- Updated currently available styles (where able) + added new style.
-- New Research Line: Economics
-- New Buildings (found within the trade post style):
-	- Feeder - Used to feed pet parrots.
-	- Marketplace - Used to sell items to visitors and generate Trade Coins
-	- Outpost - Self-explanatory, establishes a colony outpost for gathering purposes, etc.
-	- Resort - New recreation area, aids in stats, can generate Trade Coins.
-	- Recycling Center - Breaks down items to base materials.
-	- Train Station - Increases visitors to colony. Trades with Station Masters of other colonies, when connected, using Trade Coins.
-	- Pet Shop - Trains pets for colonies (wolf, fox and axolotl) to herd animals, gather mushrooms, and dredge water for resources.
-	- Wishing Well -  Player crafted, surrounding a 2x2 pool of water with Mixed Stone.
-	- PokeCenter - Heals your cobblemon.
-	- Gym - Colony gym (currently only spawns gen 1 trainers for battle, beat 1 gym leader to face the next.)
-	- Pasture - Harvest drops from cobblemon held in the pasture.
-	- Daycare -  Same as mainline games, raises level, leave 2 breedables to find an egg.
-	- Sience Lab - Performs science expeditions, for various perks.
-	- Trainer Academy -  EV Training
-	- Harvester - Farms for apricorns, specifically.
-	- New guard tower mechanics -  Hire trainers to serve as guards, they'll use their Cobblemon to help defend the colony.
-- New professions/mechanics: 
-	- Pet parrots - when used with a Feeder, will help gather vegetation.
-	- Shopkeeper -  Works at the Marketplace.
-	- Scout - Works at Outpost. Maintains inventories
-	- Guest Services - Works at resort, tending guests.
-	- Recycling engineer - Works at Recycling Center.
-	- Station Master - Works at Train Station, trades with other Station Masters
-	- Animal Trainer - Works at Pet Shop, trains pets.
-	- Dairy Worker - Works at Cowhand, aids in milking and crafting dairy products.
-	- Stewmealer - Works with kitchen to produce stew and help feed citizens using spare materials and seasoning (obtained from wishing wells, for now).
-	- Scientist - Explores and goes on expeditions to mystical sites for various perks (think similar to nether worker.).
-- "Advanced clipboards" will filter colony requests to only list requests that need to be or are currently expected to be fulfilled by the player.
+- In-game documentation now available for Oritech.
+- Addressed an issue/exploit allowing random cobblemon to be force-spawned.
+- Various schematics updated/fixed, including Pokecenter, thanks to Enzo.
+- Added additional filtering for console/log spam, primarily for older worlds where Legendary Monuments had been present.

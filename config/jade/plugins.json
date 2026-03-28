@@ -142,6 +142,9 @@
     "entity": true,
     "entity_variant": true
   },
+  "cobblemonraiddens": {
+    "raid_crystal": true
+  },
   "oritech": {
     "machine_core_controller": true
   },

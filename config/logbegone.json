@@ -31,7 +31,12 @@
 	  "blacklist config from file",
 	  "Recoverable errors when loading section",
 	  "Key mapping",
-	  "loaded too early"
+	  "loaded too early",
+	  "Potential block entity",
+	  "wasn't found in section",
+	  "Can't get the move/Trying",
+	  "Recoverable errors when loading section"
+"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -64,7 +69,11 @@
 	  "blacklist config from file",
 	  "Recoverable errors when loading section",
 	  "Key mapping",
-	  "loaded too early"
+	  "loaded too early",
+	  "Potential block entity",
+	  "wasn't found in section",
+	  "Can't get the move/Trying",
+	  "Recoverable errors when loading section"
 	  
     ]
   }
