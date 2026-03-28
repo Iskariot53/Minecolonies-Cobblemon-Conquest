@@ -1,0 +1,432 @@
+{
+  "config_version": 3,
+  "battle_points_rewards": true,
+  "replace_defaults": false,
+  "remove": [],
+  "tasks": [
+    {
+      "id": "lock_team_first",
+      "title": "Tower Registration",
+      "description": "Lock in a team for the Battle Tower.",
+      "trigger": {
+        "type": "LOCK_IN_TEAM",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:poke_ball",
+            "count": 4
+          }
+        ],
+        "battle_points": 1
+      }
+    },
+    {
+      "id": "start_run_first",
+      "title": "First Ascent",
+      "description": "Start your first Battle Tower run.",
+      "trigger": {
+        "type": "START_RUN",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_s",
+            "count": 2
+          }
+        ],
+        "battle_points": 1
+      }
+    },
+    {
+      "id": "win_any_5",
+      "title": "Warm-Up Wins",
+      "description": "Win 5 Battle Tower battles.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:great_ball",
+            "count": 3
+          }
+        ],
+        "battle_points": 2
+      }
+    },
+    {
+      "id": "win_any_15",
+      "title": "Tower Contender",
+      "description": "Win 15 Battle Tower battles.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 15
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 2
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "win_any_30",
+      "title": "Tower Veteran",
+      "description": "Win 30 Battle Tower battles.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "amount": 30
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 2
+          },
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 2
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "floor_any_5",
+      "title": "Fifth Floor",
+      "description": "Reach floor 5 in the Battle Tower.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_s",
+            "count": 4
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "floor_any_10",
+      "title": "Double Digits",
+      "description": "Reach floor 10 in the Battle Tower.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 3
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "floor_any_20",
+      "title": "Tower Climber",
+      "description": "Reach floor 20 in the Battle Tower.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 2
+          }
+        ],
+        "battle_points": 7
+      }
+    },
+    {
+      "id": "floor_any_33",
+      "title": "Apex Challenger",
+      "description": "Reach floor 33 in the Battle Tower.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "amount": 33
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          },
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 4
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "streak_any_5",
+      "title": "Win Streak",
+      "description": "Reach a 5-win streak in a single run.",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 2
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "streak_any_10",
+      "title": "Unbroken Momentum",
+      "description": "Reach a 10-win streak in a single run.",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 2
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "streak_any_20",
+      "title": "Endless Pressure",
+      "description": "Reach a 20-win streak in a single run.",
+      "trigger": {
+        "type": "REACH_STREAK",
+        "amount": 20
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 4
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "singles_floor_10",
+      "title": "Singles Specialist",
+      "description": "Reach floor 10 in Singles.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:SINGLES",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_up",
+            "count": 2
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "doubles_floor_10",
+      "title": "Doubles Specialist",
+      "description": "Reach floor 10 in Doubles.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:DOUBLES",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_up",
+            "count": 3
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "coop_floor_5",
+      "title": "Co-Op Pairing",
+      "description": "Reach floor 5 in Co-Op Doubles.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:COOP_DOUBLES",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 2
+          },
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 2
+          }
+        ],
+        "battle_points": 7
+      }
+    },
+    {
+      "id": "boss_floor_5",
+      "title": "Boss Climber",
+      "description": "Reach floor 5 in Boss mode.",
+      "trigger": {
+        "type": "REACH_FLOOR",
+        "target": "BATTLE_MODE:BOSS",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          },
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 3
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "random_wins_5",
+      "title": "Random Resolve",
+      "description": "Win 5 battles using Random team mode.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "TEAM_MODE:RANDOM",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:quick_ball",
+            "count": 4
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "open_level_wins_5",
+      "title": "Open Level Expert",
+      "description": "Win 5 battles in Level 100 mode.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEVEL_MODE:LEVEL_100",
+        "amount": 5
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 2
+          }
+        ],
+        "battle_points": 3
+      }
+    },
+    {
+      "id": "clean_rules_wins_10",
+      "title": "Clean Rulebook",
+      "description": "Win 10 battles with restricted Pokemon disabled.",
+      "trigger": {
+        "type": "WIN_BATTLE",
+        "target": "LEGENDARIES:DISABLED",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:pp_up",
+            "count": 2
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "boss_queue_three_player",
+      "title": "Full Squad",
+      "description": "Start a 3-player Boss run.",
+      "trigger": {
+        "type": "START_RUN",
+        "target": "BOSS_PLAYERS:3",
+        "amount": 1
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 2
+          }
+        ],
+        "battle_points": 5
+      }
+    },
+    {
+      "id": "tower_runs_3",
+      "title": "Tower Habit",
+      "description": "Complete 3 Battle Tower runs.",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 3
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 3
+          }
+        ],
+        "battle_points": 10
+      }
+    },
+    {
+      "id": "tower_runs_10",
+      "title": "Tower Regular",
+      "description": "Complete 10 Battle Tower runs.",
+      "trigger": {
+        "type": "COMPLETE_RUN",
+        "amount": 10
+      },
+      "reward": {
+        "item_rewards": [
+          {
+            "item": "cobblemon:ability_capsule",
+            "count": 1
+          },
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 5
+          }
+        ],
+        "battle_points": 20
+      }
+    }
+  ]
+}

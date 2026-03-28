@@ -1,0 +1,30 @@
+{
+  "bpTiers": [
+    {
+      "minFloor": 1,
+      "maxFloor": 5,
+      "bpPerWin": 1
+    },
+    {
+      "minFloor": 6,
+      "maxFloor": 10,
+      "bpPerWin": 2
+    },
+    {
+      "minFloor": 11,
+      "maxFloor": 15,
+      "bpPerWin": 3
+    },
+    {
+      "minFloor": 16,
+      "maxFloor": 30,
+      "bpPerWin": 4
+    },
+    {
+      "minFloor": 31,
+      "maxFloor": 999,
+      "bpPerWin": 5
+    }
+  ],
+  "legendaryBPPerFloor": 1
+}

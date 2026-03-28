@@ -1,0 +1,12 @@
+{
+  "runCooldownSeconds": 0,
+  "battleInitiationCooldownSeconds": 1,
+  "maxLegendaries": 0,
+  "allowNpcDynamax": true,
+  "allowNpcTera": true,
+  "allowNpcMega": true,
+  "bannedPokemon": [],
+  "bossModeBannedPokemon": [],
+  "allowRandomTeamMode": true,
+  "battleArenas": []
+}

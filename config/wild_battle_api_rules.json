@@ -1,0 +1,100 @@
+// Wild Battle API rules
+// Rules are checked from highest priority to lowest priority.
+// The first enabled rule with a matching action wins.
+//
+// Quick guide:
+// - Leave a match list empty to match anything.
+// - Species and aspects use lower-case values like "gengar" or "alolan".
+// - biomeIds use full ids like "minecraft:plains".
+// - biomeTags use full biome tag ids like "minecraft:is_overworld".
+// - timeOfDay supports: day, night, dawn, dusk.
+// - weather supports values like: clear, raining, thunder.
+// - encounterTags currently include special tags like: outbreak, battle_tower_boss.
+// - action.preset supports: easy, medium, hard, extreme.
+// - action.profile supports: default, boss.
+// - action.profile = "boss" is mainly useful for Battle Tower boss mode and any other
+//   integration that explicitly routes encounters through the boss profile path.
+//
+// The examples below are disabled by default.
+// Copy one, change it, and set "enabled": true when you want it active.
+
+{
+  "enabled": true,
+  "rules": [
+    {
+      "id": "example_battle_tower_boss_mode",
+      "enabled": false,
+      "priority": 200,
+      "match": {
+        "species": [],
+        "aspects": [],
+        "biomeIds": [],
+        "biomeTags": [],
+        "timeOfDay": [],
+        "weather": [],
+        "encounterTags": [
+          "battle_tower_boss"
+        ],
+        "minLevel": -1,
+        "maxLevel": -1
+      },
+      "action": {
+        "providerId": "",
+        "preset": "",
+        "profile": "boss"
+      }
+    },
+    {
+      "id": "example_outbreak_species_override",
+      "enabled": false,
+      "priority": 120,
+      "match": {
+        "species": [
+          "gengar"
+        ],
+        "aspects": [],
+        "biomeIds": [],
+        "biomeTags": [],
+        "timeOfDay": [],
+        "weather": [],
+        "encounterTags": [
+          "outbreak"
+        ],
+        "minLevel": -1,
+        "maxLevel": -1
+      },
+      "action": {
+        "providerId": "",
+        "preset": "hard",
+        "profile": ""
+      }
+    },
+    {
+      "id": "example_night_rain_overworld",
+      "enabled": false,
+      "priority": 40,
+      "match": {
+        "species": [],
+        "aspects": [],
+        "biomeIds": [],
+        "biomeTags": [
+          "minecraft:is_overworld"
+        ],
+        "timeOfDay": [
+          "night"
+        ],
+        "weather": [
+          "raining"
+        ],
+        "encounterTags": [],
+        "minLevel": -1,
+        "maxLevel": -1
+      },
+      "action": {
+        "providerId": "",
+        "preset": "medium",
+        "profile": ""
+      }
+    }
+  ]
+}

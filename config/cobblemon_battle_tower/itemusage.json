@@ -1,0 +1,24 @@
+{
+  "itemUsageTiers": [
+    {
+      "minFloor": 1,
+      "maxFloor": 5,
+      "maxItemUses": -1
+    },
+    {
+      "minFloor": 6,
+      "maxFloor": 10,
+      "maxItemUses": 3
+    },
+    {
+      "minFloor": 11,
+      "maxFloor": 15,
+      "maxItemUses": 2
+    },
+    {
+      "minFloor": 16,
+      "maxFloor": 999,
+      "maxItemUses": 1
+    }
+  ]
+}
