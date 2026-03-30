@@ -102,7 +102,7 @@
 	#Max distance (in blocks) from world spawn for a colony. [Default: 30000, min: 1000, max: 2147483647]
 	# Default: 30000
 	# Range: > 1000
-	maxdistancefromworldspawn = 30000
+	maxdistancefromworldspawn = 50000
 	#Min distance (in blocks) from world spawn for a colony. [Default: 0, min: 0, max: 1000]
 	# Default: 0
 	# Range: 0 ~ 1000

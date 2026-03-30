@@ -1,6 +1,6 @@
 {
   "BeforePokemonBattle": {
-    "MinHPForBattle": 0.8
+    "MinHPForBattle": 1.0
   },
   "InPokemonBattle": {
     "MinHPForCapture": 0.5,

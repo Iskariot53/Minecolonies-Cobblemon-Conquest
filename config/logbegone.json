@@ -35,8 +35,8 @@
 	  "Potential block entity",
 	  "wasn't found in section",
 	  "Can't get the move/Trying",
-	  "Recoverable errors when loading section"
-"
+	  "Recoverable errors when loading section",
+      "Could determine spawn bucket of"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -73,7 +73,8 @@
 	  "Potential block entity",
 	  "wasn't found in section",
 	  "Can't get the move/Trying",
-	  "Recoverable errors when loading section"
+	  "Recoverable errors when loading section",
+      "Could determine spawn bucket of"
 	  
     ]
   }

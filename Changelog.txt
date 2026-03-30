@@ -1,47 +1,25 @@
-Minecolonies - Cobblemon Conquest -  2.2.5 Changelog
-
-
-
-Mods Added
-
-
-- Cobblemon Battle Tower
-- Cobblemon Raid Dens
-- Crash Assistant
-- Create: Colony Logistics
-- Oracle Index
+Minecolonies - Cobblemon Conquest -  2.2.6 Changelog
 
 
 
 Mods Updated
 
 
-- Advanced Peripherals
-- Akashic Tome
-- Byzantine Styles Pack for Minecolonies
+- Cobbleloots: Loot Balls and More!
 - Cobblemon Battle Extras
+- Cobblemon Battle Tower
 - Cobblemon:Colonies
-- Entangled
-- Eternal Starlight
-- Farmer's Delight
-- ForgeEndertech
-- KeybindsPurger
-- Large Ore Deposits
-- MineColonies for ComputerCraft
-- Oritech
-- Patchouli
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- Stylecolonies
-- SuperMartijn642's Core Lib
+- Cobblemon: Mega Showdown
+- Cobblemon Pokenav
+- Deep Aether
+- Just Enough Mekanism Multiblocks
+- SmallColonies for Minecolonies
 - Trade Post for MineColonies
-- TrashSlot
-- The Twilight Forest
+
 
 Changes
 
 
-- In-game documentation now available for Oritech.
-- Addressed an issue/exploit allowing random cobblemon to be force-spawned.
-- Various schematics updated/fixed, including Pokecenter, thanks to Enzo.
-- Added additional filtering for console/log spam, primarily for older worlds where Legendary Monuments had been present.
+- Default coin value for marketplaces has been increased (100 -> 1000) to reflect balancing within the marketplace system.
+- Default settings for maximum distance a colony can be founded from world spawn increased to 50k. (configurable in defaultconfigs)
+- Cobblemon owned by colonists should no longer attack the player under certain conditions.
