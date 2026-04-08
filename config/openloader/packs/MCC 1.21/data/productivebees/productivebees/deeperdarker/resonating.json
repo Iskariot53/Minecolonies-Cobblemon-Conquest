@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#39bdcc",
+  "secondaryColor": "#0c92a1",
+  "particleColor": "#0c92a1",
+  "flowerItem": "deeperdarker:resonarium",
+  "size": 0.4,
+  "waterproof": false,
+  "selfbreed": false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

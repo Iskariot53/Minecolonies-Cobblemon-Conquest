@@ -1,0 +1,29 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:thermal_springstone"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "eternal_starlight:thermal_springstone"
+      },
+      "min": 1,
+      "max": 2,
+      "chance": 0.5
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}

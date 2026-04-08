@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#4ab2fe",
+  "secondaryColor": "#5294cc",
+  "particleColor": "#5294cc",
+  "flowerItem": "eternal_starlight:glacite_block",
+  "size": 0.4,
+  "waterproof": true,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

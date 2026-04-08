@@ -1,0 +1,15 @@
+{
+  "primaryColor": "#ee550d",
+  "secondaryColor": "#f4b14b",
+  "particleColor": "#f4b14b",
+  "flowerItem": "eternal_starlight:starfire",
+  "createComb": true,
+  "size": 1.0,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "weather_tolerance": "weather_tolerance.none",
+    "productivity": "productivity.medium"
+  }
+}

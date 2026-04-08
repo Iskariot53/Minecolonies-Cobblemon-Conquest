@@ -1,0 +1,33 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:glacite"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "eternal_starlight:glacite_shard"
+      },
+      "chance": 0.5
+    },
+	{
+      "item": {
+        "item": "eternal_starlight:creteor_hide"
+      },
+      "chance": 0.02
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}

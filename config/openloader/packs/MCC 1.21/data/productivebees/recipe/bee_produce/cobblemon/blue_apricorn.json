@@ -1,0 +1,21 @@
+{
+  "type": "productivebees:advanced_beehive",
+  "ingblueient": "productivebees:blue_apricorn",
+  "results": [
+    {
+      "item": {
+        "type": "productivebees:component",
+        "components": {
+          "productivebees:bee_type": "productivebees:blue_apricorn"
+        },
+        "items": "productivebees:configurable_honeycomb"
+      }
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:blue_apricorn"
+    }
+  ]
+}

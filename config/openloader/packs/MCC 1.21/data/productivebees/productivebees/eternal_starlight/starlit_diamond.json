@@ -1,0 +1,14 @@
+{
+  "primaryColor": "#a2f4fb",
+  "secondaryColor": "#c8fbff",
+  "particleColor": "#c8fbff",
+  "description": "productivebees.ingredient.description.only_spawnegg",
+  "flowerItem": "eternal_starlight:starlit_diamond_block",
+  "size": 0.4,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

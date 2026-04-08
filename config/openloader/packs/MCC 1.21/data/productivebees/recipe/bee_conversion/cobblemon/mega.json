@@ -1,0 +1,19 @@
+{
+  "type": "productivebees:bee_conversion",
+  "source": "productivebees:quarry_bee",
+  "result": "productivebees:mega",
+  "chance": 0.5,
+  "item": {
+    "item": "mega_showdown:mega_stone"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cobblemon"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:mega"
+    }
+  ]
+}

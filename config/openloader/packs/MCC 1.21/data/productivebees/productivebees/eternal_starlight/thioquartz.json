@@ -1,0 +1,15 @@
+{
+  "primaryColor": "#bcc435",
+  "secondaryColor": "#a9af45",
+  "particleColor": "#a9af45",
+  "flowerItem": "eternal_starlight:thioquartz_block",
+  "createComb": true,
+  "size": 0.4,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "weather_tolerance": "weather_tolerance.none",
+    "productivity": "productivity.medium"
+  }
+}

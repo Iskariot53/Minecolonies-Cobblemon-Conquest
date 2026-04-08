@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#630edb",
+  "secondaryColor": "#a662c7",
+  "particleColor": "#a662c7",
+  "flowerItem": "aether:zanite_block",
+  "size": 0.4,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

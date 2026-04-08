@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RPR",
+    "KMK",
+    "EHE"
+  ],
+  "key": {
+    "H": {
+      "item": "cobblemon:healing_machine"
+    },
+    "M": {
+      "item": "cobblemon:monitor"
+    },
+    "P": {
+      "item": "cobblemon:pc"
+    },
+    "E": {
+      "item": "create_deep_dark:echo_ingot"
+    },
+    "K": {
+      "item": "twilightforest:knightmetal_ingot"
+    },
+    "R": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "result": {
+    "id": "cobblemon_battle_tower:holo_battle_tower",
+    "count": 1
+  }
+}

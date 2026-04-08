@@ -1,0 +1,27 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:ironwood"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "twilightforest:raw_ironwood"
+      },
+      "chance": 0.5
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}

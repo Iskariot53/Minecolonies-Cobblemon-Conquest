@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#9400d3",
+  "secondaryColor": "#ffd700",
+  "particleColor": "#dfff00",
+  "flowerItem": "eternal_starlight:unrealium_block",
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "thicc",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

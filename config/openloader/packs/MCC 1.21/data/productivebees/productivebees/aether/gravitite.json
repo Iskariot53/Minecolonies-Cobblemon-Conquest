@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#ff00c0",
+  "secondaryColor": "#990073",
+  "particleColor": "#990073",
+  "flowerItem": "aether:enchanted_gravitite",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

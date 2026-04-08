@@ -1,0 +1,61 @@
+{
+  "type": "oritech:particle_collision",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "type": "productivebees:component",
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:master",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "items": "productivebees:spawn_egg_configurable_bee"
+    },
+    {
+      "type": "productivebees:component",
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:unrealium",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "items": "productivebees:spawn_egg_configurable_bee"
+    }
+  ],
+  "results": [
+    {
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:ancient_origin",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "count": 1,
+      "id": "productivebees:spawn_egg_configurable_bee"
+    }
+  ],
+  "time": 20000,
+  "neoforge:conditions": [
+    {
+      "modid": "oritech",
+      "type": "neoforge:mod_loaded"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:unrealium"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:master"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:ancient_origin"
+    }
+  ]
+}

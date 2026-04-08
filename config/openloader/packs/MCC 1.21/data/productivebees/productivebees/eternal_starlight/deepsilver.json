@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#5294cc",
+  "secondaryColor": "#80b7e6",
+  "particleColor": "#80b7e6",
+  "flowerItem": "eternal_starlight:deepsilver_block",
+  "size": 0.6,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "tiny",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

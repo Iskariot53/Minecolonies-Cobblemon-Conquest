@@ -1,0 +1,27 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingwhiteient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:white_apricorn"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "cobblemon:white_apricorn"
+      },
+      "chance": 0.5
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 5,
+    "fluid": "tmtceic:white_apri_gel"
+  }
+}

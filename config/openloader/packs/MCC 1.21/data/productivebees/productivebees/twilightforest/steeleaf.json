@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#11b21a",
+  "secondaryColor": "#37e941",
+  "particleColor": "#37e941",
+  "flowerItem": "twilightforest:steeleaf_block",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed": false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

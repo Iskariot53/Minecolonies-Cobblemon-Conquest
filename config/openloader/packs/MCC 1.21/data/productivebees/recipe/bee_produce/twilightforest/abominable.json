@@ -1,0 +1,21 @@
+{
+  "type": "productivebees:advanced_beehive",
+  "ingredient": "productivebees:abominable",
+  "results": [
+    {
+      "item": {
+        "type": "productivebees:component",
+        "components": {
+          "productivebees:bee_type": "productivebees:abominable"
+        },
+        "items": "productivebees:configurable_honeycomb"
+      }
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:abominable"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:abominable"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+  {
+      "item": {
+        "item": "twilightforest:arctic_fur"
+      },
+      "chance": 0.5
+    },
+    {
+      "item": {
+        "item": "twilightforest:alpha_yeti_fur"
+      },
+      "chance": 0.1
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}

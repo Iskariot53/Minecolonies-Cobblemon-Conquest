@@ -1,0 +1,27 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:gravitite"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "aether:enchanted_gravitite"
+      },
+      "chance": 0.3
+    },
+    {
+      "item": {
+        "tag": "c:wax"
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}

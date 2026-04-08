@@ -1,0 +1,19 @@
+{
+  "type": "productivebees:bee_spawning",
+  "ingredient": {
+    "item": "productivebees:obsidian_nest"
+  },
+  "results": [
+    "productivebees:unrealium"
+  ],
+  "spawn_item": {
+    "item": "eternal_starlight:unrealium_ingot"
+  },
+  "biomes": "#eternal_starlight:has_golem_forge",
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:unrealium"
+    }
+  ]
+}

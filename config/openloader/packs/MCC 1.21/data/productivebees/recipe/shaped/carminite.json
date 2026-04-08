@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IEI",
+    "III"
+  ],
+  "key": {
+    "E": {
+      "type": "productivebees:component",
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:ghostly",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "items": "productivebees:spawn_egg_configurable_bee"
+    },
+    "I": {
+      "item": "twilightforest:carminite"
+    }
+  },
+  "result": {
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:carminite",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "count": 1,
+      "id": "productivebees:spawn_egg_configurable_bee"
+    }
+}
