@@ -15,5 +15,8 @@
   "minBondingRequired": 200,
   "outSideMega": true,
   "outSideUltraBurst": false,
-  "teraHats": true
+  "teraHats": true,
+  "showBattleHUD": false,
+  "showStatChanges": false,
+  "showMoveTooltips": false
 }

@@ -136,23 +136,23 @@
 	// Do player Pokemon defend their owners proactively? (follows the same rules as Iron Golems!!!)
 	"do_pokemon_defend_proactive": true,
 	// Can player Pokemon target other players?
-	"do_player_pokemon_attack_other_players": false,
+	"do_player_pokemon_attack_other_players": true,
 	// Can player Pokemon target other player's Pokemon?
-	"do_player_pokemon_attack_other_player_pokemon": false,
+	"do_player_pokemon_attack_other_player_pokemon": true,
 	// Will the wild pokemon cries for several times when angered,set to false so the pokemon will only cry one time when it's angered
-	"multiple_cries": true,
+	"multiple_cries": false,
 	// Tick(1/20s by default) needed for the pokemon to cry again(it will only work when the multiple_cries is set to true)
 	"time_to_cry_again": 100,
 	// How much experience a pokemon can get by killing a pokemon without a battle? Set to 0 for no experience outside standard pokemon battles.
 	"experience_multiplier": 0.5,
 	// Your pokemon can gain EV points by killing a pokemon without a battle?
-	"can_gain_ev": true,
+	"can_gain_ev": false,
 	// If the Pokemon can evolve by using the move out of a Pokemon Battle? For example Primeape can use Rage Fist 20x to evolve without a traditional Pokemon Battle.
-	"can_progress_use_move_evolution": true,
+	"can_progress_use_move_evolution": false,
 	// Pokemons should be immune to suffocation damage? (cant die to wall damage, like when sand drops into them)
 	"suffocation_immunity": true,
 	// Should player-owned pokemons be immune to damage from all players?
-	"pvp_immunity": true,
+	"pvp_immunity": false,
 	// Should player-owned pokemons be immune to damage from mobs on the same team?
 	"friendly_fire_immunity_team": true,
 	// Should player-owned pokemons be immune to damage from the owner (friendly fire)?

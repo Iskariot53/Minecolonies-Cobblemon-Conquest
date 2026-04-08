@@ -180,6 +180,10 @@
   "supplementaries": {
     "hat_stand": true
   },
+  "petrolpark": {
+    "drying_rack": true,
+    "contamination": true
+  },
   "corpse": {
     "corpse": true
   },

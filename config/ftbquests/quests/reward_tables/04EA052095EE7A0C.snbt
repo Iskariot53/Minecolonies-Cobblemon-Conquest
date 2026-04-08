@@ -29,7 +29,7 @@
 			}
 			random_bonus: 1
 		}
-		{ id: "333EBECA7957BE76", item: { components: { "ftbquests:missing_item": "brendons_bottlecaps:goldencap" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "333EBECA7957BE76", item: { count: 1, id: "obc:bottle_cap_gold" } }
 		{
 			count: 20
 			id: "755FF9B47F1AAD11"

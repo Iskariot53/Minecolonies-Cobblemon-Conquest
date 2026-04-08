@@ -11,3 +11,5 @@
 	neverChristmas = false
 	#Render entities inside amber blocks.
 	renderEntitiesInAmber = true
+	#Enable april fools jokes
+	enableJokes = true

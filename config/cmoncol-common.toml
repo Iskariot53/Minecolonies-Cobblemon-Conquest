@@ -3,9 +3,9 @@
 	#Allowed Values: CLASSIC, MODERN, EASY
 	breedingMode = "MODERN"
 	daycareCurrencyItem = "minecraft:emerald"
-	# Default: 6000
-	# Range: 100 ~ 72000
-	eggCycleThreshold = 6000
+	# Default: 100
+	# Range: 50 ~ 3000
+	eggCycleThreshold = 3000
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
 	eggGenerationChance = 0.5

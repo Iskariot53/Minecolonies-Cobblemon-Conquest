@@ -6,7 +6,10 @@
   "pokefinderOverlayScale": 1.0,
   "pokefinderOverlayOffsetX": 10,
   "pokefinderOverlayOffsetY": 10,
+  "enableDisplayOfNamesOnRadar": false,
   "trackArrowYOffset": 80,
   "maxCloudNumber": 12,
-  "maxCloudVelocity": 6
+  "maxCloudVelocity": 6,
+  "enableItemShaking": true,
+  "enableMultipleModelItems": true
 }

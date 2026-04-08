@@ -350,8 +350,8 @@
 				item: { count: 1, id: "tmtceic:aluminum_pokeball_frame" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -2.5d
+			x: -6.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5BF30AA21250A283"]
@@ -454,6 +454,8 @@
 		}
 		{
 			dependencies: ["46028668D25936A3"]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
 			id: "5DDCDC6AA7C673EE"
 			rewards: [
 				{
@@ -477,7 +479,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "63A903AE420482B8"
 			rewards: [
 				{
@@ -501,7 +503,8 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
+			hide_until_deps_visible: true
 			id: "54C397636A7BE97F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -518,7 +521,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "191299BE6CF98EBE"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -535,7 +538,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "3190E98596E385A4"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -552,7 +555,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "525A1E65E686A172"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -569,7 +572,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "1D66C07A85CA61AB"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -586,7 +589,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "725855014BA78449"
 			rewards: [
 				{
@@ -610,7 +613,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "762A1DFE1B379C05"
 			rewards: [
 				{
@@ -634,7 +637,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5168C52323A809E0"]
+			dependencies: ["2DE622CAF1F60012"]
 			id: "7F3E313BAAF44EB5"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1059,6 +1062,29 @@
 			]
 			x: 2.0d
 			y: -9.5d
+		}
+		{
+			dependencies: ["78DB561AC5365AAC"]
+			hide_dependent_lines: true
+			id: "2DE622CAF1F60012"
+			tasks: [{
+				id: "421F37138D402E30"
+				item: { count: 1, id: "cobblemonparts:poke_hammer" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["16C59B6311832A6D"]
+			id: "004B771A97FF72E5"
+			tasks: [{
+				id: "308550EC1B98DEEA"
+				item: { count: 1, id: "cobblemonparts:master_poke_hammer" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
 		}
 	]
 }
