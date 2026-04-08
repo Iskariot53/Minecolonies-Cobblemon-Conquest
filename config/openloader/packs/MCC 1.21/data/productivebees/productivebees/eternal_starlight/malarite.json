@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#ad5097",
+  "secondaryColor": "#8d2b75",
+  "particleColor": "#8d2b75",
+  "flowerItem": "eternal_starlight:malarite_block",
+  "size": 0.5,
+  "waterproof": true,
+  "selfbreed": false,
+  "renderer": "tiny",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

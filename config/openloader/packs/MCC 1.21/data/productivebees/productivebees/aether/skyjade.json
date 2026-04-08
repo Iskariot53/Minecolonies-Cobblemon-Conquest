@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#54eb8a",
+  "secondaryColor": "#88bc53",
+  "particleColor": "#88bc53",
+  "flowerItem": "deep_aether:skyjade_block",
+  "size": 0.7,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

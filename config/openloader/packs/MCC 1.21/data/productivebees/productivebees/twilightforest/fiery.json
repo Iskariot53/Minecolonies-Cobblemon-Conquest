@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#eb1e25",
+  "secondaryColor": "#f6f21f",
+  "particleColor": "#f6f21f",
+  "flowerItem": "twilightforest:fiery_block",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed": false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

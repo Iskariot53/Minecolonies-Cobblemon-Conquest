@@ -1,0 +1,15 @@
+{
+  "primaryColor": "#c82fdf",
+  "secondaryColor": "#ff41f1",
+  "particleColor": "#c82fdf",
+  "description": "productivebees.ingredient.description.only_spawnegg",
+  "flowerItem": "cobblemonparts:ambiguity_ore",
+  "createComb": true,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "thicc",
+  "attributes": {
+    "weather_tolerance": "weather_tolerance.none",
+    "productivity": "productivity.medium"
+  }
+}

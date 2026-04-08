@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#7affe2",
+  "secondaryColor": "#c0f6ea",
+  "particleColor": "#c0f6ea",
+  "flowerItem": "twilightforest:alpha_yeti_fur",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "thicc",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

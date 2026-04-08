@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#3073a3",
+  "secondaryColor": "#74abd2",
+  "particleColor": "#74abd2",
+  "flowerItem": "eternal_starlight:golem_steel",
+  "size": 0.6,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "thicc",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

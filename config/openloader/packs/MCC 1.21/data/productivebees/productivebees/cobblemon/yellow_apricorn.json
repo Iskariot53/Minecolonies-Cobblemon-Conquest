@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#feff3f",
+  "secondaryColor": "#eec97d",
+  "particleColor": "#eec97d",
+  "flowerItem": "cobblemon:apricorn_leaves",
+  "size": 0.7,
+  "createComb": true,
+  "waterproof": false,
+  "selfbreed": true,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

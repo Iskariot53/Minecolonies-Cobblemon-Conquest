@@ -1,0 +1,11 @@
+{
+  "primaryColor": "#eccb14",
+  "secondaryColor": "#a2df2f",
+  "particleColor": "#dfc013",
+  "flowerBlock": "mega_showdown:keystone_block",
+  "createComb": false,
+  "description": "productivebees.ingredient.description.only_spawnegg",
+  "beeTexture": "productivebees:textures/entity/bee/imperial/bee",
+  "selfbreed": false,
+  "model": "productivebees:geo/entity/royal.geo.json"
+}

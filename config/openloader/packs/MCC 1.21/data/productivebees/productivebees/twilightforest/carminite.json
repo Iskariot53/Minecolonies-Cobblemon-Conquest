@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#e9262d",
+  "secondaryColor": "#eb585e",
+  "particleColor": "#eb585e",
+  "flowerItem": "twilightforest:carminite_block",
+  "size": 0.5,
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "default_crystal",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

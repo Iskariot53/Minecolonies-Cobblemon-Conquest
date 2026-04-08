@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#8d2b75",
+  "secondaryColor": "#ad5097",
+  "particleColor": "#ad5097",
+  "flowerItem": "eternal_starlight:amaramber",
+  "size": 0.7,
+  "waterproof": false,
+  "selfbreed": false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

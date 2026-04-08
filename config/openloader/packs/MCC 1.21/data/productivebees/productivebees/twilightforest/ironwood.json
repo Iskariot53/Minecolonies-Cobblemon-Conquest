@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#918f2b",
+  "secondaryColor": "#e9e656",
+  "particleColor": "#918f2b",
+  "flowerItem": "twilightforest:ironwood_block",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed": false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#ffddfd",
+  "secondaryColor": "#bb72f2",
+  "particleColor": "#bb72f2",
+  "flowerItem": "deep_aether:stratus_block",
+  "waterproof": false,
+  "selfbreed": false,
+  "renderer": "thicc",
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}

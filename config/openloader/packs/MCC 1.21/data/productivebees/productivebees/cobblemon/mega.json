@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#a1e0e8",
+  "secondaryColor": "#e8a1e7",
+  "particleColor": "#fed8fd",
+  "flowerItem": "mega_showdown:keystone",
+  "size": 0.9,
+  "waterproof": false,
+  "selfbreed":false,
+  "attributes": {
+    "productivity": "productivity.medium"
+  }
+}
