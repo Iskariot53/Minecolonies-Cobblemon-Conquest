@@ -1,0 +1,19 @@
+{
+  "type": "productivebees:bee_spawning",
+  "ingredient": {
+    "item": "productivebees:stone_nest"
+  },
+  "results": [
+    "productivebees:deepsilver"
+  ],
+  "spawn_item": {
+    "item": "eternal_starlight:deepsilver_ingot"
+  },
+  "biomes": "eternal_starlight:dark_swamp",
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:deepsilver"
+    }
+  ]
+}

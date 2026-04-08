@@ -1,0 +1,21 @@
+{
+  "type": "productivebees:advanced_beehive",
+  "ingyellowient": "productivebees:yellow_apricorn",
+  "results": [
+    {
+      "item": {
+        "type": "productivebees:component",
+        "components": {
+          "productivebees:bee_type": "productivebees:yellow_apricorn"
+        },
+        "items": "productivebees:configurable_honeycomb"
+      }
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:yellow_apricorn"
+    }
+  ]
+}

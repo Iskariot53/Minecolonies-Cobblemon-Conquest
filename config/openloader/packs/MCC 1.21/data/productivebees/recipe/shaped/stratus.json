@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "AIA",
+    "IGI"
+  ],
+  "key": {
+    "G": {
+      "type": "productivebees:component",
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:gravitite",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "items": "productivebees:spawn_egg_configurable_bee"
+    },
+	"S": {
+      "type": "productivebees:component",
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:skyjade",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "items": "productivebees:spawn_egg_configurable_bee"
+    },
+    "I": {
+      "item": "deep_aether:stratus_ingot"
+    },
+    "A": {
+      "item": "aether:ambrosium_shard"
+    }
+  },
+  "result": {
+      "components": {
+        "minecraft:entity_data": {
+          "type": "productivebees:stratus",
+          "id": "productivebees:configurable_bee"
+        }
+      },
+      "count": 1,
+      "id": "productivebees:spawn_egg_configurable_bee"
+    }
+}

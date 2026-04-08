@@ -1,0 +1,13 @@
+{
+  "type": "productivebees:item_conversion",
+  "bees": ["productivebees:ancient_origin"],
+  "ingredients": [
+    {
+      "item": "cobblemonparts:ancient_wooden_base"
+    }
+  ],
+  "result": { 
+      "count": 1,
+	  "id": "cobblemon:ancient_origin_ball"
+  }
+}

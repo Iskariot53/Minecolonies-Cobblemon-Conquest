@@ -1,0 +1,20 @@
+{
+  "type": "productivebees:bee_breeding",
+  "parent1": "productivebees:amaramber",
+  "parent2": "productivebees:starlit_diamond",
+  "offspring": "productivebees:aethersent",
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:amaramber"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:starlit_diamond"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:aethersent"
+    }
+  ]
+}

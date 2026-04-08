@@ -1,0 +1,28 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:carminite"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+  {
+      "item": {
+        "item": "twilightforest:carminite"
+      },
+      "chance": 0.5
+    },
+    {
+      "item": {
+        "item": "twilightforest:borer_essence"
+      },
+      "chance": 0.1
+    }
+  ],
+  "fluid": {
+    "amount": 150,
+    "fluid": "productivebees:honey"
+  }
+}
