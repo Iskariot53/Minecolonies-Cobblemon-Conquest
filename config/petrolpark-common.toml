@@ -1,0 +1,8 @@
+#.
+[compatibility]
+
+	#.
+	[compatibility.brewinAndChewin]
+		#.
+		#Some Fermenting/Pouring Recipes are possible in Lidded Basins and Spouts, if enabled.
+		fermentingInLiddedBasin = true
