@@ -5,8 +5,8 @@
 
 [General]
 	#The base interval (in ticks) between Logistics Coordinator request checks. Default: 1200 (60 seconds). Min: 200, Max: 12000.
-	# Default: 1200
-	# Range: 200 ~ 12000
+	# Default: 500
+	# Range: 200 ~ 1200
 	coordinatorCooldown = 1200
 	#The number of items to keep in the Warehouse before the Coordinator flags them as excess for export. Default: 128.
 	# Default: 128

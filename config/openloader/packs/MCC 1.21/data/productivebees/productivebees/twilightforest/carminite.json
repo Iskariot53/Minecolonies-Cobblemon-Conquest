@@ -3,6 +3,7 @@
   "secondaryColor": "#eb585e",
   "particleColor": "#eb585e",
   "flowerItem": "twilightforest:carminite_block",
+  "description": "productivebees.ingredient.description.only_spawnegg",
   "size": 0.5,
   "waterproof": false,
   "selfbreed": false,

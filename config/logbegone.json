@@ -36,7 +36,10 @@
 	  "wasn't found in section",
 	  "Can't get the move/Trying",
 	  "Recoverable errors when loading section",
-      "Could determine spawn bucket of"
+      "Could determine spawn bucket of",
+      "Could not determine spawn bucket of",
+      "moved too quickly!",
+      "Encountered unknown or non-serializable data attachment"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -74,7 +77,10 @@
 	  "wasn't found in section",
 	  "Can't get the move/Trying",
 	  "Recoverable errors when loading section",
-      "Could determine spawn bucket of"
+      "Could determine spawn bucket of",
+      "Could not determine spawn bucket of",
+      "moved too quickly!",
+      "Encountered unknown or non-serializable data attachment"
 	  
     ]
   }

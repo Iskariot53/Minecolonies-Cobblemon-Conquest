@@ -5,19 +5,5 @@
   "chance": 0.5,
   "item": {
     "item": "twilightforest:steeleaf_ingot"
-  },
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "twilightforest"
-    },
-    {
-      "type": "productivebees:bee_exists",
-      "bee": "productivebees:lumber_bee"
-    },
-    {
-      "type": "productivebees:bee_exists",
-      "bee": "productivebees:steeleaf"
-    }
-  ]
+  }
 }

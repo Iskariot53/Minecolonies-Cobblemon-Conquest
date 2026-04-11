@@ -1,65 +1,32 @@
-Minecolonies - Cobblemon Conquest -  2.2.6 Changelog
-
+Minecolonies - Cobblemon Conquest -  2.3.1 Changelog
 
 
 
 Mods Removed
 
 
-- Cobblemon Quests
-- Smooth Boot (Recreated)
+-
 
 
 
 Mods Added
 
 
-- Cobblemon Quests Reloaded
-- Create: Diesel Generators
-- Create: Enchantment Industry
-- Create: Remote Terminal
-- Create Slice & Dice
-- Create: Threaded Trains
-- ItemZoom
-- Mighty Mail
-- Observable
-- Petrol's Parts for Create
+-
+
 
 
 Mods Updated
 
 
-- AdvancedAE
-- Advanced Peripherals
-- Backpacked
-- Cobbleloots: Loot Balls and More!
 - Cobblemon Battle Extras
-- Cobblemon Battle Tower
-- Cobblemon:Colonies
-- Cobblemon: Mega Showdown
-- Cobblemon Pokenav
-- Cobblemon Raid Dens
-- CoroUtil
 - Create: Colony Logistics
-- CreativeCore
-- Deep Aether
-- FancyMenu
-- ImmediatelyFast
-- Just Enough Mekanism Multiblocks
-- ME Requester
-- ModernFix
-- Navas ZA Megas
-- Productive Bees
-- SmallColonies for Minecolonies
-- Trade Post for MineColonies
+
 
 
 Changes
 
 
-- Default coin value for marketplaces has been increased (100 -> 1000) to reflect balancing within the marketplace system.
-- Default settings for maximum distance a colony can be founded from world spawn increased to 50k. (configurable in defaultconfigs)
-- Cobblemon owned by colonists should no longer attack the player under certain conditions.
-- Eliminated causes for various isolated crashes.
-- Better optimized CPU usage in general.
-- It is possible a bee or 2 was added. Maybe.
+- Additional bug/crash fix regarding warehouses.
+- A few tweaks reagrding models as well as eliminating an issue/crash stemming from litleo/pyroar. 
+- Added better tooltips/descriptions for a few of the newer bees, clarifying how to get them in JEI.

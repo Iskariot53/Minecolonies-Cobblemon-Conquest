@@ -207,12 +207,12 @@
     "curseForgeHash": 2025728047,
     "modrinthHash": "a0dec78a9c1bb7e0167e5326aaf3c58a94f3aa86"
   },
-  "blockui-1.0.209-1.21.1.jar": {
-    "jarName": "blockui-1.0.209-1.21.1.jar",
+  "blockui-1.0.211-1.21.1-snapshot.jar": {
+    "jarName": "blockui-1.0.211-1.21.1-snapshot.jar",
     "modId": "blockui",
-    "version": "1.0.209-1.21.1",
-    "curseForgeHash": 3096233625,
-    "modrinthHash": "01cba16a7d71521b81d791a07740464e6d70d0a6"
+    "version": "1.0.211-1.21.1-snapshot",
+    "curseForgeHash": 1649624176,
+    "modrinthHash": "0ab4e0342b9f1e595d9a891f84747e4e5389c552"
   },
   "blueprint-1.21.1-8.0.8.jar": {
     "jarName": "blueprint-1.21.1-8.0.8.jar",
@@ -326,12 +326,12 @@
     "curseForgeHash": 710456504,
     "modrinthHash": "293c0fd6354114cd45d2dd8e4e771d48b1d89200"
   },
-  "cobblemon-battle-extras-neoforge-1.13.43.jar": {
-    "jarName": "cobblemon-battle-extras-neoforge-1.13.43.jar",
+  "cobblemon-battle-extras-neoforge-1.13.44.jar": {
+    "jarName": "cobblemon-battle-extras-neoforge-1.13.44.jar",
     "modId": "cobblemon_battle_extras",
-    "version": "1.13.43",
-    "curseForgeHash": 797969682,
-    "modrinthHash": "5a3e28eee002b65714ad519e32a0bf0beb1ff674"
+    "version": "1.13.44",
+    "curseForgeHash": 1446651833,
+    "modrinthHash": "cf9e495a864dae9f25455dbc3966f46c2ff2915f"
   },
   "cobblemon-colonies-1.1.5.jar": {
     "jarName": "cobblemon-colonies-1.1.5.jar",
@@ -353,13 +353,6 @@
     "version": "1.10.19",
     "curseForgeHash": 1279005502,
     "modrinthHash": "68c984455c13ea96d244f4a5d3789cdfec6463e7"
-  },
-  "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar": {
-    "jarName": "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
-    "modId": "cobblemon_quests",
-    "version": "1.2.0",
-    "curseForgeHash": 2018584329,
-    "modrinthHash": "735a118e41cb56eddca221bdd794315e4d756a09"
   },
   "cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.5.jar": {
     "jarName": "cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.5.jar",
@@ -576,12 +569,12 @@
     "curseForgeHash": 317877240,
     "modrinthHash": "d84300d669089aa02a2611b7f0b9b397ad3e5413"
   },
-  "create_colony_logistics-1.2.1.jar": {
-    "jarName": "create_colony_logistics-1.2.1.jar",
+  "create_colony_logistics-1.2.2.jar": {
+    "jarName": "create_colony_logistics-1.2.2.jar",
     "modId": "cclogistics",
-    "version": "1.2.1",
-    "curseForgeHash": 982903351,
-    "modrinthHash": "70fef6496b6a261d1891a10e57d995f65cad17b7"
+    "version": "1.2.2",
+    "curseForgeHash": 1165295925,
+    "modrinthHash": "9f60e59d429e637a73095d4960c3f838edfa7b40"
   },
   "create_deep_dark-3.0.2-neoforge-1.21.1.jar": {
     "jarName": "create_deep_dark-3.0.2-neoforge-1.21.1.jar",

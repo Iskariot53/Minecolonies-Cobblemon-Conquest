@@ -2,6 +2,7 @@
   "primaryColor": "#54eb8a",
   "secondaryColor": "#88bc53",
   "particleColor": "#88bc53",
+  "description": "productivebees.ingredient.description.only_spawnegg",
   "flowerItem": "deep_aether:skyjade_block",
   "size": 0.7,
   "waterproof": false,

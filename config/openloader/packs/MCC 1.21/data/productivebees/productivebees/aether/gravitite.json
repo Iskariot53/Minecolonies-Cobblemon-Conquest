@@ -2,6 +2,7 @@
   "primaryColor": "#ff00c0",
   "secondaryColor": "#990073",
   "particleColor": "#990073",
+  "description": "productivebees.ingredient.description.only_spawnegg",
   "flowerItem": "aether:enchanted_gravitite",
   "size": 0.9,
   "waterproof": false,
