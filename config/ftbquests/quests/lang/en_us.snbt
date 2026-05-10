@@ -42,6 +42,7 @@
 	quest.0053793E3F98252F.title: "&l&lCapsid Transformation"
 	quest.00561B81705B3506.quest_desc: ["Has a catch rate of 4× when used on Cobblemon with 100 or more Base Speed."]
 	quest.00561B81705B3506.title: "&lFast Ball"
+	quest.0080BA3DE8E36A07.quest_desc: ["Holding redstone in your off-hand while using the seeking eye will lead you to th Golem Forge, allowing you to challenge the Starlight Golem."]
 	quest.009919BC54ADF75A.title: "&lPhoenix Chestplate"
 	quest.00B9671338E0E8A4.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r have a &lTON&r of useful and functional upgrades that you can mix and match to satisfy your different needs."
@@ -89,6 +90,7 @@
 	quest.02AB663DE2BC5787.title: "&lMagma Mycelial Generator"
 	quest.02C28EADBE69CA9A.title: "&lDefeat any trainer"
 	quest.02E249A161D2EC5C.quest_desc: ["Summon your own powerful Zombies with the &l&lZombie Scepter&r&r! These Zombies are strong, fast, immune to sunlight, and ready to attack. They follow you and target enemies but self-immolate after about a minute. Unlike regular Zombies, they are not undead, are affected by potions, and can be targeted by the Wither. Summoned Zombies do not scare, target, or corrupt Villagers, and baby or chicken jockey variants do not exist."]
+	quest.02E2DF3B75568230.quest_desc: ["Holding vines or lunar berries in you off-hand while using the seeking eye will lead you to the Cursed Garden, allowing you to challenge the Lunar Monstrosity."]
 	quest.02E3B1E761BC38C5.title: "&l&lTime for an Upgrade"
 	quest.031BF5A5DDEA7DDF.quest_desc: [
 		"Once the player has traversed the Thornlands, they will encounter the &l&lFinal Castle&r&r, a structure that spawns in the &lFinal Plateau&r. It is primarily made of white castle bricks in different variants, some of which are engraved with colored runes and covered with force fields."
@@ -175,6 +177,7 @@
 	quest.06F6FB4557C2EFCB.title: "&lInventory Cables and Cable Connectors"
 	quest.070B9E78D5273338.quest_subtitle: "&lA central HUD for black holes"
 	quest.070B9E78D5273338.title: "&3&lBlack Hole Controller"
+	quest.072EB7108534181E.quest_desc: ["Base components to many different parts and machines, utilized in conducting electricity."]
 	quest.072EB7108534181E.title: "&lMagnetic Coil"
 	quest.074B887DF09E55D8.quest_desc: [
 		"&l&lMagic Beans&r&r are a collection of colorful beans can be found in smaller vaults in the Troll Caves. A Diamond Pickaxe or a pickaxe of similar strength is normally needed to crack the vault open and claim the beans. You may also get Magic Beans as a very lucky drop from killing &lTrolls&r."
@@ -186,6 +189,23 @@
 	quest.07642BFD8BE9A0E5.quest_desc: ["Wether a basic Poké Ball or a Master Ball, it all started here. You can find Apricorn Trees of various colors through out your world, however, your colonies sifters are also capable of finding them. Once acquired, they can be farmed using deployers, cloches or planted and harvested by foresters."]
 	quest.07642BFD8BE9A0E5.quest_subtitle: "&0&lGathering basic Poké Ball ingredients"
 	quest.07642BFD8BE9A0E5.title: "&lApricorns"
+	quest.077EA7AE1E8994CD.quest_desc: [
+		"Once you have entered the forge, you must navigate its passages to the main chamber. "
+		""
+		"The golem is accompanied by many, smaller, guardians that will need to be managed, leather armor can help negate the effects of their attacks."
+		""
+		"{@pagebreak}"
+		""
+		"The fight follows these rules and sequences:"
+		""
+		"Smoke particles form anywhere the forge will soon combust, dealing fire damage when it inevitably does. "
+		""
+		"The golem will periodically slam the ground, sending high-damage shockwaves in the direction it faces when it slams."
+		""
+		"The golem will periodically raise its arms and release an extremely powerful, focused energy beam that will need to be avoided at all costs."
+		""
+		"Lastly, the golem cannot be damaged initially. You will see beams of energy powering its shields, these generators must be R-clicked and disabled, bringing the golems shield down temporarily and allowing it to be damaged. The generators will re-engage over time, repeat the cycle while avoiding its attacks for long enough to defeat the golem."
+	]
 	quest.078B565E7AEF5547.quest_desc: ["The gatherer will harvest all plants and trees within its working area, producing sludge in the process which must be processed in a sludge refiner (or can be voided)."]
 	quest.078B565E7AEF5547.quest_subtitle: "&0&lAuto-Harvesting"
 	quest.078B565E7AEF5547.title: "&lPlant Gatherer"
@@ -233,7 +253,7 @@
 	quest.093039CD2C51183B.quest_desc: ["The &lBlacksmith's Hut&r&r &lrequires research&r at the University&r to be built, and is a &c3x3&r crafter and can make any vanilla tools, armor, swords, and shields (no bows or redstone items). The Blacksmith's Hut will work when they receive a request for any of those items from another worker."]
 	quest.093039CD2C51183B.quest_subtitle: "&0&lBlacksmith's Hut"
 	quest.093039CD2C51183B.title: "&lBlacksmiths"
-	quest.093A7CC96CA17DF4.title: "&lCybernetic Augmentation Station"
+	quest.093A7CC96CA17DF4.title: "&lCybernetic Augmentation Center"
 	quest.094E3B6506FCB2A4.title: "&lCarbon Fibre Strands"
 	quest.095F4DBB62BB476D.title: "&lIron Mechanical Component"
 	quest.09634B9B5D7153C3.quest_desc: [
@@ -458,7 +478,13 @@
 	quest.0EE55D55C22ADEDB.quest_subtitle: "&0&lBrewing v2.0"
 	quest.0EE55D55C22ADEDB.title: "&lPotion Brewer"
 	quest.0EFB469B8EEB8A4D.quest_desc: ["The &l&lOre Magnet&r&r is a treasure found in Hollow Hill chests. To use it, point the magnet at the ground or a wall, charge it up, and release. If you’re lucky, it will pull anything from an ore block to an entire vein to the surface, bringing up to 24 blocks, plus a few extra."]
-	quest.0EFD80C0B8872BD2.quest_desc: ["Once you have found a portal frame, you must challenge and defeat its Gatekeeper to proceed."]
+	quest.0EFD80C0B8872BD2.quest_desc: [
+		"Once you have found a portal frame, you must challenge and defeat its Gatekeeper to proceed."
+		""
+		"Gatekeepers are formidable adversaries that will utilize a wide range of both melee and magical attacks. Prioritize defence over attack and focus on mobility and survivability. "
+		""
+		"You do not need to kill the gatekepper, they are merely a test of strength and should you weaken them enough, they will grant you access."
+	]
 	quest.0EFD80C0B8872BD2.title: "&lDefeat the Gatekeeper"
 	quest.0F0C0F27BE3D34D6.title: "&lDefeat Big Mo"
 	quest.0F4282501ED109B5.title: "&lME Fluid Cell Housing"
@@ -547,6 +573,7 @@
 	quest.118623DACF6DC891.title: "&lOsmium Compressor"
 	quest.119B4B3AFE7945FF.quest_desc: ["Has a catch rate of 3× when used on Bug-type or Water-type Cobblemon."]
 	quest.119B4B3AFE7945FF.title: "&lNet Ball"
+	quest.11C6278EC3AF7EC3.quest_desc: ["Used for grinding and crushing resources as well as useful for producing biofuel."]
 	quest.11C6278EC3AF7EC3.title: "&lPulverizer"
 	quest.11C6AAD5E91C79B6.quest_desc: [
 		"The mob slaughter factory is used to process mobs and animals into liquid meat and pink slime. The animals killed by this machine will not produce drops or experience."
@@ -635,6 +662,13 @@
 	quest.1375960CA88B29CD.quest_subtitle: "&0&lBee Breeding"
 	quest.1375960CA88B29CD.title: "&lAcquire a Bronze Bee"
 	quest.13772AC661459F8A.quest_desc: ["The &l&lCharm of Life I&r&r will heal the player back to 4 hearts, and bestow Regeneration I for the next 10 seconds. Charm of Life I can be found in medium and large Hollow Hills, Leaf Dungeons, Lich Towers, Goblin Knight Strongholds, Dark Towers and Aurora Palaces."]
+	quest.13B488E8AF22FFD2.quest_desc: [
+		"A high-powered laser typically used for either power transfer or remote mining."
+		""
+		"It has a maximum range of 128 blocks and requires a target designator to select its target direction. It will then break all blocks in its path until it has either received a redstone signal or reached its maximum range."
+		""
+		"It has multiple unique uses and interactions and will be worth giving an in-depth look within Oracle (alt key while hovering the item.)"
+	]
 	quest.13B488E8AF22FFD2.title: "&lEnderic Laser"
 	quest.13D06CA200A91C28.quest_desc: [""]
 	quest.13D06CA200A91C28.title: "&lSimple Machine Frame"
@@ -689,6 +723,8 @@
 	quest.15EDEA2E3D312AB2.quest_subtitle: "&0&lCraft or Obtain a Bamboo Hopper"
 	quest.15EDEA2E3D312AB2.title: "&lBamboo Hopper"
 	quest.15FA9A479EE5E88C.quest_desc: ["The &l&lIce Sword&r&r is a weapon that can be found in Aurora Palaces. Ice Swords cannot be crafted, and inflict 10 seconds of Frosted III on targets, reducing their movement speed."]
+	quest.16472E640D0FCB50.quest_desc: ["The  foundry will be the first of many machines allowing for parts and components to be crafted, making recipes for alloys cheaper. "]
+	quest.16472E640D0FCB50.quest_subtitle: "Processing alloys"
 	quest.16472E640D0FCB50.title: "&lFoundry"
 	quest.1665F1A15B6A0F53.quest_desc: ["The &lRallying Banner&r&r will summon your &lGuards&r to you when used. It's especially useful in &craids&r, as Guards don't automatically know where to find the raiders."]
 	quest.1665F1A15B6A0F53.title: "&lRallying Banner"
@@ -732,7 +768,6 @@
 		"&l&lArctic Armor&r&r is armor made from Arctic Fur. "
 	]
 	quest.183AE610FA1BB0A2.title: "Arctic Armor"
-	quest.1850DC97A5657AC8.quest_subtitle: "please don't go nuclear on the servers"
 	quest.1850DC97A5657AC8.title: "&lBig Booms"
 	quest.18637DEC415FBBB9.quest_desc: ["While the dissolution chamber has many functions, the primary things you will want it for more immediately will be for producing higher tiers of machine frames and machine upgrades in general."]
 	quest.18637DEC415FBBB9.quest_subtitle: "&0&lMaking machine frames and upgrades"
@@ -837,6 +872,7 @@
 		"In most cases it is preferable to have a nature that decreases either Attack or Special Attack for Cobblemon whose strengths are the opposite type of attack. Gengar, for example, favours Special Attack moves, so it's best to use a nature that decreases its Attack stat since it won't be used."
 	]
 	quest.1B951304D71290E6.title: "&lWhat's a cobblemons \"nature\"?"
+	quest.1BA3583FDDBAEEA7.quest_subtitle: "Automating basic components"
 	quest.1BA3583FDDBAEEA7.title: "&lAssembler"
 	quest.1BF6556EE16095F9.quest_desc: [
 		"The &lBarracks Tower&r&r will employ and house one &lGuard&r&r for every level built. Each new Guard will need a bed in a house in order to spawn. However, once they are hired at the Barracks Tower, that becomes their new residence and the bed in the house will open up for another new citizen."
@@ -1194,6 +1230,7 @@
 	quest.25E6D46400D0EECF.quest_desc: ["Can &ainput&r items into or &cextract&r items from containers."]
 	quest.25E6D46400D0EECF.quest_subtitle: "&0&lItem transfer"
 	quest.25E6D46400D0EECF.title: "&lAndesite Funnel"
+	quest.25EB20A8288B050F.quest_desc: ["A compact lense, used in many machine and cybernetic augment recipes."]
 	quest.25EB20A8288B050F.title: "&lEnderic Lens"
 	quest.265EBBF34CA13F2A.title: "&lHull Reinforcement"
 	quest.2663A3D3CA0E33D3.quest_subtitle: "&0&lApply max upgrades to your backpack"
@@ -1453,11 +1490,7 @@
 	]
 	quest.2ED038A81358A49E.quest_subtitle: "&0&lAdvanced Logistics Solutions."
 	quest.2ED038A81358A49E.title: "&lWelcome to Applied Energistics 2!"
-	quest.2ED8D6121ABADC02.quest_desc: [
-		"The Starlight Story is an integral part of experiencing the mod, it is due to this that we will not be &oruining&r that experience by adding a questline."
-		""
-		"Complaints will be ignored, if you do not want to read the book then you do not want to play the mod, it &o&nreally is&r&r that simple :)"
-	]
+	quest.2ED8D6121ABADC02.quest_desc: [""]
 	quest.2ED8D6121ABADC02.quest_subtitle: "Use the book"
 	quest.2ED8D6121ABADC02.title: "&lGlimmering Tablet"
 	quest.2EF32806E1739F1A.quest_desc: [
@@ -1707,6 +1740,7 @@
 	quest.353A06EAE19F5598.title: "&lSlay a Giant Miner"
 	quest.35947D9A5AF50325.quest_subtitle: "Round 1"
 	quest.35947D9A5AF50325.title: "&lDefeat Cynthia"
+	quest.35DE3F29E9962F80.quest_desc: ["Allows the Cybernetic Augmentation Center to operate on Arcane Energy, as well as allows for the ability to research \"Unholy Augments\"."]
 	quest.35DE3F29E9962F80.title: "&lArcane Research Station"
 	quest.36146FF5F795E67A.quest_desc: ["These Quests are tied to the core components that are used as materials"]
 	quest.36146FF5F795E67A.quest_subtitle: "&0&lParts"
@@ -2073,6 +2107,7 @@
 	quest.41000C72DEA60A93.title: "&2&lMagic Beans"
 	quest.4103C7FA751AC743.quest_subtitle: "Round 2"
 	quest.4103C7FA751AC743.title: "&lDefeat Cedrick"
+	quest.41655AC29B8DFA29.quest_subtitle: "Ore Processing"
 	quest.41655AC29B8DFA29.title: "&lFragment Forge"
 	quest.416C03D4DCBB88F3.quest_desc: ["The &l&lScepter of Life Draining&r&r drains life energy from any mob it right-clicks, producing pink particle effects. To use it, hold right-click while looking at an enemy, causing them to float and transferring energy to the user for faster healing. If interrupted, the enemy gets the Slowness debuff and approaches slowly, allowing the player to recharge the scepter. It does not work against the Ender Dragon."]
 	quest.423643A2F359889D.quest_desc: ["Feed a fluix pearl to a spatial bee."]
@@ -2626,7 +2661,6 @@
 	quest.549AD8EF3E9A90F7.quest_desc: ["The fluid laser base is a machine used with one or multiple laser drills to produce fluids. Laser lenses can be used to select which fluid the laser base will extract. When a purple laser lense is inserted and the base placed above a wither, it will attempt to extract ether. When placed in the nether with an orange lense inserted, it will attempt to extract lava. In the GUI of the laser base, the bar on the left displays the amount of work that has been performed by the laser drill(s). When it reaches 100%, one bucket of fluid is produced. Work changes by 1% every time a laser drill completes an operation."]
 	quest.549AD8EF3E9A90F7.quest_subtitle: "&0&lFluid void miner"
 	quest.549AD8EF3E9A90F7.title: "&lFluid Laser Base"
-	quest.54A1D540D0231F60.title: "&lCrafter"
 	quest.54AFB3A78775AA2D.title: "&lControl Rod Assembly"
 	quest.54B6C8FA074658E3.quest_desc: [
 		"The import bus takes items and fluids (and whatever else) from the inventory it's touching and pulls them into network storage."
@@ -2823,6 +2857,7 @@
 	]
 	quest.5B3660BF8A28EBE4.quest_subtitle: "&0&lA big mixing bowl"
 	quest.5B3660BF8A28EBE4.title: "&lBasin"
+	quest.5B48EC3F74F6B2DD.quest_desc: ["Part used for converting electricity into mechanical force."]
 	quest.5B48EC3F74F6B2DD.title: "&lMotor"
 	quest.5B590E2B1E8C19EC.title: "&lDefeat Tessy"
 	quest.5B698AB7FE032025.quest_desc: ["The Smartphone can be used to acces your PC storage, your ender chest inventory, as well as to heal your 'Mon."]
@@ -4058,6 +4093,7 @@
 	]
 	quest.7D2462E72B5DCF40.quest_subtitle: "&0&lThe hoarding begins"
 	quest.7D2462E72B5DCF40.title: "&lME Item Cell Housing"
+	quest.7D2778F1C2BD996B.quest_subtitle: "Advanced Component Assembly"
 	quest.7D2778F1C2BD996B.title: "&lAtomic Forge"
 	quest.7DA2480976B8950C.quest_desc: ["Blaze cakes can be used to fuel and super heat &cblaze burners&r, required for some of the more advanced recipes."]
 	quest.7DA2480976B8950C.quest_subtitle: "&0&lProbably not edible"
@@ -4087,6 +4123,11 @@
 	quest.7E53C02DE7996C0C.quest_desc: ["The furnace mycelial generator will take any number of smeltable items (you'd be surprised what it accepts) and in turn produce FE."]
 	quest.7E53C02DE7996C0C.quest_subtitle: "&0&lSmelting power"
 	quest.7E53C02DE7996C0C.title: "&lFurnace Mycelial Generator"
+	quest.7E5E33470D50DF8B.quest_desc: [
+		"A chaotic boss battle within the gardens central arena, the lunar monstrosity follows no specific sequence and requires the use of fire damage in order to break its damage immunity. It can and will periodically recess back into the ground and can move freely, be mindful of nasty surprises."
+		""
+		"The Lunar Hatred, tentacles that spawn from the garden floor can grow overwhelming if not killed quickly. The battle scales and intensifies as the Monstrosities health drops so utilize caution throughout the entirety of the fight."
+	]
 	quest.7E70515169745C3A.quest_desc: [
 		"&l&lMagic Maps&r&r are vital for explorers in the Twilight Forest, as they are linked to the dimension and reveal important details about the surrounding areas."
 		""

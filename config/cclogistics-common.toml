@@ -8,10 +8,10 @@
 	# Default: 500
 	# Range: 200 ~ 1200
 	coordinatorCooldown = 1200
-	#The number of items to keep in the Warehouse before the Coordinator flags them as excess for export. Default: 128.
-	# Default: 128
+	#The maximum amount of stock a player can configure a logistics block to hold (Server limit). Default: 512.
+	# Default: 512
 	# Range: 1 ~ 100000
-	warehouseExcessThreshold = 128
+	maxPlayerStockRequest = 512
 
 ["Citizen Skill Scaling"]
 	#Set to false to completely disable citizen skills affecting logistics (workers will use base stats). Default: true

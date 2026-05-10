@@ -1,4 +1,9 @@
 #.
+#Add NeoForge Fluid Capability to Glass Bottle items, making them act more like Buckets
+#[May override other mods' functionality]
+glassBottleFluidCapability = true
+
+#.
 [compatibility]
 
 	#.

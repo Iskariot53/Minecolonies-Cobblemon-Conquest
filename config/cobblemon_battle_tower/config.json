@@ -8,5 +8,7 @@
   "bannedPokemon": [],
   "bossModeBannedPokemon": [],
   "allowRandomTeamMode": true,
+  "enableNpcBattleCobbledollarsPayout": true,
+  "npcBattleCobbledollarsPayoutMultiplier": 0.1,
   "battleArenas": []
 }

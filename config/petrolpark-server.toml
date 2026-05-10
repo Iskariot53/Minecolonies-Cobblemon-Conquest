@@ -54,6 +54,8 @@ syncChiseledBookshelves = true
 		#.
 		#Whether Drying Recipes can be done on Chain Conveyors
 		chainConveyorDrying = true
+		#.
+		"Crushing Wheels can be encased in Brass Casing, allowing a Recipe filter to be set" = true
 
 		#.
 		[compatibility.create.centrifuge]
@@ -114,3 +116,4 @@ syncChiseledBookshelves = true
 	#Individual coefficients of stress impact of kinetic blocks.
 	[stressValues.impact]
 		centrifuge = 2.0
+		blender = 2.0

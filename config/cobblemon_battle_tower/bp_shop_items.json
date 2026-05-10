@@ -565,14 +565,14 @@
     {
       "id": "master_ball",
       "display_name": "Master Ball",
-      "bp_cost": 30,
+      "bp_cost": 50,
       "item_id": "cobblemon:master_ball",
       "quantity": 1
     },
     {
       "id": "ancient_origin_ball",
       "display_name": "Ancient Origin Ball",
-      "bp_cost": 30,
+      "bp_cost": 50,
       "item_id": "cobblemon:ancient_origin_ball",
       "quantity": 1
     },

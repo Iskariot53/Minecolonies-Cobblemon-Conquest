@@ -16,7 +16,7 @@
   "maxVerticalCorrectionBlocks": 64,
   "minimumLevelRangeMax": 10,
   "enableSpawning": true,
-  "minimumDistanceBetweenEntities": 8.0,
+  "minimumDistanceBetweenEntities": 16.0,
   "maxNearbyBlocksHorizontalRange": 4,
   "maxNearbyBlocksVerticalRange": 2,
   "maxVerticalSpace": 8,
@@ -24,8 +24,8 @@
   "spawningZoneHeight": 16,
   "ticksBetweenSpawnAttempts": 20.0,
   "minimumSpawningZoneDistanceFromPlayer": 16.0,
-  "maximumSpawningZoneDistanceFromPlayer": 64.0,
-  "maximumSpawnsPerPass": 8,
+  "maximumSpawningZoneDistanceFromPlayer": 32.0,
+  "maximumSpawnsPerPass": 3,
   "exportSpawnConfig": false,
   "savePokemonToWorld": true,
   "exportStarterConfig": true,
@@ -36,7 +36,7 @@
   "luckyEggMultiplier": 1.5,
   "allowSpectating": true,
   "experienceMultiplier": 2.0,
-  "pokemonPerChunk": 1.0,
+  "pokemonPerChunk": 0.5,
   "pokeSnackPokemonPerChunk": 2.0,
   "passiveStatuses": {
     "cobblemon:poison": "180-300",
@@ -100,7 +100,7 @@
   "enableInFlightDismounting": false,
   "enableDebugKeys": false,
   "despawnerNearDistance": 32.0,
-  "despawnerFarDistance": 96.0,
+  "despawnerFarDistance": 64.0,
   "despawnerMinAgeTicks": 600,
   "despawnerMaxAgeTicks": 3600
 }

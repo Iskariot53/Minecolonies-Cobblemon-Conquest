@@ -4,7 +4,7 @@
 	# Default: 10000
 	# Range: > 0
 	compassRange = 10000
-	#Defines if the structure compass should locate unexplored structures [default: false]
+	#Defines if the structure compass should only locate unexplored structures. A structure is tagged as explored when the compass is used to find it. [default: false]
 	locateUnexplored = false
 	#Defines if the structure compass should locate structures asynchronously [default: false]
 	locateAsync = false

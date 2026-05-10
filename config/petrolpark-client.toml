@@ -19,3 +19,12 @@
 	# Default: 3
 	# Range: > 0
 	extraHotbarPrioritySlotCount = 3
+
+#.
+[compatibiity]
+
+	#.
+	[compatibiity.create]
+		#.
+		#The Contaminants a fluid has are shown in its name when hovering a Create fluid-containing block
+		showContaminantsInFluidName = true

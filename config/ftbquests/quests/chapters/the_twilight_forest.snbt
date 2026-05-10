@@ -4,7 +4,6 @@
 	default_quest_shape: "octagon"
 	filename: "the_twilight_forest"
 	group: "2D51A79A011E57C1"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "twilightforest:twilight_portal_miniature_structure"
 	}
@@ -55,7 +54,6 @@
 		}
 		{
 			dependencies: ["7EE137CFDCBB88DF"]
-			hide_until_deps_complete: true
 			icon: {
 				id: "twilightforest:naga_trophy"
 			}
@@ -480,7 +478,7 @@
 		}
 		{
 			dependencies: ["224C2A4CAABD226E"]
-			hide_until_deps_complete: false
+			hide_until_deps_complete: true
 			id: "63C1EC8559D1E68B"
 			rewards: [
 				{
@@ -512,6 +510,7 @@
 		}
 		{
 			dependencies: ["238BA4DDD4B10E64"]
+			hide_until_deps_complete: true
 			id: "6F765560F3AF0737"
 			rewards: [
 				{
@@ -536,6 +535,7 @@
 		}
 		{
 			dependencies: ["238BA4DDD4B10E64"]
+			hide_until_deps_complete: true
 			id: "1D34C364554673D1"
 			rewards: [
 				{
@@ -560,6 +560,7 @@
 		}
 		{
 			dependencies: ["238BA4DDD4B10E64"]
+			hide_until_deps_complete: true
 			id: "3D24BA08A1F6F341"
 			rewards: [
 				{
@@ -584,6 +585,7 @@
 		}
 		{
 			dependencies: ["238BA4DDD4B10E64"]
+			hide_until_deps_complete: true
 			id: "0E8B64CE67FC2ED6"
 			rewards: [
 				{
@@ -608,6 +610,7 @@
 		}
 		{
 			dependencies: ["0CDBF9C116B9F573"]
+			hide_until_deps_complete: true
 			id: "61F6FCB0EA0E6EE3"
 			rewards: [
 				{
@@ -632,6 +635,7 @@
 		}
 		{
 			dependencies: ["39A8F24D2A4A03A0"]
+			hide_until_deps_complete: true
 			id: "5E22B54E7749BB31"
 			rewards: [
 				{
@@ -673,6 +677,7 @@
 		}
 		{
 			dependencies: ["39A8F24D2A4A03A0"]
+			hide_until_deps_complete: true
 			id: "72BE5D51B75EAB98"
 			rewards: [
 				{
@@ -704,6 +709,7 @@
 		}
 		{
 			dependencies: ["6ACE6710E64ACF68"]
+			hide_until_deps_complete: true
 			id: "3B62B0D9334A609C"
 			rewards: [
 				{
@@ -735,6 +741,7 @@
 		}
 		{
 			dependencies: ["6ACE6710E64ACF68"]
+			hide_until_deps_complete: true
 			id: "2BC383AAEC8C05B4"
 			rewards: [
 				{
@@ -776,6 +783,7 @@
 		}
 		{
 			dependencies: ["6ACE6710E64ACF68"]
+			hide_until_deps_complete: true
 			id: "7E1CF7ACBD6043AB"
 			rewards: [
 				{
@@ -822,6 +830,7 @@
 		}
 		{
 			dependencies: ["43F71D97827116DD"]
+			hide_until_deps_complete: true
 			id: "79D9541D4D3A31BF"
 			rewards: [
 				{
@@ -863,6 +872,7 @@
 		}
 		{
 			dependencies: ["43F71D97827116DD"]
+			hide_until_deps_complete: true
 			id: "40B42B2D21A31F1A"
 			rewards: [
 				{
@@ -904,6 +914,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "5F9BCB81EDC7B5CC"
 			rewards: [
 				{
@@ -928,6 +939,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "02056C28AB828C96"
 			rewards: [
 				{
@@ -1082,6 +1094,7 @@
 		}
 		{
 			dependencies: ["5220FB0D131C6F95"]
+			hide_until_deps_visible: true
 			id: "707871C62A831E84"
 			rewards: [
 				{
@@ -1137,6 +1150,7 @@
 			]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "2F2BA092915A7910"
 			rewards: [
 				{
@@ -1269,6 +1283,7 @@
 		}
 		{
 			dependencies: ["353A06EAE19F5598"]
+			hide_until_deps_complete: true
 			id: "4A02F6F1822B0F69"
 			rewards: [
 				{
@@ -1335,6 +1350,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "6AB19CF23F9B5A16"
 			rewards: [
 				{
@@ -1359,6 +1375,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "622B8EEE00C9F620"
 			rewards: [
 				{
@@ -1388,6 +1405,7 @@
 			]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "64587A7056D3BE7D"
 			rewards: [
 				{
@@ -1461,6 +1479,7 @@
 		}
 		{
 			dependencies: ["4D66C8BBEDAD4A2F"]
+			hide_until_deps_complete: true
 			id: "76D9A2260275CEDD"
 			rewards: [
 				{
@@ -1485,6 +1504,7 @@
 		}
 		{
 			dependencies: ["76D9A2260275CEDD"]
+			hide_until_deps_complete: true
 			id: "5458ED1325250C81"
 			rewards: [
 				{
@@ -1559,6 +1579,7 @@
 		{
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "631758525E8CB77C"
 			rewards: [
 				{
@@ -1588,6 +1609,7 @@
 			]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "3CB4CE1D7B55CD2B"
 			rewards: [
 				{
@@ -1612,6 +1634,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "2B596E2520D0539D"
 			rewards: [
 				{
@@ -1636,6 +1659,7 @@
 		}
 		{
 			dependencies: ["1B3CAAFB0ED99518"]
+			hide_until_deps_complete: true
 			id: "6D09FA6FE768A4D1"
 			rewards: [
 				{
@@ -1660,6 +1684,7 @@
 		}
 		{
 			dependencies: ["0CDBF9C116B9F573"]
+			hide_until_deps_complete: true
 			id: "5E48E915C1B4ABE9"
 			rewards: [
 				{
@@ -1731,6 +1756,7 @@
 		{
 			dependencies: ["7EE137CFDCBB88DF"]
 			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "7DFA298A49BB99F4"
 			rewards: [
 				{

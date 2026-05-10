@@ -119,7 +119,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 1.0d
+			y: -0.5d
 		}
 		{
 			disable_toast: true
@@ -154,6 +154,181 @@
 			]
 			x: 30.0d
 			y: 30.0d
+		}
+		{
+			dependencies: ["02E2DF3B75568230"]
+			id: "7E5E33470D50DF8B"
+			size: 2.0d
+			tasks: [{
+				entity: "eternal_starlight:lunar_monstrosity"
+				id: "6DD76C37DF0A9D3F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0080BA3DE8E36A07"]
+			id: "077EA7AE1E8994CD"
+			size: 2.0d
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				id: "124B008D358B75DE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["135ADCF4DD9867EF"]
+			id: "0080BA3DE8E36A07"
+			tasks: [{
+				id: "32187113E5F0A3E3"
+				structure: "eternal_starlight:golem_forge"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"32E1C5F424E3F067"
+				"7C71C3CBDCFBE2B0"
+			]
+			id: "596CFF779FDA458C"
+			tasks: [{
+				id: "437CD2772B711828"
+				item: { count: 1, id: "eternal_starlight:unrealium_ingot" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["135ADCF4DD9867EF"]
+			id: "02E2DF3B75568230"
+			tasks: [{
+				id: "1BBEB14A77C1F723"
+				structure: "eternal_starlight:cursed_garden"
+				type: "structure"
+			}]
+			x: -2.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7E5E33470D50DF8B"]
+			id: "156B4D65228AA19F"
+			tasks: [{
+				id: "30D39DED43A9E004"
+				item: { count: 1, id: "eternal_starlight:moonring_greatsword" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"7E5E33470D50DF8B"
+				"077EA7AE1E8994CD"
+			]
+			id: "6229C26FF56FA6E0"
+			tasks: [{
+				id: "4CA85766B6CE92A2"
+				item: { count: 1, id: "eternal_starlight:wilted_crossbow" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["7E5E33470D50DF8B"]
+			id: "588D1C1CBDC9FD27"
+			tasks: [{
+				id: "5288D4FDDF7C91C1"
+				item: { count: 1, id: "eternal_starlight:crescent_spear" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["077EA7AE1E8994CD"]
+			id: "7C71C3CBDCFBE2B0"
+			tasks: [{
+				id: "45C6B05EAC4E89AB"
+				item: { count: 1, id: "eternal_starlight:oxidized_alloy_furnace" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["077EA7AE1E8994CD"]
+			id: "4B9B9C04AACEB610"
+			tasks: [{
+				id: "4C3A7582071E1624"
+				item: { count: 1, id: "eternal_starlight:energy_sword" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["077EA7AE1E8994CD"]
+			id: "33E40DF40B33E5F2"
+			tasks: [{
+				id: "0DF49DCF37941290"
+				item: { count: 1, id: "eternal_starlight:coldsnap" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7E5E33470D50DF8B"]
+			id: "31E4104A646F8291"
+			tasks: [{
+				id: "4BB5C774E1B0C1B3"
+				item: { count: 1, id: "eternal_starlight:chain_of_souls" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7E5E33470D50DF8B"]
+			id: "4642F3D2A73FA9A7"
+			tasks: [{
+				id: "652DE10598D6E0F0"
+				item: { count: 1, id: "eternal_starlight:petal_scythe" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7E5E33470D50DF8B"]
+			id: "3E790322B0245E2D"
+			tasks: [{
+				id: "6C308B203DCFC7B8"
+				item: { count: 1, id: "eternal_starlight:wand_of_teleportation" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["077EA7AE1E8994CD"]
+			id: "32E1C5F424E3F067"
+			tasks: [{
+				id: "494C738F39D59EEB"
+				item: { count: 1, id: "eternal_starlight:golem_steel_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.5d
 		}
 	]
 }
