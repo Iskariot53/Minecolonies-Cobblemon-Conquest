@@ -1,0 +1,8 @@
+#Player Pokémon Level Limit Configuration
+[playerLevelLimit]
+	#Enable player's Pokémon level limit (Default: true)
+	enablePlayerLevelLimit = true
+	#Maximum level limit for player's Pokémon (Default: 100)
+	# Default: 100
+	# Range: 1 ~ 10000
+	maxPlayerPokemonLevel = 100

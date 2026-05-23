@@ -1,0 +1,13 @@
+["Boss Reward Settings"]
+	#Minimum drop rate for boss rewards (range: 0.0 - 1.0)
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	minDropRate = 0.1
+	#Maximum drop rate for boss rewards (range: 0.0 - 1.0)
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	maxDropRate = 1.0
+	#Level scale factor used in drop rate calculation (higher values = slower rate scaling with level)
+	# Default: 100
+	# Range: 1 ~ 1000
+	levelScale = 100

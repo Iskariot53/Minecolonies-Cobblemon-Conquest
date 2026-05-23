@@ -1,0 +1,16 @@
+#是否启用战败惩罚（全局总开关，关闭后所有Boss的惩罚都不生效）
+enablePenalty = true
+
+["Penalty Chance Settings (Level Scaling)"]
+	#惩罚触发的最小基础概率（范围：0.0 - 1.0，等级为1时的基础概率）
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	minPenaltyChance = 0.1
+	#惩罚触发的最大基础概率（范围：0.0 - 1.0，等级达到阈值时的最大概率）
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	maxPenaltyChance = 1.0
+	#惩罚概率的等级缩放因子（越高，概率随等级增长越慢；建议值：100，范围1-1000）
+	# Default: 100
+	# Range: 1 ~ 1000
+	penaltyLevelScale = 100

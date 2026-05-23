@@ -1,0 +1,28 @@
+#=== BOSS Level Configuration ===
+[level]
+	#BOSS level multiplier (Default: 1.5 = 1.5x the player's highest level)
+	# Default: 1.5
+	# Range: 1.0 ~ 10.0
+	bossLevelMultiplier = 1.5
+	#Minimum BOSS level (Default: 5)
+	# Default: 5
+	# Range: 1 ~ 100
+	minBossLevel = 50
+	#Maximum BOSS level (Default: 200, capped to avoid excessive levels)
+	# Default: 200
+	# Range: 50 ~ 200
+	maxBossLevel = 200
+	#Whether to include Pokémon levels in the PC (Default: true)
+	includePCPokemon = false
+	#Whether to calculate based on the player's highest level (Default: true; if disabled, fixed level is used)
+	scaleByMaxLevel = true
+	#--- Custom Level Mapping (From level-mapping.json) ---
+	#Whether to enable custom level mapping (Default: true; priority over multiplier)
+	enableCustomLevelMapping = true
+	#--- Level Randomization (No Range Limit) ---
+	#Whether to enable random level adjustment (Default: true)
+	enableLevelRandom = true
+	#Minimum random value (Default: -10, no range limit - can set any integer)
+	randomMin = -10
+	#Maximum random value (Default: 10, no range limit - can set any integer)
+	randomMax = 10

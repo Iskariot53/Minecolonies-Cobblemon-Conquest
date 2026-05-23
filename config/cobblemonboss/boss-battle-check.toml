@@ -1,0 +1,28 @@
+	#Basic settings for boss battle detection
+	[battle_check.basic]
+		#Whether to enable the boss battle detection feature
+		enableBattleCheck = false
+		#Whether to cancel the battle when banned content is detected
+		cancelBattle = true
+
+	#Banned Pokémon settings
+	[battle_check.pokemon]
+		#Whether to check for banned Pokémon
+		enablePokemonCheck = true
+		#List of banned Pokémon (Pokémon IDs)
+		bannedPokemonList = ["cobblemon:ditto"]
+
+	#Banned item settings
+	[battle_check.items]
+		#Whether to check for banned items
+		enableItemCheck = true
+		#List of banned items (Item IDs)
+		#Example: ["cobblemon:master_ball"]
+		bannedItemsList = ["cobblemon:master_ball"]
+
+	#Banned move settings
+	[battle_check.moves]
+		#Whether to check for banned moves
+		enableMoveCheck = true
+		#List of banned moves (Move IDs)
+		bannedMovesList = ["endeavor"]

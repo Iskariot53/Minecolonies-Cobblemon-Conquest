@@ -1,0 +1,4 @@
+#Boss Immunity Configuration
+[immune]
+	#Whether to enable the Boss immunity feature (default: true)
+	enableBossImmune = true

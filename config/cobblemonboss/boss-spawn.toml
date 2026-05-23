@@ -1,0 +1,32 @@
+["Boss Spawn Settings"]
+	#Whether to enable the boss spawn system
+	enableBossSpawn = true
+	#Spawn check interval (in ticks). 20 ticks = 1 second. Default: 10 minutes (12000 ticks)
+	#Range: 5 seconds (100 ticks) to 1 hour (72000 ticks)
+	# Default: 12000
+	# Range: 100 ~ 72000
+	checkIntervalTicks = 18000
+	#Spawn probability per check (0.0 - 1.0). Default: 10% (0.1)
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	spawnChance = 0.1
+	#Whether to enable random time adjustment for boss spawn (add or subtract random value on base interval)
+	enableSpawnTimeRandom = false
+	#Minimum value of random time adjustment (in ticks). Default: 1000
+	#This value will be used to subtract from or add to the base check interval
+	# Default: 1000
+	# Range: 1 ~ 10000
+	randomValueMin = 1000
+	#Maximum value of random time adjustment (in ticks). Default: 3000
+	#Example: set min=2000, max=7000 to get random value between 2000-7000; min=3000, max=8000 for 3000-8000
+	# Default: 3000
+	# Range: 1 ~ 10000
+	randomValueMax = 3000
+	#Number of random spawn chances in a single check interval
+	#0 = no mid-interval random spawn, only the fixed spawn check at the end of the interval
+	#1 = 1 random spawn chance + 1 fixed spawn at end (total 2 chances in interval)
+	#2 = 2 random spawn chances + 1 fixed spawn at end (total 3 chances in interval)
+	#Range: 0 - 100 (recommended to avoid excessive boss spawns)
+	# Default: 1
+	# Range: 0 ~ 100
+	spawnFrequency = 1
