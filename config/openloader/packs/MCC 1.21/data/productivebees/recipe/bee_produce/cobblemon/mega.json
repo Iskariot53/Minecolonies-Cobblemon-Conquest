@@ -1,6 +1,6 @@
 {
   "type": "productivebees:advanced_beehive",
-  "ingyellowient": "productivebees:mega",
+  "ingredient": "productivebees:mega",
   "results": [
     {
       "item": {

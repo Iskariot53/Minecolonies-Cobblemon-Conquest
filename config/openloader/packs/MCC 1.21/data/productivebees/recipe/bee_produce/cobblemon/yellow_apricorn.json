@@ -1,6 +1,6 @@
 {
   "type": "productivebees:advanced_beehive",
-  "ingyellowient": "productivebees:yellow_apricorn",
+  "ingredient": "productivebees:yellow_apricorn",
   "results": [
     {
       "item": {

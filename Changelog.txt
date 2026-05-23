@@ -1,102 +1,25 @@
-Minecolonies - Cobblemon Conquest -  2.4.0 Changelog
-
-
-Updated to Neoforge 21.1.220
-
-
+Minecolonies - Cobblemon Conquest -  2.4.2 Changelog
 
 
 
 Mods Added
 
 
-- Cobblemon Boss
-- Create Aeronautics
-- Create Aeronautics: Dyeable Components
-- Create Aeronautics: Portable Engine Liquid Fuel
-- CreateColonies
-- I'm Fast
-- Little Big Redstone
-- Sable
+- CC: Sable
+
 
 
 Mods Updated
 
 
-- Almost Unified
-- AppleSkin
-- Applied Construction Sticks
-- Applied Energistics 2 Wireless Terminals
-- Bad Wither No Cookie - Reloaded
-- BaguetteLib
-- Blueprint
 - Byzantine Styles Pack for Minecolonies
-- CobbleFurnies
-- Cobblemon Battle Extras
-- Cobblemon Battle Tower
-- Cobblemon:Colonies
-- Cobblemon: Fight First
-- Cobblemon: Mega Showdown
-- Cobblemon Pokenav
-- Cobblemon Raid Dens
-- Cobblemon Smartphone
-- Cobblemon Tim Core
-- Collective
-- Cooking for Blockheads
-- Crash Assistant
-- Create
-- Create: Colony Logistics
 - Create: Dragons Plus
-- Create: Enchantment Industry
-- Create: Filters Anywhere
-- Create: Hypertubes
-- Create Railways Navigator
-- Create Stock Bridge
-- CreativeCore
-- Deeper and Darker
-- Default Options
-- Distant Horizons
-- DragonLib
-- e4mc
-- Easy Villagers
-- Farmer's Delight
-- ForgeEndertech
-- Forgified Fabric API
-- GeckoLib
-- Industrial Foregoing Souls
-- Just Enough Items
-- Just Enough Mekanism Multiblocks
-- Just Enough Professions (JEP)
-- Loot Integrations: Randomized Loot Compatibility
-- Lootr
-- MEGA Cells
-- Mekanism
-- Mekanism Generators
-- MineColonies
-- Modular Bees
-- Nature's Compass
-- Navas ZA Megas
-- Neruina - Ticking Entity Fixer
-- Oritech
-- Personality
+- Eternal Starlight
+- Little Big Redstone
+- ModernFix
 - Petrolpark Library
-- Ping Wheel
-- Productive Bees
-- Project Resonance for MineColonies
-- Questlog
-- Radical Cobblemon Trainers
-- Radical Cobblemon Trainers API
-- Schematic Energistics
-- Simple Voice Chat
-- SmallColonies for Minecolonies
-- Starter Kit
-- Structure Compass
-- Structures Tweaker
-- Titanium
-- Tom's Simple Storage Mod
-- Trade Post for MineColonies
-- TrashSlot
-- Twilight's Flavors & Delight
+- Stylecolonies
+- Tesseract API
 - Waystones
 
 
@@ -104,15 +27,6 @@ Mods Updated
 Changes
 
 
-- Additional fixes for issues with stewmelier
-- Additional recipe unification tweaks.
-- Disabled project resonance guide book given on world join as it is a part of the tome already given.
-- Disabled ballast advancements toast/announcement. 
-- Picked up with further progress on Oritech and Eternal Starlight questlines, both will be an on-going W.I.P over future updates.
-- Battle tower cobbledollars distribution nerfed approx 50%, rewards updated - master/ancient origin balls now cost 50bp per.
-- Battle tower recipe updated.
-- Since people were already doing it in preparation while not knowing if it was even posible.. Added compatibility to use fluids as aeronautic ship fuel.
-	- Standard Fuels. All "bio" fuels and ethanols = 16k(tick) burn rate. Biodiesel = 20k. Turbofuel = 24k. Gasoline = 26k. Diesel = 30k.
-	- High Energy Fuels. Liquid D-T Fuel = 70k (tick)
-- Misc. small tweaks and fixes to hopefully resolve some isolated crash issues (parsing enchantments, etc.)
-- Removed the ability to make steel via shaped crafting entirely, as well as tweaked a few early-game oritech recipes to require metals other than steel until it can be properly crafted at a point and in a way that makes sense, without needing another mod to make it. 
+- Added Bosses: Entei, Raikou, Suicune, Lugia and Ho-oh which can spawn in 3v1, 2v1, and 1v1 formats. Bosses cannot be captured, but if defeated in battle, will grant the player the defeated cobblemon as a reward.
+- Bosses have a minimum level of 50, max level of 200 and scale with current party. Every 10 minutes there is a 20% for a boss to be selected and spawn.
+- Fixed mega and apricorn bee outputs.

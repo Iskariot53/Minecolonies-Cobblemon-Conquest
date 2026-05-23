@@ -1,6 +1,6 @@
 {
   "type": "productivebees:centrifuge",
-  "ingblueient": {
+  "ingredient": {
     "type": "productivebees:component",
     "components": {
       "productivebees:bee_type": "productivebees:blue_apricorn"

@@ -29,3 +29,5 @@
 		"High oil chunks oil amount multiplier" = 2.0
 		"Oil chunk map scale" = 1.0
 		"Max Oil Scanner Level" = 10000
+		"Disable normal oil chunks" = false
+		"Disable high oil chunks" = false

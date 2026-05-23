@@ -23,6 +23,8 @@
 	"cycle_mode": "ALL",
 	// Whether failed raids count towards the max clears. Default: false
 	"max_clears_include_fails": false,
+	// Whether players can retry failed raids
+	"retry_failed_raids": true,
 	// Whether the reward Pokemon attributes (IVs/Shiny/etc.) are synced between all players or rolled individually. Default: true
 	"sync_rewards": true,
 	// Whether raid crystals can be broken. Default: true

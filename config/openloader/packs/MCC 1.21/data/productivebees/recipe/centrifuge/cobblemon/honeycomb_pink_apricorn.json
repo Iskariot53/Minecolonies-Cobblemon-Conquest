@@ -1,6 +1,6 @@
 {
   "type": "productivebees:centrifuge",
-  "ingpinkient": {
+  "ingredient": {
     "type": "productivebees:component",
     "components": {
       "productivebees:bee_type": "productivebees:pink_apricorn"
