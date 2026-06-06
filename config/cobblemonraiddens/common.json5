@@ -30,7 +30,7 @@
 	// Whether raid crystals can be broken. Default: true
 	"can_break": true,
 	// The reward distribution algorithm (Options: random, damage, survivor). Default: random
-	"reward_distribution": "random",
+	"reward_distribution": "damage",
 	// The maximum number of players in a raid before shared supporting moves are disabled. Default: 4
 	"max_players_for_support": 4,
 	// The amount of raid energy required to convert a raid shard. Default: 100

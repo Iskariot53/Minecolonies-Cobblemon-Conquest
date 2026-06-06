@@ -1,1 +1,1 @@
-{"replace":false,"values":["minecraft:frozen_peaks","minecraft:ice_spikes",{"id":"twilightforest:glacier","required":false}]}
+{"replace":false,"values":["minecraft:frozen_peaks","minecraft:ice_spikes",{"id":"twilightforest:glacier","required":false},{"id":"eternal_starlight:icy_sea","required":false}]}

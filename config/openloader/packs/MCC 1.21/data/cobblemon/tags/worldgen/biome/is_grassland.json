@@ -1,1 +1,1 @@
-{"replace":false,"values":["#cobblemon:is_plains","#cobblemon:is_savanna"]}
+{"replace":false,"values":["#cobblemon:is_plains","#cobblemon:is_savanna",{"id":"eternal_starlight:glimmer_scrubland","required":false}]}

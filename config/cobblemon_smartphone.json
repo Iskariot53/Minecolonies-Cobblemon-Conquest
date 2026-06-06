@@ -3,7 +3,8 @@
     "healButton": 60,
     "pcButton": 5,
     "cloudButton": 5,
-    "waystoneButton": 5
+    "waystoneButton": 5,
+    "pokedexButton": 1
   },
   "features": {
     "enableHeal": true,
@@ -11,6 +12,7 @@
     "enableCloud": true,
     "enablePokenav": true,
     "enableCobbleDollars": true,
-    "enableWaystone": true
+    "enableWaystone": true,
+    "enablePokedex": true
   }
 }

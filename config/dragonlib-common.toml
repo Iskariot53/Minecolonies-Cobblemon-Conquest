@@ -48,3 +48,8 @@
 		# Default: 0
 		# Range: 0 ~ 32
 		thread_count = 0
+		#The size of the networking queue. (Default: 8000)
+		#A WORLD RESTART IS REQUIRED FOR CHANGES TO TAKE EFFECT!
+		# Default: 8000
+		# Range: 100 ~ 30000
+		queue_size = 8000

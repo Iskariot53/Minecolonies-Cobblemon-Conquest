@@ -158,10 +158,10 @@
 	custom_configured_screen = true
 	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
 	dynamic_assets_generation_mode = "CACHED"
-	#Disables Amendments suggestion screen
-	no_amendments_screen = false
+	#Enable Supplementaries to base textures off external Resource Packs rather than mod's default textures. 
+	use_external_resource_pack = false
 	#unfunny
-	"I am very boring" = false
+	"I am very boring and I don't want any Easter Egg" = false
 
 #Game tweaks
 [tweaks]

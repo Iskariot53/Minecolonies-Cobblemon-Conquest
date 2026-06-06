@@ -64,7 +64,7 @@ B:enable_element_tilting_controls = 'true';
 ##[ui]
 
 F:ui_scale = '4.0';
-B:play_ui_click_sounds = 'true';
+B:play_ui_click_sounds = 'false';
 B:enable_ui_text_shadow = 'false';
 I:context_menu_hover_open_speed = '1';
 S:ui_theme = 'dark';

@@ -1,32 +1,49 @@
-Minecolonies - Cobblemon Conquest -  2.4.2 Changelog
+Minecolonies - Cobblemon Conquest -  2.4.4 Changelog
 
+
+
+Mods Removed
+
+
+- I'm Fast
 
 
 Mods Added
 
 
-- CC: Sable
+- Concurrent Chunk Management Engine
 
 
 
 Mods Updated
 
 
-- Byzantine Styles Pack for Minecolonies
-- Create: Dragons Plus
-- Eternal Starlight
-- Little Big Redstone
+- Cobblemon Smartphone
+- Cobblemon Villager overhaul
+- Create Aeronautics: FTB Chunks
+- Create Crafts & Additions
+- Create: Diesel Generators
+- Create Railways Navigator
+- DragonLib
+- Immersive Aircraft
 - ModernFix
-- Petrolpark Library
-- Stylecolonies
-- Tesseract API
+- Modular Bees
+- Questlog
+- Schematic Energistics
+- Structurize
+- Trade Post for MineColonies
+- Underground Villages, Stoneholm
 - Waystones
+- Waystones: Sable
+
 
 
 
 Changes
 
 
-- Added Bosses: Entei, Raikou, Suicune, Lugia and Ho-oh which can spawn in 3v1, 2v1, and 1v1 formats. Bosses cannot be captured, but if defeated in battle, will grant the player the defeated cobblemon as a reward.
-- Bosses have a minimum level of 50, max level of 200 and scale with current party. Every 10 minutes there is a 20% for a boss to be selected and spawn.
-- Fixed mega and apricorn bee outputs.
+- Added new dens as well as t6 and t7 raid dens for: All ultra beasts, paradox, mythical and legendaries. Tera dens, Dynamax/gmax and Mega raid dens.
+- Fixed issue leading to "abnormal sizes" errors from Sable.
+- Added laser drill recipe for obtaining raw mega stone.
+- Added mechanical crafting recipes for exp candy sizes other than xs (yes, mech crafting).
+- Registeel boss spawn corrected and is now a cave spawn in strongholds.
