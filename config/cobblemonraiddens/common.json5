@@ -17,6 +17,8 @@
 	"dimension_spawn_rate": {
 		"minecraft:overworld": 512
 	},
+	// The timer system raid dens use for resets (Options: GAME_TIME, SYSTEM_TIME, GLOBAL_GAME_TIME, GLOBAL_SYSTEM_TIME). Default: GAME_TIME
+	"reset_mode": "GAME_TIME",
 	// How long in seconds until raid dens reset (Set to -1 for no resets). Default: 7200
 	"reset_time": 7200,
 	// Whether the raid boss and raid tier changes between resets (Options: NONE, LOCK_BOTH, LOCK_TIER, LOCK_TYPE, BUCKET, ALL). Default: ALL
