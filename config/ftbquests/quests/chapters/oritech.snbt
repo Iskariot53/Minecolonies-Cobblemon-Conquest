@@ -11,6 +11,7 @@
 	id: "08CE67C453CF05CC"
 	images: [{
 		height: 3.0d
+		id: "1C2819813F35A04E"
 		image: "mcc:textures/oritech.png"
 		rotation: 0.0d
 		width: 9.0d

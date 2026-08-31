@@ -17,6 +17,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "4A96179BA85EE66B"
 			image: "mcc:textures/automata.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -25,6 +26,7 @@
 		}
 		{
 			height: 20.0d
+			id: "03C77649FBB1520E"
 			image: "mcc:textures/project_alice.png"
 			rotation: 0.0d
 			width: 20.0d

@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "462FAD877A296604"
 			image: "mcc:textures/thermal_evaporation_plant.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 7.0d
+			id: "05E1882A6CB17D97"
 			image: "mcc:textures/induction_matrix.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 5.0d
+			id: "46759B0514671C89"
 			image: "mcc:textures/fission_reactor_mininimum.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 8.0d
+			id: "3DFF25B6EE0821A4"
 			image: "mcc:textures/fission_reactor.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 10.0d
+			id: "0E0937FF2D07A271"
 			image: "mcc:textures/turbine.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 7.0d
+			id: "569307DE23B9132E"
 			image: "mcc:textures/fusion_reactor.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 8.0d
+			id: "0056D9F1B1A22C2B"
 			image: "mcc:textures/sps.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4542AC8C8EB1DF98"
 			image: "mcc:textures/mekanism.png"
 			rotation: 0.0d
 			width: 8.0d

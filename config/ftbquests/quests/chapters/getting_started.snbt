@@ -1,5 +1,5 @@
 {
-	autofocus_id: "34295F4932C40D1D"
+	autofocus_id: "78DB561AC5365AAC"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "getting_started"
@@ -12,6 +12,7 @@
 	id: "3ADA6E43741748B5"
 	images: [{
 		height: 3.0d
+		id: "663F5604C643A353"
 		image: "mcc:textures/the-basics.png"
 		rotation: 0.0d
 		width: 9.0d

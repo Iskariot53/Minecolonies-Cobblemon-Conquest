@@ -10,6 +10,7 @@
 	id: "683B6A4D65B65D19"
 	images: [{
 		height: 5.0d
+		id: "057A0FC737911A45"
 		image: "mcc:textures/twilight_forest.png"
 		rotation: 0.0d
 		width: 12.0d

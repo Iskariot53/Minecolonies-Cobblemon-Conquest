@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "1E52B9581DC2DDF3"
 			image: "mcc:textures/industrial_foregoing.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 9.0d
+			id: "13DE277A574264AD"
 			image: "mcc:textures/ether_set_up.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 6.0d
+			id: "62198E31F8E673E8"
 			image: "mcc:textures/laser_drills.png"
 			rotation: 0.0d
 			width: 6.0d

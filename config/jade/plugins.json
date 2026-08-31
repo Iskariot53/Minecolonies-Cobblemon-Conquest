@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "colonylink": {
+    "redirector": true
+  },
   "tempad": {
     "chronon": true,
     "rudimentary": true,
@@ -59,6 +62,10 @@
     "metronome": true,
     "workstation": true,
     "timedoor": true
+  },
+  "modularbees": {
+    "grid_node_state": true,
+    "power_storage": true
   },
   "entangled": {
     "entangled_block_component": true
@@ -90,6 +97,10 @@
     "block_properties": false,
     "mod_name": true
   },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -117,8 +128,15 @@
   "pipez": {
     "pipe": true
   },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
   "waystones": {
     "waystone": true
+  },
+  "appliedcreate": {
+    "grid_node_state": true,
+    "power_storage": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -182,7 +200,7 @@
   },
   "petrolpark": {
     "drying_rack": true,
-    "contamination": true
+    "flags": true
   },
   "corpse": {
     "corpse": true

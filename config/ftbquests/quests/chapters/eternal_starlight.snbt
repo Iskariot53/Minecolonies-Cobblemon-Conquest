@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "44869C8B35B98D03"
 			image: "mcc:textures/eternal_starlight_portal.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0E066C9B3D335CCE"
 			image: "mcc:textures/eternal_starlight.png"
 			rotation: 0.0d
 			width: 12.0d

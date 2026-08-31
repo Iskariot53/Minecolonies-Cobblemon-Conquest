@@ -3,7 +3,7 @@ disableConfigWatcher = false
 #Should we control the window. Disabling this disables new GL features and can be bad for mods that rely on them.
 earlyWindowControl = true
 #Max threads for early initialization parallelism,  -1 is based on processor count
-maxThreads = -1
+maxThreads = 1
 #Enable NeoForge global version checking
 versionCheck = true
 #Default config path for servers
@@ -19,7 +19,7 @@ earlyWindowHeight = 768
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window starts maximized
-earlyWindowMaximized = false
+earlyWindowMaximized = true
 #Skip specific GL versions, may help with buggy graphics card drivers
 earlyWindowSkipGLVersions = []
 #Squir?

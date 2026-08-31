@@ -11,6 +11,7 @@
 	id: "707349D42B2378BD"
 	images: [{
 		height: 4.0d
+		id: "1557E32CC7EDEDA1"
 		image: "mcc:textures/productive-bees.png"
 		rotation: 0.0d
 		width: 12.0d
@@ -604,6 +605,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "7ADC2EA595A49858"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:yellow_black_carpenter_bee"
@@ -630,6 +632,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "458C517D3D1261A0"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:green_carpenter_bee"
@@ -656,6 +659,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3B07531AC37F1FF7"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:reed_bee"
@@ -682,6 +686,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "50910F15C9ECFB6D"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:sweat_bee"
@@ -708,6 +713,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "6C59AFEED74211BE"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:blue_banded_bee"
@@ -734,6 +740,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2F451578944B014C"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:leafcutter_bee"
@@ -760,6 +767,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "1848FCD17ECF06C9"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:nomad_bee"
@@ -786,6 +794,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "4B979C37C46C37F1"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:neon_cuckoo_bee"
@@ -812,6 +821,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "6A4B835D63076AAC"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:digger_bee"
@@ -838,6 +848,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "5192854682D3DF80"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:chocolate_mining_bee"
@@ -864,6 +875,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2E0FAFFC870F5142"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:ashy_mining_bee"
@@ -916,6 +928,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3940D7A919DE5C99"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:mason_bee"
@@ -942,6 +955,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "66DA8DF3FF6BB497"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:resin_bee"
@@ -970,6 +984,7 @@
 					id: "productivebees:treat_on_a_stick"
 				}
 				id: "44DD4724AE798804"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:bumble_bee"
@@ -996,6 +1011,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "418B7CBFE8ABF7B2"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:crystalline"
@@ -1022,6 +1038,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "06AD8723E17F034F"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:glowing"
@@ -1048,6 +1065,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "27EE17FD07458B36"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:magmatic"
@@ -1074,6 +1092,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2DA3480D11AE9DEF"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:slimy"
@@ -1100,6 +1119,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "5EF41BEDBCCCCC54"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:sugarbag"
@@ -1126,6 +1146,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "6054DB848B076888"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:ghostly"
@@ -1213,6 +1234,7 @@
 						id: "productivebees:bee_cage"
 					}
 					id: "2E5E77BB5ED682FD"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "productivebees:draconic"
@@ -1248,6 +1270,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2AF893AF6E8356AD"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:water"
@@ -1274,6 +1297,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "19A2ADA9DB6CAEFD"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:prismarine"
@@ -1298,6 +1322,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2F88D672CE00A605"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:oily"
@@ -1322,6 +1347,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "0EC997BB42002133"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:collector_bee"
@@ -1346,6 +1372,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "089279FD8D5BDD76"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:hoarder_bee"
@@ -1372,6 +1399,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3056EF15349DF84A"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:lumber_bee"
@@ -1398,6 +1426,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "678BCA56B861AD8D"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:quarry_bee"
@@ -1422,6 +1451,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2B9EEC5273C8FB05"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:rancher_bee"
@@ -1446,6 +1476,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2E00420481E2655F"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:sponge"
@@ -1467,6 +1498,7 @@
 			}]
 			tasks: [{
 				id: "7F4F8379B669D06F"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:cupid_bee"
@@ -1544,6 +1576,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "1ED4E46960629069"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:kamikazbee"
@@ -1624,6 +1657,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "592A374CAA69628B"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:copper"
@@ -1654,6 +1688,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3243BE98C6C047F5"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:coal"
@@ -1684,6 +1719,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "44F21DE471FAF500"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:obsidian"
@@ -1714,6 +1750,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "70A78884D09334FC"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:blazing"
@@ -1740,6 +1777,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "57C41A0C1456AC96"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:creeper_bee"
@@ -1770,6 +1808,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "267719275AC1D996"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:silky"
@@ -1797,6 +1836,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "538FF059B5F47525"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:sculk"
@@ -1827,6 +1867,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "7C689167996E504B"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:redstone"
@@ -1857,6 +1898,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "13F329B03F806E4F"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:lapis"
@@ -1887,6 +1929,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "0BDEE1CB4A7D1E26"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:zinc"
@@ -1917,6 +1960,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "05C2BDC7998C7D66"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:brass"
@@ -1947,6 +1991,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "33C46E0CC2F814AA"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:iron"
@@ -1974,6 +2019,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "0E73E6EFD8B08CF9"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:frosty"
@@ -2044,6 +2090,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "607B918B6D697ECE"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:zombie"
@@ -2070,6 +2117,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "45B2DCA458966BDA"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:skeletal"
@@ -2096,6 +2144,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "4E4D9E983F568316"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:withered"
@@ -2123,6 +2172,7 @@
 			}]
 			tasks: [{
 				id: "3FBCEBAB3FBE9BED"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:flux"
@@ -2153,6 +2203,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "633097EAEA7EFB16"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:silicon"
@@ -2180,6 +2231,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "33559FB8C6634DC3"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:rose_quartz"
@@ -2210,6 +2262,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "4559C9CC63D22AD5"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:spacial"
@@ -2236,6 +2289,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "38C398664FAA3325"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:ender"
@@ -2262,6 +2316,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3348ED1D5842E723"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:fluix"
@@ -2292,6 +2347,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "3B767C1079613226"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:bronze"
@@ -2322,6 +2378,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "6C37CD3119223FB1"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:gold"
@@ -2352,6 +2409,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "66872CB73BB7C9BC"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:silver"
@@ -2382,6 +2440,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "5DC5BEF9ABD696F5"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:platinum"
@@ -2412,6 +2471,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "67D4EC0C86CE8362"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:lead"
@@ -2442,6 +2502,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "067732D0A2A97E6C"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:uranium"
@@ -2472,6 +2533,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "0CC6FA0267935C43"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:tin"
@@ -2502,6 +2564,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "7111C0DB2B0C1884"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:nickel"
@@ -2532,6 +2595,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "4E8C2DB75CDEDD72"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "peoductivebees:steel"
@@ -2559,6 +2623,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "547D0A550320173B"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:sky_steel"
@@ -2585,6 +2650,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "19D03572C40C3AF4"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:ancient"
@@ -2615,6 +2681,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "41F6B75B65C4D9FA"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:diamond"
@@ -2645,6 +2712,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2C668EF04A176CE5"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:emerald"
@@ -2675,6 +2743,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "603C97CFDC36815B"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:refined_glowstone"
@@ -2705,6 +2774,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "269E6D08E6396407"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:refined_obsidian"
@@ -2732,6 +2802,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "432D579FC873A547"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:wasted_radioactive"
@@ -2762,6 +2833,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "75D33D932325B731"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:osmium"
@@ -2786,6 +2858,7 @@
 			}]
 			tasks: [{
 				id: "0D192F6995B1E2EE"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:amber"
@@ -2816,6 +2889,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2CB86DB746200509"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:aluminum"
@@ -2952,6 +3026,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "2B34269A9F24E0AE"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:experience"
@@ -3051,6 +3126,7 @@
 					id: "productivebees:bee_cage"
 				}
 				id: "1B0511A0BC0B1552"
+				observation_type: "block_entity_type"
 				observe_type: 4
 				timer: 0L
 				to_observe: "productivebees:sulfur"

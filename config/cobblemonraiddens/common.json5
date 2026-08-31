@@ -36,5 +36,11 @@
 	// The maximum number of players in a raid before shared supporting moves are disabled. Default: 4
 	"max_players_for_support": 4,
 	// The amount of raid energy required to convert a raid shard. Default: 100
-	"required_energy": 100
+	"required_energy": 100,
+	// How many raids can occur simultaneously. Determines raid coordinate allocation. Default: 10000
+	"raid_cap": 10000,
+	// How raid coordinate allocation is determined (Options: SPIRAL, RANDOM). Default: SPIRAL
+	"raid_allocation": "SPIRAL",
+	// Whether IVs from raids affect the Pokemon's natural IVs or hyper trained IVs. Default: true
+	"use_natural_ivs": true
 }

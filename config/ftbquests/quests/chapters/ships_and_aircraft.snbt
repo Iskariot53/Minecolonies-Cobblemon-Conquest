@@ -10,6 +10,7 @@
 	id: "34C61CDE3F68A872"
 	images: [{
 		height: 5.0d
+		id: "28C7942F3D4A702F"
 		image: "mcc:textures/ships-and-aircraft.png"
 		rotation: 0.0d
 		width: 12.0d

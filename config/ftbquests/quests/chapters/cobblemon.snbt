@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "295EB7C8D8C2F329"
 			image: "mcc:textures/radical-trainers-progression.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2A2F03520B81EF5C"
 			image: "mcc:textures/cobblemon.png"
 			rotation: 0.0d
 			width: 11.0d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 3.0d
+			id: "76553E7DD5BBA98F"
 			image: "mcc:textures/tips-and-tricks.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 4.0d
+			id: "2422DEEA6B1B36D8"
 			image: "mcc:textures/bd-sp-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 4.0d
+			id: "61708F91715B101E"
 			image: "mcc:textures/unbound-trainers-progression.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.0d
+			id: "185CFFC0B47838A3"
 			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
 			width: 1.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1AB84DBEAD57F6A3"
 			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
 			width: 1.0d
@@ -69,6 +76,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1199B5E794A088E6"
 			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E86679D5ADA18E0"
 			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2322A6A4D6EF8C5F"
 			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
@@ -93,6 +103,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51A1C77CEE7529A2"
 			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d
@@ -101,6 +112,7 @@
 		}
 		{
 			height: 1.0d
+			id: "63551DC5A200B00E"
 			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -109,6 +121,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1BC85479DCCD6259"
 			image: "cobblemon:item/advancements/cobblemon_logo_green"
 			rotation: 0.0d
 			width: 1.0d
@@ -117,6 +130,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22E86B235D20C2EC"
 			image: "cobblemon:item/advancements/cobblemon_logo_blue"
 			rotation: 0.0d
 			width: 1.0d
@@ -125,6 +139,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3C5BC2158AF12EF8"
 			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -133,6 +148,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F076F7BCD22F1DF"
 			image: "cobblemon:item/advancements/cobblemon_logo_yellow"
 			rotation: 0.0d
 			width: 1.0d
@@ -141,6 +157,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CD5A3DE66CF8090"
 			image: "pingwheel:textures/arrow.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -149,6 +166,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05C5D0BD5C61401E"
 			image: "cobblemon:item/advancements/cobblemon_logo"
 			rotation: 0.0d
 			width: 1.0d

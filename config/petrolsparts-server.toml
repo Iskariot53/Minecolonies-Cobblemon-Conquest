@@ -1,4 +1,10 @@
 #.
+#Maximum length of a Redstone Transmission
+# Default: 8
+# Range: 0 ~ 32
+redstoneTransmissionMaxLength = 8
+
+#.
 #Fine tune the kinetic stats of individual components
 [stressValues]
 
@@ -8,17 +14,28 @@
 	#Individual coefficients of stress impact of kinetic blocks.
 	[stressValues.impact]
 		hydraulic_transmission = 2.0
-		dummy_differential = 0.0
 		andesite_encased_corner_shaft = 0.0
 		corner_shaft = 0.0
-		coaxial_gear = 0.0
 		planetary_gearset = 0.0
-		differential = 0.0
 		brass_encased_corner_shaft = 0.0
 		pneumatic_tube = 2.0
 		colossal_cogwheel = 0.0
-		long_shaft = 0.0
-		large_coaxial_gear = 0.0
+		single_shaft_assemblage = 0.0
+		brass_encased_straight_corner_shaft = 0.0
+		shaftless_cogwheel = 0.0
+		brass_encased_single_shaft_assemblage = 0.0
+		straight_corner_shaft = 0.0
+		separate_shaft_halves_assemblage = 0.0
+		coaxial_cogwheel = 0.0
+		large_coaxial_cogwheel = 0.0
+		andesite_encased_separate_shaft_halves_assemblage = 0.0
+		brass_encased_separate_shaft_halves_assemblage = 0.0
+		large_shaftless_cogwheel = 0.0
+		andesite_encased_single_shaft_assemblage = 0.0
+		andesite_encased_straight_corner_shaft = 0.0
+		friction_heater = 4.0
+		"bevel_cogwheel/orthogonal/single_axis" = 0.0
+		redstone_transmission = 0.0
 
 #.
 #Tubes (Hydraulic Transmissions and Pneumatic Tubes)
@@ -39,3 +56,17 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 3.4028234663852886E38
 	pneumaticTubeSpacing = 1.0
+
+#.
+#Friction Heaters
+[frictionHeater]
+	#.
+	#The minimum speed difference between the two wheels of a Friction Heater to be considered Heated
+	# Default: 128
+	# Range: > 1
+	heatedMinSpeedDifference = 128
+	#.
+	#The minimum speed difference between the two wheels of a Friction Heater to be considered Superheated
+	# Default: 288
+	# Range: > 2
+	superHeatedMinSpeedDifference = 288

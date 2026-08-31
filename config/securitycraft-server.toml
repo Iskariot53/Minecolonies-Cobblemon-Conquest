@@ -22,10 +22,6 @@ inventoryScannerRange = 2
 maxAlarmRange = 100
 #Allows to claim blocks that do not have an owner by rightclicking them with the Universal Owner Changer.
 allowBlockClaim = false
-#Should reinforced blocks' textures be slightly darker than their vanilla counterparts? Servers can force this setting on clients if the server config "force_reinforced_block_tint" is set to true.
-reinforced_block_tint = true
-#Set this to true if you want to force the setting of reinforced_block_tint for players.
-force_reinforced_block_tint = false
 #Display owner face on retinal scanner?
 retinalScannerFace = true
 #Set this to true to enable every player on a scoreboard team (or FTB Teams party) to own the blocks of every other player on the same team.
@@ -107,3 +103,9 @@ non_owned_breaking_slowdown = 1.0
 # Default: -1
 # Range: > -1
 frame_feed_forceloading_limit = -1
+#How much slower it should be to break a block that is owned by the player breaking it.
+#The value is calculated as the normal block breaking speed divided by the owned block breaking slowdown. Example: A value of 2.0 means it takes twice as long to break the block.
+#This only applies when "vanilla_tool_block_breaking" is set to true.
+# Default: 1.0
+# Range: 0.0 ~ 1.7976931348623157E308
+owned_breaking_slowdown = 1.0

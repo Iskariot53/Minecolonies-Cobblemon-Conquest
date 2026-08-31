@@ -26,5 +26,5 @@
 	#.
 	[compatibiity.create]
 		#.
-		#The Contaminants a fluid has are shown in its name when hovering a Create fluid-containing block
-		showContaminantsInFluidName = true
+		#The Flags a fluid has are shown in its name when hovering a Create fluid-containing block
+		showFlagsInFluidName = true

@@ -167,21 +167,14 @@
 	debuginventories = false
 	#Turn this on if you're using this world for blueprint building and scanning. [Default: false]
 	blueprintbuildmode = false
-
-#All configurations related to pathfinding
-[pathfinding]
-	#Verbosity of pathfinding debug messages. [Default: 0, min: 0, max: 10]
-	# Default: 0
-	# Range: 0 ~ 10
-	pathfindingdebugverbosity = 0
+	#Increases the pathfinding node limit by the given factor, enabling citizens to search a bigger area at the cost of performance (offthread) for more accurate pathfinding. [Default: 1.0, min: 1.0, max: 4.0]
+	# Default: 1.0
+	# Range: 1.0 ~ 4.0
+	pathNodeLimitMultiplier = 1.0
 	#Minimum number of consecutive rails for citizens to use them. [Default: 8, min: 5, max: 100]
 	# Default: 8
 	# Range: 5 ~ 100
 	minimumrailstopath = 8
-	#Amount of additional threads to be used for pathfinding. [Default: 1, min: 1, max: 10]
-	# Default: 1
-	# Range: 1 ~ 10
-	pathfindingmaxthreadcount = 1
 
 #minecolonies.config.requestSystem.comment
 [requestSystem]

@@ -1,68 +1,51 @@
-Minecolonies - Cobblemon Conquest -  2.4.5 Changelog
-
-
-Updated to Neoforge 21.1.230
-
+Minecolonies - Cobblemon Conquest -  2.6.0 Changelog
 
 
 Mods Added
 
 
-- Integrated API
-- Integrated Cobblemon
-- Integrated Stronghold
-- Integrated Villages
-- Lithostitched
-- Loading Backgrounds
-- Simple Custom Early Loading
-- Quark
-- Zeta
+- Cobblemon: Legendary Monuments
+- Create: Shuffle Filter
 
 
 
 Mods Updated
 
 
+- BaguetteLib
 - Balm
-- Cobblemon:Colonies
-- Cobblemon Smartphone
+- Cobblemon: Mega Showdown
 - Cobblemon Raid Dens
-- Collective
-- Crash Assistant
-- Create: Colony Logistics
-- Create Crafts & Additions
-- Create: Dragons Plus
-- Create: Enchantment Industry
-- Create: Hypertubes
+- Concurrent Chunk Management Engine
+- Construction Sticks
+- Create: Copycats+
+- Create: Filters Anywhere
 - Cupboard
-- Deeper Additional Structures
-- Deeper and Darker
-- Distant Horizons: A Level of Detail mod
-- e4mc
+- Eternal Starlight
+- Farmer's Delight
 - ForgeEndertech
-- Fusion (Connected Textures)
-- Immersive Paintings
-- Large Ore Deposits
-- ModernFix
+- Fusion
+- Just Enough Mekanism Multiblocks
+- Lithostitched
+- Little Big Redstone
+- Lootr
 - Modular Bees
-- Modular Routers
-- Neruina - Ticking Entity Fixer
 - Oritech
-- Starter Kit
+- Petrolpark Library
+- Petrol's Parts
+- Project Resonance for MineColonies
+- Sinytra Connector
+- Stylecolonies
+- Tesseract API
+- Tom's Simple Storage Mod
+- Torchmaster
 - Trade Post for MineColonies
-- Terralith
-- TrashSlot
-- Xaero's Minimap
-- Xaero's World Map
+- Warehouse Workshop - A MineColonies Add-On
+- Waystones
 
 
 
 Changes
 
 
-- Compatible with all world types now. (superflat, etc.)
-- Improved resource loading and optimization, the degree will vary depending on system but it will be a performance boost across the board, regardless.
-- New smartphone functions working properly.
-- Added loading screen images. This will be a WIP and submissions from the community for Curseforge gallery, loading screen and menu images are welcome!
-- Reset the default resource packs set on install as well as added additional resource packs, some enabled by default and some not, including updated cobblemon related textures and a dark mode option. It will be worth checking them out and enabling your preference.
-- New structures and gyms integrated with RCT series both added and in progress thanks to multiple creators and contributors. Yes! It is finally becoming a thing. (It's about time.. I know)
+- 

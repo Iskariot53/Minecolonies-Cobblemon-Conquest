@@ -147,6 +147,12 @@
 	"experience_multiplier": 0.5,
 	// Your pokemon can gain EV points by killing a pokemon without a battle?
 	"can_gain_ev": false,
+	// The minimum EXP. player's Pokemon can gain from killing a Pokemon without battle
+	"min_xp_from_pokemon": 0,
+	// The minimum EXP. player's Pokemon can gain from killing a Pokemon without battle. If this value is lower than zero, there will be no limit.
+	"max_xp_from_pokemon": -1,
+	// If you want all the player's Pokemon that dealt the damage to gain EXP. and EV points
+	"pokemon_share_yield": true,
 	// If the Pokemon can evolve by using the move out of a Pokemon Battle? For example Primeape can use Rage Fist 20x to evolve without a traditional Pokemon Battle.
 	"can_progress_use_move_evolution": false,
 	// Pokemons should be immune to suffocation damage? (cant die to wall damage, like when sand drops into them)
@@ -231,7 +237,7 @@
 	"not_very_effective_multiplier": 0.5,
 	// Multiplier for no effect damage against the other Pokemon
 	"no_effect_multiplier": 0.10000000149011612,
-	// Water type damage will be more effective on mobs like Blaze,Enderman,etc.
+	// Water type damage will be more effective on mobs like Blaze, Enderman,etc.
 	"water_type_super_effective_dmg_multiplier": 2.0,
 	// Fire type damage will be not very effective against fire immune entity.(set to 0 if you want a complete immune)
 	"fire_type_no_effect_dmg_multiplier": 0.10000000149011612,
@@ -241,6 +247,8 @@
 	"ice_type_super_effective_dmg_multiplier": 2.0,
 	// Poison type damage will be not very effective against undead mobs.(set to 0 if you want a complete immune)
 	"poison_type_no_effect_dmg_multiplier": 0.10000000149011612,
+	// If the Ender Dragon should have the Dragon Type weaknesses and resistances?
+	"ender_dragon_has_dragon_type": false,
 	// If you want to use FOF health mechanic. A different curve that was used in FOF previously. The following configurations needs this one to work.
 	"shouldOverrideHealthMechanic": true,
 	// If you want to use the FOF style hp calculation.
@@ -282,5 +290,46 @@
 	// If you want to set willDefendOwner to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that player's Pokemon added by the datapacks can't attack.
 	"force_enable_defend_owner": true,
 	// If you want to set willDefendSelf to true in Pokemon's combat behaviour of Cobblemon, should be useful for solving the problem that wild Pokemon added by the datapacks can't attack.
-	"force_enable_defend_self": true
+	"force_enable_defend_self": true,
+	// If you want to set willFlee to true in Pokemon's combat behaviour of Cobblemon. Will only be enabled to Pokemon that won't attack.(Not aggressive enough/not allowed to attack by the config.
+	"force_enable_flee": true,
+	// Sizes that will be recognized as S for FOF when you are using the basic sizer.(The default sizer)
+	"size_S_basic_sizer": [
+		"Tiny",
+		"Small"
+	],
+	// Sizes that will be recognized as M for FOF when you are using the basic sizer.(The default sizer)
+	"size_M_basic_sizer": [
+		"Average"
+	],
+	// Sizes that will be recognized as L for FOF when you are using the basic sizer.(The default sizer)
+	"size_L_basic_sizer": [
+		"Big",
+		"Large",
+		"Huge"
+	],
+	// Sizes that will be recognized as S for FOF when you are using the Gen9 sizer.
+	"size_S_gen9_sizer": [
+		"S",
+		"XS",
+		"XXS",
+		"XXXS"
+	],
+	// Sizes that will be recognized as M for FOF when you are using the Gen9 sizer.
+	"size_M_gen9_sizer": [
+		"M"
+	],
+	// Sizes that will be recognized as L for FOF when you are using the Gen9 sizer.
+	"size_L_gen9_sizer": [
+		"L",
+		"XL",
+		"XXL",
+		"XXXL"
+	],
+	// The extra aggression a Pokemon can get if it's size is S.
+	"aggression_size_S_value": -30.0,
+	// The extra aggression a Pokemon can get if it's size is M.
+	"aggression_size_M_value": 0.0,
+	// The extra aggression a Pokemon can get if it's size is L.
+	"aggression_size_L_value": 50.0
 }

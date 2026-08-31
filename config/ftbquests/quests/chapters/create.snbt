@@ -11,6 +11,7 @@
 	id: "064AE5987A6C474D"
 	images: [{
 		height: 3.0d
+		id: "4FC6E392B1AB6A7D"
 		image: "mcc:textures/create.png"
 		rotation: 0.0d
 		width: 6.0d

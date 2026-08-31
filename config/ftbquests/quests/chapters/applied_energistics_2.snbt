@@ -10,6 +10,7 @@
 	id: "34633DCECF1920EB"
 	images: [{
 		height: 5.0d
+		id: "109454F89B740523"
 		image: "mcc:textures/applied-energistics-2.png"
 		rotation: 0.0d
 		width: 16.0d
@@ -53,6 +54,7 @@
 					id: "productivebees:spawn_egg_configurable_bee"
 				}
 				id: "43B0A31AD059CDDF"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "productivebees:spatial"

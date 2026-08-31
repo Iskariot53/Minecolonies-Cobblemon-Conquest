@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "3F001C1156C6A1FE"
 			image: "minecolonies:textures/gui/logo_large_empty.png"
 			rotation: 0.0d
 			width: 10.58d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6F3F0FAD64AD47EF"
 			image: "mcc:textures/minecolonies.png"
 			rotation: 0.0d
 			width: 12.0d
