@@ -14,14 +14,18 @@ Mods Updated
 
 - BaguetteLib
 - Balm
+- Blueprint
+- Cobblemon:Colonies
 - Cobblemon: Mega Showdown
 - Cobblemon Raid Dens
 - Concurrent Chunk Management Engine
 - Construction Sticks
+- Create: Colony Logistics
 - Create: Copycats+
 - Create: Filters Anywhere
 - Cupboard
 - Eternal Starlight
+- ExtendedAE
 - Farmer's Delight
 - ForgeEndertech
 - Fusion
@@ -29,6 +33,7 @@ Mods Updated
 - Lithostitched
 - Little Big Redstone
 - Lootr
+- ME Requester
 - Modular Bees
 - Oritech
 - Petrolpark Library
@@ -48,4 +53,6 @@ Mods Updated
 Changes
 
 
+- Fixes issues with colonist AI leading to crashes.
+- Fixed flying gym floor convulsing.
 - 
