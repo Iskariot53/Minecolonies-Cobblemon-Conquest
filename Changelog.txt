@@ -1,58 +1,81 @@
-Minecolonies - Cobblemon Conquest -  2.6.0 Changelog
+Minecolonies - Cobblemon Conquest -  3.0.0 Changelog
 
 
 Mods Added
 
 
-- Cobblemon: Legendary Monuments
-- Create: Shuffle Filter
+- Better Advanced Tooltips
+- Cobblemon Conquest Essentials
+- Create Sifting
+- Greenhouse Gardener - A MineColonies Add-On
+- KubeJS
+- Mechanicals Lib
+- Overflowing Bars
+- Puzzles Lib
+- Rhino
+- Straw Statues
+
+
+
+Mods Removed
+
+
+- CraftTweaker
 
 
 
 Mods Updated
 
 
-- BaguetteLib
+- Applied Energistics 2
 - Balm
-- Blueprint
-- Cobblemon:Colonies
-- Cobblemon: Mega Showdown
-- Cobblemon Raid Dens
-- Concurrent Chunk Management Engine
-- Construction Sticks
-- Create: Colony Logistics
-- Create: Copycats+
-- Create: Filters Anywhere
-- Cupboard
+- Byzantine Styles Pack for Minecolonies
+- Cobblemon Challenge
+- Cobblemon Smartphone
+- Cobblemon Tim Core
+- Collective
+- ColonyLink
+- Connectivity
+- CreateColonies
+- Create Railways Navigator
+- CreativeCore
+- Distant Horizons: A Level of Detail mod
+- E4MC
 - Eternal Starlight
-- ExtendedAE
-- Farmer's Delight
 - ForgeEndertech
 - Fusion
+- GeckoLib
+- Integrated API
 - Just Enough Mekanism Multiblocks
 - Lithostitched
-- Little Big Redstone
 - Lootr
-- ME Requester
-- Modular Bees
-- Oritech
-- Petrolpark Library
-- Petrol's Parts
-- Project Resonance for MineColonies
-- Sinytra Connector
-- Stylecolonies
-- Tesseract API
-- Tom's Simple Storage Mod
+- Moonlight Lib
+- PokeBadges
+- Productive Bees
+- Radical Cobblemon Trainers
+- SuperMartijn642's Core Lib
 - Torchmaster
 - Trade Post for MineColonies
-- Warehouse Workshop - A MineColonies Add-On
+- Twilight's Flavors & Delight
 - Waystones
+- Xaero's World Map
 
 
 
 Changes
 
 
-- Fixes issues with colonist AI leading to crashes.
-- Fixed flying gym floor convulsing.
-- 
+- Added compat tags and silk overrides for ambiguity ore.
+- Added new colonist stat modifiers giving colonists a higher base stat total overall, as well as "on the job training" training buffs.
+- Added the ability to summon the Trainer Association Rep to a trainer spawner,  by R-clicking a trainer card on the spawner.
+- Fixed Amaramber and Aethersent bee flowering.
+- Fixed Rendering conflict with carved pumpkins.
+- Fixed poser conflicts causing certain Cobblemon to fail to render properly under certain circumstances, IE: Bidoof spawning as female.
+- Added the ability to set day/night as well as weather using cobblemon interactions on a configurable per-player cooldown. Config settings can be found in cce-common.toml
+	- If a cobblemon knows Sunny Day it can set the time to day and set weather to clear.
+	- If a cobblemon knows Rain Dance it can set the weather to rain.
+	- If a cobblemon knows Moonlight it can set the time to night.
+	- If a cobblemon knows Thunder or Hurricane it can set weather to thunderstorm.
+	
+	
+...Bee slander will not be tolerated...

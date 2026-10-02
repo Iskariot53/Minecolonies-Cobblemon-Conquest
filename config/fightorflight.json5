@@ -219,6 +219,8 @@
 	"maximum_melee_attack_interval": 3.0,
 	// Minimum damage wild pokemon would do with ranged attacks
 	"minimum_ranged_attack_damage": 1.0,
+	// The basic duration of a move. In ticks
+	"base_move_duration": 20,
 	// Maximum damage wild pokemon would do with ranged attacks
 	"maximum_ranged_attack_damage": 50.0,
 	// Minimum damage multiplier player-owned pokemon would do with ranged attacks
@@ -273,6 +275,12 @@
 	"stay_after_move_command": true,
 	// If the player need to hold a Poke Staff to use the command keybind
 	"should_check_poke_staff": true,
+	// If the Auto Battle command should be enabled
+	"enable_auto_battle_command": true,
+	// The friendship requirement for your Pokemon to obey the Auto Battle command. If this value is lower than zero, the friendship value won't influence the Pokemon.
+	"auto_battle_friendship_requirement": 100,
+	// If this is set to true, Pokemon with Auto Battle command won't attack Pokemon with a higher level.
+	"auto_battle_weaker_pokemon_only": true,
 	// If the pokemon can use held item(This config has the highest priority)
 	"can_use_held_item": true,
 	// If the pokemon can use damage-increasing held item
@@ -293,6 +301,12 @@
 	"force_enable_defend_self": true,
 	// If you want to set willFlee to true in Pokemon's combat behaviour of Cobblemon. Will only be enabled to Pokemon that won't attack.(Not aggressive enough/not allowed to attack by the config.
 	"force_enable_flee": true,
+	// Required for attack_in_peaceful_difficulty. I override the original function so this is designed to avoid the conflicts with the other mods that needs to edit this function.
+	"use_fof_switch_to_fight": true,
+	// Required for attack_in_peaceful_difficulty, too. I override the original function so this is designed to avoid the conflicts with the other mods that needs to edit this function.
+	"use_fof_attack_angry_at": true,
+	// If you want to set willFlee to true in Pokemon's combat behaviour of Cobblemon. Will only be enabled to Pokemon that won't attack.(Not aggressive enough/not allowed to attack by the config.
+	"attack_in_peaceful_difficulty": true,
 	// Sizes that will be recognized as S for FOF when you are using the basic sizer.(The default sizer)
 	"size_S_basic_sizer": [
 		"Tiny",
@@ -331,5 +345,7 @@
 	// The extra aggression a Pokemon can get if it's size is M.
 	"aggression_size_M_value": 0.0,
 	// The extra aggression a Pokemon can get if it's size is L.
-	"aggression_size_L_value": 50.0
+	"aggression_size_L_value": 50.0,
+	// If you want to use the custom type effectiveness, it allows you to use datapack to add weakness/resistance to non-pokemon entity.
+	"use_custom_type_effectiveness": true
 }

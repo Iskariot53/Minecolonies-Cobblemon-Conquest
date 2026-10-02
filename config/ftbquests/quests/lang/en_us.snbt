@@ -44,6 +44,8 @@
 	quest.00561B81705B3506.title: "&lFast Ball"
 	quest.0080BA3DE8E36A07.quest_desc: ["Holding redstone in your off-hand while using the seeking eye will lead you to th Golem Forge, allowing you to challenge the Starlight Golem."]
 	quest.009919BC54ADF75A.title: "&lPhoenix Chestplate"
+	quest.00A922ED8B23BF8A.quest_subtitle: "&0&lBee Conversion"
+	quest.00A922ED8B23BF8A.title: "&lAcquire a Thioquartz Bee"
 	quest.00B9671338E0E8A4.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r have a &lTON&r of useful and functional upgrades that you can mix and match to satisfy your different needs."
 		"Each upgrade requires an &c&lUpgrade Base&r&r in its crafting recipe."
@@ -53,12 +55,16 @@
 	quest.00C79D7593BD9909.quest_desc: ["The &lCookery&r&r is where the Chef&r will create food for your citizens. Food will be cooked when requested, use this conjunction with your Restaurants to automatically keep your Restaurants stocked with food."]
 	quest.00C79D7593BD9909.quest_subtitle: "&0&lCookery"
 	quest.00C79D7593BD9909.title: "&lCookery"
+	quest.00C84C934F882A1D.quest_subtitle: "&0&lBee Conversion"
+	quest.00C84C934F882A1D.title: "&lAcquire a Pink Slimy Bee"
 	quest.00D738AD58B0E84A.quest_desc: ["Not all bees are created equally... as such... not all bees work equally, here are some examples of \"specialty\" bees bred for a specific job, rather than just producing combs."]
 	quest.00D738AD58B0E84A.quest_subtitle: "&0&lWorker bees"
 	quest.00D738AD58B0E84A.title: "&lSpecialty Bees"
 	quest.00E32809B273084F.quest_desc: ["Speed upgrades will decrease the amount of time a bee spends in its hive after every trip, When placed in centrifuges or any other block it decreases the operation time."]
 	quest.00E32809B273084F.quest_subtitle: "&0&lFeeling the need for speed?"
 	quest.00E32809B273084F.title: "&lUpgrade: Speed"
+	quest.00E87157E3C7EE6C.quest_subtitle: "&0&lBee Conversion"
+	quest.00E87157E3C7EE6C.title: "&lAcquire a Red Apricorn Bee"
 	quest.0155DD9149A294EF.quest_desc: ["Use a honey treat on a &lgravel&r or &lstone&r nest to spawn a digger bee."]
 	quest.0155DD9149A294EF.quest_subtitle: "&0&lGravel or stone"
 	quest.0155DD9149A294EF.title: "&lDigger Bee"
@@ -88,6 +94,8 @@
 	quest.02AB663DE2BC5787.quest_desc: ["The magma mycelial generator converts lava into FE."]
 	quest.02AB663DE2BC5787.quest_subtitle: "&0&lLava power"
 	quest.02AB663DE2BC5787.title: "&lMagma Mycelial Generator"
+	quest.02B7A9B1329129A6.quest_subtitle: "&0&lCrafting"
+	quest.02B7A9B1329129A6.title: "&lAcquire a Skyjade Bee"
 	quest.02C28EADBE69CA9A.title: "&lDefeat any trainer"
 	quest.02E249A161D2EC5C.quest_desc: ["Summon your own powerful Zombies with the &l&lZombie Scepter&r&r! These Zombies are strong, fast, immune to sunlight, and ready to attack. They follow you and target enemies but self-immolate after about a minute. Unlike regular Zombies, they are not undead, are affected by potions, and can be targeted by the Wither. Summoned Zombies do not scare, target, or corrupt Villagers, and baby or chicken jockey variants do not exist."]
 	quest.02E2DF3B75568230.quest_desc: ["Holding vines or lunar berries in you off-hand while using the seeking eye will lead you to the Cursed Garden, allowing you to challenge the Lunar Monstrosity."]
@@ -128,6 +136,8 @@
 	quest.05607C56B0320CD7.quest_desc: ["The IO Port allows you to rapidly fill or empty storage cells to or from network storage."]
 	quest.05607C56B0320CD7.quest_subtitle: "&0&lInput/Output"
 	quest.05607C56B0320CD7.title: "&lME/IO Port"
+	quest.0572B4359D90233A.quest_subtitle: "&0&lCrafting"
+	quest.0572B4359D90233A.title: "&lAcquire a Stratus Bee"
 	quest.05747711CC03281C.quest_desc: [
 		"The &lEnchanter's Tower&r is where the &lEnchanter&r will create enchanted books, as long as they have &lAncient Tomes&r. The Enchanter will observe other workers throughout their daily routines in order to collect experience to create enchanted books. The higher their Mana level, the more XP they will collect per trip. They will &cnot&r apply the enchanted books to tools and armor, you must do that yourself. Enchanters do &cnot&r take XP from workers, they simply gain it by &nobserving&r."
 		""
@@ -147,6 +157,8 @@
 	quest.05B51A9CB2D9EE54.quest_desc: ["Breed a copper bee with a zinc bee."]
 	quest.05B51A9CB2D9EE54.quest_subtitle: "&0&lBee Breeding"
 	quest.05B51A9CB2D9EE54.title: "&lAcquire a Brass Bee"
+	quest.05BF09D68B3017DD.quest_subtitle: "&0&lBee Conversion"
+	quest.05BF09D68B3017DD.title: "&lAcquire a Blue Apricorn Bee"
 	quest.05CC4211C4E2F99E.quest_subtitle: "&0&lFarmed from Mob Slaughter Factories"
 	quest.05CC4211C4E2F99E.title: "&lPink slime Bucket"
 	quest.05CC534A0DE3868A.quest_desc: [
@@ -324,6 +336,8 @@
 		"The &l&lKnight Phantoms&r&r inhabit a brick-layered room in the Goblin Knight Stronghold. They appear as ghostly figures of Phantom Armor and have a spooky look when attacking."
 	]
 	quest.0A9E411063EE6296.title: "&2&lSlay The Knight Phantom"
+	quest.0A9F5ACD7EB24796.quest_subtitle: "&0&lCrafting"
+	quest.0A9F5ACD7EB24796.title: "&lAcquire an Imperial Bee"
 	quest.0AA9DD3766093E67.quest_subtitle: "&0&lThe end game mekanism resource"
 	quest.0AA9DD3766093E67.title: "&lAntimatter Pellet"
 	quest.0AAE7F409D179CD6.quest_desc: [
@@ -545,6 +559,8 @@
 	quest.10C6AA32FD92C5E6.quest_desc: ["Breed an iron bee with a mason bee."]
 	quest.10C6AA32FD92C5E6.quest_subtitle: "&0&lBee Breeding"
 	quest.10C6AA32FD92C5E6.title: "&lAcquire a Silver Bee"
+	quest.10D88903254BED14.quest_subtitle: "&0&lBee Conversion"
+	quest.10D88903254BED14.title: "&lAcquire a Black Apricorn Bee"
 	quest.10E94F3EEB4BD905.title: "&l256k ME Storage Component"
 	quest.10EB55AA16BF6C7A.quest_desc: ["The Enchantment Sorter will accept input of any item, including non-enchantable items, and filter the enchanted items into the top row of output slots while non-enchanted items are pushed to the bottom output slots. Each set of output slots can be assigned a different face of the machine for extraction via pipes or hoppers."]
 	quest.10EB55AA16BF6C7A.quest_subtitle: "&0&lSorting enchanted items"
@@ -566,6 +582,8 @@
 	quest.114DD047A53F75D8.quest_subtitle: "Round 2"
 	quest.114DD047A53F75D8.title: "&lDefeat Giovanni"
 	quest.114E7957C9DF5EE0.title: "&l&lVisit all types of Villages!"
+	quest.11549AF09AE11F68.quest_subtitle: "&0&lBee Conversion"
+	quest.11549AF09AE11F68.title: "&lAcquire an Ironwood Bee"
 	quest.115C00CF2B14B52C.title: "&lBucket of Creosote Oil"
 	quest.1163126CB341EF9A.quest_desc: ["The Resistor Shield is a unique variant of the standard shield, offering a blend of defense and offense. While it can block damage from incoming attacks and explosions, it also emits a continuous pulse of damage and knockback to enemies within a small radius."]
 	quest.118623DACF6DC891.quest_desc: ["The osmium compressor is used to compress and infuse osmium into different dusts into order to yield an ingot of the alloy from the mixture."]
@@ -670,6 +688,9 @@
 		"It has multiple unique uses and interactions and will be worth giving an in-depth look within Oracle (alt key while hovering the item.)"
 	]
 	quest.13B488E8AF22FFD2.title: "&lEnderic Laser"
+	quest.13B7531088D90692.quest_desc: ["Spawned within the Golem Forge."]
+	quest.13B7531088D90692.quest_subtitle: "&0&lBee Spawning"
+	quest.13B7531088D90692.title: "&lAcquire an Unrealium Bee"
 	quest.13D06CA200A91C28.quest_desc: [""]
 	quest.13D06CA200A91C28.title: "&lSimple Machine Frame"
 	quest.14020DAD5C2BC991.title: "&lDefeat Benjamin"
@@ -713,6 +734,8 @@
 	quest.14E08AC6E6BD7900.quest_desc: ["Has a catch rate of 4× on sleeping Cobblemon."]
 	quest.14E08AC6E6BD7900.title: "&lDream Ball"
 	quest.14F956CE2A84763D.title: "&lDefeat Elias"
+	quest.1521D75220EE69E6.quest_subtitle: "&0&lParticle Collision"
+	quest.1521D75220EE69E6.title: "&lAcquire an Ancient Origin Bee"
 	quest.152610469A09DC4C.title: "&lMetal Press Mold: Ball"
 	quest.158B880DE8E27EFB.quest_desc: ["A Raygun is a futuristic ranged weapon that utilizes a continuous beam of energy to hurt any mobs in its way."]
 	quest.15A607EBD58F699D.title: "&2&lHollow Hills"
@@ -778,6 +801,8 @@
 	quest.18E742B005126239.quest_subtitle: "&0&lA specially made hive, carved from the egg of the ends ruler."
 	quest.18E742B005126239.title: "&lDragon Egg Hive"
 	quest.191299BE6CF98EBE.title: "&lVerdant Ball"
+	quest.192F98A3840FB715.quest_subtitle: "&0&lCrafting"
+	quest.192F98A3840FB715.title: "&lAcquire a Starlit Diamond Bee"
 	quest.19384E1C40343004.title: "&lBiplane"
 	quest.193EDF94D10B984B.quest_desc: ["The &l&lSeeker Bow&r&r is one of two bows that can drop from the Snow Queen. Arrows fired from this bow will attempt to hone in onto nearby targets. Seeker arrows cannot land critical hits."]
 	quest.1942BEDE7ADF7123.quest_desc: [
@@ -1126,6 +1151,8 @@
 	quest.220D6A97C5D12DC6.quest_desc: ["Breed a lapis bee with an ender bee"]
 	quest.220D6A97C5D12DC6.quest_subtitle: "&0&lBee Breeding"
 	quest.220D6A97C5D12DC6.title: "&lAcquire a Diamond Bee"
+	quest.221A1729F0E67444.quest_subtitle: "&0&lBee Conversion"
+	quest.221A1729F0E67444.title: "&lAcquire a Golem Steel Bee"
 	quest.2224BCE69E9F97AF.title: "Licoroot Vines"
 	quest.223C4F6FA235C542.quest_desc: [
 		"The &l&lCrumble Horn&r&r is one of the rewards for completing the Questing Ram's quest. If the quest is completed, this (along with one of each of the resource blocks) will be given to the player by the Quest Ram."
@@ -1238,6 +1265,8 @@
 	quest.2691B9D1ADE66445.title: "&2&lLamp of Cinders"
 	quest.26D4159CE7AFDF0E.quest_desc: ["To create an entirely new submarine will require multiple copper blocks, an Enigmatic Engine, and a few Depth Glass blocks. Simply surround the Enigmatic Engine with a copper cube, and make sure to use six Depth Glass to mark the front of the vehicle."]
 	quest.27566499D60DF15E.title: "&lEngineer's Crafting Table"
+	quest.27B2C0078BEC2FEC.quest_subtitle: "&0&lBee Conversion"
+	quest.27B2C0078BEC2FEC.title: "&lAcquire a Pink Apricorn Bee"
 	quest.27C0CAED40B28D03.title: "&l&lHow Did We Get Here?"
 	quest.27C3E7FB9ADD2FA0.quest_desc: [
 		"Solitary bees&r and their nests can be found throughout the world, different nests can be found in different biomes and dimensions, we'll need to hunt some of these down in order to breed them for the resource producing bees we're all actually after."
@@ -1286,6 +1315,8 @@
 	]
 	quest.289E6D7CF8519542.quest_subtitle: "&0&l\\Need crops FASTER"
 	quest.289E6D7CF8519542.title: "&lHydroponic Bed"
+	quest.289F6F815187591B.quest_subtitle: "&0&lBee Conversion"
+	quest.289F6F815187591B.title: "&lAcquire a Steeleaf Bee"
 	quest.28BC54AFCD1ED504.quest_subtitle: "&0&lForm the Coke Oven multiblock"
 	quest.28BC54AFCD1ED504.title: "&lBuild a Coke Oven"
 	quest.28C43D8DA14233E8.quest_desc: [
@@ -1575,6 +1606,8 @@
 	quest.303E5FEBA512547F.quest_subtitle: "&0&lUndead and unwanted visitors"
 	quest.303E5FEBA512547F.title: "&lLight up your Hives!"
 	quest.30517A19CD143E4F.quest_desc: ["The &l&lScepter of Life Draining&r&r drains life energy from any mob it right-clicks, producing pink particle effects. To use it, hold right-click while looking at an enemy, causing them to float and transferring energy to the user for faster healing. If interrupted, the enemy gets the Slowness debuff and approaches slowly, allowing the player to recharge the scepter. It does not work against the Ender Dragon."]
+	quest.3090710779A0858E.quest_subtitle: "&0&lBee Conversion"
+	quest.3090710779A0858E.title: "&lAcquire a Lithium Bee"
 	quest.309CCEE8CB0A9BB5.title: "&lLarge Berry Pouch"
 	quest.30A2795DDB5738A9.quest_desc: ["Use a honey treat on a wooden&r nest to obtain a gree carpenter bee. (use JEI to determine which wood for which type of carpenter bee)."]
 	quest.30A2795DDB5738A9.quest_subtitle: "&0&lWood nests"
@@ -1640,8 +1673,12 @@
 	quest.329AFA37DACB1C66.title: "&lDefeat Aaron"
 	quest.32BC270BB8280166.title: "&lDubious Container"
 	quest.32BFAB9E395AF61D.quest_desc: ["The &l&lScepter of Twilight&r&r, dropped by the Lich, shoots projectiles resembling the Lich's, with a texture like Ender Pearls and a blue-green particle effect. Slightly affected by gravity, they deal 2.5 hearts of damage—four hits for Skeletons and Creepers, three for Spiders, and five for Zombies. The scepter cannot interact with End Crystals or the Ender Dragon."]
+	quest.3306AE9B6FFA845F.quest_subtitle: "&0&lBee Conversion"
+	quest.3306AE9B6FFA845F.title: "&lAcquire a Fiery Bee"
 	quest.3345243C8824B0B9.quest_subtitle: "&0&lMake an energy buffer!"
 	quest.3345243C8824B0B9.title: "&lBasic Flux Storage"
+	quest.337533BBB3E621C9.quest_subtitle: "&0&lBee Conversion"
+	quest.337533BBB3E621C9.title: "&lAcquire a Super Experience Bee"
 	quest.33B295CC0DBBE25D.quest_desc: [
 		"Industrial foregoing is another tech and automation mod whose use can range from mob duplication and farming to ore processing. "
 		""
@@ -1672,6 +1709,8 @@
 	]
 	quest.33E08FD4D5B50703.title: "Steeleaf Armor and Tools"
 	quest.33F9A883BE1C7C5C.title: "&lDefeat Mirskle"
+	quest.3416D64B7D61F7A8.quest_subtitle: "&0&lBee Conversion"
+	quest.3416D64B7D61F7A8.title: "&lAcquire a Zanite Bee"
 	quest.34235A89E025C573.title: "&lSupercharged Coil"
 	quest.34259B58352FF534.quest_desc: [
 		"The &l&lTree of Time&r&r is a magical tree that cannot be found naturally in the Forest and must be grown from a Tree of Time Sapling, which can be found in \"tree dungeons\" within massive Twilight Oak trees."
@@ -1767,8 +1806,12 @@
 	quest.367E77978AA55FAB.quest_desc: ["The &cblaze burner&r can be used to capture a blaze and heat your basin for mixing. They must be fed burnable materials to function though, and later, blaze cakes&r."]
 	quest.367E77978AA55FAB.quest_subtitle: "&0&lit's fiiiine... it heats your basin because it's happy :D"
 	quest.367E77978AA55FAB.title: "&lBlaze Burner"
+	quest.36BE7EB97A0C5888.quest_subtitle: "&0&lBee Breeding"
+	quest.36BE7EB97A0C5888.title: "&lAcquire an Aethersent Bee"
 	quest.36D3DAC16DEB5AD6.quest_desc: ["Has a catch rate of 8× if the target is the opposite gender and the same species as one of the player's Cobblemon. Otherwise, it has a 1× catch rate."]
 	quest.36D3DAC16DEB5AD6.title: "&lLove Ball"
+	quest.36F96D65576E60BB.quest_subtitle: "&0&lBee Conversion"
+	quest.36F96D65576E60BB.title: "&lAcquire a Resonating Bee"
 	quest.3704ECA09DAC9D7A.quest_desc: ["The &l&lLamp of Cinders&r&r is a tool found in the central vault of the Troll Caves, which requires the Giant's Pickaxe to open. It is used to burn through the Thorns that fill the Thornlands biome. The lamp can be used in two ways: it can burn individual blocks by clicking on them, or it can be \"charged\" by holding the button to burn an entire area. The Lamp of Cinders has no usage limit."]
 	quest.3704ECA09DAC9D7A.title: "&lLamp of Cinders"
 	quest.374D27B6E8DB7066.quest_desc: [
@@ -2078,6 +2121,8 @@
 	quest.400692BBCCA73100.title: "&lThe Gold Dungeon"
 	quest.40207980D0FD3F59.quest_subtitle: "Round 3"
 	quest.40207980D0FD3F59.title: "&lDefeat Giovanni"
+	quest.4028277639002958.quest_subtitle: "&0&lBee Conversion"
+	quest.4028277639002958.title: "&lAcquire a Mega Bee"
 	quest.40924A4D8EC9FA22.title: "&lAncient Gigaton Ball"
 	quest.40A6F8988EEF04A1.quest_desc: ["Using Garden Cloches is probably going to be the optimal way to farm mints and apricorns amongst other things if and when unable to rely on a colony for production."]
 	quest.40A6F8988EEF04A1.quest_subtitle: "&0&lFarming made easy"
@@ -2113,6 +2158,8 @@
 	quest.423643A2F359889D.quest_desc: ["Feed a fluix pearl to a spatial bee."]
 	quest.423643A2F359889D.quest_subtitle: "&0&lBee Conversion"
 	quest.423643A2F359889D.title: "&lAcquire a Fluix Bee"
+	quest.425279EAD993692C.quest_subtitle: "&0&lBee Conversion"
+	quest.425279EAD993692C.title: "&lAcquire a Starfire Bee"
 	quest.4269D7599CFB4E9B.quest_desc: ["The upgraded form allows for item filtering and the creation of automated&r &lmob cages&r and &abotany pots&r!"]
 	quest.4269D7599CFB4E9B.quest_subtitle: "&0&lIt's a smarter chute, of course"
 	quest.4269D7599CFB4E9B.title: "&lSmart Chute"
@@ -2139,6 +2186,8 @@
 	quest.43353EB782A1A5DF.quest_desc: ["Feed a polonium pellet to a radioactive bee."]
 	quest.43353EB782A1A5DF.quest_subtitle: "&0&lBee Conversion"
 	quest.43353EB782A1A5DF.title: "&lAcquire a Wasted Radioactive Bee"
+	quest.434D462E814AD1D1.quest_subtitle: "&0&lBee Conversion"
+	quest.434D462E814AD1D1.title: "&lAcquire a Thermal Springstone Bee"
 	quest.435C54AD8C9189A4.quest_desc: ["The &l&lDiamond Minotaur Axe&r&r is a unique axe that is dropped when the Minoshroom is killed. The Diamond Minotaur Axe is unique in that it has extra charge damage, meaning that when it is used while the player is sprinting, extra damage will be dealt to whatever monster it attacks."]
 	quest.43763E012BBF5951.quest_desc: ["&lInventory Trims&r&r work similarly to &cInventory Cables&r. Place Inventory Trims between an Inventory Connector block and any storage block to access it through the terminal."]
 	quest.43763E012BBF5951.title: "&lInventory Trims"
@@ -2506,6 +2555,8 @@
 		"They live in the Nether and Nether Wastes and enjoy eating fresh bones."
 	]
 	quest.4ED2CF94627F2171.title: "&lDefeat Lance"
+	quest.4EDF82A021E55F3C.quest_subtitle: "&0&l Bee Breeding"
+	quest.4EDF82A021E55F3C.title: "&lAcquire a Plastic Bee"
 	quest.4EE7DA5C1910523B.quest_desc: ["Sometimes Roots form strange, ore-like clusters, called &l&lLiveroots&r&r. Liveroots appear as roots webbed with a bright yellow-green color. They typically appear in clusters of between 4 and 8 blocks and can be found anywhere underground in the Twilight Forest. Breaking Liveroots without silk touch gives Liveroot, which forms a key ingredient in the creation of &l&lRaw Ironwood&r&r."]
 	quest.4EE7DA5C1910523B.title: "Liveroot"
 	quest.4F3A89C3B469A578.quest_desc: ["The haliotosis mycelial generator converts dragons breath into FE."]
@@ -2579,7 +2630,7 @@
 	quest.52AE104474C902F2.quest_subtitle: "&0&lLook near rivers"
 	quest.52AE104474C902F2.title: "&lReed Bee"
 	quest.52E0C30E9147CA6F.quest_desc: [
-		"As Cobblemon battle, in addition to gaining experience points they also obtain EVs (often called Effort Values), which are values attributed to each stat (HP, Attack, etc). Each Cobblemon you battle against grants EVs in one or more stats, as well as there being items available that boost them such as feathers and vitamins."
+		"As Cobblemon battle, in addition to gaining experience points they also obtain EVs (Effort Values), which are values attributed to each stat (HP, Attack, etc). Each Cobblemon you battle against grants EVs in one or more stats, as well as there being items available that boost them such as feathers and vitamins."
 		""
 		""
 		"{@pagebreak}"
@@ -2624,10 +2675,14 @@
 	quest.53348D435700DDCF.title: "&lRotary Cannon"
 	quest.534342E42661CBBB.title: "Defend Your Title!"
 	quest.534B4F74DA1EF827.title: "&lDefeat Ruin Agent Vega"
+	quest.5379803460520E6B.quest_subtitle: "&0&lCrafting"
+	quest.5379803460520E6B.title: "&lAcquire a Carminite Bee"
 	quest.5380C4E7728B6C91.title: "&lAltar"
 	quest.5392A8DC9F2C3D5C.quest_desc: ["With the mechanical press you can now make your sheet metals much more efficiently, at 1 ingot per."]
 	quest.5392A8DC9F2C3D5C.quest_subtitle: "&0&lMUCH better"
 	quest.5392A8DC9F2C3D5C.title: "&lAutomated Sheet Metals"
+	quest.53B9B9158832250E.quest_subtitle: "&0&lBee Conversion"
+	quest.53B9B9158832250E.title: "&lAcquire an Ether Bee"
 	quest.53CE87B53193C14F.quest_desc: [
 		"The &l&lTree of Time&r&r is a magical tree that cannot be found naturally in the Forest and must be grown from a Tree of Time Sapling, which can be found in \"tree dungeons\" within massive Twilight Oak trees."
 		""
@@ -2750,6 +2805,8 @@
 	quest.579409C3F3A2F2F0.quest_subtitle: "&0&lThe work horse of any apiary."
 	quest.579409C3F3A2F2F0.title: "&lCentrifuge"
 	quest.57B577946F686311.title: "&l&lWooden Tools"
+	quest.57BF5797020F9985.quest_subtitle: "&0&lBee Conversion"
+	quest.57BF5797020F9985.title: "&lAcquire a Green Apricorn Bee"
 	quest.57F1C49F461902DE.quest_desc: ["Ranchers can be used for automating the more mundane tasks of things suchs as sheering sheep, milking cows, etc."]
 	quest.57F1C49F461902DE.quest_subtitle: "&0&lAuto-Mob farming"
 	quest.57F1C49F461902DE.title: "&lAnimal Rancher"
@@ -2864,6 +2921,8 @@
 	quest.5B698AB7FE032025.quest_subtitle: "All-in-one"
 	quest.5B698AB7FE032025.title: "&lThe Smartphone"
 	quest.5B7C670915E05F23.title: "&lEther Bee"
+	quest.5B8C94B761C9C79A.quest_subtitle: "&0&lCrafting"
+	quest.5B8C94B761C9C79A.title: "&lAcquire a Gravitite Bee"
 	quest.5B9ED16A573F5409.title: "&lCapacity Card"
 	quest.5BBE97CFD87ABEE9.title: "&l&lWater and Lava"
 	quest.5BF30AA21250A283.quest_subtitle: "&0&lOn our way to netherite"
@@ -2884,6 +2943,8 @@
 	quest.5CD9F6B3696657B7.title: "&lPoke ball"
 	quest.5CDAA0C3C17C33BC.quest_desc: ["Underzealots are intelligent, mole-like cultists that roam the Forlorn Hollows. Due to their poor vision, they possess a naturally low detection range, making them less likely to spot players at a distance. However, fighting them is no easy feat—after each slash from their claws, Underzealots will burrow underground and reappear nearby, keeping combat unpredictable."]
 	quest.5D054A1BEC959317.title: "&2&lHollow Hills"
+	quest.5D25C3767F115E14.quest_subtitle: "&0&lBee Conversion"
+	quest.5D25C3767F115E14.title: "&lAcquire a White Apricorn Bee"
 	quest.5D4B24E537733A07.quest_desc: ["&l&lIronwood Armor and Tools&r&r are made from Ironwood Ingots."]
 	quest.5D4B24E537733A07.title: "Ironwood Armor and Tools"
 	quest.5D53BAF9E45AC381.title: "&lIncandescent Light Bulb"
@@ -2941,6 +3002,8 @@
 	]
 	quest.5EB495D8571A9118.quest_subtitle: "&0&lExpansion without boxes"
 	quest.5EB495D8571A9118.title: "&lUpgrade: Range"
+	quest.5EF81A948A18C5B5.quest_subtitle: "&0&lBee Conversion"
+	quest.5EF81A948A18C5B5.title: "&lAcquire an Amaramber Bee"
 	quest.5EFF8F2CA747D6BF.quest_desc: [
 		"The &lMinecolonies - Cobblemon Conquest&r&r Modpack is licensed under &lAll Rights Reserved&r."
 		""
@@ -3333,6 +3396,8 @@
 	quest.68FF8E56E6CDF0C5.quest_desc: ["Sometimes Roots form strange, ore-like clusters, called &l&lLiveroots&r&r. Liveroots appear as roots webbed with a bright yellow-green color. They typically appear in clusters of between 4 and 8 blocks and can be found anywhere underground in the Twilight Forest. Breaking Liveroots without silk touch gives Liveroot, which forms a key ingredient in the creation of &l&lRaw Ironwood&r&r."]
 	quest.68FF8E56E6CDF0C5.title: "Liveroot"
 	quest.690205FC04560718.title: "&lBriggs"
+	quest.691227B9B3586E10.quest_subtitle: "&0&lEngraving"
+	quest.691227B9B3586E10.title: "&lAcquire a Master Bee"
 	quest.6933F31C26EB3393.quest_desc: [
 		"While everything has been designed so that you do not &orequire&r one, a colony will be capable of making your Cobblemon journey much easier in many ways. Once fully established it can be looked at as your Cobblemon cheat code, generating everything from free balls and bottle caps to half cost Master Balls! "
 		""
@@ -3466,6 +3531,8 @@
 	]
 	quest.6D9CCDB12FF5B518.quest_subtitle: "&0&lNot Optional"
 	quest.6D9CCDB12FF5B518.title: "&lME Pattern Provider"
+	quest.6DB8206E8354ECED.quest_subtitle: "&0&lBee Conversion"
+	quest.6DB8206E8354ECED.title: "&lAcquire a Glacite Bee"
 	quest.6DB899AD90BA263C.title: "&lAdamant Ingot"
 	quest.6DC065159F905D68.quest_desc: ["Used for the most advanced machine frames, and therefor the most advanced IF machines. "]
 	quest.6DC065159F905D68.title: "&lSupreme Machine Frame"
@@ -3650,6 +3717,8 @@
 	quest.71A609F70B6B6958.title: "&lAcquire a Wannabee"
 	quest.71AEEAE69486D4B7.title: "&lAncient Ivory Ball"
 	quest.71C7AD0347F0F209.title: "&lAncient Jet Ball"
+	quest.71D9EDBBC9876700.quest_subtitle: "&0&lBee Spawning"
+	quest.71D9EDBBC9876700.title: "&lAcquire a Malarite Bee"
 	quest.71EC8771E073828D.quest_desc: ["The mechanical mixer is used to make 1 of the first alloys we'll need to advance further into our technological progression, among other things."]
 	quest.71EC8771E073828D.quest_subtitle: "&0&lBlending all the things"
 	quest.71EC8771E073828D.title: "&lMechanical Mixer"
@@ -3786,6 +3855,8 @@
 	quest.7551EF4FE53DDAC8.title: "&lSkeletal Bee"
 	quest.757A217506F440A2.quest_desc: [""]
 	quest.757A217506F440A2.title: "&lInscriber Logic Press"
+	quest.75A4EFDC4DA4E838.quest_subtitle: "&0&lBee Conversion"
+	quest.75A4EFDC4DA4E838.title: "&lAcquire a Yellow Apricorn Bee"
 	quest.75A50203D06244F8.quest_desc: ["&l&lPhantom Armor&r&r is a special set of armor that can be obtained after slaying a Knight Phantom. There is only two parts to this set. This armor is also unique in that it will not be lost on death."]
 	quest.75A50203D06244F8.title: "Phantom Armor"
 	quest.75F0630004F69387.quest_desc: ["&l&lNaga Scale Armor&r&r is armor made from Naga Scales. This armor set consists of only Chestplate and Leggings."]
@@ -3979,6 +4050,8 @@
 	]
 	quest.7A65FBE803BAA7AF.title: "Arctic Armor"
 	quest.7A85E2FA4089AE5E.quest_desc: ["The &l&llevel II charm&r&r is silver and will keep the player's armor and full hotbar."]
+	quest.7A99A53AF60712DA.quest_subtitle: "&0&lBee Conversion"
+	quest.7A99A53AF60712DA.title: "&lAcquire a Flowglaze Bee"
 	quest.7AA37760F9C6BA7D.quest_desc: [
 		"If there is another colony too close to your current position, you &c&lwon't&r&r be able to place a Town Hall."
 		""
@@ -4011,6 +4084,8 @@
 	]
 	quest.7B5958FFC5B03478.title: "&lDefeat Alice"
 	quest.7BB546A7341E5E88.title: "&lTurbine Vent"
+	quest.7BC55CC629264C87.quest_subtitle: "&0&lBee Spawning"
+	quest.7BC55CC629264C87.title: "&lAcquire a Deepsilver Bee"
 	quest.7BD6218C6A604D10.quest_desc: [
 		"&c&lSophisticated Backpacks&r&r is a backpack mod (obviously) with backpacks that you can place in the world, color in different color combinations, upgrade with more inventory slots and enhance with many functional upgrades."
 		""
@@ -4180,6 +4255,8 @@
 	quest.7F546D55D60D0161.quest_subtitle: "&0&lOutputting fluids into the world"
 	quest.7F546D55D60D0161.title: "&lFluid Placer"
 	quest.7F5F699B2D362D62.title: "&lAncient Verdant Ball"
+	quest.7F66B7FA57FD91B0.quest_subtitle: "&0&l Bee Conversion"
+	quest.7F66B7FA57FD91B0.title: "&lAcquire an Abominable Bee"
 	quest.7F7D5A012187CF4F.quest_desc: [""]
 	quest.7F7D5A012187CF4F.title: "&lInscriber Engineering Press"
 	quest.7F8AD0BECEF17D93.quest_desc: ["The &lBakery&r&r will craft bread dough, cookie dough, cake dough, and raw pumpkin pie, then bake&r these in a furnace to create bread, cookies, cakes, and pumpkin pies. They will only do this &nupon request&r, whether from the Cook&r, the Postbox&r, or as a minimum stock in the Warehouse&r."]
@@ -4222,12 +4299,14 @@
 	task.00AD1133B558E012.title: "Any #forge:ingots/steel"
 	task.00BB0499F1803FB4.title: "&l&lTame Raptor "
 	task.017603C7C0DBDCB6.title: "Pirate Village"
+	task.01A33708CE9310D7.title: "Acquire a blue apricorn bee"
 	task.01CDC38D22E7DABD.title: "Starter Hut"
 	task.01DB6FA8980D9879.title: "Find a Small Hollow Hill"
 	task.02059370D87D642C.title: "&lWelcome to Automata!"
 	task.024E3AFBD0612760.title: "Much better"
 	task.033C7D345EA34B6D.title: "&l&lTame Small Slime (Cyan)"
 	task.03D23D65AEF38606.title: "Observe: Atlatitan"
+	task.042629C9503CFCA6.title: "Acquire an ironwood bee"
 	task.044EF15419EBA559.title: "&l&lTame Small Slime (Orange)"
 	task.053E33CFD2147DD8.title: "Nexus"
 	task.0596C5DD48511946.title: "Type Gems"
@@ -4242,6 +4321,7 @@
 	task.087FB36FB94308B9.title: "&l&lTame Rooster (Mixed)"
 	task.089279FD8D5BDD76.title: "Acquire a hoarder bee"
 	task.08BD2CD08566394B.title: "Acquire a pure bee"
+	task.0972E59925BABF76.title: "Acquire an unrealium bee"
 	task.09EE3EA1E53CA986.title: "Acquire a hellfire bee"
 	task.0A59C8619A366F3E.title: "Pokefinder"
 	task.0BAA34164BD288AD.title: "Drakkars"
@@ -4252,7 +4332,7 @@
 	task.0CB37997CD621375.title: "Gelatin"
 	task.0CC6FA0267935C43.title: "Acquire a tin bee"
 	task.0CDEEC049E0694B7.title: "Tinker's Workshop"
-	task.0CE8EA0B16931F4D.title: "Any #forge:hives"
+	task.0CE8EA0B16931F4D.title: "Craft a Beehive."
 	task.0D192F6995B1E2EE.title: "Acquire an amber bee"
 	task.0D808BB421C13302.title: "Marketstead Village"
 	task.0E56288B4115AE76.title: "Priority"
@@ -4264,6 +4344,7 @@
 	task.0FB81290C4217A85.title: "Infested Temple"
 	task.0FCF42BE65EC7B6E.title: "Breed a Lithium Bee"
 	task.103FE6176802F199.title: "&lA town's style is a reflection of its soul"
+	task.1061875488153F09.title: "Acquire a gravitite bee"
 	task.107F34E17CB00C88.title: "&2&lThe Quest Ram"
 	task.109C9670127E5140.title: "Illager Fort"
 	task.10D9C1FF73CFCED0.title: "&l&lTame Small Slime (Purple)"
@@ -4277,11 +4358,13 @@
 	task.13F329B03F806E4F.title: "Acquire a lapis bee"
 	task.1412A878A9D1F7DF.title: "Villager Inn"
 	task.145F50225AF027B5.title: "Id Cards"
-	task.14A1DEEB37A06DE9.title: "Any #productivebees:solitary_overworld_nests"
+	task.14A1DEEB37A06DE9.title: "Find or craft a Bee Nest."
 	task.1538371EB965834B.title: "Acquire an elementium bee"
 	task.1616F2DC5F572407.title: "&l&lTame Lizard (Desert)"
 	task.164668F3B75A6B7A.title: "&l&lTame Small Slime (Light Gray)"
+	task.1655EFB54697447B.title: "Acquire a Fiery Bee"
 	task.16E732062FA75A07.title: "Bandit Towers"
+	task.16F63E6EF5F25D9E.title: "Acquire a mega bee"
 	task.17C76AE741FEB6BB.title: "How to access the Merchant"
 	task.182166C6B9A4166D.title: "Acquire a pink slimy bee"
 	task.182C67230417BBF1.title: "Typing"
@@ -4294,10 +4377,12 @@
 	task.19A2ADA9DB6CAEFD.title: "Find a prismarine bee"
 	task.19D03572C40C3AF4.title: "Acquire an ancient bee"
 	task.1A69ADE737CFD0FA.title: "Acquire a manasteel bee"
+	task.1A9CF590E689427A.title: "Acquire a Super Experience Bee"
 	task.1ABAA9AD59E1E5E6.title: "&l&lTame (Spotted)"
 	task.1B0511A0BC0B1552.title: "Acquire a Sulfur Bee"
 	task.1B15B4A1AD7F65C8.title: "&l&lTame Raptor (Dark Green)"
 	task.1B99CA948A040562.title: "Briggs"
+	task.1C0E1C84085B3107.title: "Acquire a starlit diamond bee"
 	task.1D0FBDDF8E1FE67F.title: "Z-Rings"
 	task.1D30DDF02CF449F5.title: "&l&lTame Small Slime (Light Blue)"
 	task.1D474902C502C04F.title: "Thornborn Towers"
@@ -4309,14 +4394,18 @@
 	task.1FBAA9DB216D57E9.title: "The Mycelial Power Grid"
 	task.1FE35771F2DEFC3F.title: "&l&lTame Snail"
 	task.1FF0D58D0E3611DE.title: "Avquire a signalum bee"
+	task.205366B3CCC68D55.title: "Acquire a flowglaze bee"
+	task.2072E76BCB0BC79F.title: "Acquire an aethersent bee"
 	task.20BB49FE65333616.title: "Apricorns"
 	task.223549B4FA3A4D72.title: "&l&lTame Small Slime (White)"
 	task.2276DFB615F12613.title: "&l&lTame Small Slime (Green)"
 	task.2279063B1A74A165.title: "Ancient Temple"
 	task.22D2739D683E0FC3.title: "Forlorn Hollows"
+	task.22DE91C33C59FD5C.title: "Acquire a green apricorn bee"
 	task.22F958F68B508490.title: "Acquire a mana bee"
 	task.23AF3B21A89D2172.title: "Granite Fort"
 	task.23CB96896BC8519D.title: "Bathhouse"
+	task.25F177592123EAAF.title: "Acquire a stratus bee"
 	task.267719275AC1D996.title: "Acquire a silky bee"
 	task.269E6D08E6396407.title: "Acquire a refined obsidian bee"
 	task.26D4F88905FEE2D8.title: "Cogs"
@@ -4334,7 +4423,9 @@
 	task.2B9EEC5273C8FB05.title: "Acquire a rancher bee"
 	task.2C10F4B541FF1BBE.title: "Toxic Caves"
 	task.2C668EF04A176CE5.title: "Acquire an emerald bee"
+	task.2C74622296B65116.title: "Acquire a master bee"
 	task.2CB86DB746200509.title: "Acquire an aluminum bee"
+	task.2D22BD0F7C73890F.title: "Acquire a deepsilver bee"
 	task.2D452C84699B6A3B.title: "Mega Bracelet"
 	task.2DA3480D11AE9DEF.title: "Find a slimy bee"
 	task.2E00420481E2655F.title: "Find a sponge bee"
@@ -4346,7 +4437,7 @@
 	task.2F451578944B014C.title: "Find a leafcutter bee"
 	task.2F46F3E2B60D5B65.title: "&l&lTame Lizard (Green)"
 	task.2F88D672CE00A605.title: "Find an oily bee"
-	task.2FAFFFCEF8B738EC.title: "Any #productivebees:expansion_boxes"
+	task.2FAFFFCEF8B738EC.title: "Craft any Expansion Box"
 	task.301ED8DE75926FE6.title: "Any #forge:dusts/steel"
 	task.3056EF15349DF84A.title: "Acquire a lumber bee"
 	task.30BA68BE263AFFBA.title: "Deuterium"
@@ -4363,15 +4454,18 @@
 	task.33559FB8C6634DC3.title: "Acquire a rose quartz bee"
 	task.33C46E0CC2F814AA.title: "Acquire an iron bee"
 	task.34698AB199FE7411.title: "Minka Village"
+	task.34CE1FBBFED50D90.title: "Acquire an Ether Bee"
 	task.350558F7FA871759.title: "Monastery Tower"
 	task.35105D1AD5EA447C.title: "EVs"
 	task.354EF0ABCCCD0B0E.title: "&lWelcome to Eternal Starlight!"
 	task.358D5AC1C21B17DB.title: "Other id"
 	task.364190D730B02EFB.title: "Heavenly Rider"
+	task.369FA706EA29D116.title: "Acquire a Carminite Bee"
 	task.36D9F8B943A2E47B.title: "Heavenly Challenger"
 	task.36DB13E57B3AE821.title: "Any #cobblemon:berries"
 	task.36EA86535D8A05E7.title: "Acquire an invar bee"
 	task.37E0728BA7425BC8.title: "&l&lTame Small Slime "
+	task.382805AD914BC6CD.title: "Acquire a Plastic Bee"
 	task.38705C2DEF84CB20.title: "Tavern"
 	task.38903810689BD801.title: "Any #ae2:quartz_wrench"
 	task.38ABC9DF23FFA4F4.title: "Acquire an ether gas bee"
@@ -4381,6 +4475,7 @@
 	task.39D587CCE8C01B2A.title: "The Big Book of Bees"
 	task.39E8766BBBEB9CC8.title: "Labyrinth"
 	task.39FCC567142E8F88.title: "Necromancer's Spire"
+	task.3AF03D64186F9CC8.title: "Acquire a steeleaf bee"
 	task.3B07531AC37F1FF7.title: "Find a reed bee"
 	task.3B3B3E27081D6D28.title: "Fishing for bees"
 	task.3B767C1079613226.title: "Acquire a bronze bee"
@@ -4394,6 +4489,7 @@
 	task.3F6DCAA272338625.title: "Abyssal Chasm"
 	task.3F7A56447B9E50D0.title: "Airship Village"
 	task.40C53B426F32A07E.title: "&lComponents"
+	task.41261B5D39BEFCC0.title: "Acquire a white apricorn bee"
 	task.4136C7309693053E.title: "Apothecary Abode"
 	task.418B7CBFE8ABF7B2.title: "Find a crystalline bee"
 	task.41F6B75B65C4D9FA.title: "Acquire a diamond bee"
@@ -4410,8 +4506,11 @@
 	task.458C517D3D1261A0.title: "Find a green carpenter bee"
 	task.45A0BF5E2666F481.title: "&2&lThe Quest Ram"
 	task.45B2DCA458966BDA.title: "Have a skeletal bee move in."
+	task.45BE5501F27C629E.title: "Acquire a skyjade bee"
+	task.480662CDBF913D6F.title: "Acquire a pink apricorn bee"
 	task.48212B5E579B9ADA.title: "Acquire a sulfur bee"
 	task.4851BDE166A1522F.title: "Ether Bee"
+	task.488ABD92B358C25F.title: "Acquire a starfire bee"
 	task.497E274CE7894604.title: "&lUser Manual"
 	task.4A5B03B6A20CFEE5.title: "&l&lTame Dobutsu (Creeper)"
 	task.4ABFD1698B1322D5.title: "Primordial Caves"
@@ -4423,23 +4522,28 @@
 	task.4C1CA1114A6110EA.title: "&l&lTame Dobutsu (Enderman)"
 	task.4C24C396D1DE30E1.title: "Ruins of The Deep"
 	task.4C9C15F359558806.title: "Ancient Mines"
+	task.4E0EE9AABB55CFE3.title: "Acquire a Lithium Bee"
 	task.4E4D9E983F568316.title: "Acquire a withered bee"
 	task.4E8C2DB75CDEDD72.title: "Acquire a steel bee"
 	task.4EADB77F172FCB1E.title: "Observe: Relicheirus"
 	task.4EDB1EB9FC2BB782.title: "Mints"
 	task.4EFE19AED41FB818.title: "Welcome to Mekanism!"
+	task.5060055E1233D242.title: "Acquire a yellow apricorn bee"
 	task.507BA26E0BAD5D26.title: "&l&lTame Small Slime (Brown)"
 	task.508B5822C2DFE033.title: "Mint Leaf"
 	task.50910F15C9ECFB6D.title: "Find a sweat bee"
 	task.50DC4B79D4E20325.title: "Archmage's Tower"
 	task.50ED1A4988106180.title: "&lWelcome to Cobblemon!"
+	task.51146380072EEEB5.title: "Acquire an Abominable Bee"
 	task.511D58A375F13527.title: "Fortified Temple"
+	task.5185CCEF6647213C.title: "Acquire a Pink Slimy Bee"
 	task.518F6839E569792F.title: "Haunted Manor"
 	task.5192854682D3DF80.title: "Find a chocolate mining bee"
 	task.52296AF3B69F7754.title: "Mega Jewelry"
 	task.526E0DB16CA7F4B3.title: "&l&lTame Fairy (Red)"
 	task.52CE66D7B2434D4A.title: "Acquire a philolite bee"
 	task.538FF059B5F47525.title: "Acquire a sculk bee"
+	task.539026E98632C16C.title: "Acquire a Resonating Bee"
 	task.53CF9024D1C33C05.title: "Arcane Library"
 	task.541A1ABC4B4411C2.title: "&lTrading for CobbleDollars"
 	task.544990ED82C51091.title: "Shiraz Palace"
@@ -4448,10 +4552,13 @@
 	task.55982478A10C86BE.title: "Bee genetics"
 	task.560433BAA5660024.title: "Specialty bees"
 	task.561C551C55BAB852.title: "Find a Small Hollow Hill"
+	task.568F971566CDDCC7.title: "Acquire an amaramber bee"
 	task.56DCE5A4752E0BFB.title: "&l&lTame Lizard "
+	task.56DFCAD3B82C9B7A.title: "Acquire a zanite bee"
 	task.56F10F48F3BCCD87.title: "Acquire an arcane bee"
 	task.56FF1B00BAE81A64.title: "&l&lTame Fairy"
 	task.572EA0C245513264.title: "Foundry"
+	task.5786E18C5287DF7B.title: "Acquire a glacite bee"
 	task.57C41A0C1456AC96.title: "Acquire a creebee"
 	task.57F513DCBD9930F0.title: "Acquire a plastic bee"
 	task.586BD2D4D08A8E51.title: "Acquire a dragonsteel bee"
@@ -4464,15 +4571,21 @@
 	task.5B303E03021D6546.title: "Bazaar"
 	task.5B38BE4D80284D00.title: "&l&lTame Small Ghast"
 	task.5B3F595AFB048DF9.title: "&l&lTame Small Slime (Pink)"
+	task.5BD328B51B32FD41.title: "Acquire an ancient origin bee"
 	task.5C52C16D3379E028.title: "&l&lTame Dobutsu"
 	task.5D047184D670680F.title: "Acquire an enderium bee"
 	task.5D6D55068AB77D99.title: "&lWelcome to Minecolonies - Cobblemon Conquest!"
 	task.5DC5BEF9ABD696F5.title: "Acquire a platinum bee"
 	task.5DEBBB9F24FF20D2.title: "Find a Medium Hollow Hill"
+	task.5DFB3FE100AE66F0.title: "Acquire a black apricorn bee"
 	task.5EF41BEDBCCCCC54.title: "Find a sugarbag bee"
+	task.5F091E9582191CB0.title: "Acquire a malarite bee"
+	task.5FB4919ED72E924A.title: "Acquire a thioquartz bee"
 	task.5FC53619EBB282CA.title: "Scorched Mines"
+	task.5FCF2197F6B7A147.title: "Acquire a red apricorn bee"
 	task.603C97CFDC36815B.title: "Acquire a refined glowstone bee"
 	task.6054DB848B076888.title: "Find a ghostly bee"
+	task.605EA003CE1776B6.title: "Acquire a thermal springstone bee"
 	task.607B918B6D697ECE.title: "Have a zombee move in"
 	task.610E75121499D888.title: "Mediterranean Village"
 	task.615F9F90D5B725D4.title: "Manor"
@@ -4521,13 +4634,15 @@
 	task.787356157611CFF7.title: "Light up your hives!"
 	task.7A3386E337D3F1B4.title: "Heavenly Conquerer"
 	task.7A456BBE27067820.title: "Acquire a rose gold bee"
-	task.7ADB6EF272BF3CB7.title: "Any #productivebees:advanced_beehives"
+	task.7ADB6EF272BF3CB7.title: "Craft any Advanced Beehive."
 	task.7ADC2EA595A49858.title: "Find a yellow carpenter bee"
 	task.7B048194902CFC49.title: "Find a Large Hollow Hill"
+	task.7B0D8315C6E7958C.title: "Acquire a golem steel bee"
 	task.7B59F6ED77C1EB5E.title: "Plague Asylum"
 	task.7B76BB193F401C1C.title: "Observe: Tremorzilla"
 	task.7C314130097D621D.title: "IVs"
 	task.7C61825AEEDF790D.title: "Sinking Temple"
+	task.7C68E6542094062C.title: "Acquire an imperial bee"
 	task.7C757E6102D1C95E.title: "Gather a berry"
 	task.7D47031BA763A6E5.title: "Aircraft"
 	task.7D6DDCE011313689.title: "Optimal Hunting"

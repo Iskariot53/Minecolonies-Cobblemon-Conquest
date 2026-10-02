@@ -1,6 +1,6 @@
 [Debug]
-	#Set the debug logging level. Options: NONE, LOGISTICS, BRIDGE, CITIZENS, ALL. Default: NONE
-	#Allowed Values: NONE, LOGISTICS, BRIDGE, CITIZENS, ALL
+	#Set the debug logging level. Options: NONE, LOGISTICS, BRIDGE, CITIZENS, ALLY, ALL. Default: NONE
+	#Allowed Values: NONE, LOGISTICS, BRIDGE, CITIZENS, ALLY, ALL
 	debugLevel = "NONE"
 
 [General]

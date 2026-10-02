@@ -2,7 +2,7 @@
   "primaryColor": "#ae3edd",
   "secondaryColor": "#ce77f3",
   "particleColor": "#ce77f3",
-  "flowerItem": "eternal_starlight:aethersent",
+  "flowerItem": "eternal_starlight:aethersent_block",
   "size": 0.7,
   "waterproof": false,
   "selfbreed": false,

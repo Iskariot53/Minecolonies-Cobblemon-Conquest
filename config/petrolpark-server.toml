@@ -3,12 +3,14 @@
 syncChiseledBookshelves = true
 
 #.
+#Extended Inventory
 [extendedInventory]
 	#.
 	#Only attempt to attach the Extended Inventory to menus known not to cause problems
 	safeMode = true
 
 #.
+#Processing
 [processing]
 	#.
 	#Ageing Recipes are possible in Vanilla Barrels (and modded Barrels which extend it)
@@ -91,11 +93,23 @@ syncChiseledBookshelves = true
 			#[in Stress Units]
 			#Individual coefficients of stress impact of kinetic blocks.
 			[compatibility.create.stressValues.impact]
-				"shared/rolling_pin_holder" = 2.0
 				"shared/centrifuge" = 2.0
 				"shared/blender" = 2.0
 
+	#.
+	[compatibility.farmersDelight]
+
+		#.
+		[compatibility.farmersDelight.flags]
+			#.
+			#Cuttin Board recipes will propagate the Flags of the input to the output(s)
+			propagateCutting = true
+			#.
+			#Cooking Recipes will propagate the Flags of the inputs to the output
+			propagateCooking = true
+
 #.
+#Flags
 [flags]
 	#.
 	#Simple shaped Crafting Recipes will propagate the inputs' Flags to the outputs, regardless of what they are crafted in
@@ -119,3 +133,36 @@ syncChiseledBookshelves = true
 	#.
 	#Smithing will propagate the Flags of the base Item and added Item to the result
 	propagateSmithing = true
+
+#.
+#Mob Effects
+[effects]
+
+	#.
+	#Inebriation
+	[effects.inebriation]
+		#.
+		#Inebriation level above which players get the Nausea effect
+		# Default: 4
+		# Range: > 0
+		nauseaThreshold = 4
+		#.
+		#Inebriation level above which players get the Blindness effect
+		# Default: 6
+		# Range: > 0
+		blindnessThreshold = 6
+		#.
+		#Inebriation level above which players start taking damage
+		# Default: 10
+		# Range: > 0
+		damageThreshold = 10
+		#.
+		#Length of hangover applied when sleeping while Inebriated
+		# Default: 18000
+		# Range: > 0
+		hangoverDuration = 18000
+		#.
+		#Radius in which sounds will damage entities with a Hangover
+		# Default: 10
+		# Range: 0 ~ 32
+		hangoverRadius = 10

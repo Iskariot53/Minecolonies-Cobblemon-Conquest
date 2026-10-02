@@ -43,7 +43,14 @@
 	  "Fabric API detected!",
 	  "Found loot table element",
 	  "Tried to load a DUMMY block entity",
-	  "Detected block scheduled tick access in a far chunk"
+	  "Detected block scheduled tick access in a far chunk",
+	  "Saving sub-levels for",
+	  "has no loot table in",
+	  "UUID of added entity already exists:",
+	  "Restaurant without sitting position.",
+	  "Evaluating task ID",
+	  "is tracking. Distance:"
+	  
     ],
     "regex": []
   }

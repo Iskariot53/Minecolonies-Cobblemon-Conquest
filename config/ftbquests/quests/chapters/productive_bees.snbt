@@ -1014,7 +1014,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:crystalline"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:crystalline\"}"
 				type: "observation"
 			}]
 			x: 0.5d
@@ -1041,7 +1041,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:glowing"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:glowing\"}"
 				type: "observation"
 			}]
 			x: 1.5d
@@ -1068,7 +1068,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:magmatic"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:magmatic\"}"
 				type: "observation"
 			}]
 			x: -0.5d
@@ -1095,7 +1095,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:slimy"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:slimy\"}"
 				type: "observation"
 			}]
 			x: 2.5d
@@ -1122,7 +1122,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:sugarbag"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:sugarbag\"}"
 				type: "observation"
 			}]
 			x: 0.0d
@@ -1149,7 +1149,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:ghostly"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:ghostly\"}"
 				type: "observation"
 			}]
 			x: -1.5d
@@ -1237,7 +1237,7 @@
 					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
-					to_observe: "productivebees:draconic"
+					to_observe: "productivebees:configurable_bee{type:\"productivebees:draconic\"}"
 					type: "observation"
 				}
 				{
@@ -1256,6 +1256,7 @@
 		}
 		{
 			dependencies: ["284B2602637F5596"]
+			hide_dependent_lines: true
 			icon: {
 				id: "productivebees:bee_cage"
 			}
@@ -1273,7 +1274,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:water"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:water\"}"
 				type: "observation"
 			}]
 			x: 5.999999999999993d
@@ -1300,7 +1301,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:prismarine"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:prismarine\"}"
 				type: "observation"
 			}]
 			x: 5.999999999999993d
@@ -1325,7 +1326,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:oily"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:oily\"}"
 				type: "observation"
 			}]
 			x: 7.035714285714278d
@@ -1479,7 +1480,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:sponge"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:sponge\"}"
 				type: "observation"
 			}]
 			x: 7.071428571428562d
@@ -1527,6 +1528,7 @@
 		}
 		{
 			dependencies: ["4AC862528DF87B7E"]
+			hide_dependent_lines: true
 			id: "71A609F70B6B6958"
 			rewards: [{
 				id: "6D84AD3C24A3B9DE"
@@ -1579,7 +1581,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:kamikazbee"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:kamikazbee\"}"
 				type: "observation"
 			}]
 			x: 8.535714285714278d
@@ -1660,7 +1662,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:copper"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:copper\"}"
 				type: "observation"
 			}]
 			x: -4.5d
@@ -1691,7 +1693,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:coal"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:coal\"}"
 				type: "observation"
 			}]
 			x: -5.5d
@@ -1722,7 +1724,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:obsidian"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:obsidian\"}"
 				type: "observation"
 			}]
 			x: -5.0d
@@ -1753,7 +1755,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:blazing"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:blazing\"}"
 				type: "observation"
 			}]
 			x: 4.5d
@@ -1811,7 +1813,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:silky"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:silky\"}"
 				type: "observation"
 			}]
 			x: -3.0d
@@ -1839,7 +1841,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:sculk"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:sculk\"}"
 				type: "observation"
 			}]
 			x: 2.0d
@@ -1870,7 +1872,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:redstone"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:redstone\"}"
 				type: "observation"
 			}]
 			x: -2.5d
@@ -1901,7 +1903,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:lapis"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:lapis\"}"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -1932,11 +1934,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:zinc"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:zinc\"}"
 				type: "observation"
 			}]
-			x: 3.5d
-			y: 18.5d
+			x: 4.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -1963,11 +1965,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:brass"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:brass\"}"
 				type: "observation"
 			}]
-			x: 4.5d
-			y: 18.5d
+			x: 5.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -1994,7 +1996,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:iron"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:iron\"}"
 				type: "observation"
 			}]
 			x: -1.5d
@@ -2022,7 +2024,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:frosty"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:frosty\"}"
 				type: "observation"
 			}]
 			x: -2.0d
@@ -2093,7 +2095,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:zombie"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:zombie\"}"
 				type: "observation"
 			}]
 			x: -1.5d
@@ -2120,7 +2122,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:skeletal"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:skeletal\"}"
 				type: "observation"
 			}]
 			x: 1.5d
@@ -2147,7 +2149,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:withered"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:withered\"}"
 				type: "observation"
 			}]
 			x: 5.5d
@@ -2175,7 +2177,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:flux"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:flux\"}"
 				type: "observation"
 			}]
 			x: -1.5d
@@ -2206,7 +2208,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:silicon"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:silicon\"}"
 				type: "observation"
 			}]
 			x: 0.0d
@@ -2234,7 +2236,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:rose_quartz"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:rose_quartz\"}"
 				type: "observation"
 			}]
 			x: 0.5d
@@ -2265,7 +2267,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:spacial"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:spacial\"}"
 				type: "observation"
 			}]
 			x: -0.5d
@@ -2292,7 +2294,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:ender"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:ender\"}"
 				type: "observation"
 			}]
 			x: 0.0d
@@ -2319,7 +2321,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:fluix"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:fluix\"}"
 				type: "observation"
 			}]
 			x: 1.0d
@@ -2350,7 +2352,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:bronze"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:bronze\"}"
 				type: "observation"
 			}]
 			x: -2.5d
@@ -2381,7 +2383,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:gold"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:gold\"}"
 				type: "observation"
 			}]
 			x: 2.5d
@@ -2412,7 +2414,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:silver"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:silver\"}"
 				type: "observation"
 			}]
 			x: 1.5d
@@ -2443,10 +2445,10 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:platinum"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:platinum\"}"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: -4.0d
 			y: 19.5d
 		}
 		{
@@ -2474,10 +2476,10 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:lead"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:lead\"}"
 				type: "observation"
 			}]
-			x: 3.0d
+			x: -2.0d
 			y: 19.5d
 		}
 		{
@@ -2505,10 +2507,10 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:uranium"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:uranium\"}"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: -1.0d
 			y: 19.5d
 		}
 		{
@@ -2536,7 +2538,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:tin"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:tin\"}"
 				type: "observation"
 			}]
 			x: -0.5d
@@ -2567,7 +2569,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:nickel"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:nickel\"}"
 				type: "observation"
 			}]
 			x: 0.5d
@@ -2598,11 +2600,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "peoductivebees:steel"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:steel\"}"
 				type: "observation"
 			}]
-			x: -4.0d
-			y: 19.5d
+			x: 3.5d
+			y: 18.5d
 		}
 		{
 			dependencies: ["4AAAC0241B45AA06"]
@@ -2626,11 +2628,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:sky_steel"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:sky_steel\"}"
 				type: "observation"
 			}]
-			x: -3.0d
-			y: 19.5d
+			x: 4.5d
+			y: 18.5d
 		}
 		{
 			dependencies: ["220D6A97C5D12DC6"]
@@ -2653,7 +2655,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:ancient"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:ancient\"}"
 				type: "observation"
 			}]
 			x: 3.5d
@@ -2684,7 +2686,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:diamond"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:diamond\"}"
 				type: "observation"
 			}]
 			x: 1.5d
@@ -2715,7 +2717,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:emerald"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:emerald\"}"
 				type: "observation"
 			}]
 			x: 2.5d
@@ -2746,7 +2748,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:refined_glowstone"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:refined_glowstone\"}"
 				type: "observation"
 			}]
 			x: 0.0d
@@ -2777,7 +2779,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:refined_obsidian"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:refined_obsidian\"}"
 				type: "observation"
 			}]
 			x: 1.0d
@@ -2805,11 +2807,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:wasted_radioactive"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:wasted_radioactive\"}"
 				type: "observation"
 			}]
-			x: 3.0d
-			y: 17.5d
+			x: -1.5d
+			y: 20.5d
 		}
 		{
 			dependencies: [
@@ -2836,10 +2838,10 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:osmium"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:osmium\"}"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: -3.0d
 			y: 19.5d
 		}
 		{
@@ -2861,11 +2863,11 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:amber"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:amber\"}"
 				type: "observation"
 			}]
-			x: -12.5d
-			y: 11.0d
+			x: -2.5d
+			y: 22.5d
 		}
 		{
 			dependencies: [
@@ -2892,7 +2894,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:aluminum"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:aluminum\"}"
 				type: "observation"
 			}]
 			x: -3.5d
@@ -3029,7 +3031,7 @@
 				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
-				to_observe: "productivebees:experience"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:experience\"}"
 				type: "observation"
 			}]
 			x: -1.0d
@@ -3129,11 +3131,876 @@
 				observation_type: "block_entity_type"
 				observe_type: 4
 				timer: 0L
-				to_observe: "productivebees:sulfur"
+				to_observe: "productivebees:configurable_bee{type:\"productivebees:sulfur\"}"
 				type: "observation"
 			}]
 			x: -4.5d
 			y: 16.5d
+		}
+		{
+			dependencies: ["2050242522D202DD"]
+			id: "36F96D65576E60BB"
+			rewards: [{
+				id: "5F6A379834F50DBA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "deeperdarker:resonarium"
+				}
+				id: "539026E98632C16C"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:resonating\\\"}"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "4EDF82A021E55F3C"
+			rewards: [{
+				id: "6EC4ED1441CFCE07"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "industrialforegoing:plastic"
+				}
+				id: "382805AD914BC6CD"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:plastic\\\"}"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["00C84C934F882A1D"]
+			id: "53B9B9158832250E"
+			rewards: [{
+				id: "74D4A31842DB3C96"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "industrialforegoing:ether_gas_bucket"
+				}
+				id: "34CE1FBBFED50D90"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:ether_gas\\\"}"
+				type: "observation"
+			}]
+			x: 4.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["20635A3C82EA9451"]
+			id: "00C84C934F882A1D"
+			rewards: [{
+				id: "627E63F9210B9966"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "industrialforegoing:pink_slime"
+				}
+				id: "5185CCEF6647213C"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:pink_slimy\\\"}"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["3A22D022867F9AC9"]
+			id: "3090710779A0858E"
+			rewards: [{
+				id: "783C2B8235A889FA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "mekanism:dust_lithium"
+				}
+				id: "4E0EE9AABB55CFE3"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:lithium\\\"}"
+				type: "observation"
+			}]
+			x: -2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["60BF6A032D994339"]
+			id: "337533BBB3E621C9"
+			rewards: [{
+				id: "08BDC61A69989DA1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "create_enchantment_industry:super_experience_nugget"
+				}
+				id: "1A9CF590E689427A"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:super_experience\\\"}"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["28CB240B7943AC7B"]
+			id: "7F66B7FA57FD91B0"
+			rewards: [{
+				id: "2EF47815F58F8D5B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "twilightforest:alpha_yeti_fur"
+				}
+				id: "51146380072EEEB5"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:abominable\\\"}"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0B87874066386C35"]
+			id: "5379803460520E6B"
+			rewards: [{
+				id: "371547A417E991FF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "twilightforest:carminite"
+				}
+				id: "369FA706EA29D116"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:carminite\\\"}"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["746503BBE1C24E6E"]
+			id: "3306AE9B6FFA845F"
+			rewards: [{
+				id: "4DA6BD196512778F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "twilightforest:fiery_tears"
+				}
+				id: "1655EFB54697447B"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:fiery\\\"}"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "11549AF09AE11F68"
+			rewards: [{
+				id: "711F1F82B1A344CD"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "twilightforest:ironwood_ingot"
+				}
+				id: "042629C9503CFCA6"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:ironwood\\\"}"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "289F6F815187591B"
+			rewards: [{
+				id: "04D23165172C7D24"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "twilightforest:steeleaf_ingot"
+				}
+				id: "3AF03D64186F9CC8"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:steeleaf\\\"}"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "5D25C3767F115E14"
+			rewards: [{
+				id: "18992E2E70622E1F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:white_apricorn"
+				}
+				id: "41261B5D39BEFCC0"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:white_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "10D88903254BED14"
+			rewards: [{
+				id: "56367C0EB68B3862"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:black_apricorn"
+				}
+				id: "5DFB3FE100AE66F0"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:black_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "00E87157E3C7EE6C"
+			rewards: [{
+				id: "64A39B7907481143"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:red_apricorn"
+				}
+				id: "5FCF2197F6B7A147"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:red_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "05BF09D68B3017DD"
+			rewards: [{
+				id: "68E56C37CCA3FB81"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:blue_apricorn"
+				}
+				id: "01A33708CE9310D7"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:blue_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "57BF5797020F9985"
+			rewards: [{
+				id: "2A775BD9490FE2D9"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:green_apricorn"
+				}
+				id: "22DE91C33C59FD5C"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:green_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "75A4EFDC4DA4E838"
+			rewards: [{
+				id: "181ECCC84EEBAA75"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:yellow_apricorn"
+				}
+				id: "5060055E1233D242"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:yellow_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			id: "27B2C0078BEC2FEC"
+			rewards: [{
+				id: "0901D6C58B4876B2"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:pink_apricorn"
+				}
+				id: "480662CDBF913D6F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:pink_apricorn\\\"}"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["2B23AD177049428C"]
+			hide_dependent_lines: true
+			id: "3416D64B7D61F7A8"
+			rewards: [{
+				id: "7DCA6ABD7CA309B3"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "aether:zanite_gemstone"
+				}
+				id: "56DFCAD3B82C9B7A"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:zanite\\\"}"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["3416D64B7D61F7A8"]
+			hide_dependent_lines: true
+			id: "02B7A9B1329129A6"
+			rewards: [{
+				id: "1A9F593B07D04F8C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "deep_aether:skyjade"
+				}
+				id: "45BE5501F27C629E"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:skyjade\\\"}"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["3416D64B7D61F7A8"]
+			hide_dependent_lines: true
+			id: "5B8C94B761C9C79A"
+			rewards: [{
+				id: "0C9B6267F8B00248"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "aether:enchanted_gravitite"
+				}
+				id: "1061875488153F09"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:gravitite\\\"}"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["5B8C94B761C9C79A"]
+			hide_dependent_lines: true
+			id: "0572B4359D90233A"
+			rewards: [{
+				id: "216173F166C064B8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "deep_aether:stratus_ingot"
+				}
+				id: "25F177592123EAAF"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:stratus\\\"}"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["27C3E7FB9ADD2FA0"]
+			id: "71D9EDBBC9876700"
+			rewards: [{
+				id: "0565AD42286E9C0A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:malarite"
+				}
+				id: "5F091E9582191CB0"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:malarite\\\"}"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["3A22D022867F9AC9"]
+			id: "6DB8206E8354ECED"
+			rewards: [{
+				id: "74DC0768FA910CAF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:glacite_shard"
+				}
+				id: "5786E18C5287DF7B"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:glacite\\\"}"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["73592FC0A4AB0C92"]
+			hide_dependent_lines: true
+			id: "5EF81A948A18C5B5"
+			rewards: [{
+				id: "2193A0A07DFE2B6F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:raw_amaramber"
+				}
+				id: "568F971566CDDCC7"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:amaramber\\\"}"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["27C3E7FB9ADD2FA0"]
+			id: "7BC55CC629264C87"
+			rewards: [{
+				id: "0684885D251C0AD7"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:deepsilver_ingot"
+				}
+				id: "2D22BD0F7C73890F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:deepsilver\\\"}"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["2B23AD177049428C"]
+			id: "00A922ED8B23BF8A"
+			rewards: [{
+				id: "7E66905E0AE21D64"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:thioquartz_shard"
+				}
+				id: "5FB4919ED72E924A"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:thioquartz\\\"}"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["3A22D022867F9AC9"]
+			hide_dependent_lines: true
+			id: "434D462E814AD1D1"
+			rewards: [{
+				id: "50A063E3D18B569A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:thermal_springstone"
+				}
+				id: "605EA003CE1776B6"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:thermal_springstone\\\"}"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 23.5d
+		}
+		{
+			dependencies: [
+				"5EF81A948A18C5B5"
+				"192F98A3840FB715"
+			]
+			id: "36BE7EB97A0C5888"
+			rewards: [{
+				id: "6A93A64276B12BA9"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:aethersent_ingot"
+				}
+				id: "2072E76BCB0BC79F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:aethersent\\\"}"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["434D462E814AD1D1"]
+			hide_dependent_lines: true
+			id: "425279EAD993692C"
+			rewards: [{
+				id: "21313906D0910C04"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:starfire"
+				}
+				id: "488ABD92B358C25F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:starfire\\\"}"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["220D6A97C5D12DC6"]
+			hide_dependent_lines: true
+			id: "192F98A3840FB715"
+			rewards: [{
+				id: "695789ED2B8CC0B4"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:starlit_diamond"
+				}
+				id: "1C0E1C84085B3107"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:starlit_diamond\\\"}"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["425279EAD993692C"]
+			id: "7A99A53AF60712DA"
+			rewards: [{
+				id: "73729E59DB7A4B35"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:flowglaze"
+				}
+				id: "205366B3CCC68D55"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:flowglaze\\\"}"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["087056D7E6E82FB3"]
+			id: "221A1729F0E67444"
+			rewards: [{
+				id: "7255282C318F2162"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:golem_steel_ingot"
+				}
+				id: "7B0D8315C6E7958C"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:golem_steel\\\"}"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["6C08D0E6135ECE97"]
+			hide_dependent_lines: true
+			id: "13B7531088D90692"
+			rewards: [{
+				id: "1B42411FE1052421"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "eternal_starlight:unrealium_ingot"
+				}
+				id: "0972E59925BABF76"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:unrealium\\\"}"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 26.5d
+		}
+		{
+			dependencies: ["6599AFF4623F28C0"]
+			hide_dependent_lines: true
+			id: "4028277639002958"
+			rewards: [{
+				id: "30E893948AAADD4C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "mega_showdown:mega_stone"
+				}
+				id: "16F63E6EF5F25D9E"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:mega\\\"}"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: [
+				"71A609F70B6B6958"
+				"0E890DBF19049A6D"
+			]
+			id: "0A9F5ACD7EB24796"
+			rewards: [{
+				id: "6B839F9FA8F3C6AC"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "modularbees:honey_jelly"
+				}
+				id: "7C68E6542094062C"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:imperial\\\"}"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			dependencies: [
+				"4028277639002958"
+				"0572B4359D90233A"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "cobblemonparts:master_worked_metal"
+			}
+			id: "691227B9B3586E10"
+			rewards: [{
+				id: "54BB7675FBB9EBCB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemonparts:master_worked_metal"
+				}
+				id: "2C74622296B65116"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:master\\\"}"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 26.5d
+		}
+		{
+			dependencies: [
+				"691227B9B3586E10"
+				"13B7531088D90692"
+			]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "1521D75220EE69E6"
+			rewards: [{
+				id: "047FC0BAAE3EB630"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:master_ball"
+				}
+				id: "5BD328B51B32FD41"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "productivebees:configurable_bee{type:\\\"productivebees:ancient_origin\\\"}"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 27.5d
 		}
 	]
 }

@@ -1,20 +1,24 @@
-# This is to modify the drop chance of the bottle caps in the Minecraft treasure loot pool
+#Toggle on breeding buff (Bottle Cap affects main IVs)
+breedingBuff = false
+
 [minecraft-treasure]
-    # Chance of dropping a silver bottle cap
-    # Allowed range: 0.0 ~ 1.0 - Default: 0.27
-    silverBottleCap = 0.27
+	#This is to modify the drop chance of the bottle caps in the Minecraft treasure loot pool
+	#Chance of dropping a silver bottle cap
+	# Default: 0.27
+	# Range: 0.0 ~ 1.0
+	silverBottleCapMinecraft = 0.27
+	#Chance of dropping a gold bottle cap
+	# Default: 0.07
+	# Range: 0.0 ~ 1.0
+	goldBottleCapMinecraft = 0.07
 
-    # Chance of dropping a gold bottle cap
-    # Allowed range: 0.0 ~ 1.0 - Default: 0.07
-    goldBottleCap = 0.07
-
-# This is to modify the drop chance of the bottle caps in the Cobblemon Pokerod treasure loot pool
 [cobblemon-treasure]
-    # Chance of dropping a silver bottle cap
-    # Allowed range: 0.0 ~ 1.0 - Default: 0.3
-    silverBottleCap = 0.1
-
-    # Chance of dropping a gold bottle cap
-    # Allowed range: 0.0 ~ 1.0 - Default: 0.1
-    goldBottleCap = 0.02
-
+	#This is to modify the drop chance of the bottle caps in the Cobblemon Pokerod treasure loot pool
+	#Chance of dropping a silver bottle cap
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	silverBottleCapCobblemon = 0.3
+	#Chance of dropping a gold bottle cap
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	goldBottleCapCobblemon = 0.1

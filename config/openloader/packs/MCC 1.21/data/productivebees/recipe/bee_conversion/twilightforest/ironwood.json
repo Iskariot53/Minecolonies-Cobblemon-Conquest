@@ -13,10 +13,6 @@
     },
     {
       "type": "productivebees:bee_exists",
-      "bee": "productivebees:lumber_bee"
-    },
-    {
-      "type": "productivebees:bee_exists",
       "bee": "productivebees:ironwood"
     }
   ]

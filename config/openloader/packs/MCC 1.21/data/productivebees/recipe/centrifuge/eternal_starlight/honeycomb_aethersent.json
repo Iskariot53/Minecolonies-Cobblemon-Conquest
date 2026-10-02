@@ -3,14 +3,14 @@
   "ingredient": {
     "type": "productivebees:component",
     "components": {
-      "productivebees:bee_type": "productivebees:glacite"
+      "productivebees:bee_type": "productivebees:aethersent"
     },
     "items": "productivebees:configurable_honeycomb"
   },
   "outputs": [
     {
       "item": {
-        "item": "eternal_starlight:glacite_shard"
+        "item": "eternal_starlight:aethersent_nugget"
       },
       "chance": 0.5
     },

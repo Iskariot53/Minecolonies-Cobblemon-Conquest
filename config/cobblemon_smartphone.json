@@ -61,5 +61,39 @@
     "messagePageSize": 30,
     "threadPageSize": 30,
     "callRingTimeoutSeconds": 30
+  },
+  "energy": {
+    "enableEnergy": false,
+    "baseCapacity": 1000,
+    "maxReceive": 100,
+    "defaultCost": 0,
+    "costs": [
+      {
+        "action": "cobblemon_smartphone:heal",
+        "cost": 250
+      },
+      {
+        "action": "cobblemon_smartphone:cloud",
+        "cost": 100
+      },
+      {
+        "action": "cobblemon_smartphone:pc",
+        "cost": 50
+      },
+      {
+        "action": "cobblemon_smartphone:gps",
+        "cost": 50
+      },
+      {
+        "action": "cobblemon_smartphone:structure_compass",
+        "cost": 100
+      }
+    ],
+    "enableElectricPokemonCharging": true,
+    "electricPokemonChargeRate": 10,
+    "electricPokemonChargeInterval": 20,
+    "requireElectricPokemonConscious": true,
+    "scaleRateWithElectricPokemonCount": false,
+    "chargeAllSmartphones": false
   }
 }

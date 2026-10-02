@@ -70,9 +70,6 @@
   "entangled": {
     "entangled_block_component": true
   },
-  "mekanismcovers": {
-    "cover_component": true
-  },
   "ftbquests": {
     "barrier": true
   },
@@ -80,11 +77,15 @@
     "healer": true,
     "campfire_pot": true,
     "fossil_analyzer": true,
+    "tm_machine": true,
     "pokemon_entity": true,
     "berry_bush": true
   },
   "immersiveengineering": {
     "multiblock_icon": true
+  },
+  "createsifter": {
+    "data": true
   },
   "jade": {
     "coordinates.rel": false,
