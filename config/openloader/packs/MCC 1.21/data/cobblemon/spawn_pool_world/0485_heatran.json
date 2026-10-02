@@ -1,0 +1,64 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "heatran-1T",
+      "pokemon": "heatran",
+      "presets": [
+          "natural",
+          "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.2,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "canSeeSky": false,
+        "biomes": [
+          "#cobblemon:is_badlands"
+        ]
+      }
+    },
+    {
+      "id": "heatran-2T",
+      "pokemon": "heatran",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.5,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic"
+       ]
+     }
+    },
+    {
+      "id": "heatran-3T",
+      "pokemon": "heatran",
+      "presets": [
+        "lava"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.5,
+      "condition": {
+        "maxY": 127,
+        "biomes": [
+          "#cobblemon:nether/is_wasteland"
+        ]
+      }
+    }
+  ]
+}

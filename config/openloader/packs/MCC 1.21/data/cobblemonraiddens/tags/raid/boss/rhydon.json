@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:rhydon_dmax",
+            "required": false
+        }
+    ]
+}

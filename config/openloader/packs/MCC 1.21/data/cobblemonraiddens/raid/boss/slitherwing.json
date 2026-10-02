@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "slitherwing",
+        "moves": [
+            "firstimpression",
+            "dualwingbeat",
+            "superpower",
+            "lunge"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "BUG",
+    "weight": 20.0
+}

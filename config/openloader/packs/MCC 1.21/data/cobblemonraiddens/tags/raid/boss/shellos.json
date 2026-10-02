@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:shellos_dmax",
+            "required": false
+        }
+    ]
+}

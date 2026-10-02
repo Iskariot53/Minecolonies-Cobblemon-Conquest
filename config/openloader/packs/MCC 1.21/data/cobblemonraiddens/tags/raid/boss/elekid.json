@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:elekid_dmax",
+            "required": false
+        }
+    ]
+}

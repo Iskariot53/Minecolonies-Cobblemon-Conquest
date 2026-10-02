@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 10.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "mega_showdown:zygarde_cell",
+                    "weight": 19
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:zygarde_core",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:air",
+                    "weight": 80
+                }
+            ]
+        }
+    ]
+}

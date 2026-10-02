@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "metagross",
+        "moves": [
+            "meteormash",
+            "takedown",
+            "pursuit",
+            "zenheadbutt"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/metagross_mega"
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:naclstack_dmax",
+            "required": false
+        }
+    ]
+}

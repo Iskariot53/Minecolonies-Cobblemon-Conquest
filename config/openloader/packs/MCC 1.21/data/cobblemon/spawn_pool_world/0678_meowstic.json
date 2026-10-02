@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "meowstic-1",
+      "pokemon": "meowstic male",
+      "presets": [                
+          "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "20-65",
+      "weight": 7.0,
+      "condition": {
+          "biomes": [
+              "#cobblemon:is_end"
+          ]
+      }
+    },
+    {
+      "id": "meowstic-2",
+      "pokemon": "meowstic female",
+      "presets": [                
+          "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "20-65",
+      "weight": 7.0,
+      "condition": {
+          "biomes": [
+              "#cobblemon:is_end"
+          ]
+      }
+    }
+  ]
+}

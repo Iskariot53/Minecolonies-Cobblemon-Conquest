@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "silvally",
+        "moves": [
+            "multiattack",
+            "xscissor",
+            "crushclaw",
+            "crunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ELECTRIC",
+    "weight": 1.0,
+    "loot_table": "cobblemonraiddens:raid/boss/silvally_electric",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "rks_memory",
+                "value": "electric"
+            }
+        ]
+    }
+}

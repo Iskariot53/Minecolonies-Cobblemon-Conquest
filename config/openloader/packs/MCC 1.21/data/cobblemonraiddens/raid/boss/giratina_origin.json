@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "giratina",
+        "moves": [
+            "shadowforce",
+            "dragonclaw",
+            "earthpower",
+            "aurasphere"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GHOST",
+    "weight": 10.0,
+    "loot_table": "cobblemonraiddens:raid/boss/giratina_origin",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "orb_forme",
+                "value": "origin"
+            }
+        ]
+    }
+}

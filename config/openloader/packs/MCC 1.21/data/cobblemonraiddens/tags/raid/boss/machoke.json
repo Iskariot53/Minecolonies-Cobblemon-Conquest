@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:machoke_dmax",
+            "required": false
+        }
+    ]
+}

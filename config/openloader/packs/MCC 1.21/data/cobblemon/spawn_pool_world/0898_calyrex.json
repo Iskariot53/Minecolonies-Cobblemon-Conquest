@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "calyrex-1",
+      "pokemon": "calyrex",
+      "presets": [
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "75",
+      "weight": 0.2,
+      "condition": {
+        "biomes": [ 
+          "#cobblemon:is_hills",
+          "#cobblemon:is_spooky",
+          "biomesoplenty:redwood_forest",
+          "biomesoplenty:maple_woods",
+          "biomesoplenty:mystic_grove",
+          "biomesoplenty:auroral_garden",
+          "terralith:haze_mountains",
+          "terralith:sakura_grove"
+        ]
+      }
+    }
+  ]
+}

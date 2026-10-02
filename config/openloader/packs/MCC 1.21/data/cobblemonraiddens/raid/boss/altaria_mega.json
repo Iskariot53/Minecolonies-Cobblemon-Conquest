@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "altaria",
+        "moves": [
+            "skyattack",
+            "moonblast",
+            "takedown",
+            "dragonbreath"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DRAGON",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/altaria_mega"
+}

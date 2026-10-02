@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:drifloon_dmax",
+            "required": false
+        }
+    ]
+}

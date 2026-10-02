@@ -1,0 +1,90 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "skitty-1",
+        "pokemon": "skitty",
+        "presets": [                
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "1-35",
+        "weight": 9.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_overworld"
+            ],
+            "isRaining": false,
+            "structures": [
+                "#minecraft:village"
+            ]
+        },
+        "anticondition": {
+            "biomes": [
+                "#cobblemon:is_arid",
+                "#cobblemon:is_freezing"
+            ]
+        }
+
+      },
+      {
+        "id": "skitty-2",
+        "pokemon": "skitty",
+        "presets": [
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "4-29",
+        "weight": 9.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_arid"
+            ]
+        }
+      },
+      {
+        "id": "skitty-3",
+        "pokemon": "skitty",
+        "presets": [
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "4-29",
+        "weight": 9.0,
+        "weightMultiplier": {
+            "multiplier": 1.5,
+            "condition": {
+                "timeRange": "night"
+            }
+        },
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_floral"
+            ]
+        }
+      }
+    ]
+  }

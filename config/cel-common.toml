@@ -1,0 +1,5 @@
+[General]
+	#The maximum amount of blocks from a Signal a Signal Light can be placed Default: 256.
+	# Default: 256
+	# Range: 16 ~ 512
+	getMaxDistanceFromSelection = 256

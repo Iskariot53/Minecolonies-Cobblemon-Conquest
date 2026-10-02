@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:fuecoco_dmax",
+            "required": false
+        }
+    ]
+}

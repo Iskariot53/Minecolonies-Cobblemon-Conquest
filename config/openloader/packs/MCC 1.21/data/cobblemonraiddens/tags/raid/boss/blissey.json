@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:blissey_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "blaziken",
+        "moves": [
+            "bravebird",
+            "skyuppercut",
+            "flareblitz",
+            "bounce"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIRE",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/blaziken_mega"
+}

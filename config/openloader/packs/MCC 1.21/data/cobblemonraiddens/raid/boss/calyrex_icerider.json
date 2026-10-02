@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "calyrex",
+        "moves": [
+            "confusion",
+            "doubleedge",
+            "irondefense",
+            "psychic"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ICE",
+    "weight": 10.0,
+    "loot_table": "cobblemonraiddens:raid/boss/calyrex_icerider",
+    "boss": {
+        "moves": [
+            "glaciallance",
+            "doubleedge",
+            "irondefense",
+            "psychic"
+        ],
+        "custom_properties": [
+            {
+                "name": "king_steed",
+                "value": "ice"
+            }
+        ]
+    }
+}

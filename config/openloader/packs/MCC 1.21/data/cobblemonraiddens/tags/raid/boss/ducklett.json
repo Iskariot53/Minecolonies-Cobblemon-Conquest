@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:ducklett_dmax",
+            "required": false
+        }
+    ]
+}

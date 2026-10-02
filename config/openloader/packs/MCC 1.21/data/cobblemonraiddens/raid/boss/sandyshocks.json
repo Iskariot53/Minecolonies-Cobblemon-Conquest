@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "sandyshocks",
+        "moves": [
+            "earthpower",
+            "discharge",
+            "triattack",
+            "chargebeam"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "ELECTRIC",
+    "weight": 20.0
+}

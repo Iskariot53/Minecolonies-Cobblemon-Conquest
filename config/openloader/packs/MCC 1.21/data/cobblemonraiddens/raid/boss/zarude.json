@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "zarude",
+        "moves": [
+            "powerwhip",
+            "thrash",
+            "hammerarm",
+            "uturn"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DARK",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/zarude"
+}

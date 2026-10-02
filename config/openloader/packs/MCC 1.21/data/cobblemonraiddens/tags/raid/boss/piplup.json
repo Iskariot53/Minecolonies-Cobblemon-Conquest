@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:piplup_dmax",
+            "required": false
+        }
+    ]
+}

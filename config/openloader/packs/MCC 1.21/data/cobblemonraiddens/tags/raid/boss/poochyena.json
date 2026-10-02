@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:poochyena_dmax",
+            "required": false
+        }
+    ]
+}

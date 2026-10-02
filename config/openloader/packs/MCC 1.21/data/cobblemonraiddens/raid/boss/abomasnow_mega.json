@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "abomasnow",
+        "moves": [
+            "blizzard",
+            "woodhammer",
+            "icywind",
+            "razorleaf"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GRASS",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/abomasnow_mega"
+}

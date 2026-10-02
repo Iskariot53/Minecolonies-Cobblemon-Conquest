@@ -1,0 +1,30 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tapubulu-1",
+            "pokemon": "tapubulu",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60",
+            "weight": 0.5,
+            "weightMultiplier": {
+                "multiplier": 6.0,
+                "condition": {
+                    "structures": [
+                    "cobblemon:ruins/stonjourner_henge_ruins"
+                ]
+                }
+            },
+            "condition": {
+                
+                "biomes": [
+                    "#cobblemon:is_plains"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "garchomp",
+        "moves": [
+            "dragonrush",
+            "takedown",
+            "dig",
+            "dragonclaw"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DRAGON",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/garchomp_mega"
+}

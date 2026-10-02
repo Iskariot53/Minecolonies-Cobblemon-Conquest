@@ -1,0 +1,24 @@
+{
+    "pokemon": {
+        "species": "groudon",
+        "moves": [
+            "solarbeam",
+            "earthquake",
+            "lavaplume",
+            "precipiceblades"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GROUND",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/groudon_primal",
+    "raid_feature": "MEGA",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "reversion_state",
+                "value": "primal"
+            }
+        ]
+    }
+}

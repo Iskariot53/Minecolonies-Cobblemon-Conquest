@@ -1,0 +1,191 @@
+#RF/FE Energy settings for the Colony Link Wand.
+#1 AE (Applied Energistics internal unit) = 2 RF by default.
+[energy]
+	#Maximum RF stored in the Colony Link Wand.
+	#Default: 160,000 RF
+	# Default: 160000
+	# Range: 1 ~ 9223372036854775807
+	wand_rf_capacity = 160000
+	#Maximum RF/tick that can be transferred into the wand by chargers.
+	#Should be >= the highest action cost to avoid blocking.
+	#Default: 2,500 RF/tick
+	# Default: 2500
+	# Range: 1 ~ 9223372036854775807
+	wand_rf_transfer_rate = 2500
+	#RF drained from the wand every ticker_interval_ticks while the GUI is open.
+	#At default interval (10t = 0.5s), this equals ~120 RF/tick.
+	#Set to 0 to disable passive drain entirely.
+	# Default: 1200
+	# Range: 0 ~ 9223372036854775807
+	passive_drain_rf = 1200
+	#RF cost per Send action (per click, regardless of item count).
+	#Applies to both delivery targets (see [delivery] send_target).
+	#Default: 1,500 RF
+	# Default: 1500
+	# Range: 0 ~ 9223372036854775807
+	send_cost_rf = 1500
+	#RF cost per craft job submitted to AE2 (per job, Craft and Craft All).
+	#Default: 2,500 RF
+	# Default: 2500
+	# Range: 0 ~ 9223372036854775807
+	craft_cost_rf = 2500
+	#If true, Send and Craft actions are blocked when the wand has insufficient RF.
+	#If false, actions always proceed regardless of RF level.
+	#Default: true
+	block_actions_if_no_power = true
+	#The durability bar turns red when RF charge is below this percentage.
+	#Range: 0 (never red) to 100 (always red). Default: 10
+	# Default: 10
+	# Range: 0 ~ 100
+	low_power_threshold_percent = 10
+
+#General behaviour settings for the Colony Link Wand and server ticker.
+[general]
+	#Maximum number of Builder's Huts that can be linked to a single wand.
+	#MineColonies builder limit is 5. Range: 1-10. Default: 5
+	# Default: 5
+	# Range: 1 ~ 10
+	max_builders_per_wand = 5
+	#Interval in ticks between each server ticker update.
+	#Lower = more responsive GUI but more server load.
+	#Higher = less server load but slower GUI updates.
+	#10t = 0.5s, 20t = 1s, 40t = 2s. Default: 10
+	# Default: 10
+	# Range: 5 ~ 100
+	ticker_interval_ticks = 10
+	#If true, the wand checks that the player is within range of the linked
+	#Wireless Access Point before opening the GUI (like a Wireless Terminal).
+	#If false, the wand works from anywhere. Default: false
+	wand_range_check = false
+	#Duration in seconds of the Glowing effect applied to a builder NPC
+	#when the 'Locate' button is pressed in the Clipboard GUI.
+	#Op-only: requires level 2+ operator to modify in-game.
+	#Range: 1-60. Default: 8
+	# Default: 8
+	# Range: 1 ~ 60
+	locate_glow_duration_seconds = 8
+	#RF cost of pressing the 'Locate' button in the Clipboard GUI.
+	#Set to 0 to disable the RF cost entirely.
+	#Default: 500 RF
+	# Default: 500
+	# Range: 0 ~ 9223372036854775807
+	locate_cost_rf = 500
+
+#Delivery target settings.
+#This is a server/modpack setting: it applies to every player and is
+#synced from the server to clients on login.
+[delivery]
+	#Controls where the "Send" button delivers resources.
+	#  BUILDER   - Resources are inserted directly into the Builder's Hut inventory.
+	#              Bypasses the courier entirely. Fastest. This is the default and the
+	#              intended ColonyLink experience.
+	#  WAREHOUSE - Resources are inserted into the colony Warehouse racks instead.
+	#              A courier must then deliver them to the builder. Slower, but keeps
+	#              couriers relevant. Recommended for balanced modpacks.
+	#              While a delivery is pending, the resource line turns grey
+	#              ("Sent") until the courier completes the delivery.
+	#Default: BUILDER
+	#Allowed Values: BUILDER, WAREHOUSE
+	send_target = "BUILDER"
+
+#Tool upgrade and substitution settings.
+#When enabled, ColonyLink automatically sends the best tool tier available
+#in the ME network based on the builder's Work Hut level.
+[tools]
+	#Enable automatic tool tier substitution.
+	#When true, ColonyLink replaces tool requests with the best tier
+	#available in ME according to the Work Hut level table.
+	#Default: true
+	enable_tool_upgrade = true
+	#If true, the best available tool is sent automatically when clicking Send,
+	#without requiring a separate confirmation.
+	#If false, the substituted tool is shown in the GUI but must be sent manually.
+	#Default: true
+	tool_upgrade_send_auto = true
+	#If true, tools with enchantments above the Work Hut level cap are excluded.
+	#If false, any enchantment level is accepted (ignores the MineColonies table).
+	#Default: true
+	respect_enchant_level_cap = true
+	#When false (default), tool substitution applies only to the Priority Request
+	#line, not to the resource list. Set true to also substitute in the list
+	#(pre-1.6.4 behavior).
+	#Default: false
+	tool_substitution_in_list = false
+
+#GUI display settings for the Colony Link Wand interface.
+#Despite the section name these are applied SERVER-side: the server filters
+#the resource list before sending it to clients.
+[interface]
+	#If true, items currently being crafted (CRAFTING status) are shown in the list.
+	#If false, they are hidden while craft is in progress.
+	#Default: true
+	show_crafting_status = true
+	#If true, items with no AE2 pattern and not available in ME are shown in red.
+	#If false, they are hidden from the list (cleaner view for large builds).
+	#Default: true
+	show_no_pattern_items = true
+	#Maximum number of resource entries shown in the wand GUI list.
+	#Large builds can have 100+ missing items — set lower for performance.
+	#Range: 10-500. Default: 100
+	# Default: 100
+	# Range: 10 ~ 500
+	max_resources_displayed = 100
+	#How long a warehouse scan result remains valid before expiring (in ticks).
+	#Also the server-side cooldown between two 'Check Warehouse' scans.
+	#20t = 1s, 400t = 20s. Default: 400
+	# Default: 400
+	# Range: 20 ~ 24000
+	warehouse_snapshot_validity_ticks = 400
+
+#Optional AdvancedAE compatibility settings.
+#These settings only apply when the advanced_ae mod is installed.
+[advanced_ae]
+	#Enables higher craft submission limit when AdvancedAE is installed.
+	#Default: true
+	enable_advanced_ae_compat = true
+	#0 = normal AE2 behaviour based on free CPU count. Higher values allow more ColonyLink craft submissions when AdvancedAE is installed, useful for AdvancedAE Quantum Computers. Suggested values: 16, 32, 64.
+	#Range: 0-256. Default: 32
+	# Default: 32
+	# Range: 0 ~ 256
+	advanced_ae_craft_submission_limit = 32
+
+#Colony Link Redirector settings.
+#v1.6.2 — the item buffer is fixed at 3x9 (27 slots) to stay in sync with the
+#GUI layout and texture; the old redirector_buffer_rows/cols options were removed.
+[network]
+	#Maximum number of Domum autocraft jobs the Redirector accepts from AE2
+	#before reporting itself busy (back-pressure). When the limit is reached,
+	#or when crafted items cannot be returned to a full/offline ME network,
+	#AE2 keeps the materials and retries later — nothing is ever voided.
+	#Higher = more Domum crafts buffered, but more state saved per Redirector.
+	#Default: 64
+	# Default: 64
+	# Range: 1 ~ 1024
+	redirector_craft_queue_max = 64
+
+#World loot for the Colony Link Package.
+#The Package stays craftable — this loot is a COMPLEMENT to crafting, never a
+#replacement. Nothing here removes or overrides any existing recipe or loot table;
+#the Package is only ADDED (never subtracted) to the targeted tables.
+#Applied server-side (loot resolves on the server). Defaults are deliberately low
+#so the Package stays a rare bonus and the craft remains the main source.
+[loot]
+	#If true, the Package can be added to village and pillager outpost chests.
+	#Default: true
+	package_in_chests = true
+	#Chance to add one Package to each eligible chest (per chest, rolled once).
+	#Range: 0.0-1.0 (0.10 = 10%). Set 0.0 to disable without flipping the toggle.
+	#Default: 0.10
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	package_chest_chance = 0.1
+	#If true, MineColonies raid raiders can drop the Package on death.
+	#Only raid raiders have loot tables; camp mobs (campbarbarian, ...) never drop it.
+	#Default: true
+	package_from_raiders = true
+	#Chance to drop one Package per raid raider killed (rolled once per raider).
+	#Range: 0.0-1.0 (0.15 = 15%). Set 0.0 to disable without flipping the toggle.
+	#Default: 0.15
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	package_raider_chance = 0.15

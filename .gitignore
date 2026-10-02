@@ -1,9 +1,12 @@
 *
 !/.gitignore
 !/.gitattributes
-!/config
-!/defaultconfigs
-!/scripts
+!/config/
+!/config/**
+!/defaultconfigs/
+!/defaultconfigs/**
+!/kubejs/
+!/kubejs/**
 !/README.md
 *.bak
 

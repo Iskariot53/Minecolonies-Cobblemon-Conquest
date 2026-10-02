@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:urshifu_rapid_gmax",
+            "required": false
+        }
+    ]
+}

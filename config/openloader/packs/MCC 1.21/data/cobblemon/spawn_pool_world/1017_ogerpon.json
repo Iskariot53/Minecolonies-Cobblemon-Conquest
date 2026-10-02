@@ -1,0 +1,27 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ogerpon-1",
+            "pokemon": "ogerpon",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-88",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "minecraft:lush_caves",
+                    "biomesoplenty:maple_woods",
+                    "biomesoplenty:auroral_garden",
+                    "biomesoplenty:old_growth_dead_forest",
+                    "biomesoplenty:mystic_grove",
+                    "terralith:haze_mountains",
+                    "terralith:sakura_grove"
+                ]
+            }
+        }
+    ]
+}

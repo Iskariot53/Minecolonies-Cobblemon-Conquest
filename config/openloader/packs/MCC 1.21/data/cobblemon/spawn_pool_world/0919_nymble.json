@@ -1,0 +1,51 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "nymble-1",
+        "pokemon": "nymble",
+        "presets": [
+               "natural"
+           ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "7-25",
+        "weight": 4.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [ 
+            "#cobblemon:is_plains"
+          ]
+        }
+      },
+      {
+        "id": "nymble-2",
+        "pokemon": "nymble",
+        "presets": [
+               "natural"
+           ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "7-22",
+        "weight": 6.0,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [ 
+            "#cobblemon:is_forest"
+          ]
+        },
+        "anticondition": {
+          "biomes": [ 
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_tundra"
+          ]
+        }
+      }
+
+    ]
+}

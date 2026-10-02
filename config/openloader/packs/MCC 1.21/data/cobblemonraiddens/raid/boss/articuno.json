@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "articuno",
+        "moves": [
+            "haze",
+            "hurricane",
+            "freezedry",
+            "ancientpower"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ICE",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/articuno"
+}

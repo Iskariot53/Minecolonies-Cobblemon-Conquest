@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:wiglett_dmax",
+            "required": false
+        }
+    ]
+}

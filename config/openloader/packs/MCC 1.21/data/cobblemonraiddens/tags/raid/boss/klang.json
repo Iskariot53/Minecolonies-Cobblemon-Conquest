@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:klang_dmax",
+            "required": false
+        }
+    ]
+}

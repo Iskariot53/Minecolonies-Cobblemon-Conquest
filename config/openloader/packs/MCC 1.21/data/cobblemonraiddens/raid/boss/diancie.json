@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "diancie",
+        "moves": [
+            "ancientpower",
+            "moonblast",
+            "powergem",
+            "rockslide"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/diancie"
+}

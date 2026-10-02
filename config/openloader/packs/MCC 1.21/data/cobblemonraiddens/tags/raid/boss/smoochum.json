@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:smoochum_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:dachsbun_dmax",
+            "required": false
+        }
+    ]
+}

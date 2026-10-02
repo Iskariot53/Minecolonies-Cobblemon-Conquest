@@ -1,0 +1,31 @@
+{
+  "values": {
+    "oritech:still_biofuel": {
+      "burn_time": 16000
+    },
+    "industrialforegoing:biofuel": {
+      "burn_time": 16000
+    },
+    "mekanismgenerators:bioethanol": {
+      "burn_time": 16000
+    },
+    "createaddition:bioethanol": {
+      "burn_time": 16000
+    },
+    "immersiveengineering:biodiesel": {
+      "burn_time": 20000
+    },
+    "createdieselgenerators:biodiesel": {
+      "burn_time": 20000
+    },
+    "oritech:still_fuel": {
+      "burn_time": 24000
+    },
+    "createdieselgenerators:gasoline": {
+      "burn_time": 26000
+    },
+    "createdieselgenerators:diesel": {
+      "burn_time": 30000
+    }
+  }
+}

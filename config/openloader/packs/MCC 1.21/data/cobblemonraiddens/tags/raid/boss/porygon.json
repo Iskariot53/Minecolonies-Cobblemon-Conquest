@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:porygon_dmax",
+            "required": false
+        }
+    ]
+}

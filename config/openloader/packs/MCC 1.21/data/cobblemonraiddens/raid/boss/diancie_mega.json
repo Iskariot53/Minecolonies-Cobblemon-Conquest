@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "diancie",
+        "moves": [
+            "stoneedge",
+            "moonblast",
+            "powergem",
+            "rockslide"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/diancie_mega"
+}

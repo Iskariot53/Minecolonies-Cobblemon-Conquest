@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "cobblemon:exp_candy_xs"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:exp_candy_s"
+  }
+}

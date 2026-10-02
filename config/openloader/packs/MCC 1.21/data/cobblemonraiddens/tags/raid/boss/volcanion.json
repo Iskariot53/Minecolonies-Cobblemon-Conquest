@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:volcanion_dmax",
+            "required": false
+        }
+    ]
+}

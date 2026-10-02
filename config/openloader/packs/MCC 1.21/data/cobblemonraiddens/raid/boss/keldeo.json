@@ -1,0 +1,21 @@
+{
+    "pokemon": {
+        "species": "keldeo",
+        "moves": [
+            "sacredsword",
+            "secretsword",
+            "hydropump",
+            "takedown"
+        ],
+        "custom_properties": [
+            {
+                "name": "sword_form",
+                "value": "resolute"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/keldeo"
+}

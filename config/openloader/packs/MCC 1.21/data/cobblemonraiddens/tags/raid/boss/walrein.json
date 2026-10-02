@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:walrein_dmax",
+            "required": false
+        }
+    ]
+}

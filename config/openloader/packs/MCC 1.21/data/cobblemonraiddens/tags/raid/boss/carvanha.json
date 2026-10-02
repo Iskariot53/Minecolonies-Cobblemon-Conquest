@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:carvanha_dmax",
+            "required": false
+        }
+    ]
+}

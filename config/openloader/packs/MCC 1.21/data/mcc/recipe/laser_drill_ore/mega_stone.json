@@ -1,0 +1,26 @@
+{
+  "type": "industrialforegoing:laser_drill_ore",
+  "catalyst": {
+    "tag": "#mega_showdown:mega_stones"
+  },
+  "output": {
+    "item": "mega_showdown:mega_stone"
+  },
+  "rarity": [
+    {
+      "biome_filter": {
+        "blacklist": [],
+        "whitelist": []
+      },
+      "depth_max": 20,
+      "depth_min": 1,
+      "dimension_filter": {
+        "blacklist": [],
+        "whitelist": [
+          "deeperdarker:otherside"
+        ]
+      },
+      "weight": 1
+    }
+  ]
+}

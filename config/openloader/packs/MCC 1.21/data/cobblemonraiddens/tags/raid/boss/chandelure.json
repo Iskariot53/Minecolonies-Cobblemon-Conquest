@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:chandelure_dmax",
+            "required": false
+        }
+    ]
+}

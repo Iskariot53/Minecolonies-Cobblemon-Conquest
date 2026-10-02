@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:dratini_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:rowlet_dmax",
+            "required": false
+        }
+    ]
+}

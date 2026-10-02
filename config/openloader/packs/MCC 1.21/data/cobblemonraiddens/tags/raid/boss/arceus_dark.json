@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:arceus_dark_dmax",
+            "required": false
+        }
+    ]
+}

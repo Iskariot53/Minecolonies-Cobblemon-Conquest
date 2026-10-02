@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:ironjugulis_dmax",
+            "required": false
+        }
+    ]
+}

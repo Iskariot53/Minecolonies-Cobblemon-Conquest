@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:butterfree_gmax",
+            "required": false
+        }
+    ]
+}

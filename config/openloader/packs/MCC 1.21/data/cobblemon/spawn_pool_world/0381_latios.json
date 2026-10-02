@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "latios-1",
+            "pokemon": "latios",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.3,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_plains",
+                    "biomesoplenty:jacaranda_glade",
+                    "biomesoplenty:lavender_field",
+                    "biomesoplenty:ominous_woods",
+                    "terralith:alpha_islands",
+                    "terralith:mirage_isles"
+                ]
+            }
+        }
+    ]
+}

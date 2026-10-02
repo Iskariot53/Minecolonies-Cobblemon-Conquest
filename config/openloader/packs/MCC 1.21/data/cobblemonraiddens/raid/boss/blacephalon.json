@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "blacephalon",
+        "moves": [
+            "mindblown",
+            "fireblast",
+            "shadowball",
+            "mysticalfire"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FIRE",
+    "weight": 20.0
+}

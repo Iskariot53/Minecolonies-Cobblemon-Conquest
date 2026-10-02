@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:regice_dmax",
+            "required": false
+        }
+    ]
+}

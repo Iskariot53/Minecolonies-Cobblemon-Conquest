@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "solgaleo-1",
+      "pokemon": "solgaleo",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+                "#minecraft:is_end",
+                "terralith:ancient_sands",
+                "terralith:ashen_savanna",
+                "terralith:desert_canyon",
+                "biomesoplenty:dryland",
+                "biomesoplenty:lush_desert",
+                "biomesoplenty:lush_savanna"
+          ]
+      }
+    }
+  ]
+}

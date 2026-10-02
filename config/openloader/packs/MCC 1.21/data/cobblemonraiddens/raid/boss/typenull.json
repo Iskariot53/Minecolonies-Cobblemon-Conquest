@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "typenull",
+        "moves": [
+            "xscissor",
+            "doubleedge",
+            "takedown",
+            "ironhead"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "NORMAL",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/typenull"
+}

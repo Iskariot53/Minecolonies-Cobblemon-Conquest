@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "kartana",
+        "moves": [
+            "sacredsword",
+            "leafblade",
+            "nightslash",
+            "aerialace"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GRASS",
+    "weight": 20.0
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:arrokuda_dmax",
+            "required": false
+        }
+    ]
+}

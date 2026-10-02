@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:frillish_dmax",
+            "required": false
+        }
+    ]
+}

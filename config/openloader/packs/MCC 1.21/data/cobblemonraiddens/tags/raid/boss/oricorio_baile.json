@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:oricorio_baile_dmax",
+            "required": false
+        }
+    ]
+}

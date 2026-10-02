@@ -1,0 +1,21 @@
+{
+    "pokemon": {
+        "species": "zapdos",
+        "moves": [
+            "thunderouskick",
+            "drillpeck",
+            "ancientpower",
+            "bulkup"
+        ],
+        "custom_properties": [
+            {
+                "name": "galarian",
+                "value": true
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/zapdos_galarian"
+}

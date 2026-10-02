@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "xurkitree",
+        "moves": [
+            "zapcannon",
+            "thunderbolt",
+            "discharge",
+            "signalbeam"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "ELECTRIC",
+    "weight": 20.0
+}

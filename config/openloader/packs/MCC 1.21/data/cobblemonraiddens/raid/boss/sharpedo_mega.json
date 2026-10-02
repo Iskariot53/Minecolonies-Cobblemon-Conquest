@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "sharpedo",
+        "moves": [
+            "takedown",
+            "skullbash",
+            "liquidation",
+            "crunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/sharpedo_mega"
+}

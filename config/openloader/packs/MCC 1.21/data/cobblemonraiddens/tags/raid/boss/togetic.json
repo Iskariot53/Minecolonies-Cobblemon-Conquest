@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:togetic_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironleaves",
+        "moves": [
+            "closecombat",
+            "psyblade",
+            "leafblade",
+            "sacredsword"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GRASS",
+    "weight": 20.0
+}

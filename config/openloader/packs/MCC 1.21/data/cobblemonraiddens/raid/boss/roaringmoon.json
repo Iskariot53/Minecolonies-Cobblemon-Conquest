@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "roaringmoon",
+        "moves": [
+            "fly",
+            "dragonrush",
+            "nightslash",
+            "zenheadbutt"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "DRAGON",
+    "weight": 20.0
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "dialga",
+        "moves": [
+            "dragonbreath",
+            "earthpower",
+            "flashcannon",
+            "aurasphere"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 10.0,
+    "loot_table": "cobblemonraiddens:raid/boss/dialga_origin"
+}

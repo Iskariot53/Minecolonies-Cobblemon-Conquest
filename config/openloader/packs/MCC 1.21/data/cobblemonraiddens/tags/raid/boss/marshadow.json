@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:marshadow_dmax",
+            "required": false
+        }
+    ]
+}

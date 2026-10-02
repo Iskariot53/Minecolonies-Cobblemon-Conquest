@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:terapagos_dmax",
+            "required": false
+        }
+    ]
+}

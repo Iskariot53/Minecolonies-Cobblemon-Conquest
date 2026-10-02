@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:wellspring_mask",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:cornerstone_mask",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:hearthflame_mask",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:air",
+                    "weight": 12
+                }
+            ]
+        }
+    ]
+}

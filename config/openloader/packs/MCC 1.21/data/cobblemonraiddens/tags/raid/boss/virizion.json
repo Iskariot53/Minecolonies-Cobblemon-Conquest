@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:virizion_dmax",
+            "required": false
+        }
+    ]
+}

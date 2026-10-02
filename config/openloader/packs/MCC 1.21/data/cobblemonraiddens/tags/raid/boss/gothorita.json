@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:gothorita_dmax",
+            "required": false
+        }
+    ]
+}

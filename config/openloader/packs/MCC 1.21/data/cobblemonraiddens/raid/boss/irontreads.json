@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "irontreads",
+        "moves": [
+            "wildcharge",
+            "earthquake",
+            "knockoff",
+            "stompingtantrum"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GROUND",
+    "weight": 20.0
+}

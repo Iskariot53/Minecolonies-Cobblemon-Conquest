@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:ponyta_galarian_dmax",
+            "required": false
+        }
+    ]
+}

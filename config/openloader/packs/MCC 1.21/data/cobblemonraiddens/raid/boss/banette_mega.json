@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "banette",
+        "moves": [
+            "phantomforce",
+            "suckerpunch",
+            "feintattack",
+            "shadowsneak"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GHOST",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/banette_mega"
+}

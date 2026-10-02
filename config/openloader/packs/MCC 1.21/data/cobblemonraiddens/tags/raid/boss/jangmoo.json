@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:jangmoo_dmax",
+            "required": false
+        }
+    ]
+}

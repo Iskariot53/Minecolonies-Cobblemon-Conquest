@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironboulder",
+        "moves": [
+            "sacredsword",
+            "psychocut",
+            "megahorn",
+            "mightycleave"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0
+}

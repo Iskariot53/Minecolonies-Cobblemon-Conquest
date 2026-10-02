@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "urshifu",
+        "moves": [
+            "surgingstrikes",
+            "closecombat",
+            "ironhead",
+            "aerialace"
+        ],
+        "custom_properties": [
+            {
+                "value": "wushu_style",
+                "name": "rapid_strike"
+            },
+            {
+                "name": "dynamax_form",
+                "value": "gmax"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/urshifu_rapid",
+    "raid_feature": "DYNAMAX",
+    "den": [
+        "cobblemonraiddens:raid_den/dynamax"
+    ]
+}

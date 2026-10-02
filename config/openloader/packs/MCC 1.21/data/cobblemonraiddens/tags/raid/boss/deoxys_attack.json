@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:deoxys_attack_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:zekrom_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:hatenna_dmax",
+            "required": false
+        }
+    ]
+}

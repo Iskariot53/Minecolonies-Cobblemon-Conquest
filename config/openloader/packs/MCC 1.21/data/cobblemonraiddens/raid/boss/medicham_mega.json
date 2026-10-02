@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "medicham",
+        "moves": [
+            "axekick",
+            "highjumpkick",
+            "zenheadbutt",
+            "psybeam"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/medicham_mega"
+}

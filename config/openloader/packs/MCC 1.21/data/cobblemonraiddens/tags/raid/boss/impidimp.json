@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:impidimp_dmax",
+            "required": false
+        }
+    ]
+}

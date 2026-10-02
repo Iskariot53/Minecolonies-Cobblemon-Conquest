@@ -1,0 +1,32 @@
+{
+    "pokemon": {
+        "species": "ogerpon",
+        "moves": [
+            "woodhammer",
+            "superpower",
+            "ivycudgel",
+            "throatchop"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIRE",
+    "weight": 6.67,
+    "loot_table": "cobblemonraiddens:raid/boss/ogerpon_hearthflame",
+    "raid_feature": "TERA",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "ogre_mask",
+                "value": "hearthflame"
+            },
+            {
+                "name": "embody_aspect",
+                "value": true
+            },
+            {
+                "name": "embody-aspect",
+                "value": true
+            }
+        ]
+    }
+}

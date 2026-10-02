@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:nosepass_dmax",
+            "required": false
+        }
+    ]
+}

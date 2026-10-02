@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "pikachu-cosmetic",
+      "pokemon": "pikachu cosplay=cosplay",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "20-35",
+      "weight": 2.5,
+      "condition": {
+         "isRaining": true,
+         "biomes": [
+              "#cobblemon:is_forest",
+              "#cobblemon:is_floral"
+        ]
+      }
+    }
+  ]
+}

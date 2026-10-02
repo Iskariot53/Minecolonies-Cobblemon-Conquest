@@ -1,0 +1,28 @@
+{
+   "enabled": true,
+   "neededInstalledMods": [],
+   "neededUninstalledMods": [],
+   "spawns": [
+       {
+           "id": "keldeo-1",
+           "pokemon": "keldeo",
+           "presets": [
+           ],
+           "type": "pokemon",
+           "context": "grounded",
+           "bucket": "ultra-rare",
+           "level": "55-75",
+           "weight": 0.8,
+           "condition": {
+               "biomes": [
+                    "#cobblemon:is_beach",
+                    "biomesoplenty:snowy_maple_woods",
+                    "biomesoplenty:mystic_grove",
+                    "biomesoplenty:auroral_garden",
+                    "terralith:wintry_forest",
+                    "terralith:amethyst_canyon"
+               ]
+           }
+       }
+   ]
+}

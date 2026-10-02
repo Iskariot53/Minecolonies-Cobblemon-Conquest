@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "aromatisse-1",
+            "pokemon": "aromatisse",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "35-65",
+            "weight": 0.75,
+            "weightMultiplier": {
+				"multiplier": 8.0,
+				"condition": {
+					"timeRange": "day"
+				}
+			},
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_magical",
+                    "#cobblemon:is_floral"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "reshiram-1",
+      "pokemon": "reshiram",
+      "presets": ["nether_structures"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.5,
+      "condition": {
+        "structure": [
+                   "minecraft:fortress"
+       ],
+	"neededBaseBlocks": [ "minecraft:nether_bricks"
+              ]
+            }
+        },
+        {
+      "id": "reshiram-2",
+      "pokemon": "reshiram",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.5,
+      "condition": {
+             "biomes": [
+                       "biomesoplenty:erupting_inferno",
+                       "terralith:volcanic_crater",
+                       "#cobblemon:is_volcanic",
+                       "terralith:volcanic_peaks",
+                       "terralith:hot_shrubland"
+        ]
+      }
+    }
+  ]
+}

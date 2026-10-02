@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:popplio_dmax",
+            "required": false
+        }
+    ]
+}

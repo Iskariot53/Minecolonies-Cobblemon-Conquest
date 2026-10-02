@@ -1,0 +1,27 @@
+{
+    "pokemon": {
+        "species": "toxtricity",
+        "moves": [
+            "overdrive",
+            "poisonjab",
+            "shockwave",
+            "boomburst"
+        ],
+        "custom_properties": [
+            {
+                "name": "punk_form",
+                "value": "amped"
+            },
+            {
+                "name": "dynamax_form",
+                "value": "gmax"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ELECTRIC",
+    "weight": 10.0,
+    "den": [
+        "cobblemonraiddens:raid_den/dynamax"
+    ]
+}

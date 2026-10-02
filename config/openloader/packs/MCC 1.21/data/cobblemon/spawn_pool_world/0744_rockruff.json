@@ -1,0 +1,88 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rockruff-1",
+            "pokemon": "rockruff",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 4.3,
+            "weightMultiplier": {
+               "multiplier": 2.0,
+               "condition": {
+                   "biomes": [
+                    "#cobblemon:is_hills",
+                    "#cobblemon:is_mountain",
+                    "#cobblemon:is_desert"
+                   ]
+               }
+            },
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
+        },
+        {
+            "id": "rockruff-2",
+            "pokemon": "rockruff",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 4.3,
+            "weightMultiplier": {
+               "multiplier": 2.0,
+               "condition": {
+                   "biomes": [
+                    "#cobblemon:is_hills",
+                    "#cobblemon:is_mountain",
+                    "#cobblemon:is_desert"
+                   ]
+               }
+            },
+            "condition": {
+                "canSeeSky": true,
+                "structures": [
+                    "#minecraft:village"
+                ],
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
+        },
+        {
+            "id": "rockruff-3",
+            "pokemon": "rockruff",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 1.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_hills",
+                    "#cobblemon:is_mountain",
+                    "#cobblemon:is_desert"
+                ]
+            }
+        }
+    ]
+}

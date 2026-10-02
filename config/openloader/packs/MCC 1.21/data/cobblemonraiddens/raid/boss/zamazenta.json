@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "zamazenta",
+        "moves": [
+            "slash",
+            "closecombat",
+            "crunch",
+            "ironhead"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/zamazenta",
+    "boss": {
+        "moves": [
+            "slash",
+            "closecombat",
+            "crunch",
+            "behemothbash"
+        ],
+        "custom_properties": [
+            {
+                "name": "crowned",
+                "value": true
+            }
+        ]
+    }
+}

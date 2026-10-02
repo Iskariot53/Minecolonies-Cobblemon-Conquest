@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:tatsugiri_curly_dmax",
+            "required": false
+        }
+    ]
+}

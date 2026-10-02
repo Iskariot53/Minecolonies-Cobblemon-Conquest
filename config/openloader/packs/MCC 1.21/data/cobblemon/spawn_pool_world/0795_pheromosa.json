@@ -1,0 +1,50 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "pheromosa-1",
+            "pokemon": "pheromosa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-65",
+            "weight": 1.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:plains",
+                    "minecraft:flower_forest",
+                    "minecraft:sparse_jungle",
+                    "minecraft:meadow",
+                    "terralith:blooming_valley",
+                    "terralith:steppe",
+                    "terralith:white_cliffs"
+                 ]
+            }
+        },
+        {
+            "id": "pheromosa-2",
+            "pokemon": "pheromosa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-65",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "incendium:inverted_forest",
+                    "incendium:quartz_flats",
+                    "minecraft:the_end"
+                 ]
+            }
+        }
+    ]
+}

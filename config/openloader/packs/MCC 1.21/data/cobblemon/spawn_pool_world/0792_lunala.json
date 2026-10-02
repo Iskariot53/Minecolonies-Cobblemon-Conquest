@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "lunala-1",
+      "pokemon": "lunala",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+               "#minecraft:is_end",
+               "terralith:cloud_forest",
+               "terralith:blooming_valley",
+               "terralith:mirage_isles",
+               "biomesoplenty:auroral_garden",
+               "biomesoplenty:lavender_field"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:girafarig_dmax",
+            "required": false
+        }
+    ]
+}

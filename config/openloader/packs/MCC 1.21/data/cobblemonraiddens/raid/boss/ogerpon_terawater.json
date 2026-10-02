@@ -1,0 +1,32 @@
+{
+    "pokemon": {
+        "species": "ogerpon",
+        "moves": [
+            "woodhammer",
+            "superpower",
+            "ivycudgel",
+            "throatchop"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 6.67,
+    "loot_table": "cobblemonraiddens:raid/boss/ogerpon_wellspring",
+    "raid_feature": "TERA",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "ogre_mask",
+                "value": "wellspring"
+            },
+            {
+                "name": "embody_aspect",
+                "value": true
+            },
+            {
+                "name": "embody-aspect",
+                "value": true
+            }
+        ]
+    }
+}

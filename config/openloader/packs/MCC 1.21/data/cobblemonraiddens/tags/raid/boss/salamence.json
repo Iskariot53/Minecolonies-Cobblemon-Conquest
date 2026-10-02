@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:salamence_dmax",
+            "required": false
+        }
+    ]
+}

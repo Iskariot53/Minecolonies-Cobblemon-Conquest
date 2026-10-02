@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:stunfisk_galarian_dmax",
+            "required": false
+        }
+    ]
+}

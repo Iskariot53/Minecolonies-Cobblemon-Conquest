@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:moltres_galarian_dmax",
+            "required": false
+        }
+    ]
+}

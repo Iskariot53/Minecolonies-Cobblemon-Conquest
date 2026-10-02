@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:burn_drive",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:douse_drive",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:chill_drive",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:shock_drive",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:air",
+                    "weight": 16
+                }
+            ]
+        }
+    ]
+}

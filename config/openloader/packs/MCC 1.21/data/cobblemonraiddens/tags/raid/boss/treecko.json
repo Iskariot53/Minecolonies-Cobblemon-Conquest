@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:treecko_dmax",
+            "required": false
+        }
+    ]
+}

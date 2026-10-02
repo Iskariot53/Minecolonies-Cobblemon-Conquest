@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "tyranitar",
+        "moves": [
+            "gigaimpact",
+            "thrash",
+            "stoneedge",
+            "earthquake"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/tyranitar_mega"
+}

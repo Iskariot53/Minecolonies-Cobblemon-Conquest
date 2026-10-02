@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "urshifu",
+        "moves": [
+            "wickedblow",
+            "closecombat",
+            "ironhead",
+            "aerialace"
+        ],
+        "custom_properties": [
+            {
+                "value": "wushu_style",
+                "name": "single_strike"
+            },
+            {
+                "name": "dynamax_form",
+                "value": "gmax"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/urshifu_single",
+    "raid_feature": "DYNAMAX",
+    "den": [
+        "cobblemonraiddens:raid_den/dynamax"
+    ]
+}

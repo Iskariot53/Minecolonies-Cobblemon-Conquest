@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "heracross",
+        "moves": [
+            "closecombat",
+            "megahorn",
+            "thrash",
+            "throatchop"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "BUG",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/heracross_mega"
+}

@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "aerodactyl",
+        "moves": [
+            "gigaimpact",
+            "skydrop",
+            "stoneedge",
+            "takedown"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/aerodactyl_mega"
+}

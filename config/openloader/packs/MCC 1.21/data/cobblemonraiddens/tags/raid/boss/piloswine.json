@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:piloswine_dmax",
+            "required": false
+        }
+    ]
+}

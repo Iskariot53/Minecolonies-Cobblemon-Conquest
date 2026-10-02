@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "palkia",
+        "moves": [
+            "hydropump",
+            "spacialrend",
+            "earthpower",
+            "powergem"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/palkia_origin",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "orb_forme",
+                "value": "origin"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironcrown",
+        "moves": [
+            "flashcannon",
+            "voltswitch",
+            "psyshock",
+            "tachyoncutter"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 20.0
+}

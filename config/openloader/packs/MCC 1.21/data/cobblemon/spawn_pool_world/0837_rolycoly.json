@@ -1,0 +1,56 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rolycoly-1",
+            "pokemon": "rolycoly",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-20",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain"
+                ]
+            },
+			"anticondition": {
+                "biomes": [
+                    "#cobblemon:is_floral"
+                ]
+            }
+        },
+        {
+            "id": "rolycoly-2",
+            "pokemon": "rolycoly",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-20",
+            "weight": 7.0,
+            "condition": {
+				"minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+			"anticondition": {
+                "biomes": [
+                    "#cobblemon:is_deep_dark"
+                ]
+            }
+
+        }
+    ]
+}

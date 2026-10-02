@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "landorus",
+        "moves": [
+            "sandsearstorm",
+            "earthquake",
+            "stoneedge",
+            "outrage"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GROUND",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/landorus"
+}

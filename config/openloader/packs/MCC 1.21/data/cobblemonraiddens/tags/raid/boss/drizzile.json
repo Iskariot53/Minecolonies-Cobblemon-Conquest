@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:drizzile_dmax",
+            "required": false
+        }
+    ]
+}

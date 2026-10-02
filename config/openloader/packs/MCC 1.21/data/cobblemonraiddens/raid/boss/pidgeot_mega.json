@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "pidgeot",
+        "moves": [
+            "wingattack",
+            "tackle",
+            "quickattack",
+            "airslash"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "NORMAL",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/pidgeot_mega"
+}

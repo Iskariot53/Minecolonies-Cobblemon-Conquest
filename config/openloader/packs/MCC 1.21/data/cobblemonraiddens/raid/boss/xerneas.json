@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "xerneas",
+        "moves": [
+            "moonblast",
+            "aurorabeam",
+            "geomancy",
+            "megahorn"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FAIRY",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/xerneas",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "life_mode",
+                "value": "active"
+            }
+        ]
+    }
+}

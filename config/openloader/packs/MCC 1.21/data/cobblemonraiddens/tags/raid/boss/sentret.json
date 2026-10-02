@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:sentret_dmax",
+            "required": false
+        }
+    ]
+}

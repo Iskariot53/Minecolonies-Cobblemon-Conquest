@@ -1,0 +1,27 @@
+{
+    "pokemon": {
+        "species": "melmetal",
+        "moves": [
+            "doubleironbash",
+            "thunderpunch",
+            "dynamicpunch",
+            "megapunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/melmetal",
+    "raid_feature": "DYNAMAX",
+    "den": [
+        "cobblemonraiddens:raid_den/dynamax"
+    ],
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "dynamax_form",
+                "value": "gmax"
+            }
+        ]
+    }
+}

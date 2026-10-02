@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "suicune",
+        "moves": [
+            "blizzard",
+            "hydropump",
+            "surf",
+            "extrasensory"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/suicune"
+}

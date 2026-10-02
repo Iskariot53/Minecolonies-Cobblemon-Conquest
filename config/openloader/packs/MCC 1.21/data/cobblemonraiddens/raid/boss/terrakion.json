@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "terrakion",
+        "moves": [
+            "closecombat",
+            "stoneedge",
+            "sacredsword",
+            "takedown"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ROCK",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/terrakion"
+}

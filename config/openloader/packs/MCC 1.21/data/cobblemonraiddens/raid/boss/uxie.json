@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "uxie",
+        "moves": [
+            "mysticalpower",
+            "futuresight",
+            "psychic",
+            "swift"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/uxie"
+}

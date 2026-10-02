@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:venusaur_gmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:morpeko_dmax",
+            "required": false
+        }
+    ]
+}

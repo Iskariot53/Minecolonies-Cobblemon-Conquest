@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:duosion_dmax",
+            "required": false
+        }
+    ]
+}

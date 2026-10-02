@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:gabite_dmax",
+            "required": false
+        }
+    ]
+}

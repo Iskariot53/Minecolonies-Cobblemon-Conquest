@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironbundle",
+        "moves": [
+            "icebeam",
+            "flipturn",
+            "freezedry",
+            "drillpeck"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "ICE",
+    "weight": 20.0
+}

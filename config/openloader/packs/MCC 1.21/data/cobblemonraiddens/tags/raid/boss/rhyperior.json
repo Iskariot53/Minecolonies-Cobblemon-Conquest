@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:rhyperior_dmax",
+            "required": false
+        }
+    ]
+}

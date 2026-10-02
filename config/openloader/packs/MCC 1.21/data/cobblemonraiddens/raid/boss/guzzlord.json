@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "guzzlord",
+        "moves": [
+            "gigaimpact",
+            "thrash",
+            "dragonrush",
+            "hammerarm"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "DARK",
+    "weight": 20.0
+}

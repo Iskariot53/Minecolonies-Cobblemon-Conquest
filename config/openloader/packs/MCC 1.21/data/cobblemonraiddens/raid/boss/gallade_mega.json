@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "gallade",
+        "moves": [
+            "closecombat",
+            "psychocut",
+            "falseswipe",
+            "aerialace"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/gallade_mega"
+}

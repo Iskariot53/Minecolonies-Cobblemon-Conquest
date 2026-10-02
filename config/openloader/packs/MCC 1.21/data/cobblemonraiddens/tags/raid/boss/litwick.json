@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:litwick_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "aggron",
+        "moves": [
+            "doubleedge",
+            "irontail",
+            "takedown",
+            "ironhead"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/aggron_mega"
+}

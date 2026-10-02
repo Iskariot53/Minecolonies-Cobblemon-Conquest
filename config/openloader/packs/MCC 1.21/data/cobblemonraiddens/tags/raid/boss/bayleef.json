@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:bayleef_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:bounsweet_dmax",
+            "required": false
+        }
+    ]
+}

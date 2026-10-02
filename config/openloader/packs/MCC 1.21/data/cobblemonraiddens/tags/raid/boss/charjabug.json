@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:charjabug_dmax",
+            "required": false
+        }
+    ]
+}

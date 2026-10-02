@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:floette_dmax",
+            "required": false
+        }
+    ]
+}

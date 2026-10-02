@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "tapufini",
+        "moves": [
+            "mistyterrain",
+            "moonblast",
+            "hydropump",
+            "surf"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/tapufini"
+}

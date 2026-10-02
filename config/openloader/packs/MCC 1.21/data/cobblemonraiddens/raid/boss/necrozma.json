@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "necrozma",
+        "moves": [
+            "nightslash",
+            "photongeyser",
+            "powergem",
+            "slash"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/necrozma",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "prism_fusion",
+                "value": "ultra"
+            }
+        ]
+    }
+}

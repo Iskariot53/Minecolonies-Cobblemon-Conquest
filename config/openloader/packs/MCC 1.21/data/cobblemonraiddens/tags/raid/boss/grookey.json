@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:grookey_dmax",
+            "required": false
+        }
+    ]
+}

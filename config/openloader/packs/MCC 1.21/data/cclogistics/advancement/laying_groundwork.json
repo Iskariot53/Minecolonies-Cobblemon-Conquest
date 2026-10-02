@@ -1,0 +1,29 @@
+{
+  "parent": "cclogistics:root",
+  "display": {
+    "icon": {
+      "id": "cclogistics:gray_ballast"
+    },
+    "title": {
+    "translate": "advancement.cclogistics.laying_groundwork.title"
+  },
+  "description": {
+    "translate": "advancement.cclogistics.laying_groundwork.desc"
+  },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "has_ballast": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "cclogistics:ballasts"
+          }
+        ]
+      }
+    }
+  }
+}

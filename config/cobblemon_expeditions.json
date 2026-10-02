@@ -1,0 +1,185 @@
+{
+  "general": {
+    "baseSlots": 1,
+    "maxTotalSlots": 6,
+    "slotUnlockRanks": [
+      8,
+      18
+    ],
+    "tierUnlockRanks": [
+      0,
+      4,
+      9,
+      15,
+      18
+    ],
+    "allowPCSelection": true,
+    "maxRewardInboxSize": 20,
+    "durationScaleFactor": 1.0
+  },
+  "tep": {
+    "typeMatchMultiplier": 1.2,
+    "ivWeight": 0.1,
+    "evWeight": 0.1,
+    "shinyPowerMultiplier": 1.5,
+    "alphaPowerMultiplier": 1.2,
+    "itemBonusCap": 0.15,
+    "partyFactorTier1PerPokemon": 0.06,
+    "partyFactorTier1Max": 6,
+    "partyFactorTier2PerPokemon": 0.02,
+    "partyFactorTier2Max": 20,
+    "partyFactorTier3PerPokemon": 0.01,
+    "partyFactorCap": 2.0,
+    "typeBonusPerMatch": 0.1,
+    "typeBonusCap": 0.3,
+    "hazardMitigationCap": 0.2,
+    "hazardMitigationPerMatch": 0.05
+  },
+  "success": {
+    "successLowerThreshold": 0.7,
+    "successRange": 0.5,
+    "successFloor": 0.05,
+    "successCap": 0.95,
+    "greatLowerThreshold": 1.05,
+    "greatRange": 0.4,
+    "greatCap": 0.3
+  },
+  "loot": {
+    "partialCommonScale": 0.6,
+    "partialUncommonScale": 0.3,
+    "partialRareChance": 0.1,
+    "greatCommonBonus": 1,
+    "greatUncommonBonus": 1,
+    "greatRareMultiplier": 1.5,
+    "failConsolationChance": 0.5
+  },
+  "rankXP": {
+    "tierBaseXP": [
+      6,
+      10,
+      16,
+      24,
+      36
+    ],
+    "durationMultipliers": {
+      "600": 1.0,
+      "1800": 2.2,
+      "3600": 3.6,
+      "7200": 5.5,
+      "28800": 14.0
+    },
+    "failureXPScale": 0.25,
+    "partialXPScale": 0.6
+  },
+  "pokemonXP": {
+    "enabled": true,
+    "maxPerExpedition": 500
+  },
+  "playerXP": {
+    "enabled": true,
+    "tierBaseXP": [
+      30,
+      60,
+      120,
+      200,
+      350
+    ],
+    "durationBonusPerMinute": 0.5,
+    "greatMultiplier": 1.5,
+    "successMultiplier": 1.0,
+    "partialMultiplier": 0.4,
+    "failMultiplier": 0.1
+  },
+  "hazards": {
+    "penalties": {
+      "heat": -0.2,
+      "cold": -0.2,
+      "toxic": -0.15,
+      "cave_in": -0.15,
+      "aquatic": -0.15,
+      "electric": -0.1,
+      "dark": -0.15
+    },
+    "mitigatingTypes": {
+      "heat": [
+        "fire",
+        "water",
+        "rock"
+      ],
+      "cold": [
+        "ice",
+        "fire",
+        "steel"
+      ],
+      "toxic": [
+        "poison",
+        "steel"
+      ],
+      "cave_in": [
+        "rock",
+        "ground",
+        "steel"
+      ],
+      "aquatic": [
+        "water"
+      ],
+      "electric": [
+        "electric",
+        "ground"
+      ],
+      "dark": [
+        "dark",
+        "psychic",
+        "fairy"
+      ]
+    },
+    "mitigatingSpecies": {},
+    "mitigatingEggGroups": {},
+    "colors": {
+      "heat": 16737792,
+      "cold": 6737151,
+      "toxic": 11158698,
+      "cave_in": 12290099,
+      "aquatic": 3377407,
+      "electric": 16768307,
+      "dark": 6706551
+    }
+  },
+  "antiAbuse": {
+    "cancelReturnsRewards": false,
+    "maxExpeditionsPerHour": 0,
+    "minDurationSeconds": 300,
+    "maxDurationSeconds": 86400
+  },
+  "scheduler": {
+    "maxResolutionsPerTick": 5
+  },
+  "fatigue": {
+    "enabled": true,
+    "maxFatigue": 5,
+    "fatiguePerExpedition": 1,
+    "bossFatigueMultiplier": 2,
+    "tepPenaltyPerLevel": 0.1,
+    "recoveryHours": 1.0
+  },
+  "boss": {
+    "enabled": true,
+    "defaultCooldownHours": 168,
+    "requireEntryCost": true,
+    "entryCostItem": "minecraft:enchanted_golden_apple",
+    "entryCostCount": 1,
+    "loseHeldItemOnFail": false
+  },
+  "pokeDollars": {
+    "enabled": true,
+    "failMultiplier": 0.0,
+    "partialMultiplier": 0.5,
+    "successMultiplier": 1.0,
+    "greatMultiplier": 1.5
+  },
+  "storage": {
+    "backend": "world",
+    "sharedDirectory": "shared/cobblemon_expeditions",
+    "autoSaveSeconds": 60
+  }
+}

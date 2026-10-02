@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:munkidori_dmax",
+            "required": false
+        }
+    ]
+}

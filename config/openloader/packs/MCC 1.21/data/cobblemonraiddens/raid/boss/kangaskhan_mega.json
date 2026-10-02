@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "kangaskhan",
+        "moves": [
+            "lastresort",
+            "outrage",
+            "crunch",
+            "dizzypunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "NORMAL",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/kangaskhan_mega"
+}

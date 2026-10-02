@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "gougingfire",
+        "moves": [
+            "dragonrush",
+            "crushclaw",
+            "dragonclaw",
+            "bite"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FIRE",
+    "weight": 20.0
+}

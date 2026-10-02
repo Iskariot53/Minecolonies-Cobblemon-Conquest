@@ -1,0 +1,75 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "munna-1",
+            "pokemon": "munna",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "neededNearbyBlocks": [
+                    "minecraft:white_bed",
+                    "minecraft:orange_bed",
+                    "minecraft:magenta_bed",
+                    "minecraft:light_blue_bed",
+                    "minecraft:yellow_bed",
+                    "minecraft:lime_bed",
+                    "minecraft:pink_bed",
+                    "minecraft:gray_bed",
+                    "minecraft:light_gray_bed",
+                    "minecraft:cyan_bed",
+                    "minecraft:purple_bed",
+                    "minecraft:blue_bed",
+                    "minecraft:brown_bed",
+                    "minecraft:green_bed",
+                    "minecraft:red_bed",
+                    "minecraft:black_bed"
+                ]
+            }
+        },
+        {
+            "id": "munna-2",
+            "pokemon": "munna",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-25",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_end"
+                ],
+                "neededNearbyBlocks": [
+                    "minecraft:white_bed",
+                    "minecraft:orange_bed",
+                    "minecraft:magenta_bed",
+                    "minecraft:light_blue_bed",
+                    "minecraft:yellow_bed",
+                    "minecraft:lime_bed",
+                    "minecraft:pink_bed",
+                    "minecraft:gray_bed",
+                    "minecraft:light_gray_bed",
+                    "minecraft:cyan_bed",
+                    "minecraft:purple_bed",
+                    "minecraft:blue_bed",
+                    "minecraft:brown_bed",
+                    "minecraft:green_bed",
+                    "minecraft:red_bed",
+                    "minecraft:black_bed"
+                ]
+            }
+        }
+    ]
+}

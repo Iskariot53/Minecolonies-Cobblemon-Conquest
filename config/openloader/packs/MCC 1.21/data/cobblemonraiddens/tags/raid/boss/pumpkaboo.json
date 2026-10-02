@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:pumpkaboo_dmax",
+            "required": false
+        }
+    ]
+}

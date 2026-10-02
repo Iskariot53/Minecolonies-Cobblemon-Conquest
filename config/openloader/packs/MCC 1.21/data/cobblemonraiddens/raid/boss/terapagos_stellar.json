@@ -1,0 +1,28 @@
+{
+    "pokemon": {
+        "species": "terapagos",
+        "moves": [
+            "doubleedge",
+            "terastarstorm",
+            "earthpower",
+            "triattack"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STELLAR",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/terapagos",
+    "raid_feature": "TERA",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "tera_form",
+                "value": "stellar"
+            },
+            {
+                "name": "tera-form",
+                "value": "stellar"
+            }
+        ]
+    }
+}

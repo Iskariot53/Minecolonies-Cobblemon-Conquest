@@ -1,0 +1,21 @@
+{
+    "pokemon": {
+        "species": "moltres",
+        "moves": [
+            "fierywrath",
+            "suckerpunch",
+            "hurricane",
+            "ancientpower"
+        ],
+        "custom_properties": [
+            {
+                "name": "galarian",
+                "value": true
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DARK",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/moltres_galarian"
+}

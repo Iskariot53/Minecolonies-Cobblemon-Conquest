@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 5,
+      "fluid": "create_enchantment_industry:experience"
+    }
+  ],
+  "results": [
+    { 
+	  "count": 1,
+      "id": "create_enchantment_industry:super_experience_nugget"
+    }
+  ]
+}

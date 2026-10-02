@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:rotom_fan_dmax",
+            "required": false
+        }
+    ]
+}

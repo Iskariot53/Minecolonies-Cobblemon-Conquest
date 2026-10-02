@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:darumaka_dmax",
+            "required": false
+        }
+    ]
+}

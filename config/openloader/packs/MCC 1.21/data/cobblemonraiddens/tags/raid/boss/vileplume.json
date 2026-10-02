@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:vileplume_dmax",
+            "required": false
+        }
+    ]
+}

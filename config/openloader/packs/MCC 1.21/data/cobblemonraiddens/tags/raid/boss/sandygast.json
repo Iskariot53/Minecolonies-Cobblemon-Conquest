@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:sandygast_dmax",
+            "required": false
+        }
+    ]
+}

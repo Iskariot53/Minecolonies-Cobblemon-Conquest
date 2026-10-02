@@ -1,0 +1,22 @@
+#CobbleDollars per emerald (literal): used for villager emerald costs. Editing this updates trade CD prices.
+# Default: 750
+# Range: > 1
+cobbledollarsEmeraldRate = 3
+#Legacy toggle (kept for config compatibility). Villager emerald rate always uses cobbledollarsEmeraldRate; set it to match bank.json emerald price if your pack ties them.
+syncCobbleDollarsBankRate = true
+#If true, villager trades that cost emeralds can be paid with CobbleDollars balance instead.
+villagersAcceptCobbleDollars = true
+#If true, trades that cost 1 emerald (minimum after curing/discounts) are free - no CobbleDollars charged. Simulates 'they won't charge an emerald' for saving villagers.
+freeMinimumEmeraldTrade = false
+#Use CobbleDollars-style shop UI when trading with villagers.
+useCobbleDollarsShopUi = true
+#RCT trainer association: integrate trainer trades with the CobbleDollars shop when applicable.
+useRctTradesOverhaul = true
+#Price non-emerald datapack / custom item trades with CobbleDollars using item price tables.
+useDatapackTrades = true
+#Custom currency items (JSON array). value = literal CobbleDollars per 1 item. Emeralds use cobbledollarsEmeraldRate — do not list minecraft:emerald here. Empty [] = use custom_currency.json.
+customCurrencyItems = "[{\"item\":\"cobblemon:relic_coin\",\"value\":250},{\"item\":\"cobblemon:relic_coin_pouch\",\"value\":2250},{\"item\":\"cobblemon:relic_coin_sack\",\"value\":20250},{\"item\":\"allthemons:token\",\"value\":250}]"
+#Comma-separated mod namespaces whose villager professions use their native UI (e.g. cobbledollars). Empty = use CobbleDollars shop for them.
+excludedVillagerProfessionNamespaces = "cobbledollars"
+#Comma-separated specific profession IDs to exclude (e.g. casinorocket:casino_worker). Use when only some professions from a mod have their own UI.
+excludedVillagerProfessionIds = "casinorocket:casino_worker"

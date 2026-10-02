@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironthorns",
+        "moves": [
+            "earthquake",
+            "pinmissile",
+            "wildcharge",
+            "rockslide"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "ROCK",
+    "weight": 20.0
+}

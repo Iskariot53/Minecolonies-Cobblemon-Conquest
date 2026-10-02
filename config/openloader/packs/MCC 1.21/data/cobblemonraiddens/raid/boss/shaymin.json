@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "shaymin",
+        "moves": [
+            "seedflare",
+            "energyball",
+            "playrough",
+            "magicalleaf"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GRASS",
+    "weight": 10.0,
+    "loot_table": "cobblemonraiddens:raid/boss/shaymin"
+}

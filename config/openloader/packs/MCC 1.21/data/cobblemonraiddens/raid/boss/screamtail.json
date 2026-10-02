@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "screamtail",
+        "moves": [
+            "crunch",
+            "psychicfangs",
+            "hypervoice",
+            "playrough"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FAIRY",
+    "weight": 20.0
+}

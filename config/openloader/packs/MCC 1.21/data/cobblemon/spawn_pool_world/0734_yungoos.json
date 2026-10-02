@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "yungoos-1",
+            "pokemon": "yungoos",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "15-27",
+            "weight": 4,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_plains"
+                ]
+			}
+		}
+    ]
+}

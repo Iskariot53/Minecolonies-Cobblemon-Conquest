@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:krokorok_dmax",
+            "required": false
+        }
+    ]
+}

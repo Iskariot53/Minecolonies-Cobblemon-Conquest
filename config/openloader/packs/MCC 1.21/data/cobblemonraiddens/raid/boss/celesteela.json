@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "celesteela",
+        "moves": [
+            "flashcannon",
+            "gigadrain",
+            "megadrain",
+            "absorb"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "STEEL",
+    "weight": 20.0
+}

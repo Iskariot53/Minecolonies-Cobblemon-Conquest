@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:gigalith_dmax",
+            "required": false
+        }
+    ]
+}

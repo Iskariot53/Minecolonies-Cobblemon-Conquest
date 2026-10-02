@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:fennekin_dmax",
+            "required": false
+        }
+    ]
+}

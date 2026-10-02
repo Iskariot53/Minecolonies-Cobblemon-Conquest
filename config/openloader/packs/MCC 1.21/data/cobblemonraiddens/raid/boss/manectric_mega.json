@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "manectric",
+        "moves": [
+            "thunder",
+            "discharge",
+            "shockwave",
+            "wildcharge"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ELECTRIC",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/manectric_mega"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "manaphy",
+        "moves": [
+            "dive",
+            "waterpulse",
+            "whirlpool",
+            "bubblebeam"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/manaphy"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "registeel",
+        "moves": [
+            "heavyslam",
+            "chargebeam",
+            "curse",
+            "hammerarm"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "STEEL",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/registeel"
+}

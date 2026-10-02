@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "slowbro",
+        "moves": [
+            "psychic",
+            "surf",
+            "waterpulse",
+            "confusion"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "WATER",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/slowbro_mega"
+}

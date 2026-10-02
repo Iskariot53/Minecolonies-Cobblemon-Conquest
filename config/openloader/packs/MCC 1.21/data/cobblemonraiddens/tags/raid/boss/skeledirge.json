@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:skeledirge_dmax",
+            "required": false
+        }
+    ]
+}

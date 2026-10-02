@@ -1,0 +1,99 @@
+[marketplace]
+	#What is the value of a Trade Coin (‡)?
+	tradeCoinValue = 1000
+	#For economies balanced around player-sold items, what penalty or bonus is applied to marketplace sales? (0.0 = no change, > 0.0 = % bonus, < 0.0 = % penalty)
+	# Default: -0.0
+	# Range: -1.0 ~ 1.0
+	economicScaling = -0.0
+	#At what building level can the Marketplace withdraw coins?
+	mintingLevel = 2
+	#How long before visitors will consider shopping again?
+	shoppingCooldown = 400
+	#How likely is a sold item to make a cash register sound?
+	# Default: 0.5
+	# Range: -1.0 ~ 1.0
+	registerSoundChance = 0.5
+	#What chance, per building level, do visitors have of deciding to shop?
+	shoppingChance = 5
+	#What currency is used to facilitate trades, and will be extracted from the marketplace? (Restart required if changed.)
+	tradeCurrency = "mctradepost:mctp_coin"
+	#Chance added per retained-search investment level.
+	# Default: 0.11
+	# Range: 0.0 ~ 1.0
+	retainedSearchInvestmentLevelBonus = 0.11
+	#Additional difficulty for each Rare Find tier above Tier 1.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	retainedSearchTierDifficulty = 0.1
+	#Raw player XP charged per investment level for one retained search.
+	# Default: 55
+	# Range: > 0
+	retainedSearchInvestmentBaseXp = 55
+	#MineColonies days added by each retained-search investment purchase.
+	# Default: 5
+	# Range: 1 ~ 99
+	retainedSearchInvestmentDays = 5
+	#Multiplier applied to the greater of an item's economic value and tier price floor for subscriptions.
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	subscriptionPriceMultiplier = 2.0
+
+[resort]
+	#Maximum percentage chance of a citizen going on a vacation.
+	vacationMaxChance = 0.2
+	#How much advertising can a citizen withstand before being lured onto a vacation? Negative value disables vacations.
+	maxAdSaturation = 12000
+	#How many ticks must pass between advertising attempts (which may result in vacations)?
+	advertisingCooldown = 300
+	#Under what stat level do citizens become more susceptible to advertising?
+	vacationSusceptibilityThreshold = 6
+	#At what stat level do citizens become immune to advertising?
+	vacationImmunityThreshold = 12
+	#How many stat points will a single vacation restore?
+	vacationHealing = 2
+	#Trade Coin (‡) generated per vacation.
+	vacationIncome = 1
+	#Guests per resort level.
+	guestsPerResortLevel = 2
+
+[recycler]
+	#Recycling grinder belts per building level.
+	grindersPerLevel = 2
+	#Time to complete a recycling cycle.
+	baseRecyclerTime = 100
+	#Stat level at which recycling is performed as well as possible.
+	flawlessRecycling = 50
+	#Frequency of warehouse inventory updates in Colony Ticks (processor intensive).
+	warehouseInventoryCooldown = 50
+
+[station]
+	#Tick frequency of verifying tracks remain connected (processor intensive).
+	trackValidationFrequency = 10000
+	#Base trade speed per building level.
+	baseTradeSpeed = 4
+	#Number of imports allowed per Station level.
+	importsPerLevel = 5
+	#Maximum navigable block distance for one dock-to-dock water leg.
+	# Default: 1000
+	# Range: 1 ~ 10000
+	maximumWaterRouteDistance = 1000
+
+[petshop]
+	#Number of pets per building level.
+	petsPerLevel = 2
+
+[outpost]
+	#Allow use of the Outpost.
+	outpostEnabled = true
+	#Maximum distance the outpost can be from the colony center. Note that large values will cause pathing exceptions.
+	maxDistance = 800
+
+[incentives]
+	#‡ charged per boosted citizen skill point per pay cycle.
+	# Default: 1000
+	# Range: 100 ~ 100000
+	incentiveCostPerSkillPoint = 1000
+	#MineColonies days in one citizen incentive pay cycle.
+	# Default: 3
+	# Range: 1 ~ 30
+	incentivePayCycleDays = 3

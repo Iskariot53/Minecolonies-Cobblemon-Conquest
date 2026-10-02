@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "rayquaza",
+        "moves": [
+            "extremespeed",
+            "dragonascent",
+            "outrage",
+            "dragondance"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DRAGON",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/rayquaza_mega",
+    "raid_feature": "MEGA"
+}

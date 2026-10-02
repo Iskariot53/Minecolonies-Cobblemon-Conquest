@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:arctibax_dmax",
+            "required": false
+        }
+    ]
+}

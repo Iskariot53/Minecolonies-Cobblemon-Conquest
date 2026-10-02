@@ -1,0 +1,26 @@
+{
+    "pokemon": {
+        "species": "machamp",
+        "moves": [
+            "doubleedge",
+            "crosschop",
+            "dualchop",
+            "knockoff"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIGHTING",
+    "weight": 20.0,
+    "raid_feature": "DYNAMAX",
+    "den": [
+        "cobblemonraiddens:raid_den/dynamax"
+    ],
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "dynamax_form",
+                "value": "gmax"
+            }
+        ]
+    }
+}

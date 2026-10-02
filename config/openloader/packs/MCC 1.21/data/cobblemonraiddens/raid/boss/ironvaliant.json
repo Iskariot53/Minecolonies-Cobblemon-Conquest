@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironvaliant",
+        "moves": [
+            "knockoff",
+            "closecombat",
+            "leafblade",
+            "nightslash"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FAIRY",
+    "weight": 20.0
+}

@@ -1,0 +1,33 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "smoliv-1",
+            "pokemon": "smoliv",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "15-32",
+            "weight": 1.5,
+            "weightMultiplier": {
+				"multiplier": 4.0,
+				"condition": {
+					"timeRange": "day"
+				}
+			},
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_plains",
+                    "#cobblemon:is_forest"
+                ]
+            }
+        }
+    ]
+}

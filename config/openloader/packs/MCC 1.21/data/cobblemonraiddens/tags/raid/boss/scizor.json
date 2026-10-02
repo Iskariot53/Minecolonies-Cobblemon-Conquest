@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:scizor_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:ironvaliant_dmax",
+            "required": false
+        }
+    ]
+}

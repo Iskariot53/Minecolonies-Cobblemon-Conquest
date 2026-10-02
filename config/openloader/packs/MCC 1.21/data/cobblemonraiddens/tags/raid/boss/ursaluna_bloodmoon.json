@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:ursaluna_bloodmoon_dmax",
+            "required": false
+        }
+    ]
+}

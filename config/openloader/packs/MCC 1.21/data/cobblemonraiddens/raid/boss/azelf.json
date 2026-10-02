@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "azelf",
+        "moves": [
+            "mysticalpower",
+            "swift",
+            "nastyplot",
+            "psychic"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/azelf"
+}

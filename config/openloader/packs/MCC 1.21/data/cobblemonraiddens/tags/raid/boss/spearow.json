@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:spearow_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "groudon",
+        "moves": [
+            "solarbeam",
+            "earthquake",
+            "lavaplume",
+            "precipiceblades"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GROUND",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/groudon"
+}

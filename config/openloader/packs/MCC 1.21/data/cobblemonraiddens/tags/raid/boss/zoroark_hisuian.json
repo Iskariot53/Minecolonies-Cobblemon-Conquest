@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:zoroark_hisuian_dmax",
+            "required": false
+        }
+    ]
+}

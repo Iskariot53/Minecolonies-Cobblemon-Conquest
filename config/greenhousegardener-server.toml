@@ -1,0 +1,41 @@
+[conversioncost]
+	#Conversion cost (CCU)
+	# Default: 40
+	# Range: 1 ~ 100
+	baseConversionCost = 40
+	#Maintenance cost (CCU)
+	# Default: 1
+	# Range: 1 ~ 100
+	baseMaintenanceCost = 1
+
+[notifications]
+	#Notify of pending field reversion.
+	fieldReversionWarning = true
+
+[maintenance]
+	#Colony days a field can miss maintenance before reverting to its natural biome
+	# Default: 5
+	# Range: 1 ~ 30
+	maintenanceRevertDays = 5
+	#Maximum percent of loaded greenhouse biome cells that daily maintenance may repair before the field requires full conversion again
+	# Default: 15
+	# Range: 0 ~ 100
+	maintenanceOverlayRepairPercent = 15
+
+[ranch]
+	#Number of different animal entity types a Ranch supports before research
+	# Default: 2
+	# Range: 1 ~ 5
+	supportedAnimalTypes = 2
+
+[other]
+	#What percentage of the roof must be a greenhouse material?
+	# Default: 75
+	# Range: 50 ~ 100
+	roofPercentage = 75
+	#Whether maintained greenhouse fields occasionally emit ambient poof particles
+	ambientPoofsEnabled = true
+	#Ticks between ambient greenhouse poof pulses
+	# Default: 100
+	# Range: 20 ~ 1200
+	ambientPoofIntervalTicks = 100

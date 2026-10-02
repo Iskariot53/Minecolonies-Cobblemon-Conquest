@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "kyurem",
+        "moves": [
+            "glaciate",
+            "outrage",
+            "icebeam",
+            "hypervoice"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "DRAGON",
+    "weight": 10.0,
+    "loot_table": "cobblemonraiddens:raid/boss/kyurem_black",
+    "boss": {
+        "moves": [
+            "fusionbolt",
+            "outrage",
+            "icebeam",
+            "hypervoice"
+        ],
+        "custom_properties": [
+            {
+                "name": "absofusion",
+                "value": "black"
+            }
+        ]
+    }
+}

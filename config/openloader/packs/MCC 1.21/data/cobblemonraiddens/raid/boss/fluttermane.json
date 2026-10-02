@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "fluttermane",
+        "moves": [
+            "psyshock",
+            "powergem",
+            "mysticalfire",
+            "shadowball"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GHOST",
+    "weight": 20.0
+}

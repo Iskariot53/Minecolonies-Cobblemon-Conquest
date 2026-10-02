@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "zeraora",
+        "moves": [
+            "closecombat",
+            "plasmafists",
+            "honeclaws",
+            "slash"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ELECTRIC",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/zeraora"
+}

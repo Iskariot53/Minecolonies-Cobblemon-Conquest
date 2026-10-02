@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:cloyster_dmax",
+            "required": false
+        }
+    ]
+}

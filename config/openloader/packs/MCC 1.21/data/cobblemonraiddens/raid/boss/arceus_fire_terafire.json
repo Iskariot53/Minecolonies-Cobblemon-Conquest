@@ -1,0 +1,24 @@
+{
+    "pokemon": {
+        "species": "arceus",
+        "moves": [
+            "judgment",
+            "earthpower",
+            "futuresight",
+            "extremespeed"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FIRE",
+    "weight": 1.0,
+    "loot_table": "cobblemonraiddens:raid/boss/arceus_fire",
+    "raid_feature": "TERA",
+    "boss": {
+        "custom_properties": [
+            {
+                "name": "multitype",
+                "value": "fire"
+            }
+        ]
+    }
+}

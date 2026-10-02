@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:tapufini_dmax",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:stakataka_dmax",
+            "required": false
+        }
+    ]
+}

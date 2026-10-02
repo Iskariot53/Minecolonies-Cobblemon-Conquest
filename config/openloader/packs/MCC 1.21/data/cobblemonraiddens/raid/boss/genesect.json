@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "genesect",
+        "moves": [
+            "technoblast",
+            "flamecharge",
+            "bugbuzz",
+            "xscissor"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "BUG",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/genesect"
+}

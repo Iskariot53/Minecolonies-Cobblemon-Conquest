@@ -1,0 +1,21 @@
+{
+    "pokemon": {
+        "species": "deoxys",
+        "moves": [
+            "zenheadbutt",
+            "psychic",
+            "knockoff",
+            "irondefense"
+        ],
+        "custom_properties": [
+            {
+                "name": "meteorite_forme",
+                "value": "defense"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 5.0,
+    "loot_table": "cobblemonraiddens:raid/boss/deoxys"
+}

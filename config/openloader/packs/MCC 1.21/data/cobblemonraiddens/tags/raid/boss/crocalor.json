@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:crocalor_dmax",
+            "required": false
+        }
+    ]
+}

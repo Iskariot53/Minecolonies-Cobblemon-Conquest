@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "brutebonnet",
+        "moves": [
+            "suckerpunch",
+            "thrash",
+            "payback",
+            "astonish"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GRASS",
+    "weight": 20.0
+}

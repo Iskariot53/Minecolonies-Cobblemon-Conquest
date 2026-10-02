@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironmoth",
+        "moves": [
+            "fierydance",
+            "sludgewave",
+            "discharge",
+            "firespin"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FIRE",
+    "weight": 20.0
+}

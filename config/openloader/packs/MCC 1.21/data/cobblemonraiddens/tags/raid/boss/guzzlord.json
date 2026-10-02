@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:guzzlord_dmax",
+            "required": false
+        }
+    ]
+}

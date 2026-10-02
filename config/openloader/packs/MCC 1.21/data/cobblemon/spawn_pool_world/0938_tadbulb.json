@@ -1,0 +1,40 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tadbulb-1",
+            "pokemon": "tadbulb",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "15-32",
+            "weight": 3.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+            }
+        },
+        {
+            "id": "tadbulb-2",
+            "pokemon": "tadbulb",
+            "type": "pokemon",
+            "context": "fishing",
+            "bucket": "common",
+            "level": "15-32",
+            "weight": 5.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+            }
+        }
+    ]
+}

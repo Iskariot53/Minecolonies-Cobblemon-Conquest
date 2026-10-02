@@ -1,0 +1,145 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:alcremie_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:appletun_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:blastoise_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:butterfree_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:centiskorch_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:charizard_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:cinderace_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:coalossal_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:copperajah_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:corviknight_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:drednaw_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:duraludon_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:eevee_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:eternatus_eternamax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:flapple_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:garbodor_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:gengar_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:grimmsnarl_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:hatterene_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:inteleon_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:kingler_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:lapras_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:machamp_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:melmetal_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:meowth_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:orbeetle_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:pikachu_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:rillaboom_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:sandaconda_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:snorlax_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:toxtricity_amped_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:toxtricity_lowkey_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:urshifu_rapid_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:urshifu_single_gmax",
+      "required": false
+    },
+    {
+      "id": "cobblemonraiddens:venusaur_gmax",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:tinkatink_dmax",
+            "required": false
+        }
+    ]
+}

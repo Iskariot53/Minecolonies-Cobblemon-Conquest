@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:venonat_dmax",
+            "required": false
+        }
+    ]
+}

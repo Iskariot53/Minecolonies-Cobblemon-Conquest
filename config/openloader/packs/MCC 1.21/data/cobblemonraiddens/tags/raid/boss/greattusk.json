@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:greattusk_dmax",
+            "required": false
+        }
+    ]
+}

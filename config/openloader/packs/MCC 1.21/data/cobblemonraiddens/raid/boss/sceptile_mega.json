@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "sceptile",
+        "moves": [
+            "leafstorm",
+            "gigadrain",
+            "megadrain",
+            "slam"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GRASS",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/sceptile_mega"
+}

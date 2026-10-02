@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:tatsugiri_stretchy_dmax",
+            "required": false
+        }
+    ]
+}

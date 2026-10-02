@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:varoom_dmax",
+            "required": false
+        }
+    ]
+}

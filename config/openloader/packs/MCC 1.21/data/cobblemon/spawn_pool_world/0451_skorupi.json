@@ -1,0 +1,48 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "skorupi-1",
+            "pokemon": "skorupi",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-27",
+            "weight": 7.6,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                    
+
+                ]
+            }
+        },
+        {
+            "id": "skorupi-2",
+            "pokemon": "skorupi",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-27",
+            "weight": 7.6,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_desert"
+                    
+
+                ]
+            }
+        }
+    ]
+ 
+}

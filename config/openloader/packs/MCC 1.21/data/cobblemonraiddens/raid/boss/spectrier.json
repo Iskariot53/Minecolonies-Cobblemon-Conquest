@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "spectrier",
+        "moves": [
+            "shadowball",
+            "hex",
+            "doubleedge",
+            "thrash"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "GHOST",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/spectrier"
+}

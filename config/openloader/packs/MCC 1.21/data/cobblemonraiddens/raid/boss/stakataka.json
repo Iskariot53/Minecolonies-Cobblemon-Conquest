@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "stakataka",
+        "moves": [
+            "doubleedge",
+            "takedown",
+            "ironhead",
+            "rockblast"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "ROCK",
+    "weight": 20.0
+}

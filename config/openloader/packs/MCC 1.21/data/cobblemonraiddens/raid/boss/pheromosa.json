@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "pheromosa",
+        "moves": [
+            "highjumpkick",
+            "bugbuzz",
+            "bounce",
+            "lunge"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "BUG",
+    "weight": 20.0
+}

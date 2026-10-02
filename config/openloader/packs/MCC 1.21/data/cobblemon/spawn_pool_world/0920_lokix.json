@@ -1,0 +1,52 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "lokix-1",
+        "pokemon": "lokix",
+        "presets": [
+          "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "25-46",
+        "weight": 1.1,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#cobblemon:is_plains"
+        ]
+        }
+        
+      },
+      {
+        "id": "lokix-2",
+        "pokemon": "lokix",
+        "presets": [
+          "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "35-45",
+        "weight": 0.8,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [ "#cobblemon:is_forest"]
+        },
+        "anticondition": {
+          "biomes": [
+          "#cobblemon:is_cold_ocean",
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_peak",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_tundra"
+        ]
+        }
+      }
+
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "eternatus",
+        "moves": [
+            "eternabeam",
+            "venoshock",
+            "dynamaxcannon",
+            "flamethrower"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "POISON",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/eternatus"
+}

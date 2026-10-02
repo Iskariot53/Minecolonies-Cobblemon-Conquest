@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:tepig_dmax",
+            "required": false
+        }
+    ]
+}

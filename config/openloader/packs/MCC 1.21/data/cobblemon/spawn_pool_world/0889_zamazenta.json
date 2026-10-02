@@ -1,0 +1,51 @@
+{
+   "enabled": true,
+   "neededInstalledMods": [],
+   "neededUninstalledMods": [],
+   "spawns": [
+       {
+           "id": "zamazenta-1",
+           "pokemon": "zamazenta",
+           "presets": [
+           ],
+           "type": "pokemon",
+           "context": "grounded",
+           "bucket": "ultra-rare",
+           "level": "70",
+           "weight": 0.1,
+           "condition": {
+               "biomes": [
+                   "#cobblemon:is_forest",
+                   "biomesoplenty:jacaranda_glade",
+                   "biomesoplenty:lavender_field",
+                   "biomesoplenty:ominous_woods",
+                   "terralith:cloud_forest",
+                   "terralith:blooming_valley",
+                   "terralith:mirage_isles",
+                   "biomesoplenty:auroral_garden"
+               ]
+           }
+       },
+	   {
+      "id": "zamazenta-1T",
+      "pokemon": "zamazenta",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.2,
+      "condition": {
+        "isRaining": true,
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_spooky"
+        ]
+      }
+    }
+  ]
+}

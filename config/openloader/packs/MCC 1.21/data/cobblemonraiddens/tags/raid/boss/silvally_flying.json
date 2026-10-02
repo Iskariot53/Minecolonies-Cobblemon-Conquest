@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:silvally_flying_dmax",
+            "required": false
+        }
+    ]
+}

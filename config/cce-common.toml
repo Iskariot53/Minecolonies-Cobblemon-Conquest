@@ -1,0 +1,4 @@
+#Seconds a player waits between Pokemon time and weather interactions
+# Default: 300
+# Range: 0 ~ 86400
+moveInteractionCooldownSeconds = 300

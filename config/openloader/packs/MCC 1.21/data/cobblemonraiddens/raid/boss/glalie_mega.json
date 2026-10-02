@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "glalie",
+        "moves": [
+            "blizzard",
+            "crunch",
+            "weatherball",
+            "icefang"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ICE",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/glalie_mega"
+}

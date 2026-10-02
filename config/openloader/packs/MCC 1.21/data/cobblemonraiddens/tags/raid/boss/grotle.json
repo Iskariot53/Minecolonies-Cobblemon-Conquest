@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:grotle_dmax",
+            "required": false
+        }
+    ]
+}

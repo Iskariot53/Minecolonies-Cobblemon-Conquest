@@ -1,0 +1,18 @@
+{
+  "modCompatibility": {
+    "cobbledollars": "",
+    "sophisticatedbackpacks": "",
+    "cobblenav": "",
+    "travelersbackpack": "",
+    "waystones": "",
+    "fightorflight": "",
+    "cobblepedia": ""
+  },
+  "developerSettings": {
+    "enableLootScan": false,
+    "enableItemScan": false
+  },
+  "lootMultiplier": {
+    "lootRollMultiplierPercent": 100.0
+  }
+}

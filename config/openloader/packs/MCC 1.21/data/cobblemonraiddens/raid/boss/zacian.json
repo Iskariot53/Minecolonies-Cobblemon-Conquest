@@ -1,0 +1,29 @@
+{
+    "pokemon": {
+        "species": "zacian",
+        "moves": [
+            "moonblast",
+            "closecombat",
+            "crunch",
+            "ironhead"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "FAIRY",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/zacian",
+    "boss": {
+        "moves": [
+            "moonblast",
+            "closecombat",
+            "crunch",
+            "behemothblade"
+        ],
+        "custom_properties": [
+            {
+                "name": "crowned",
+                "value": true
+            }
+        ]
+    }
+}

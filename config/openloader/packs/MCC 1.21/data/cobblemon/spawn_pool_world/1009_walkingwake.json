@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "walkingwake-1",
+      "pokemon": "walkingwake",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-70",
+      "weight": 0.1,
+      "condition": {
+        "isThundering": false,
+        "biomes": [
+          "#minecraft:is_ocean",
+          "minecraft:lush_cave"
+        ]
+      }
+    }
+  ]
+}

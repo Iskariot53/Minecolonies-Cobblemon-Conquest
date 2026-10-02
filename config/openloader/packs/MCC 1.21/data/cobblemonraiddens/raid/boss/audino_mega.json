@@ -1,0 +1,16 @@
+{
+    "pokemon": {
+        "species": "audino",
+        "moves": [
+            "lastresort",
+            "doubleedge",
+            "hypervoice",
+            "takedown"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "NORMAL",
+    "weight": 20.0,
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/audino_mega"
+}

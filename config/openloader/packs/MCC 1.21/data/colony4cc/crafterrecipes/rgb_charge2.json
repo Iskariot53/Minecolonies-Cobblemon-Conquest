@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "id" : "minecraft:red_dye",
+      "count": 2
+    },
+    {
+      "id" : "minecraft:green_dye",
+      "count": 2
+    },
+    {
+      "id" : "minecraft:blue_dye",
+      "count": 2
+    },
+    {
+      "id" : "minecraft:glowstone_dust",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "colony4cc:rgb_charge",
+    "count": 32
+  },
+  "research-id": "colony4cc:effects/rgb_charge2"
+}

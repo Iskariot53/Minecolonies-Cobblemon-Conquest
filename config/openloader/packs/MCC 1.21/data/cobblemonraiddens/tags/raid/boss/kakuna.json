@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:kakuna_dmax",
+            "required": false
+        }
+    ]
+}

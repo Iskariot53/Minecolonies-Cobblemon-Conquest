@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:bronzor_dmax",
+            "required": false
+        }
+    ]
+}

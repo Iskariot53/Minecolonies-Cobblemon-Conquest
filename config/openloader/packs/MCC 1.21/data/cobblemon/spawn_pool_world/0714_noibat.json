@@ -1,0 +1,95 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "noibat-1",
+            "pokemon": "noibat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 3.0,
+            "weightMultiplier": {
+                "multiplier": 2,
+                "condition": {
+                    "moonPhase": "1"
+                }
+            },
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_spooky"
+                ],
+                "timeRange": "night"
+            }
+        },
+        {
+            "id": "noibat-2",
+            "pokemon": "noibat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 5.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],                
+                "maxY": 32
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_cave"
+                ]
+            }
+        },
+        {
+            "id": "noibat-3",
+            "pokemon": "noibat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-30",
+            "weight": 6.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_dripstone",
+                    "#cobblemon:is_deep_dark"
+                ]
+            }
+        },
+        {
+            "id": "noibat-4",
+            "pokemon": "noibat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-43",
+            "weight": 7.0,
+            "condition": {
+                "biomes": [
+                    "betterend:chorus_forest",
+                    "betterend:foggy_mushroomland",
+                    "betterend:umbrella_jungle"
+                ]
+            }
+        }
+    ]
+}

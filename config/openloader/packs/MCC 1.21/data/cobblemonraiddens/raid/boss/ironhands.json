@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "ironhands",
+        "moves": [
+            "closecombat",
+            "wildcharge",
+            "forcepalm",
+            "slam"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "FIGHTING",
+    "weight": 20.0
+}

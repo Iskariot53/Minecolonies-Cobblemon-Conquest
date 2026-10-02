@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:omastar_dmax",
+            "required": false
+        }
+    ]
+}

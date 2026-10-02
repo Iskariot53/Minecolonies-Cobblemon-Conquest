@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "munkidori",
+        "moves": [
+            "nastyplot",
+            "sludgewave",
+            "psychic",
+            "clearsmog"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "POISON",
+    "weight": 20.0,
+    "loot_table": "cobblemonraiddens:raid/boss/munkidori"
+}

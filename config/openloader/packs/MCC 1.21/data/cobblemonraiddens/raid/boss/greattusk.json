@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "greattusk",
+        "moves": [
+            "closecombat",
+            "gigaimpact",
+            "earthquake",
+            "knockoff"
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GROUND",
+    "weight": 20.0
+}

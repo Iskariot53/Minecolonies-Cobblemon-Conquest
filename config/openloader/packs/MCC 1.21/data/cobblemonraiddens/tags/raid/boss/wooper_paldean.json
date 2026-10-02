@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:wooper_paldean_dmax",
+            "required": false
+        }
+    ]
+}

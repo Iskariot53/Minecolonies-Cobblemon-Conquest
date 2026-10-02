@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:grimer_alolan_dmax",
+            "required": false
+        }
+    ]
+}

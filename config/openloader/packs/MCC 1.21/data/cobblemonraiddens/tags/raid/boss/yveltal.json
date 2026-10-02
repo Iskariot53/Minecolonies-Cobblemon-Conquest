@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:yveltal_dmax",
+            "required": false
+        }
+    ]
+}
